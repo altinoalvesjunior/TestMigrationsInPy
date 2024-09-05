@@ -1,0 +1,5 @@
+"commit_hash": "16a9bdedcf7dfc5c53db1b2227d54681803f7655",
+"commit_link": "https://github.com/gleitz/howdoi/commit/16a9bdedcf7dfc5c53db1b2227d54681803f7655",
+"files": [".flake8rc", ".mypy.ini", ".pylintrc", "howdoi/howdoi.py", "test_howdoi.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

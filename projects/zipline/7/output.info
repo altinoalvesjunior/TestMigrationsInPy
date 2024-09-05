@@ -1,0 +1,5 @@
+"commit_hash": "caa75383c390de8a52339da44c7da5af059234d5",
+"commit_link": "https://github.com/quantopian/zipline/commit/caa75383c390de8a52339da44c7da5af059234d5",
+"files": ["tests/test_algorithm.py", "tests/test_bar_data.py", "zipline/_protocol.pyx", "zipline/gens/tradesimulation.py", ]
+"type": "assert"
+"numberOfMigration": ""

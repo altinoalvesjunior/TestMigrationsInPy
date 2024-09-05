@@ -1,0 +1,5 @@
+"commit_hash": "a0d2d9647ca6e5373d674e817bdb6cb7c242ef9c",
+"commit_link": "https://github.com/getsentry/sentry/commit/a0d2d9647ca6e5373d674e817bdb6cb7c242ef9c",
+"files": ["src/sentry/integrations/slack/integration.py", "src/sentry/integrations/slack/tasks.py", "src/sentry/integrations/slack/utils.py", "src/sentry/models/useremail.py", "tests/sentry/integrations/slack/test_integration.py", ]
+"type": "assert"
+"numberOfMigration": ""

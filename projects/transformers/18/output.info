@@ -1,0 +1,5 @@
+"commit_hash": "e95d262f2553859af9bffbfe5f5bc7e362259939",
+"commit_link": "https://github.com/huggingface/transformers/commit/e95d262f2553859af9bffbfe5f5bc7e362259939",
+"files": ["examples/seq2seq/callbacks.py", "examples/seq2seq/finetune.py", "examples/seq2seq/test_seq2seq_examples.py", ]
+"type": "assert"
+"numberOfMigration": ""

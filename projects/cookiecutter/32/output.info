@@ -1,0 +1,5 @@
+"commit_hash": "cd59c5ae599f759fc9e41bda2e6cf4bdae92a4ec",
+"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/cd59c5ae599f759fc9e41bda2e6cf4bdae92a4ec",
+"files": ["tests/test_config.py", "tests/test_get_config.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

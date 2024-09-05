@@ -1,0 +1,5 @@
+"commit_hash": "cb6f64b37350732baff6dca4f502e2c64982da18",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/cb6f64b37350732baff6dca4f502e2c64982da18",
+"files": ["pandas/core/indexes/base.py", "pandas/tests/arrays/sparse/test_arithmetics.py", "pandas/tests/base/test_conversion.py", "pandas/tests/extension/test_boolean.py", "pandas/tests/extension/test_sparse.py", "pandas/tests/frame/indexing/test_getitem.py", "pandas/tests/frame/methods/test_replace.py", "pandas/tests/indexing/test_indexing.py", "pandas/tests/series/indexing/test_getitem.py", "pandas/tests/series/indexing/test_numeric.py", "pandas/tests/series/indexing/test_setitem.py", "pandas/tests/series/test_api.py", "pandas/tests/series/test_logical_ops.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "75bb54948449915dd5b66458755761f57975431b",
+"commit_link": "https://github.com/streamlit/streamlit/commit/75bb54948449915dd5b66458755761f57975431b",
+"files": ["lib/streamlit/DeltaGenerator.py", "lib/streamlit/elements/map.py", "lib/tests/streamlit/map_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

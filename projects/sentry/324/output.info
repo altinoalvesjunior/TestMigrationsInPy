@@ -1,0 +1,5 @@
+"commit_hash": "7c0bb4a35cb179dcf317034fc864125a48a3fe56",
+"commit_link": "https://github.com/getsentry/sentry/commit/7c0bb4a35cb179dcf317034fc864125a48a3fe56",
+"files": ["pyproject.toml", "src/sentry/templates/sentry/account/email_unsubscribe_project.html", "src/sentry/templates/sentry/unsubscribe-notifications.html", "src/sentry/web/decorators.py", "src/sentry/web/frontend/accounts.py", "src/sentry/web/frontend/unsubscribe_incident_notifications.py", "src/sentry/web/frontend/unsubscribe_issue_notifications.py", "src/sentry/web/frontend/unsubscribe_notifications.py", "src/sentry/web/urls.py", "tests/sentry/utils/test_linksign.py", "tests/sentry/web/frontend/test_accounts.py", "tests/sentry/web/frontend/test_unsubscribe_notifications.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

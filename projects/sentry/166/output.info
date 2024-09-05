@@ -1,0 +1,5 @@
+"commit_hash": "68e9016874a5e5afcad66127acdbf3596cb365cd",
+"commit_link": "https://github.com/getsentry/sentry/commit/68e9016874a5e5afcad66127acdbf3596cb365cd",
+"files": ["src/sentry/api/endpoints/organization_incident_details.py", "src/sentry/incidents/logic.py", "tests/sentry/incidents/test_logic.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "e8d9e79fc7d0a31e8c37c82f1e48d51cce59e9e0",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/e8d9e79fc7d0a31e8c37c82f1e48d51cce59e9e0",
+"files": ["doc/source/api.rst", "doc/source/whatsnew/v0.18.2.txt", "pandas/indexes/base.py", "pandas/indexes/category.py", "pandas/indexes/multi.py", "pandas/tests/indexes/common.py", "pandas/tests/indexes/test_category.py", "pandas/tests/indexes/test_datetimelike.py", "pandas/tests/indexes/test_multi.py", "pandas/tests/types/test_types.py", "pandas/tools/merge.py", "pandas/tools/tests/test_merge.py", "pandas/tseries/base.py", "pandas/types/api.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "63683cffdd960c29fe9996c17bfcd0d46415a81d",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/63683cffdd960c29fe9996c17bfcd0d46415a81d",
+"files": ["tests/test_websendfile.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

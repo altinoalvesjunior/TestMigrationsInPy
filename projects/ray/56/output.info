@@ -1,0 +1,5 @@
+"commit_hash": "c5e9bafe159af557939f915a9d4238446bbd123e",
+"commit_link": "https://github.com/ray-project/ray/commit/c5e9bafe159af557939f915a9d4238446bbd123e",
+"files": ["python/ray/tune/sample.py", "python/ray/tune/tests/test_sample.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "50e7e952bde9a4a3ef9151b7b6d96803bc6796ea",
+"commit_link": "https://github.com/google/jax/commit/50e7e952bde9a4a3ef9151b7b6d96803bc6796ea",
+"files": ["jax/_src/api.py", "jax/_src/lax/control_flow.py", "jax/interpreters/batching.py", "tests/api_test.py", "tests/batching_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

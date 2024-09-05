@@ -1,0 +1,5 @@
+"commit_hash": "d26024763340a53f82aec420aedec1622ffa95b2",
+"commit_link": "https://github.com/getsentry/sentry/commit/d26024763340a53f82aec420aedec1622ffa95b2",
+"files": ["src/sentry/integrations/slack/message_builder/notifications.py", "src/sentry/integrations/slack/notifications.py", "src/sentry/mail/adapter.py", "src/sentry/mail/notifications.py", "src/sentry/mail/notify.py", "src/sentry/notifications/activity/base.py", "src/sentry/notifications/base.py", "src/sentry/notifications/helpers.py", "src/sentry/notifications/manager.py", "src/sentry/notifications/notify.py", "src/sentry/notifications/rules.py", "src/sentry/notifications/utils/__init__.py", "src/sentry/notifications/utils/participants.py", "src/sentry/utils/email.py", "tests/sentry/integrations/slack/test_notifications.py", "tests/sentry/mail/test_adapter.py", "tests/sentry/models/test_project.py", ]
+"type": "assert"
+"numberOfMigration": ""

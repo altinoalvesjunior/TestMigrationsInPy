@@ -1,0 +1,5 @@
+"commit_hash": "79f4804e9c33404199f63d887df0fb443b24b45b",
+"commit_link": "https://github.com/plotly/dash/commit/79f4804e9c33404199f63d887df0fb443b24b45b",
+"files": ["tests/test_resources.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

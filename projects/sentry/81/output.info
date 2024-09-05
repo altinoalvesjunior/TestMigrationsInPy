@@ -1,0 +1,5 @@
+"commit_hash": "dcb5ac2b4f1c0db65bbf349ef9aef90ed5734879",
+"commit_link": "https://github.com/getsentry/sentry/commit/dcb5ac2b4f1c0db65bbf349ef9aef90ed5734879",
+"files": ["src/sentry/api/endpoints/project_rule_details.py", "src/sentry/api/serializers/models/rule.py", "src/sentry/api/serializers/rest_framework/rule.py", "src/sentry/models/rule.py", "src/sentry/rules/base.py", "src/sentry/rules/conditions/event_frequency.py", "src/sentry/rules/processor.py", "src/sentry/static/sentry/app/views/projectAlertRules.jsx", "src/sentry/static/sentry/app/views/ruleEditor/index.jsx", "src/sentry/testutils/cases.py", "tests/sentry/api/endpoints/test_project_rules.py", "tests/sentry/rules/conditions/test_event_frequency.py", "tests/sentry/rules/test_processor.py", ]
+"type": "assert"
+"numberOfMigration": ""

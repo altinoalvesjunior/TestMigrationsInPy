@@ -1,0 +1,5 @@
+"commit_hash": "c2e81a42bd6d73a03ae411b995fee09841858977",
+"commit_link": "https://github.com/getsentry/sentry/commit/c2e81a42bd6d73a03ae411b995fee09841858977",
+"files": ["src/sentry/api/bases/organization.py", "src/sentry/api/endpoints/organization_stats_v2.py", "src/sentry/api/endpoints/project_details.py", "src/sentry/auth/staff.py", "src/sentry/auth/superuser.py", "tests/sentry/api/endpoints/test_project_details.py", "tests/snuba/api/endpoints/test_organization_stats_v2.py", ]
+"type": "assert"
+"numberOfMigration": ""

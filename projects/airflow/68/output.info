@@ -1,0 +1,5 @@
+"commit_hash": "5061077dc31c967d2c1c6bcded626096f5b6e940",
+"commit_link": "https://github.com/apache/airflow/commit/5061077dc31c967d2c1c6bcded626096f5b6e940",
+"files": ["chart/README.md", "chart/templates/NOTES.txt", "chart/templates/flower/flower-deployment.yaml", "chart/templates/flower/flower-ingress.yaml", "chart/templates/flower/flower-networkpolicy.yaml", "chart/templates/flower/flower-service.yaml", "chart/tests/test_flower.py", "chart/values.schema.json", "chart/values.yaml", ]
+"type": "import, testcase, add Param"
+"numberOfMigration": ""

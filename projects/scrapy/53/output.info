@@ -1,0 +1,5 @@
+"commit_hash": "9655b0b8eb4bbc66b0fe540a19265b6342cf371b",
+"commit_link": "https://github.com/scrapy/scrapy/commit/9655b0b8eb4bbc66b0fe540a19265b6342cf371b",
+"files": [".github/workflows/tests-ubuntu.yml", "pytest.ini", "tests/test_utils_response.py", "tox.ini", ]
+"type": "assert"
+"numberOfMigration": ""

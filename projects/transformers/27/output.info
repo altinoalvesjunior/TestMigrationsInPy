@@ -1,0 +1,5 @@
+"commit_hash": "829842159efeb1f920cbbb1daf5ad67e0114d0b9",
+"commit_link": "https://github.com/huggingface/transformers/commit/829842159efeb1f920cbbb1daf5ad67e0114d0b9",
+"files": ["docs/source/model_doc/bart.rst", "src/transformers/__init__.py", "src/transformers/convert_pytorch_checkpoint_to_tf2.py", "src/transformers/generation_tf_utils.py", "src/transformers/modeling_bart.py", "src/transformers/modeling_blenderbot.py", "src/transformers/modeling_marian.py", "src/transformers/modeling_tf_auto.py", "src/transformers/modeling_tf_bart.py", "src/transformers/modeling_tf_bert.py", "src/transformers/modeling_tf_pytorch_utils.py", "src/transformers/modeling_tf_t5.py", "src/transformers/modeling_tf_utils.py", "src/transformers/pipelines.py", "src/transformers/utils/dummy_tf_objects.py", "tests/test_modeling_bart.py", "tests/test_modeling_tf_bart.py", "tests/test_modeling_tf_common.py", "tests/test_modeling_tf_t5.py", "tests/test_pipelines.py", ]
+"type": "assert"
+"numberOfMigration": ""

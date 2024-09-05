@@ -1,0 +1,5 @@
+"commit_hash": "e0e738760625129be71839fac2dad9325fb90225",
+"commit_link": "https://github.com/scikit-learn/scikit-learn/commit/e0e738760625129be71839fac2dad9325fb90225",
+"files": ["sklearn/cluster/tests/test_bicluster.py", "sklearn/datasets/svmlight_format.py", "sklearn/decomposition/tests/test_sparse_pca.py", "sklearn/decomposition/tests/test_truncated_svd.py", "sklearn/metrics/tests/test_score_objects.py", "sklearn/model_selection/_search.py", "sklearn/neighbors/tests/test_neighbors.py", "sklearn/utils/extmath.py", "sklearn/utils/linear_assignment_.py", ]
+"type": "skip"
+"numberOfMigration": ""

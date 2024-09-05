@@ -1,0 +1,5 @@
+"commit_hash": "e7c8b6067e44a73666a2a8c4d5d8910910f950af",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/e7c8b6067e44a73666a2a8c4d5d8910910f950af",
+"files": ["tests/test_web_exceptions.py", ]
+"type": "assert, fixture, import, testcase"
+"numberOfMigration": ""

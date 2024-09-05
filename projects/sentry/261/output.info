@@ -1,0 +1,5 @@
+"commit_hash": "9729d7a77933c4944472af4c1f24bbcd3905e233",
+"commit_link": "https://github.com/getsentry/sentry/commit/9729d7a77933c4944472af4c1f24bbcd3905e233",
+"files": ["tests/sentry/incidents/test_logic.py", "tests/sentry/models/test_groupsubscription.py", "tests/snuba/incidents/test_tasks.py", ]
+"type": "assert"
+"numberOfMigration": ""

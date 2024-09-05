@@ -1,0 +1,5 @@
+"commit_hash": "07923e44a428778c05bceb9c746bc3334238c36c",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/07923e44a428778c05bceb9c746bc3334238c36c",
+"files": ["aiohttp/_parser.pyx", "aiohttp/protocol.py", "aiohttp/streams.py", "setup.py", "tests/test_http_parser.py", "tests/test_stream_writer.py", "tests/test_web_sendfile_functional.py", ]
+"type": "assert, fixture, testcase"
+"numberOfMigration": ""

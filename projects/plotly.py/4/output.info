@@ -1,0 +1,5 @@
+"commit_hash": "e63eeddef4564e6a3d5f532ad7f85c4f2fac40ff",
+"commit_link": "https://github.com/plotly/plotly.py/commit/e63eeddef4564e6a3d5f532ad7f85c4f2fac40ff",
+"files": ["plotly/tests/test_core/test_graph_objs/test_append_trace.py", "plotly/tests/test_core/test_graph_objs/test_property_assignment.py", ]
+"type": "assert"
+"numberOfMigration": ""

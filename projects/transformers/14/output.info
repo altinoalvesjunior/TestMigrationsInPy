@@ -1,0 +1,5 @@
+"commit_hash": "feeb956a19ca08e3b9657ea9ec7d14adb6304c85",
+"commit_link": "https://github.com/huggingface/transformers/commit/feeb956a19ca08e3b9657ea9ec7d14adb6304c85",
+"files": ["CONTRIBUTING.md", "examples/deebert/test_glue_deebert.py", "src/transformers/testing_utils.py", "templates/adding_a_new_example_script/README.md", "templates/adding_a_new_model/README.md", "templates/adding_a_new_model/modeling_xxx.py", "templates/adding_a_new_model/tests/test_modeling_xxx.py", "templates/adding_a_new_model/tests/test_tokenization_xxx.py", ]
+"type": "assert"
+"numberOfMigration": ""

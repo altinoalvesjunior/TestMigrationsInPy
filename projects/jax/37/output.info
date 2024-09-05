@@ -1,0 +1,5 @@
+"commit_hash": "3e5a0ff0c41961c921660ca542cbf87839d69b85",
+"commit_link": "https://github.com/google/jax/commit/3e5a0ff0c41961c921660ca542cbf87839d69b85",
+"files": ["jax/_src/dlpack.py", "jax/_src/lax/lax.py", "jax/api.py", "jax/interpreters/pxla.py", "jax/interpreters/xla.py", "tests/api_test.py", "tests/custom_object_test.py", "tests/lax_numpy_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

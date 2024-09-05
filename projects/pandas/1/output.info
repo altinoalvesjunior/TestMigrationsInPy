@@ -1,0 +1,5 @@
+"commit_hash": "d63ac05a71dee525f51091a0d7be110f178d587b",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/d63ac05a71dee525f51091a0d7be110f178d587b",
+"files": ["pandas/io/html.py", "pandas/io/parsers.py", "pandas/io/tests/test_html.py", ]
+"type": "assert"
+"numberOfMigration": ""

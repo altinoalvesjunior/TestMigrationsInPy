@@ -1,0 +1,5 @@
+"commit_hash": "0af1f5b696a6f9d4cb8be94c7a71ae888cac93d8",
+"commit_link": "https://github.com/python/mypy/commit/0af1f5b696a6f9d4cb8be94c7a71ae888cac93d8",
+"files": ["mypyc/analysis.py", "mypyc/emitfunc.py", "mypyc/genops.py", "mypyc/ops.py", "mypyc/ops_dict.py", "mypyc/ops_int.py", "mypyc/ops_list.py", "mypyc/ops_misc.py", "mypyc/ops_primitive.py", "mypyc/ops_tuple.py", "mypyc/refcount.py", "mypyc/test/test_emitfunc.py", "test-data/exceptions.test", "test-data/genops-basic.test", "test-data/genops-dict.test", "test-data/genops-lists.test", "test-data/genops-optional.test", "test-data/genops-tuple.test", "test-data/refcount.test", ]
+"type": "assert"
+"numberOfMigration": ""

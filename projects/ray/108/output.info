@@ -1,0 +1,5 @@
+"commit_hash": "3590a86db0369ce8a8f9c3965cddc9e4c817c2b8",
+"commit_link": "https://github.com/ray-project/ray/commit/3590a86db0369ce8a8f9c3965cddc9e4c817c2b8",
+"files": ["python/ray/tune/execution/ray_trial_executor.py", "python/ray/tune/execution/trial_runner.py", "python/ray/tune/syncer.py", "python/ray/tune/tests/test_ray_trial_executor.py", "python/ray/tune/tests/test_trainable.py", "python/ray/tune/tests/test_utils.py", "python/ray/tune/trainable/trainable.py", "python/ray/tune/utils/util.py", ]
+"type": "assert, import, testcase, add Param"
+"numberOfMigration": ""

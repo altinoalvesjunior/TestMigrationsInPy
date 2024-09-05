@@ -1,0 +1,5 @@
+"commit_hash": "b11bc4963cc42506af3d9b762eb82e894cc8eaa7",
+"commit_link": "https://github.com/getsentry/sentry/commit/b11bc4963cc42506af3d9b762eb82e894cc8eaa7",
+"files": ["src/sentry/event_hashing.py", "src/sentry/interfaces/base.py", "src/sentry/interfaces/exception.py", "src/sentry/interfaces/message.py", "src/sentry/interfaces/security.py", "src/sentry/interfaces/stacktrace.py", "src/sentry/interfaces/template.py", "src/sentry/interfaces/threads.py", "src/sentry/management/commands/diff.py", "tests/sentry/interfaces/test_stacktrace.py", "tests/sentry/interfaces/test_threads.py", ]
+"type": "assert"
+"numberOfMigration": ""

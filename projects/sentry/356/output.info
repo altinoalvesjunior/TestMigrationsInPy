@@ -1,0 +1,5 @@
+"commit_hash": "5547574d6cda7f6f08f20eeaa984113c87ec0ead",
+"commit_link": "https://github.com/getsentry/sentry/commit/5547574d6cda7f6f08f20eeaa984113c87ec0ead",
+"files": ["src/sentry/features/temporary.py", "src/sentry/integrations/slack/metrics.py", "src/sentry/integrations/slack/utils/__init__.py", "src/sentry/integrations/slack/utils/notifications.py", "src/sentry/integrations/slack/views/link_identity.py", "src/sentry/integrations/slack/views/unlink_identity.py", "tests/sentry/integrations/slack/test_link_identity.py", "tests/sentry/integrations/slack/webhooks/commands/__init__.py", "tests/sentry/integrations/slack/webhooks/commands/test_link_user.py", ]
+"type": "assert"
+"numberOfMigration": ""

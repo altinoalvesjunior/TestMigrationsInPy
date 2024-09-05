@@ -1,0 +1,5 @@
+"commit_hash": "740cc91382efe9933d4f5eea5f975cf3a6aa8d34",
+"commit_link": "https://github.com/google/jax/commit/740cc91382efe9933d4f5eea5f975cf3a6aa8d34",
+"files": ["jax/interpreters/masking.py", "tests/masking_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

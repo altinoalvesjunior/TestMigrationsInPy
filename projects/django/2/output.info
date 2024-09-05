@@ -1,0 +1,5 @@
+"commit_hash": "50e1e7ef8ef63271717f8bcab76d7151ccf4bb18",
+"commit_link": "https://github.com/django/django/commit/50e1e7ef8ef63271717f8bcab76d7151ccf4bb18",
+"files": ["django/contrib/admin/helpers.py", "django/test/testcases.py", "docs/internals/deprecation.txt", "docs/releases/4.1.txt", "docs/topics/testing/tools.txt", "tests/admin_views/tests.py", "tests/test_client/tests.py", "tests/test_utils/tests.py", ]
+"type": "assert"
+"numberOfMigration": ""

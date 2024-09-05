@@ -1,0 +1,5 @@
+"commit_hash": "933bef2c58166eca6b94af029efd8361f444cbf3",
+"commit_link": "https://github.com/plotly/dash/commit/933bef2c58166eca6b94af029efd8361f444cbf3",
+"files": ["packages/dash-html-components/.circleci/config.yml", "packages/dash-html-components/CHANGELOG.md", "packages/dash-html-components/package.json", "packages/dash-html-components/scripts/extract-attributes.js", "packages/dash-html-components/scripts/extract-elements.js", "packages/dash-html-components/scripts/generate-components.js", "packages/dash-html-components/tests/IntegrationTests.py", "packages/dash-html-components/tests/test_dash_html_components.py", "packages/dash-html-components/tests/test_dash_import.py", "packages/dash-html-components/tests/test_integration.py", ]
+"type": "assert, import, testcase"
+"numberOfMigration": ""

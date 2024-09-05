@@ -1,0 +1,5 @@
+"commit_hash": "07d665c8b1d5b927988a4152b331e16b27ae59af",
+"commit_link": "https://github.com/getsentry/sentry/commit/07d665c8b1d5b927988a4152b331e16b27ae59af",
+"files": ["src/sentry/conf/server.py", "src/sentry/features/__init__.py", "src/sentry/identity/slack/provider.py", "src/sentry/integrations/slack/integration.py", "src/sentry/integrations/slack/utils.py", "tests/sentry/integrations/slack/test_event_endpoint.py", "tests/sentry/integrations/slack/test_integration.py", ]
+"type": "assert"
+"numberOfMigration": ""

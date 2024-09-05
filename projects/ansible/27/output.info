@@ -1,0 +1,5 @@
+"commit_hash": "c817bef3ae39e8c2f43481c69e387776bc4e2b8c",
+"commit_link": "https://github.com/ansible/ansible/commit/c817bef3ae39e8c2f43481c69e387776bc4e2b8c",
+"files": ["changelogs/fragments/fix-callbacks-mixed-keys.yaml", "lib/ansible/plugins/callback/__init__.py", "test/units/plugins/callback/test_callback.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

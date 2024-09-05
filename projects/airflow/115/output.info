@@ -1,0 +1,5 @@
+"commit_hash": "66c342d033bd3cb959b4dc4e7e4b8aad597aab63",
+"commit_link": "https://github.com/apache/airflow/commit/66c342d033bd3cb959b4dc4e7e4b8aad597aab63",
+"files": ["airflow/cli/cli_parser.py", "airflow/cli/commands/db_command.py", "airflow/migrations/versions/8646922c8a04_change_default_pool_slots_to_1.py", "airflow/models/taskinstance.py", "airflow/utils/db.py", "dev/README_RELEASE_AIRFLOW.md", "docs/apache-airflow/installation/upgrading.rst", "tests/cli/commands/test_db_command.py", "tests/utils/test_db.py", ]
+"type": "import, testcase, add Param"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "d6f814c6b08b8ad627673dc71ed63b202cb46b70",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/d6f814c6b08b8ad627673dc71ed63b202cb46b70",
+"files": ["pandas/tests/test_algos.py", "pandas/tests/test_infer_and_convert.py", "pandas/tests/test_lib.py", "pandas/tests/test_tseries.py", "pandas/tseries/tests/test_bin_groupby.py", "pandas/tseries/tests/test_period.py", "pandas/tseries/tests/test_tslib.py", ]
+"type": "assert"
+"numberOfMigration": ""

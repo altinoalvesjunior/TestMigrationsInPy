@@ -1,0 +1,5 @@
+"commit_hash": "759ce2a80c95832fe4773c9f4fde23e1b03cbc6f",
+"commit_link": "https://github.com/apache/airflow/commit/759ce2a80c95832fe4773c9f4fde23e1b03cbc6f",
+"files": ["airflow/providers/google/cloud/example_dags/example_pubsub.py", "airflow/providers/google/cloud/hooks/pubsub.py", "airflow/providers/google/cloud/operators/pubsub.py", "airflow/providers/google/cloud/sensors/pubsub.py", "airflow/sensors/base_sensor_operator.py", "docs/howto/operator/gcp/pubsub.rst", "tests/providers/google/cloud/hooks/test_pubsub.py", "tests/providers/google/cloud/operators/test_pubsub.py", "tests/providers/google/cloud/operators/test_pubsub_system.py", "tests/providers/google/cloud/sensors/test_pubsub.py", ]
+"type": "assert"
+"numberOfMigration": ""

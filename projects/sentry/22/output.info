@@ -1,0 +1,5 @@
+"commit_hash": "571dec965b422239ade39e229a940ea85da97f9c",
+"commit_link": "https://github.com/getsentry/sentry/commit/571dec965b422239ade39e229a940ea85da97f9c",
+"files": ["src/sentry/permissions.py", "src/sentry/templates/sentry/bases/team.html", "src/sentry/templates/sentry/dashboard.html", "src/sentry/templates/sentry/header.html", "src/sentry/templates/sentry/projects/keys.html", "src/sentry/templates/sentry/projects/new.html", "src/sentry/templates/sentry/select_team.html", "src/sentry/templates/sentry/teams/base.html", "src/sentry/templates/sentry/teams/list.html", "src/sentry/templates/sentry/teams/projects/index.html", "src/sentry/templates/sentry/teams/projects/new.html", "src/sentry/web/frontend/projects.py", "src/sentry/web/frontend/teams.py", "src/sentry/web/helpers.py", "src/sentry/web/urls.py", "tests/sentry/web/frontend/generic/tests.py", "tests/sentry/web/frontend/projects/tests.py", "tests/sentry/web/frontend/teams/tests.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

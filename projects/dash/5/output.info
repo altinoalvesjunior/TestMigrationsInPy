@@ -1,0 +1,5 @@
+"commit_hash": "568150342f09611b443c3033713f10ff48bba4de",
+"commit_link": "https://github.com/plotly/dash/commit/568150342f09611b443c3033713f10ff48bba4de",
+"files": ["packages/dash-core-components/.circleci/config.yml", "packages/dash-core-components/.editorconfig", "packages/dash-core-components/CONTRIBUTING.md", "packages/dash-core-components/LICENSE.txt", "packages/dash-core-components/README.md", "packages/dash-core-components/package.json", "packages/dash-core-components/setup.py", "packages/dash-core-components/src/components/Graph.react.js", "packages/dash-core-components/tests/integration/graph/test_graph_basics.py", "packages/dash-core-components/tests/test_dash_import.py", "packages/dash-core-components/tests/test_integration_2.py", ]
+"type": "assert"
+"numberOfMigration": ""

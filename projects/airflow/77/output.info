@@ -1,0 +1,5 @@
+"commit_hash": "bdb76be7470621891b8382454477eca076831e65",
+"commit_link": "https://github.com/apache/airflow/commit/bdb76be7470621891b8382454477eca076831e65",
+"files": ["chart/tests/conftest.py", "chart/tests/helm_template_generator.py", "chart/tests/test_pod_template_file.py", "scripts/in_container/entrypoint_ci.sh", "setup.py", ]
+"type": "fixture"
+"numberOfMigration": ""

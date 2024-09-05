@@ -1,0 +1,5 @@
+"commit_hash": "8f65dc59c844a8c03882ba3f274beac0a41e3cee",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/8f65dc59c844a8c03882ba3f274beac0a41e3cee",
+"files": ["tests/test_client_functional.py", "tests/test_client_functional_oldstyle.py", ]
+"type": "assert"
+"numberOfMigration": ""

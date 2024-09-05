@@ -1,0 +1,5 @@
+"commit_hash": "361fea6be4d5fb973ac96cd1402b500c38f74eba",
+"commit_link": "https://github.com/getsentry/sentry/commit/361fea6be4d5fb973ac96cd1402b500c38f74eba",
+"files": ["src/sentry/api/endpoints/user_notification_details.py", "src/sentry/api/serializers/models/group.py", "src/sentry/api/serializers/models/project.py", "src/sentry/incidents/action_handlers.py", "src/sentry/mail/activity/new_processing_issues.py", "src/sentry/mail/activity/release.py", "src/sentry/mail/adapter.py", "src/sentry/management/commands/check_notifications.py", "src/sentry/models/groupsubscription.py", "src/sentry/models/project.py", "src/sentry/models/user.py", "src/sentry/notifications/helpers.py", "src/sentry/notifications/legacy_mappings.py", "src/sentry/plugins/bases/notify.py", "tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/mail/test_adapter.py", "tests/sentry/models/test_project.py", ]
+"type": "assert"
+"numberOfMigration": ""

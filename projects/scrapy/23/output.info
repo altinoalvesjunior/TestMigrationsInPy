@@ -1,0 +1,5 @@
+"commit_hash": "f7e11b198efd0213bb51205b6829123476ccf2ba",
+"commit_link": "https://github.com/scrapy/scrapy/commit/f7e11b198efd0213bb51205b6829123476ccf2ba",
+"files": ["scrapy/pipelines/media.py", "tests/test_pipeline_media.py", ]
+"type": "assert"
+"numberOfMigration": ""

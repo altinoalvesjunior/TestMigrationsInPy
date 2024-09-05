@@ -1,0 +1,5 @@
+"commit_hash": "5d07666362efbf5edebf04ea5ca6c8208b922385",
+"commit_link": "https://github.com/zulip/zulip/commit/5d07666362efbf5edebf04ea5ca6c8208b922385",
+"files": ["analytics/tests/test_support_views.py", "analytics/views/support.py", "corporate/lib/stripe.py", "corporate/lib/support.py", "corporate/tests/test_stripe.py", "corporate/views/upgrade.py", ]
+"type": "assert"
+"numberOfMigration": ""

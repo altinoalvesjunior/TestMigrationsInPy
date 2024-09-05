@@ -1,0 +1,5 @@
+"commit_hash": "d23c50fd0700ae82f0f2184b5162b828c06b2341",
+"commit_link": "https://github.com/getsentry/sentry/commit/d23c50fd0700ae82f0f2184b5162b828c06b2341",
+"files": ["src/sentry/interfaces/security.py", "tests/integration/fixtures/csp/firefox_blocked_asset_input.json", "tests/integration/fixtures/csp/firefox_blocked_asset_output.json", "tests/integration/tests.py", "tests/sentry/event_manager/test_validate_csp.py", "tests/sentry/utils/test_csp.py", ]
+"type": "assert, add Param"
+"numberOfMigration": ""

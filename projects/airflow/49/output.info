@@ -1,0 +1,5 @@
+"commit_hash": "3f2eee15f9278d4c187ed5cde2772bc26dffdcbc",
+"commit_link": "https://github.com/apache/airflow/commit/3f2eee15f9278d4c187ed5cde2772bc26dffdcbc",
+"files": ["airflow/example_dags/example_python_operator.py", "airflow/operators/python.py", "airflow/utils/python_virtualenv.py", "airflow/utils/python_virtualenv_script.jinja2", "docs/howto/operator/python.rst", "tests/operators/test_python.py", ]
+"type": "assert"
+"numberOfMigration": ""

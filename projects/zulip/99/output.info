@@ -1,0 +1,5 @@
+"commit_hash": "35d56099962e55cc2e531baf4ae0ddeacc60c9ac",
+"commit_link": "https://github.com/zulip/zulip/commit/35d56099962e55cc2e531baf4ae0ddeacc60c9ac",
+"files": ["zerver/actions/bots.py", "zerver/actions/streams.py", "zerver/lib/queue.py", "zerver/lib/streams.py", "zerver/tests/test_bots.py", "zerver/tests/test_events.py", "zerver/tests/test_message_flags.py", "zerver/tests/test_subs.py", ]
+"type": "assert"
+"numberOfMigration": ""

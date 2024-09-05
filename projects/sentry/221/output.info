@@ -1,0 +1,5 @@
+"commit_hash": "1840b1155ade380a7573a94696b1bc5c276ae9f2",
+"commit_link": "https://github.com/getsentry/sentry/commit/1840b1155ade380a7573a94696b1bc5c276ae9f2",
+"files": ["src/sentry/auth/helper.py", "src/sentry/auth/idpmigration.py", "src/sentry/templates/sentry/idp_account_not_verified.html", "src/sentry/web/frontend/idp_email_verification.py", "tests/sentry/auth/test_helper.py", "tests/sentry/web/frontend/test_auth_organization_login.py", ]
+"type": "assert"
+"numberOfMigration": ""

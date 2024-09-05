@@ -1,0 +1,5 @@
+"commit_hash": "4eb0a410bb2a9c3d195da0ce4e129c401ad25174",
+"commit_link": "https://github.com/apache/airflow/commit/4eb0a410bb2a9c3d195da0ce4e129c401ad25174",
+"files": ["airflow/providers/postgres/hooks/postgres.py", "airflow/providers/postgres/provider.yaml", "docs/apache-airflow-providers-postgres/connections/postgres.rst", "tests/providers/postgres/hooks/test_postgres.py", ]
+"type": "assert, fixture, testcase, add Param"
+"numberOfMigration": ""

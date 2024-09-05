@@ -1,0 +1,5 @@
+"commit_hash": "6f789e15cdd91cc02af2005405026355e6fae69e",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/6f789e15cdd91cc02af2005405026355e6fae69e",
+"files": ["RELEASE.md", "doc/source/whatsnew/v0.20.0.txt", "pandas/core/missing.py", "pandas/tests/frame/test_replace.py", "pandas/tests/series/test_replace.py", "pandas/tests/types/test_cast.py", "pandas/types/cast.py", ]
+"type": "assert, add Param"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "5e2a9081325854db98454e40142d3ef2a1f91470",
+"commit_link": "https://github.com/streamlit/streamlit/commit/5e2a9081325854db98454e40142d3ef2a1f91470",
+"files": ["e2e_playwright/__snapshots__/linux/st_json_test/st_json-empty_dict[firefox].png", "e2e_playwright/__snapshots__/linux/st_json_test/st_json-expanded_2[chromium].png", "e2e_playwright/__snapshots__/linux/st_json_test/st_json-expanded_2[firefox].png", "e2e_playwright/__snapshots__/linux/st_json_test/st_json-expanded_2[webkit].png", "e2e_playwright/st_json.py", "e2e_playwright/st_json_test.py", "frontend/lib/src/components/elements/Json/Json.tsx", "lib/streamlit/elements/json.py", "lib/tests/streamlit/elements/json_test.py", "proto/streamlit/proto/Json.proto", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "51bb6e01b0ef99427bbff0c55a6764712f3b4a63",
+"commit_link": "https://github.com/getsentry/sentry/commit/51bb6e01b0ef99427bbff0c55a6764712f3b4a63",
+"files": ["src/sentry/conf/server.py", "src/sentry/rules/conditions/high_priority_issue.py", "src/sentry/tasks/check_new_issue_threshold_met.py", "src/sentry/tasks/post_process.py", "tests/sentry/rules/conditions/test_high_priority_issue.py", "tests/sentry/tasks/test_check_new_issue_threshold_met.py", ]
+"type": "assert"
+"numberOfMigration": ""

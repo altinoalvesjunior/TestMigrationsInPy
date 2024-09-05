@@ -1,0 +1,5 @@
+"commit_hash": "03231de79990d077506b0b34196240b081239e6e",
+"commit_link": "https://github.com/getsentry/sentry/commit/03231de79990d077506b0b34196240b081239e6e",
+"files": ["tests/sentry/web/frontend/tests.py", ]
+"type": "assert"
+"numberOfMigration": ""

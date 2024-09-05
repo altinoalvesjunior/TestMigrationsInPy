@@ -1,0 +1,5 @@
+"commit_hash": "79e881fc3c4d7ce569c6886da4fbf5aed9b5a03b",
+"commit_link": "https://github.com/getsentry/sentry/commit/79e881fc3c4d7ce569c6886da4fbf5aed9b5a03b",
+"files": ["pyproject.toml", "src/sentry/api/base.py", "src/sentry/api/bases/organization.py", "src/sentry/api/decorators.py", "src/sentry/middleware/customer_domain.py", "src/sentry/middleware/sudo.py", "src/sentry/testutils/middleware.py", "src/sentry/web/frontend/base.py", "src/sentry/web/frontend/sudo.py", "src/sudo/forms.py", "src/sudo/middleware.py", "src/sudo/signals.py", "src/sudo/utils.py", "src/sudo/views.py", "tests/sentry/middleware/test_customer_domain.py", "tests/sentry/sudo/test_views.py", "tests/tools/mypy_helpers/test_plugin.py", "tools/mypy_helpers/plugin.py", ]
+"type": "assert, add Param"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "9cc9c10092b0798e7e848450e0d0b58fd974f0d7",
+"commit_link": "https://github.com/getsentry/sentry/commit/9cc9c10092b0798e7e848450e0d0b58fd974f0d7",
+"files": ["api-docs/sentry.conf.py", "docs/buffer.rst", "docs/installation.rst", "docs/throttling.rst", "docs/tsdb.rst", "src/sentry/buffer/redis.py", "src/sentry/cache/redis.py", "src/sentry/conf/server.py", "src/sentry/digests/backends/redis.py", "src/sentry/options/__init__.py", "src/sentry/options/defaults.py", "src/sentry/quotas/redis.py", "src/sentry/ratelimits/redis.py", "src/sentry/runner/initializer.py", "src/sentry/runner/settings.py", "src/sentry/tsdb/redis.py", "src/sentry/utils/pytest.py", "src/sentry/utils/redis.py", "tests/sentry/buffer/redis/tests.py", "tests/sentry/cache/test_redis.py", "tests/sentry/digests/backends/test_redis.py", "tests/sentry/options/test_manager.py", "tests/sentry/options/test_store.py", "tests/sentry/quotas/redis/tests.py", "tests/sentry/ratelimits/test_redis.py", "tests/sentry/tsdb/test_redis.py", "tests/sentry/utils/test_redis.py", ]
+"type": "assert"
+"numberOfMigration": ""

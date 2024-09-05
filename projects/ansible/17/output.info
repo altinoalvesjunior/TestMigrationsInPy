@@ -1,0 +1,5 @@
+"commit_hash": "235bdfb9963e7f33ce72d52d1396830ea37e9c53",
+"commit_link": "https://github.com/ansible/ansible/commit/235bdfb9963e7f33ce72d52d1396830ea37e9c53",
+"files": ["lib/ansible/module_utils/basic.py", "lib/ansible/modules/commands/command.py", "lib/ansible/parsing/mod_args.py", "lib/ansible/plugins/action/__init__.py", "lib/ansible/plugins/action/command.py", "lib/ansible/plugins/action/shell.py", "test/units/parsing/test_mod_args.py", "test/units/playbook/test_task.py", ]
+"type": "assert, import, testcase, add Param"
+"numberOfMigration": ""

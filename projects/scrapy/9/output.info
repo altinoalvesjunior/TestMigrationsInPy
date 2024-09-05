@@ -1,0 +1,5 @@
+"commit_hash": "e853d9e910151a83dcb944fa3c7ad82a19075edd",
+"commit_link": "https://github.com/scrapy/scrapy/commit/e853d9e910151a83dcb944fa3c7ad82a19075edd",
+"files": ["scrapy/http/request/__init__.py", "scrapy/http/request/form.py", "scrapy/http/response/__init__.py", "scrapy/http/response/text.py", "scrapy/selector/unified.py", "scrapy/utils/misc.py", "tests/test_http_request.py", "tests/test_http_response.py", ]
+"type": "assert"
+"numberOfMigration": ""

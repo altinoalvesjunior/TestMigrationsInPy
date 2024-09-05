@@ -1,0 +1,5 @@
+"commit_hash": "ac971fdc98f3d3fc7fbb0e576e37439b66b490ee",
+"commit_link": "https://github.com/getsentry/sentry/commit/ac971fdc98f3d3fc7fbb0e576e37439b66b490ee",
+"files": ["src/sentry/plugins/bases/issue2.py", "tests/sentry/plugins/bases/issue/tests.py", "tests/sentry/plugins/bases/test_issue2.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

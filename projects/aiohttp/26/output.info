@@ -1,0 +1,5 @@
+"commit_hash": "3398d3878e7a06dcb67e3af3e3bab95c17cd7631",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/3398d3878e7a06dcb67e3af3e3bab95c17cd7631",
+"files": ["requirements-dev.txt", "tests/test_websocket.py", "tests/test_websocket_handshake.py", "tests/test_websocket_parser.py", "tests/test_websocket_writer.py", ]
+"type": "assert, fixture, import, testcase"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "c29e5fb58efb65c6198ea75b95805ab972e98adc",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/c29e5fb58efb65c6198ea75b95805ab972e98adc",
+"files": ["CHANGES/5992.feature", "CONTRIBUTORS.txt", "aiohttp/client_reqrep.py", "aiohttp/connector.py", "docs/client_advanced.rst", "tests/test_client_request.py", "tests/test_proxy.py", "tests/test_proxy_functional.py", ]
+"type": "assert, add Param"
+"numberOfMigration": ""

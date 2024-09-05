@@ -1,0 +1,5 @@
+"commit_hash": "3d079942f4f4e38a32a613d8512803800f2fcca3",
+"commit_link": "https://github.com/httpie/httpie/commit/3d079942f4f4e38a32a613d8512803800f2fcca3",
+"files": [".gitignore", "httpie/utils.py", "requirements-dev.txt", "setup.py", "tests/__init__.py", "tests/test_downloads.py", "tests/test_output.py", "tests/test_uploads.py", "tox.ini", ]
+"type": "assert"
+"numberOfMigration": ""

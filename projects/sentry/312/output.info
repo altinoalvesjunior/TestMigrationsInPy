@@ -1,0 +1,5 @@
+"commit_hash": "da952a4eeda05f7117da840f597e895f00cd40a6",
+"commit_link": "https://github.com/getsentry/sentry/commit/da952a4eeda05f7117da840f597e895f00cd40a6",
+"files": ["fixtures/backup/model_dependencies/sorted.json", "pyproject.toml", "src/sentry/api/endpoints/notification_defaults.py", "src/sentry/integrations/slack/views/link_identity.py", "src/sentry/notifications/helpers.py", "tests/sentry/notifications/test_helpers.py", "tests/sentry/notifications/test_utils.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

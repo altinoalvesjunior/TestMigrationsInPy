@@ -1,0 +1,5 @@
+"commit_hash": "7b94b1140d657eaed70e066045ababc90827ae9d",
+"commit_link": "https://github.com/getsentry/sentry/commit/7b94b1140d657eaed70e066045ababc90827ae9d",
+"files": ["src/sentry/runner/commands/backup.py", "tests/sentry/db/models/fields/bitfield/test_bitfield.py", "tests/sentry/runner/commands/test_backup.py", ]
+"type": "assert"
+"numberOfMigration": ""

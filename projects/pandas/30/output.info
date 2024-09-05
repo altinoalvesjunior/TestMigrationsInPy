@@ -1,0 +1,5 @@
+"commit_hash": "1419e8e8b8e0a953792468a3cdee09816972755e",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/1419e8e8b8e0a953792468a3cdee09816972755e",
+"files": ["doc/source/whatsnew/v0.18.0.txt", "pandas/core/api.py", "pandas/core/common.py", "pandas/core/dtypes.py", "pandas/core/index.py", "pandas/core/series.py", "pandas/io/packers.py", "pandas/io/tests/test_json/test_pandas.py", "pandas/io/tests/test_packers.py", "pandas/io/tests/test_pytables.py", "pandas/src/reduce.pyx", "pandas/tests/frame/test_repr_info.py", "pandas/tests/test_index.py", "pandas/tests/test_indexing.py", "pandas/tests/test_series.py", "pandas/tests/test_strings.py", "pandas/tests/test_testing.py", "pandas/tseries/tests/test_base.py", "pandas/util/testing.py", ]
+"type": "assert"
+"numberOfMigration": ""

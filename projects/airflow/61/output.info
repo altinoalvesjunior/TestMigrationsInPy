@@ -1,0 +1,5 @@
+"commit_hash": "7ef9aa7d545f11442b6ebb86590cd8ce5f98430b",
+"commit_link": "https://github.com/apache/airflow/commit/7ef9aa7d545f11442b6ebb86590cd8ce5f98430b",
+"files": ["airflow/plugins_manager.py", "airflow/providers_manager.py", "setup.cfg", "tests/plugins/test_plugins_manager.py", "tests/www/test_views.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

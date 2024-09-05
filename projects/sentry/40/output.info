@@ -1,0 +1,5 @@
+"commit_hash": "a66d78a8039ea796db053988a6b10b04d500e25e",
+"commit_link": "https://github.com/getsentry/sentry/commit/a66d78a8039ea796db053988a6b10b04d500e25e",
+"files": ["src/sentry/web/frontend/remove_team.py", "tests/sentry/web/frontend/teams/tests.py", "tests/sentry/web/frontend/test_remove_team.py", ]
+"type": "assert"
+"numberOfMigration": ""

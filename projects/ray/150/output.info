@@ -1,0 +1,5 @@
+"commit_hash": "8c7da7d66442a7c13857dc680a54938fec2e2b08",
+"commit_link": "https://github.com/ray-project/ray/commit/8c7da7d66442a7c13857dc680a54938fec2e2b08",
+"files": ["release/ray_release/glue.py", "release/ray_release/result.py", "release/ray_release/tests/test_glue.py", "release/ray_release/tests/test_result.py", "release/run_release_test.sh", ]
+"type": "assert"
+"numberOfMigration": ""

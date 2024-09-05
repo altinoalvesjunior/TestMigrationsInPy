@@ -1,0 +1,5 @@
+"commit_hash": "f4be70aa74885671d16557795f694ada98769caa",
+"commit_link": "https://github.com/apache/airflow/commit/f4be70aa74885671d16557795f694ada98769caa",
+"files": ["airflow/models/taskinstance.py", "airflow/operators/bash.py", "airflow/www/static/js/dag/details/taskInstance/Logs/index.test.tsx", "airflow/www/static/js/dag/details/taskInstance/Logs/utils.test.tsx", "tests/cli/commands/test_task_command.py", ]
+"type": "assert"
+"numberOfMigration": ""

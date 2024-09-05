@@ -1,0 +1,5 @@
+"commit_hash": "6b810b89c3f63dd2d2cf107c568be40ba9da0ba2",
+"commit_link": "https://github.com/apache/airflow/commit/6b810b89c3f63dd2d2cf107c568be40ba9da0ba2",
+"files": ["airflow/api/common/trigger_dag.py", "airflow/api_internal/endpoints/rpc_api_endpoint.py", "airflow/exceptions.py", "airflow/models/dag.py", "airflow/operators/trigger_dagrun.py", "airflow/serialization/serialized_objects.py", "tests/models/test_dag.py", "tests/operators/test_trigger_dagrun.py", ]
+"type": "assert"
+"numberOfMigration": ""

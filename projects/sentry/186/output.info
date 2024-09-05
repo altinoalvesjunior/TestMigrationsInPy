@@ -1,0 +1,5 @@
+"commit_hash": "de0319d92b5952e56de9529d8d837a48f1ca6cc9",
+"commit_link": "https://github.com/getsentry/sentry/commit/de0319d92b5952e56de9529d8d837a48f1ca6cc9",
+"files": ["migrations_lockfile.txt", "src/sentry/migrations/0151_add_world_map_dashboard_widget_type.py", "src/sentry/models/dashboard_widget.py", "tests/sentry/api/endpoints/test_organization_dashboard_details.py", ]
+"type": "assert"
+"numberOfMigration": ""

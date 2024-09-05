@@ -1,0 +1,5 @@
+"commit_hash": "ed30fc9a06c7a2d584be709c517d7f5649d125a6",
+"commit_link": "https://github.com/ansible/ansible/commit/ed30fc9a06c7a2d584be709c517d7f5649d125a6",
+"files": ["changelogs/fragments/remove-import-cache-plugin-directly.yml", "lib/ansible/plugins/cache/__init__.py", "test/sanity/ignore.txt", "test/units/plugins/cache/test_cache.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

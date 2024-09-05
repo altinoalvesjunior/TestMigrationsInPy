@@ -1,0 +1,5 @@
+"commit_hash": "ffab2fd28a9ead2f1146562182c9804a7f65808a",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/ffab2fd28a9ead2f1146562182c9804a7f65808a",
+"files": ["tests/test_worker.py", ]
+"type": "skip"
+"numberOfMigration": ""

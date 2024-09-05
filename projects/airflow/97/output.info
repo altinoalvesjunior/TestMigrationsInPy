@@ -1,0 +1,5 @@
+"commit_hash": "7b1196bc508cc93ac55ecf0bcf1da406f7809bd4",
+"commit_link": "https://github.com/apache/airflow/commit/7b1196bc508cc93ac55ecf0bcf1da406f7809bd4",
+"files": ["setup.py", "tests/providers/amazon/aws/hooks/test_kinesis.py", ]
+"type": "import, skip, testcase"
+"numberOfMigration": ""

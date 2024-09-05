@@ -1,0 +1,5 @@
+"commit_hash": "fa1c2ba7161ed01c43f6fb7a7a79a0fda057977e",
+"commit_link": "https://github.com/getsentry/sentry/commit/fa1c2ba7161ed01c43f6fb7a7a79a0fda057977e",
+"files": ["src/sentry/api/endpoints/project_rules_configuration.py", "src/sentry/constants.py", "src/sentry/rules/conditions/high_priority_issue.py", "tests/sentry/api/endpoints/test_project_agnostic_rule_conditions.py", "tests/sentry/rules/conditions/test_high_priority_issue.py", ]
+"type": "assert"
+"numberOfMigration": ""

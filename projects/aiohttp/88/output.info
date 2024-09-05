@@ -1,0 +1,5 @@
+"commit_hash": "0199e4a6673967381cb9917edfd7f15244368865",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/0199e4a6673967381cb9917edfd7f15244368865",
+"files": ["CHANGES.rst", "aiohttp/__init__.py", "aiohttp/client.py", "aiohttp/cookiejar.py", "aiohttp/helpers.py", "demos/polls/aiohttpdemo_polls/db.py", "tests/test_cookiejar.py", "tests/test_helpers.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

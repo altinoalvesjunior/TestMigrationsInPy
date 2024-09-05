@@ -1,0 +1,5 @@
+"commit_hash": "944ac97c3c39a760a29dc8e0f1da162759ecb7d6",
+"commit_link": "https://github.com/getsentry/sentry/commit/944ac97c3c39a760a29dc8e0f1da162759ecb7d6",
+"files": ["src/sentry/conf/server.py", "src/sentry/tasks/beacon.py", "src/sentry/tasks/check_update.py", "tests/sentry/tasks/check_update/tests.py", "tests/sentry/tasks/test_beacon.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "6d27ced85a0574a72c376891ec027cd0e49a57ee",
+"commit_link": "https://github.com/apache/airflow/commit/6d27ced85a0574a72c376891ec027cd0e49a57ee",
+"files": ["UPDATING.md", "airflow/contrib/hooks/imap_hook.py", "airflow/contrib/operators/imap_attachment_to_s3_operator.py", "airflow/contrib/sensors/imap_attachment_sensor.py", "scripts/ci/pylint_todo.txt", "tests/contrib/hooks/test_imap_hook.py", "tests/contrib/operators/test_imap_attachment_to_s3_operator.py", "tests/contrib/sensors/test_imap_attachment_sensor.py", ]
+"type": "assert"
+"numberOfMigration": ""

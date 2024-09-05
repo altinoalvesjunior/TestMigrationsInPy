@@ -1,0 +1,5 @@
+"commit_hash": "47d3c63338c4550341cc7518bcb48d0fc606b67d",
+"commit_link": "https://github.com/scrapy/scrapy/commit/47d3c63338c4550341cc7518bcb48d0fc606b67d",
+"files": ["scrapy/commands/fetch.py", "scrapy/utils/testsite.py", "tests/py3-ignores.txt", "tests/test_command_fetch.py", "tests/test_command_shell.py", ]
+"type": "assert"
+"numberOfMigration": ""

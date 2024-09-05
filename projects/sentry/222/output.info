@@ -1,0 +1,5 @@
+"commit_hash": "185cf96a0ae92baf76ee861d0827cd0aaae3f21f",
+"commit_link": "https://github.com/getsentry/sentry/commit/185cf96a0ae92baf76ee861d0827cd0aaae3f21f",
+"files": ["tests/sentry/api/validators/sentry_apps/test_schema.py", "tests/sentry/integrations/slack/__init__.py", "tests/sentry/integrations/slack/endpoints/commands/__init__.py", "tests/sentry/integrations/slack/endpoints/commands/test_get.py", "tests/sentry/integrations/slack/endpoints/commands/test_help.py", "tests/sentry/integrations/slack/endpoints/commands/test_link_team.py", "tests/sentry/integrations/slack/endpoints/commands/test_link_user.py", "tests/sentry/integrations/slack/endpoints/commands/test_post.py", "tests/sentry/integrations/slack/endpoints/test_commands.py", "tests/sentry/integrations/slack/endpoints/test_event.py", "tests/sentry/integrations/slack/test_link_identity.py", "tests/sentry/integrations/slack/test_link_team.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "43163ff2e374191afd04fa4f8db6854d62d8e4b7",
+"commit_link": "https://github.com/google/jax/commit/43163ff2e374191afd04fa4f8db6854d62d8e4b7",
+"files": ["docs/pallas/CHANGELOG.md", "docs/pallas/grid_blockspec.md", "docs/pallas/tpu/details.rst", "jax/_src/pallas/mosaic/lowering.py", "tests/pallas/pallas_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

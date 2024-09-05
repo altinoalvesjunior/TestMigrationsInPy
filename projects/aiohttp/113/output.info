@@ -1,0 +1,5 @@
+"commit_hash": "caa6bdb2484bf821b52a65322efa98a889b593de",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/caa6bdb2484bf821b52a65322efa98a889b593de",
+"files": ["aiohttp/__init__.py", "aiohttp/client_reqrep.py", "aiohttp/formdata.py", "aiohttp/helpers.py", "aiohttp/multipart.py", "aiohttp/payload.py", "tests/test_client_functional.py", "tests/test_client_request.py", "tests/test_formdata.py", "tests/test_helpers.py", "tests/test_multipart.py", ]
+"type": "assert, fixture, testcase"
+"numberOfMigration": ""

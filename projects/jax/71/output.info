@@ -1,0 +1,5 @@
+"commit_hash": "766c5ba0a2de18d2ae7e87e278b78e98ee4326db",
+"commit_link": "https://github.com/google/jax/commit/766c5ba0a2de18d2ae7e87e278b78e98ee4326db",
+"files": ["jax/_src/api.py", "jax/experimental/sharding.py", "tests/pmap_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

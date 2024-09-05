@@ -1,0 +1,5 @@
+"commit_hash": "10c613c453bb5975399b0c3a885753ed3c26c899",
+"commit_link": "https://github.com/getsentry/sentry/commit/10c613c453bb5975399b0c3a885753ed3c26c899",
+"files": ["Makefile", "package.json", "src/sentry/testutils/cases.py", "src/sentry/utils/pytest.py", "tests/acceptance/test_acceptance.py", "tests/acceptance/test_auth.py", ]
+"type": "fixture"
+"numberOfMigration": ""

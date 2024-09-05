@@ -1,0 +1,5 @@
+"commit_hash": "c5cdd0d30ceb68ccba04af0e71d1b8e6678e2962",
+"commit_link": "https://github.com/scrapy/scrapy/commit/c5cdd0d30ceb68ccba04af0e71d1b8e6678e2962",
+"files": [".pre-commit-config.yaml", "scrapy/pipelines/images.py", "scrapy/shell.py", "tests/test_command_shell.py", "tests/test_http_response.py", ]
+"type": "assert"
+"numberOfMigration": ""

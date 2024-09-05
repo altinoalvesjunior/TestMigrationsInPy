@@ -1,0 +1,5 @@
+"commit_hash": "5d253a13807e884b7ce0b6b57a963a45e2f0322c",
+"commit_link": "https://github.com/ansible/ansible/commit/5d253a13807e884b7ce0b6b57a963a45e2f0322c",
+"files": ["lib/ansible/plugins/lookup/password.py", "test/units/plugins/lookup/test_password.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "88e11ae98c91d8d0b9ccf1b0f18444b17c40732d",
+"commit_link": "https://github.com/google/jax/commit/88e11ae98c91d8d0b9ccf1b0f18444b17c40732d",
+"files": ["jax/_src/lax/lax.py", "jax/experimental/jax2tf/jax_export.py", "jax/experimental/jax2tf/tests/back_compat_test.py", "jax/experimental/jax2tf/tests/back_compat_test_util.py", "jax/experimental/jax2tf/tests/back_compat_testdata/stablehlo_dynamic_top_k.py", "jax/experimental/jax2tf/tests/shape_poly_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

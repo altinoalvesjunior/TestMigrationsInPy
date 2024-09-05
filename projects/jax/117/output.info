@@ -1,0 +1,5 @@
+"commit_hash": "f0bc7e0fc62ffa65527355acc29bff3869c8605c",
+"commit_link": "https://github.com/google/jax/commit/f0bc7e0fc62ffa65527355acc29bff3869c8605c",
+"files": ["CHANGELOG.md", "jax/_src/api.py", "jax/_src/array.py", "jax/_src/test_util.py", "tests/array_test.py", "tests/notebooks/colab_cpu.ipynb", "tests/pjit_test.py", "tests/xmap_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

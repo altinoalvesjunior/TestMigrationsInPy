@@ -1,0 +1,5 @@
+"commit_hash": "304009d772876bd0b5853960266f510bc6eb35b4",
+"commit_link": "https://github.com/google/jax/commit/304009d772876bd0b5853960266f510bc6eb35b4",
+"files": ["jax/api.py", "jax/experimental/host_callback.py", "jax/interpreters/pxla.py", "jax/interpreters/sharded_jit.py", "jax/interpreters/xla.py", "jax/lax/lax_control_flow.py", "tests/host_callback_test.py", "tests/lax_control_flow_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

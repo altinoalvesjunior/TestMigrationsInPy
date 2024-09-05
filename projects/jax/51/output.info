@@ -1,0 +1,5 @@
+"commit_hash": "b16b587a4e0c11dd044ea35390627ca1a5bfcd91",
+"commit_link": "https://github.com/google/jax/commit/b16b587a4e0c11dd044ea35390627ca1a5bfcd91",
+"files": ["jax/experimental/sparse_ops.py", "tests/sparse_ops_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

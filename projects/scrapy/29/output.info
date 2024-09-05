@@ -1,0 +1,5 @@
+"commit_hash": "576663e5a778646aa4ef870641fa677ea94d21f9",
+"commit_link": "https://github.com/scrapy/scrapy/commit/576663e5a778646aa4ef870641fa677ea94d21f9",
+"files": ["docs/topics/downloader-middleware.rst", "scrapy/settings/default_settings.py", "tests/test_downloadermiddleware_redirect.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "2228f31796cd2f34b86f078cccb061a6a539050c",
+"commit_link": "https://github.com/kivy/kivy/commit/2228f31796cd2f34b86f078cccb061a6a539050c",
+"files": ["kivy/input/motionevent.py", "kivy/input/providers/mouse.py", "kivy/tests/test_mouse_hover_event.py", "kivy/tests/test_mouse_multitouchsim.py", ]
+"type": "assert"
+"numberOfMigration": ""
