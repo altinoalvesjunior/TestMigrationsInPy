@@ -1,0 +1,5 @@
+"commit_hash": "6ac1c569e889e6dc843c383c996c22993fc96278",
+"commit_link": "https://github.com/google/jax/commit/6ac1c569e889e6dc843c383c996c22993fc96278",
+"files": ["jax/lax/lax.py", "jax/lax_linalg.py", "jax/test_util.py", "tests/lax_numpy_test.py", "tests/linalg_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

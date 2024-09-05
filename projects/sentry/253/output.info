@@ -1,0 +1,5 @@
+"commit_hash": "5462ee11ad11ebb9a50323befcd286816d7898c8",
+"commit_link": "https://github.com/getsentry/sentry/commit/5462ee11ad11ebb9a50323befcd286816d7898c8",
+"files": ["src/sentry/api/endpoints/project_details.py", "src/sentry/api/serializers/models/project.py", "src/sentry/dynamic_sampling/feature_multiplexer.py", "src/sentry/dynamic_sampling/utils.py", "src/sentry/models/options/project_option.py", "tests/sentry/api/endpoints/test_project_details.py", ]
+"type": "assert, add Param"
+"numberOfMigration": ""

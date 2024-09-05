@@ -1,0 +1,5 @@
+"commit_hash": "292186a3e7e1a819aa591901591673639c752157",
+"commit_link": "https://github.com/huggingface/transformers/commit/292186a3e7e1a819aa591901591673639c752157",
+"files": ["src/transformers/__init__.py", "src/transformers/modeling_tf_transfo_xl.py", "src/transformers/modeling_transfo_xl.py", "src/transformers/modeling_transfo_xl_utilities.py", "tests/test_modeling_tf_common.py", "tests/test_modeling_tf_transfo_xl.py", "tests/test_modeling_transfo_xl.py", ]
+"type": "assert"
+"numberOfMigration": ""

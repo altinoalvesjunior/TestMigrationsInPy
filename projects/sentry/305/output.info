@@ -1,0 +1,5 @@
+"commit_hash": "56fd3322b55f01a55212a7cd48be2ec939ac701e",
+"commit_link": "https://github.com/getsentry/sentry/commit/56fd3322b55f01a55212a7cd48be2ec939ac701e",
+"files": ["src/sentry/search/events/builder/discover.py", "src/sentry/search/events/builder/metrics.py", "tests/sentry/search/events/builder/test_metrics.py", ]
+"type": "assert"
+"numberOfMigration": ""

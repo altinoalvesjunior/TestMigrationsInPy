@@ -1,0 +1,5 @@
+"commit_hash": "30662bedadda1cc00efb1946e8f75c5b9fb42d66",
+"commit_link": "https://github.com/ansible/ansible/commit/30662bedadda1cc00efb1946e8f75c5b9fb42d66",
+"files": ["changelogs/fragments/fix-world-readable-skip-message.yaml", "docs/templates/config.rst.j2", "lib/ansible/config/manager.py", "test/units/config/manager/__init__.py", "test/units/config/manager/test_find_ini_config_file.py", "test/units/config/test_manager.py", ]
+"type": "assert, add Param"
+"numberOfMigration": ""

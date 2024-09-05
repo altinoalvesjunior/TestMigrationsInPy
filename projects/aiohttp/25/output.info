@@ -1,0 +1,5 @@
+"commit_hash": "88b77fa62e80ef5dd688cb33344c2106d687908d",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/88b77fa62e80ef5dd688cb33344c2106d687908d",
+"files": ["tests/test_web_middleware.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

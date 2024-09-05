@@ -1,0 +1,5 @@
+"commit_hash": "9016cbb3187684abc6bab29586e19c07f13dc798",
+"commit_link": "https://github.com/streamlit/streamlit/commit/9016cbb3187684abc6bab29586e19c07f13dc798",
+"files": ["lib/streamlit/caching/__init__.py", "lib/streamlit/caching/cache_errors.py", "lib/streamlit/caching/cache_utils.py", "lib/streamlit/caching/memo_decorator.py", "lib/streamlit/caching/singleton_decorator.py", "lib/streamlit/delta_generator.py", "lib/streamlit/elements/__init__.py", "lib/tests/streamlit/caching/cache_errors_test.py", "lib/tests/streamlit/caching/common_cache_test.py", "lib/tests/streamlit/caching/memo_test.py", "lib/tests/streamlit/caching/singleton_test.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

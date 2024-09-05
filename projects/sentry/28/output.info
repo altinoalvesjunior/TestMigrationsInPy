@@ -1,0 +1,5 @@
+"commit_hash": "c7147ad6910addfca52fa6e2adc1102441a7514b",
+"commit_link": "https://github.com/getsentry/sentry/commit/c7147ad6910addfca52fa6e2adc1102441a7514b",
+"files": ["docs/buffer/index.rst", "src/sentry/buffer/base.py", "src/sentry/buffer/redis.py", "src/sentry/conf/server.py", "src/sentry/tasks/process_buffer.py", "tests/sentry/buffer/base/tests.py", "tests/sentry/buffer/redis/tests.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "67a35cabc4cf72919a46faf76e2a5700e27d4e7e",
+"commit_link": "https://github.com/getsentry/sentry/commit/67a35cabc4cf72919a46faf76e2a5700e27d4e7e",
+"files": ["src/sentry/models/repository.py", "src/sentry/templates/sentry/emails/unable-to-delete-repo.html", "src/sentry/templates/sentry/emails/unable-to-delete-repo.txt", "src/sentry/web/frontend/debug/debug_unable_to_delete_repository.py", "tests/sentry/deletions/test_repository.py", ]
+"type": "assert"
+"numberOfMigration": ""

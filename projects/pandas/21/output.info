@@ -1,0 +1,5 @@
+"commit_hash": "a80577e2e5bafac3e4b15fca521a61527f55868e",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/a80577e2e5bafac3e4b15fca521a61527f55868e",
+"files": ["pandas/tests/test_graphics.py", "pandas/tests/test_graphics_others.py", ]
+"type": "assert"
+"numberOfMigration": ""

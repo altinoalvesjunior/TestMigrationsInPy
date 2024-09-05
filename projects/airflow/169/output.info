@@ -1,0 +1,5 @@
+"commit_hash": "863ec46e25ea49d6d5b006d8fd3a83f50aa9db79",
+"commit_link": "https://github.com/apache/airflow/commit/863ec46e25ea49d6d5b006d8fd3a83f50aa9db79",
+"files": ["kubernetes_tests/test_base.py", "kubernetes_tests/test_kubernetes_executor.py", "kubernetes_tests/test_kubernetes_pod_operator.py", "kubernetes_tests/test_other_executors.py", ]
+"type": "fixture, import, testcase"
+"numberOfMigration": ""

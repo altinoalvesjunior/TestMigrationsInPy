@@ -1,0 +1,5 @@
+"commit_hash": "0daa3869a435b7df816120bdda987ca34f8c57d1",
+"commit_link": "https://github.com/getsentry/sentry/commit/0daa3869a435b7df816120bdda987ca34f8c57d1",
+"files": ["src/sentry/integrations/slack/client.py", "src/sentry/integrations/slack/integration.py", "tests/sentry/integrations/slack/test_client.py", "tests/sentry/integrations/slack/webhooks/events/test_message_im.py", ]
+"type": "assert"
+"numberOfMigration": ""

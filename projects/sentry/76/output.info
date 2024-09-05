@@ -1,0 +1,5 @@
+"commit_hash": "1cdd20c9b4c2f7481311e9360f634680037dc6a4",
+"commit_link": "https://github.com/getsentry/sentry/commit/1cdd20c9b4c2f7481311e9360f634680037dc6a4",
+"files": ["src/sentry/conf/server.py", "src/sentry/features/__init__.py", "src/sentry/templates/sentry/account/security.html", "src/sentry/templates/sentry/account/settings.html", "src/sentry/templates/sentry/bases/account.html", "src/sentry/templates/sentry/bases/twofactor_settings.html", "src/sentry/templates/sentry/organization-members.html", "src/sentry/web/forms/accounts.py", "src/sentry/web/frontend/account_security.py", "src/sentry/web/frontend/accounts.py", "src/sentry/web/frontend/accounts_twofactor.py", "src/sentry/web/urls.py", "tests/sentry/web/frontend/accounts/tests.py", ]
+"type": "assert"
+"numberOfMigration": ""

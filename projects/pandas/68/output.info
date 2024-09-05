@@ -1,0 +1,5 @@
+"commit_hash": "7d34d4d5c2d2c6c68b4124076571cfab9c3b4aee",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/7d34d4d5c2d2c6c68b4124076571cfab9c3b4aee",
+"files": ["doc/source/whatsnew/v0.20.0.txt", "pandas/core/internals.py", "pandas/tests/indexing/test_partial.py", "pandas/tests/test_internals.py", "pandas/tests/test_reshape.py", "pandas/tests/tools/test_concat.py", ]
+"type": "assert, add Param"
+"numberOfMigration": ""

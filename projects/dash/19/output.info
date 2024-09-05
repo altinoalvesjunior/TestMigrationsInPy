@@ -1,0 +1,5 @@
+"commit_hash": "eac6ebbf420356dcabafe848775e3639028cb1c5",
+"commit_link": "https://github.com/plotly/dash/commit/eac6ebbf420356dcabafe848775e3639028cb1c5",
+"files": ["tests/unit/development/test_component_loader.py", ]
+"type": "assert, fixture, import, testcase"
+"numberOfMigration": ""

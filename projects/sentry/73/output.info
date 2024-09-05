@@ -1,0 +1,5 @@
+"commit_hash": "0b9e124b702183a70002635ffd252e27d11fbe97",
+"commit_link": "https://github.com/getsentry/sentry/commit/0b9e124b702183a70002635ffd252e27d11fbe97",
+"files": ["src/sentry/api/endpoints/project_details.py", "src/sentry/interfaces/csp.py", "src/sentry/static/sentry/app/components/forms/checkboxField.jsx", "src/sentry/static/sentry/app/components/forms/index.jsx", "src/sentry/static/sentry/app/components/forms/inputField.jsx", "src/sentry/static/sentry/app/components/forms/textareaField.jsx", "src/sentry/static/sentry/app/views/projectCspSettings.jsx", "src/sentry/testutils/cases.py", "src/sentry/utils/csp.py", "src/sentry/web/api.py", "tests/integration/fixtures/csp/chrome_blocked_asset_input.json", "tests/integration/fixtures/csp/chrome_blocked_asset_output.json", "tests/sentry/api/endpoints/test_project_details.py", "tests/sentry/interfaces/test_csp.py", "tests/sentry/utils/test_csp.py", "tests/sentry/web/api/tests.py", ]
+"type": "assert, add Param"
+"numberOfMigration": ""

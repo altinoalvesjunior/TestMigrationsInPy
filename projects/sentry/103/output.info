@@ -1,0 +1,5 @@
+"commit_hash": "0721307553d0e98954df043237511f2d7274f756",
+"commit_link": "https://github.com/getsentry/sentry/commit/0721307553d0e98954df043237511f2d7274f756",
+"files": ["src/sentry/api/endpoints/project_details.py", "src/sentry/api/serializers/models/project.py", "src/sentry/api/serializers/rest_framework/origin.py", "src/sentry/models/project.py", "src/sentry/static/sentry/app/components/forms/apiForm.jsx", "src/sentry/static/sentry/app/components/forms/form.jsx", "src/sentry/static/sentry/app/components/forms/genericField.jsx", "src/sentry/static/sentry/app/components/projectHeader/index.jsx", "src/sentry/static/sentry/app/routes.jsx", "src/sentry/static/sentry/app/views/projectGeneralSettings.jsx", "src/sentry/static/sentry/app/views/projectSettings/index.jsx", "src/sentry/templates/sentry/projects/manage.html", "src/sentry/web/frontend/project_settings.py", "src/sentry/web/urls.py", "tests/sentry/api/endpoints/test_project_details.py", "tests/sentry/web/frontend/test_project_settings.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

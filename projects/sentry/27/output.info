@@ -1,0 +1,5 @@
+"commit_hash": "6816f8112a2d79947c034b24d574e9423cc2ccab",
+"commit_link": "https://github.com/getsentry/sentry/commit/6816f8112a2d79947c034b24d574e9423cc2ccab",
+"files": ["src/sentry/models/group.py", "src/sentry/models/grouptagvalue.py", "tests/sentry/manager/tests.py", "tests/sentry/models/tests.py", ]
+"type": "assert"
+"numberOfMigration": ""

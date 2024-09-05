@@ -1,0 +1,5 @@
+"commit_hash": "ae3881b47246e523bdaafbdeae8e15daed8e5af9",
+"commit_link": "https://github.com/zulip/zulip/commit/ae3881b47246e523bdaafbdeae8e15daed8e5af9",
+"files": ["zerver/tests/test_auth_backends.py", ]
+"type": "assert"
+"numberOfMigration": ""

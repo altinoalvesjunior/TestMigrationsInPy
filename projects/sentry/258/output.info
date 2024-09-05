@@ -1,0 +1,5 @@
+"commit_hash": "5a693c0d4abe8477483efca990875e37e0a26b12",
+"commit_link": "https://github.com/getsentry/sentry/commit/5a693c0d4abe8477483efca990875e37e0a26b12",
+"files": ["src/sentry/api/endpoints/project_details.py", "src/sentry/models/release.py", "src/sentry/relay/config/__init__.py", "tests/acceptance/test_project_settings_sampling_deprecated.py", "tests/sentry/api/endpoints/test_project_details.py", "tests/sentry/api/endpoints/test_relay_projectconfigs.py", "tests/sentry/api/endpoints/test_relay_projectconfigs_v2.py", "tests/sentry/models/test_release.py", "tests/sentry/relay/test_config.py", ]
+"type": "assert"
+"numberOfMigration": ""

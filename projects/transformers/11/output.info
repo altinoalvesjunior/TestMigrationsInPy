@@ -1,0 +1,5 @@
+"commit_hash": "043f9f51f943ea95e5052b7923769ba28ac1b1bd",
+"commit_link": "https://github.com/huggingface/transformers/commit/043f9f51f943ea95e5052b7923769ba28ac1b1bd",
+"files": ["examples/lightning_base.py", "examples/requirements.txt", "examples/summarization/README.md", "examples/summarization/callbacks.py", "examples/summarization/distillation.py", "examples/summarization/evaluate_cnn.py", "examples/summarization/finetune.py", "examples/summarization/finetune.sh", "examples/summarization/finetune_bart.sh", "examples/summarization/initialization_utils.py", "examples/summarization/run_distiller.sh", "examples/summarization/run_eval.py", "examples/summarization/test_summarization_examples.py", "examples/summarization/utils.py", "src/transformers/modeling_bart.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

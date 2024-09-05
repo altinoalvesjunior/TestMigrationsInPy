@@ -1,0 +1,5 @@
+"commit_hash": "4a836ff8ae8b38ab7b949da386e208584f83bc85",
+"commit_link": "https://github.com/google/jax/commit/4a836ff8ae8b38ab7b949da386e208584f83bc85",
+"files": ["tests/lax_autodiff_test.py", "tests/lax_test.py", "tests/lax_vmap_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

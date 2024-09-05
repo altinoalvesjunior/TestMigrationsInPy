@@ -1,0 +1,5 @@
+"commit_hash": "9b050ee9e1fe16b2d1f6d2243df39ec0795021bb",
+"commit_link": "https://github.com/getsentry/sentry/commit/9b050ee9e1fe16b2d1f6d2243df39ec0795021bb",
+"files": ["conftest.py", "docs/index.rst", "docs/internals/options.rst", "setup.cfg", "src/sentry/app.py", "src/sentry/conf/server.py", "src/sentry/models/option.py", "src/sentry/options/__init__.py", "src/sentry/options/manager.py", "src/sentry/plugins/helpers.py", "src/sentry/receivers/core.py", "src/sentry/tasks/sync_options.py", "src/sentry/templatetags/sentry_helpers.py", "src/sentry/web/helpers.py", "tests/sentry/models/test_option.py", "tests/sentry/options/test_manager.py", "tests/sentry/plugins/helpers/tests.py", "tests/sentry/tasks/check_update/tests.py", "tests/sentry/tasks/test_sync_options.py", "tests/sentry/web/frontend/generic/tests.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

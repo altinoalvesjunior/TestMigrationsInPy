@@ -1,0 +1,5 @@
+"commit_hash": "f39fa4643d802d41190e011a50467bf5289267cd",
+"commit_link": "https://github.com/getsentry/sentry/commit/f39fa4643d802d41190e011a50467bf5289267cd",
+"files": ["src/sentry/integrations/vercel/integration.py", "src/sentry/integrations/vercel/uninstall.py", "tests/sentry/integrations/vercel/test_integration.py", "tests/sentry/integrations/vercel/test_uninstall.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "1cdab56a6192f69962506b7ff632c986c84eb10d",
+"commit_link": "https://github.com/apache/airflow/commit/1cdab56a6192f69962506b7ff632c986c84eb10d",
+"files": ["airflow/models/baseoperator.py", "airflow/models/skipmixin.py", "airflow/ti_deps/dep_context.py", "airflow/ti_deps/deps/not_previously_skipped_dep.py", "airflow/ti_deps/deps/trigger_rule_dep.py", "tests/jobs/test_scheduler_job.py", "tests/operators/test_python.py", "tests/ti_deps/deps/test_not_previously_skipped_dep.py", "tests/ti_deps/deps/test_trigger_rule_dep.py", ]
+"type": "assert"
+"numberOfMigration": ""

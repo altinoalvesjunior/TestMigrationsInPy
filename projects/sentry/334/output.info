@@ -1,0 +1,5 @@
+"commit_hash": "b1f0652c47ddbe63148bae9fa7dd1b2eb278390f",
+"commit_link": "https://github.com/getsentry/sentry/commit/b1f0652c47ddbe63148bae9fa7dd1b2eb278390f",
+"files": ["src/sentry/conf/server.py", "src/sentry/features/__init__.py", "src/sentry/integrations/github/client.py", "src/sentry/integrations/github/integration.py", "src/sentry/integrations/github_enterprise/integration.py", "src/sentry/integrations/gitlab/client.py", "src/sentry/integrations/gitlab/integration.py", "src/sentry/integrations/mixins/commit_context.py", "src/sentry/integrations/utils/commit_context.py", "src/sentry/tasks/commit_context.py", "src/sentry/tasks/post_process.py", "tests/sentry/integrations/github/test_client.py", "tests/sentry/integrations/github/test_integration.py", "tests/sentry/integrations/github_enterprise/test_integration.py", "tests/sentry/integrations/gitlab/test_integration.py", "tests/sentry/tasks/test_commit_context.py", "tests/sentry/tasks/test_post_process.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "16c4b4e184c1b213eafacecca0097ff44effa696",
+"commit_link": "https://github.com/scrapy/scrapy/commit/16c4b4e184c1b213eafacecca0097ff44effa696",
+"files": ["requirements.txt", "scrapy/downloadermiddlewares/httpcompression.py", "tests/sample_data/compressed/html-br.bin", "tests/test_downloadermiddleware_httpcompression.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "0bf90be886acc0cd0e62aaeea4fd6d97ce0c5432",
+"commit_link": "https://github.com/zulip/zulip/commit/0bf90be886acc0cd0e62aaeea4fd6d97ce0c5432",
+"files": ["zerver/tests/test_retention.py", ]
+"type": "assert"
+"numberOfMigration": ""

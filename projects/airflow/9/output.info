@@ -1,0 +1,5 @@
+"commit_hash": "d633d3ac44c395e6c43cd388f98fba1ce1c435a3",
+"commit_link": "https://github.com/apache/airflow/commit/d633d3ac44c395e6c43cd388f98fba1ce1c435a3",
+"files": ["airflow/contrib/hooks/gcp_dataproc_hook.py", "airflow/contrib/operators/dataproc_operator.py", "airflow/gcp/example_dags/example_dataproc.py", "airflow/gcp/hooks/dataproc.py", "airflow/providers/google/cloud/example_dags/example_dataproc.py", "airflow/providers/google/cloud/hooks/dataproc.py", "airflow/providers/google/cloud/operators/dataproc.py", "setup.py", "tests/gcp/hooks/test_dataproc.py", "tests/gcp/operators/test_dataproc.py", "tests/providers/google/cloud/hooks/test_dataproc.py", "tests/providers/google/cloud/operators/test_dataproc.py", "tests/providers/google/cloud/operators/test_dataproc_operator_system_helper.py", "tests/providers/google/cloud/operators/test_dataproc_system.py", "tests/test_core_to_contrib.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "f200bb1977655455f8acb79c9bd265df36f8ffce",
+"commit_link": "https://github.com/apache/airflow/commit/f200bb1977655455f8acb79c9bd265df36f8ffce",
+"files": ["airflow/providers/cncf/kubernetes/CHANGELOG.rst", "airflow/providers/cncf/kubernetes/operators/kubernetes_pod.py", "airflow/providers/cncf/kubernetes/utils/pod_launcher.py", "docs/spelling_wordlist.txt", "kubernetes_tests/test_kubernetes_pod_operator.py", "kubernetes_tests/test_kubernetes_pod_operator_backcompat.py", "tests/providers/cncf/kubernetes/operators/test_kubernetes_pod.py", "tests/providers/cncf/kubernetes/utils/test_pod_launcher.py", ]
+"type": "assert, testcase, add Param"
+"numberOfMigration": ""

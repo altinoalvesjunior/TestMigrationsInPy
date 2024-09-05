@@ -1,0 +1,5 @@
+"commit_hash": "0b08eae666947ab9269f76c7865dc47e355b3278",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/0b08eae666947ab9269f76c7865dc47e355b3278",
+"files": ["aiohttp/test_utils.py", "tests/test_web_websocket_functional.py", "tests/test_web_websocket_functional_oldstyle.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "7f31c58f9bff40b95e0e58455ae92e7eb57a3074",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/7f31c58f9bff40b95e0e58455ae92e7eb57a3074",
+"files": ["CHANGES/2408.bugfix", "aiohttp/connector.py", "tests/test_proxy.py", ]
+"type": "assert"
+"numberOfMigration": ""

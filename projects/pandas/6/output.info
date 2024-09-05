@@ -1,0 +1,5 @@
+"commit_hash": "b6400e0ae5ea300520d394144c0b2675cb6cc666",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/b6400e0ae5ea300520d394144c0b2675cb6cc666",
+"files": ["pandas/core/format.py", "pandas/core/frame.py", "pandas/tests/test_format.py", ]
+"type": "assert"
+"numberOfMigration": ""

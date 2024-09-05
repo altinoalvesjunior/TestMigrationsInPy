@@ -1,0 +1,5 @@
+"commit_hash": "8a1b7d43e05e38576a728f2c49e75a63093f9103",
+"commit_link": "https://github.com/apache/airflow/commit/8a1b7d43e05e38576a728f2c49e75a63093f9103",
+"files": ["airflow/contrib/operators/ecs_operator.py", "airflow/providers/amazon/aws/example_dags/example_ecs.py", "airflow/providers/amazon/aws/hooks/ecs.py", "airflow/providers/amazon/aws/operators/ecs.py", "airflow/providers/amazon/aws/sensors/ecs.py", "airflow/providers/amazon/provider.yaml", "docs/apache-airflow-providers-amazon/operators/ecs.rst", "docs/spelling_wordlist.txt", "tests/always/test_project_structure.py", "tests/providers/amazon/aws/hooks/test_ecs.py", "tests/providers/amazon/aws/operators/test_ecs.py", "tests/providers/amazon/aws/operators/test_ecs_system.py", ]
+"type": "assert, fixture, testcase"
+"numberOfMigration": ""

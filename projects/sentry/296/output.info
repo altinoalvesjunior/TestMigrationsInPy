@@ -1,0 +1,5 @@
+"commit_hash": "697e6385d69ed3004df5c31ece1a41cc30c784b0",
+"commit_link": "https://github.com/getsentry/sentry/commit/697e6385d69ed3004df5c31ece1a41cc30c784b0",
+"files": ["src/sentry/incidents/endpoints/organization_alert_rule_index.py", "src/sentry/incidents/endpoints/project_alert_rule_index.py", "tests/sentry/incidents/endpoints/test_organization_alert_rule_index.py", "tests/sentry/incidents/endpoints/test_organization_combined_rule_index_endpoint.py", "tests/sentry/incidents/endpoints/test_project_alert_rule_index.py", ]
+"type": "assert"
+"numberOfMigration": ""

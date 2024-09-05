@@ -1,0 +1,5 @@
+"commit_hash": "403e7c7c7059486c5a4c59f900a65378de2ba3d2",
+"commit_link": "https://github.com/scrapy/scrapy/commit/403e7c7c7059486c5a4c59f900a65378de2ba3d2",
+"files": ["docs/topics/api.rst", "docs/topics/settings.rst", "scrapy/crawler.py", "scrapy/interfaces.py", "scrapy/settings/default_settings.py", "scrapy/spider.py", "scrapy/spiderloader.py", "scrapy/spidermanager.py", "scrapy/utils/spider.py", "tests/py3-ignores.txt", "tests/test_crawler.py", "tests/test_spiderloader/__init__.py", "tests/test_spiderloader/test_spiders/__init__.py", "tests/test_spiderloader/test_spiders/spider0.py", "tests/test_spiderloader/test_spiders/spider1.py", "tests/test_spiderloader/test_spiders/spider2.py", "tests/test_spiderloader/test_spiders/spider3.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

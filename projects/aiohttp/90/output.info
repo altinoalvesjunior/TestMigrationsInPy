@@ -1,0 +1,5 @@
+"commit_hash": "3ef4e3e1b3e85da6acfe8cbac533e4c73ee570cb",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/3ef4e3e1b3e85da6acfe8cbac533e4c73ee570cb",
+"files": ["CHANGES.rst", "aiohttp/abc.py", "aiohttp/client.py", "aiohttp/cookiejar.py", "docs/abc.rst", "docs/client.rst", "docs/client_reference.rst", "tests/test_client_functional.py", "tests/test_client_functional_oldstyle.py", "tests/test_client_session.py", "tests/test_cookiejar.py", "tests/test_test_utils.py", ]
+"type": "assert, fixture"
+"numberOfMigration": ""

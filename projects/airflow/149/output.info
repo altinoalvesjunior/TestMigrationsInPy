@@ -1,0 +1,5 @@
+"commit_hash": "e0bb6be71a3fe2ba75126b601ea11cd2be9465b5",
+"commit_link": "https://github.com/apache/airflow/commit/e0bb6be71a3fe2ba75126b601ea11cd2be9465b5",
+"files": ["tests/security/test_kerberos.py", ]
+"type": "assert, testcase, add Param"
+"numberOfMigration": ""

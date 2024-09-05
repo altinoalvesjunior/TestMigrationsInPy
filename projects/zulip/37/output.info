@@ -1,0 +1,5 @@
+"commit_hash": "baf882a133b0c7066f65944e31630ec1f87a9b56",
+"commit_link": "https://github.com/zulip/zulip/commit/baf882a133b0c7066f65944e31630ec1f87a9b56",
+"files": ["zerver/lib/queue.py", "zerver/tests/test_queue.py", "zerver/tests/test_queue_worker.py", "zerver/worker/queue_processors.py", ]
+"type": "assert"
+"numberOfMigration": ""

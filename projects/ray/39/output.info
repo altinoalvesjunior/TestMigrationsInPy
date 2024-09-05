@@ -1,0 +1,5 @@
+"commit_hash": "48cdca843f2d06aeb356db27d48e01c1153eba22",
+"commit_link": "https://github.com/ray-project/ray/commit/48cdca843f2d06aeb356db27d48e01c1153eba22",
+"files": ["doc/source/raysgd/raysgd-custom.jpg", "doc/source/raysgd/raysgd_pytorch.rst", "doc/source/raysgd/raysgd_ref.rst", "python/ray/util/sgd/pytorch/__init__.py", "python/ray/util/sgd/pytorch/constants.py", "python/ray/util/sgd/pytorch/distributed_pytorch_runner.py", "python/ray/util/sgd/pytorch/examples/cifar_pytorch_example.py", "python/ray/util/sgd/pytorch/examples/dcgan.py", "python/ray/util/sgd/pytorch/pytorch_runner.py", "python/ray/util/sgd/pytorch/pytorch_trainer.py", "python/ray/util/sgd/pytorch/training_operator.py", "python/ray/util/sgd/pytorch/utils.py", "python/ray/util/sgd/tests/test_pytorch.py", "python/ray/util/sgd/tests/test_pytorch_runner.py", "python/ray/util/sgd/utils.py", ]
+"type": "assert"
+"numberOfMigration": ""

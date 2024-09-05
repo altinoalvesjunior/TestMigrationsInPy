@@ -1,0 +1,5 @@
+"commit_hash": "fa11435897b1bc1d96ff02e9188924db580e6084",
+"commit_link": "https://github.com/celery/celery/commit/fa11435897b1bc1d96ff02e9188924db580e6084",
+"files": ["t/integration/conftest.py", "t/integration/tasks.py", "t/integration/test_canvas.py", "t/unit/tasks/test_canvas.py", "tox.ini", ]
+"type": "assert"
+"numberOfMigration": ""

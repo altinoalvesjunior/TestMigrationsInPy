@@ -1,0 +1,5 @@
+"commit_hash": "529f11b4e3ee5dcd7c9f435a1962c981a20746ba",
+"commit_link": "https://github.com/apache/airflow/commit/529f11b4e3ee5dcd7c9f435a1962c981a20746ba",
+"files": ["tests/sensors/test_date_time.py", "tests/sensors/test_external_task_sensor.py", "tests/sensors/test_time_sensor.py", ]
+"type": "assert, testcase, add Param"
+"numberOfMigration": ""

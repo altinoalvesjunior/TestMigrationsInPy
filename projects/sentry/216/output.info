@@ -1,0 +1,5 @@
+"commit_hash": "6b56637e5503ab6717cbb005cca84d3e066f97d0",
+"commit_link": "https://github.com/getsentry/sentry/commit/6b56637e5503ab6717cbb005cca84d3e066f97d0",
+"files": ["src/sentry/incidents/logic.py", "src/sentry/incidents/subscription_processor.py", "tests/sentry/incidents/test_logic.py", "tests/sentry/incidents/test_subscription_processor.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

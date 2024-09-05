@@ -1,0 +1,5 @@
+"commit_hash": "987b7e7e586b8df1d127406c69e0a9094a1a5322",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/987b7e7e586b8df1d127406c69e0a9094a1a5322",
+"files": ["doc/source/timeseries.rst", "doc/source/whatsnew/v0.17.0.txt", "pandas/core/common.py", "pandas/core/ops.py", "pandas/io/parsers.py", "pandas/io/sql.py", "pandas/io/tests/test_sql.py", "pandas/io/tests/test_stata.py", "pandas/tseries/tests/test_offsets.py", "pandas/tseries/tests/test_timedeltas.py", "pandas/tseries/tests/test_timeseries.py", "pandas/tseries/tests/test_tslib.py", "pandas/tseries/timedeltas.py", "pandas/tseries/tools.py", "pandas/tslib.pyx", "pandas/util/decorators.py", ]
+"type": "assert"
+"numberOfMigration": ""

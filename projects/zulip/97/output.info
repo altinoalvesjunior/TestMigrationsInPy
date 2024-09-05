@@ -1,0 +1,5 @@
+"commit_hash": "def6bf17ebbd089b01aa2256e5652439e8ef4f42",
+"commit_link": "https://github.com/zulip/zulip/commit/def6bf17ebbd089b01aa2256e5652439e8ef4f42",
+"files": ["tools/linter_lib/custom_check.py", "zerver/tests/test_email_notifications.py", "zerver/tests/test_message_notification_emails.py", ]
+"type": "assert"
+"numberOfMigration": ""

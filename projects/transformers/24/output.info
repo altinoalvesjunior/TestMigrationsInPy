@@ -1,0 +1,5 @@
+"commit_hash": "96e47d9229275b115bfc8f1b2687dfa1c091dc04",
+"commit_link": "https://github.com/huggingface/transformers/commit/96e47d9229275b115bfc8f1b2687dfa1c091dc04",
+"files": ["examples/lightning_base.py", "examples/seq2seq/test_bash_script.py", "examples/seq2seq/test_finetune_trainer.py", "examples/seq2seq/test_seq2seq_examples.py", "src/transformers/convert_pegasus_tf_to_pytorch.py", "src/transformers/tokenization_pegasus.py", "tests/test_modeling_bart.py", "tests/test_modeling_fsmt.py", ]
+"type": "assert"
+"numberOfMigration": ""

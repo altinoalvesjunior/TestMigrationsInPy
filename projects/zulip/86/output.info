@@ -1,0 +1,5 @@
+"commit_hash": "1a400b21e72ca50578d3a45f30be79b258e9cb2c",
+"commit_link": "https://github.com/zulip/zulip/commit/1a400b21e72ca50578d3a45f30be79b258e9cb2c",
+"files": ["zerver/actions/message_send.py", "zerver/lib/message.py", "zerver/lib/notification_data.py", "zerver/lib/onboarding.py", "zerver/lib/test_classes.py", "zerver/tests/test_event_queue.py", "zerver/tests/test_notification_data.py", "zerver/tests/test_signup.py", "zerver/tests/test_tutorial.py", "zerver/tests/test_users.py", "zerver/tornado/event_queue.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "0a1b22835953df6e1fc751927f8b6dc44d6fa099",
+"commit_link": "https://github.com/getsentry/sentry/commit/0a1b22835953df6e1fc751927f8b6dc44d6fa099",
+"files": ["src/sentry/integrations/slack/endpoints/command.py", "src/sentry/integrations/slack/utils.py", "src/sentry/integrations/slack/views/link_team.py", "src/sentry/integrations/slack/views/unlink_team.py", "src/sentry/templates/sentry/integrations/slack-unlinked-team.html", "tests/sentry/api/endpoints/test_integrations_slack_commands.py", ]
+"type": "assert"
+"numberOfMigration": ""

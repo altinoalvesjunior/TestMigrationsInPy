@@ -1,0 +1,5 @@
+"commit_hash": "be379770e90f6b7f97109f1cbdffd1e4749402ba",
+"commit_link": "https://github.com/getsentry/sentry/commit/be379770e90f6b7f97109f1cbdffd1e4749402ba",
+"files": ["src/sentry/integrations/msteams/actions/notification.py", "src/sentry/integrations/msteams/card_builder/installation.py", "src/sentry/integrations/msteams/card_builder/utils.py", "src/sentry/integrations/msteams/integration.py", "src/sentry/integrations/msteams/webhook.py", "tests/sentry/integrations/msteams/test_integration.py", "tests/sentry/integrations/msteams/test_message_builder.py", "tests/sentry/integrations/msteams/test_webhook.py", ]
+"type": "assert"
+"numberOfMigration": ""

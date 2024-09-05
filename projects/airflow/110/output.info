@@ -1,0 +1,5 @@
+"commit_hash": "b96e4992b5df24898e169c01fe23e4cb7d32dd94",
+"commit_link": "https://github.com/apache/airflow/commit/b96e4992b5df24898e169c01fe23e4cb7d32dd94",
+"files": ["tests/always/test_deprecations.py", "tests/core/test_impersonation_tests.py", "tests/decorators/test_python.py", "tests/providers/apache/hdfs/hooks/test_hdfs.py", "tests/providers/google/cloud/utils/test_mlengine_prediction_summary.py", "tests/providers/mysql/hooks/test_mysql.py", ]
+"type": "skip"
+"numberOfMigration": ""

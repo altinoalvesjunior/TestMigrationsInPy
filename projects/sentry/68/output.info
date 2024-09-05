@@ -1,0 +1,5 @@
+"commit_hash": "cf20bb17f598e9a86ac18c3197f00f44097e392b",
+"commit_link": "https://github.com/getsentry/sentry/commit/cf20bb17f598e9a86ac18c3197f00f44097e392b",
+"files": ["src/sentry/utils/data_scrubber.py", "tests/sentry/utils/test_data_scrubber.py", ]
+"type": "assert"
+"numberOfMigration": ""

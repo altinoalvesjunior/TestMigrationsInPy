@@ -1,0 +1,5 @@
+"commit_hash": "c6d664849bdc580cf813b2d3a555a9b33d31b33d",
+"commit_link": "https://github.com/huggingface/transformers/commit/c6d664849bdc580cf813b2d3a555a9b33d31b33d",
+"files": ["docs/source/main_classes/trainer.rst", "examples/tests/deepspeed/ds_config_zero2.json", "examples/tests/deepspeed/ds_config_zero3.json", "examples/tests/deepspeed/test_deepspeed.py", "src/transformers/generation_utils.py", "src/transformers/integrations.py", "src/transformers/modeling_utils.py", "src/transformers/trainer.py", "src/transformers/trainer_seq2seq.py", "tests/test_trainer.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "18faf4f7aba0f1661c5e85e92b7096eb8dcccc3a",
+"commit_link": "https://github.com/certbot/certbot/commit/18faf4f7aba0f1661c5e85e92b7096eb8dcccc3a",
+"files": ["certbot-ci/certbot_integration_tests/certbot_tests/test_main.py", "certbot-dns-digitalocean/certbot_dns_digitalocean/_internal/dns_digitalocean.py", "certbot-dns-linode/certbot_dns_linode/_internal/dns_linode.py", "certbot-nginx/certbot_nginx/_internal/configurator.py", "certbot/README.rst", "certbot/certbot/_internal/cert_manager.py", "certbot/certbot/_internal/main.py", "certbot/certbot/_internal/renewal.py", "certbot/certbot/_internal/storage.py", "certbot/certbot/crypto_util.py", "certbot/certbot/ocsp.py", "certbot/docs/contributing.rst", "certbot/docs/install.rst", "certbot/docs/using.rst", "certbot/tests/main_test.py", "certbot/tests/renewal_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

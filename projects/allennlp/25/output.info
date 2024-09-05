@@ -1,0 +1,5 @@
+"commit_hash": "c4559f3751775aa8bc018db417edc119d29d8051",
+"commit_link": "https://github.com/allenai/allennlp/commit/c4559f3751775aa8bc018db417edc119d29d8051",
+"files": ["allennlp/commands/__init__.py", "allennlp/commands/fine_tune.py", "allennlp/data/vocabulary.py", "allennlp/models/model.py", "allennlp/tests/commands/fine_tune_test.py", "allennlp/tests/commands/train_test.py", "allennlp/tests/data/vocabulary_test.py", "allennlp/tests/fixtures/basic_classifier/experiment_from_archive.jsonnet", "allennlp/tests/fixtures/data/text_classification_json/ag_news_corpus_fake_sentiment_labels.jsonl", ]
+"type": "assert"
+"numberOfMigration": ""

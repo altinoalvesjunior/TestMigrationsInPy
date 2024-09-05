@@ -1,0 +1,5 @@
+"commit_hash": "23f4cde91cbd99de245b7ed1890f052bde33d1c6",
+"commit_link": "https://github.com/zulip/zulip/commit/23f4cde91cbd99de245b7ed1890f052bde33d1c6",
+"files": ["zerver/lib/email_mirror.py", "zerver/tests/test_email_mirror.py", ]
+"type": "assert"
+"numberOfMigration": ""

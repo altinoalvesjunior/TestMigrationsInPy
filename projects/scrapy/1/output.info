@@ -1,0 +1,5 @@
+"commit_hash": "f42b44b50ec8dfbaa5077595a6ce738adbbb9647",
+"commit_link": "https://github.com/scrapy/scrapy/commit/f42b44b50ec8dfbaa5077595a6ce738adbbb9647",
+"files": ["scrapy/http/headers.py", "tests/py3-ignores.txt", "tests/test_http_headers.py", ]
+"type": "assert"
+"numberOfMigration": ""

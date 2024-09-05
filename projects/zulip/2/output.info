@@ -1,0 +1,5 @@
+"commit_hash": "ccc70445d6a8bca415c3c284ccc73612c2bf8874",
+"commit_link": "https://github.com/zulip/zulip/commit/ccc70445d6a8bca415c3c284ccc73612c2bf8874",
+"files": ["zerver/lib/bugdown/__init__.py", "zerver/lib/test_classes.py", "zerver/lib/test_helpers.py", "zerver/lib/validator.py", "zerver/tests/test_auth_backends.py", "zerver/tests/test_bugdown.py", "zerver/tests/test_events.py", "zerver/tests/test_messages.py", "zerver/tests/test_narrow.py", "zerver/tests/test_outgoing_webhook_system.py", "zerver/tests/test_realm_domains.py", "zerver/tests/test_signup.py", "zerver/tests/test_subs.py", "zerver/views/auth.py", "zerver/webhooks/trello/view/board_actions.py", "zproject/backends.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "ee8adcaa217cefa54d38e8c24177646c922e162f",
+"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/ee8adcaa217cefa54d38e8c24177646c922e162f",
+"files": ["tests/test_generate.py", "tests/test_generate_file.py", ]
+"type": "assert, fixture, testcase"
+"numberOfMigration": ""

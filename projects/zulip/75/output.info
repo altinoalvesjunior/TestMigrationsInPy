@@ -1,0 +1,5 @@
+"commit_hash": "c34ac1fcd428b469e85bcd3070938e4f59e60b18",
+"commit_link": "https://github.com/zulip/zulip/commit/c34ac1fcd428b469e85bcd3070938e4f59e60b18",
+"files": ["corporate/tests/test_stripe.py", "zerver/tests/test_auth_backends.py", "zerver/tests/test_create_video_call.py", "zerver/tests/test_home.py", "zerver/tests/test_signup.py", "zerver/tests/test_thumbnail.py", ]
+"type": "assert"
+"numberOfMigration": ""

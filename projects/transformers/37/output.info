@@ -1,0 +1,5 @@
+"commit_hash": "57c1749efabf5c86bcfd4e4e078567a63a7c8a81",
+"commit_link": "https://github.com/huggingface/transformers/commit/57c1749efabf5c86bcfd4e4e078567a63a7c8a81",
+"files": ["src/transformers/models/deberta/tokenization_deberta.py", "tests/test_tokenization_deberta.py", ]
+"type": "assert"
+"numberOfMigration": ""

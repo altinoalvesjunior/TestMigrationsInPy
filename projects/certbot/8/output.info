@@ -1,0 +1,5 @@
+"commit_hash": "6e8f58e3f618c887df10c7640c3c148fc62cbf8c",
+"commit_link": "https://github.com/certbot/certbot/commit/6e8f58e3f618c887df10c7640c3c148fc62cbf8c",
+"files": ["certbot-ci/certbot_integration_tests/certbot_tests/test_main.py", "certbot/certbot/_internal/main.py", "certbot/tests/main_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

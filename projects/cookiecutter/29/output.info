@@ -1,0 +1,5 @@
+"commit_hash": "ce8dcba62df31e19b8f571bacfb57ac2d4681918",
+"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/ce8dcba62df31e19b8f571bacfb57ac2d4681918",
+"files": ["tests/test_compat.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

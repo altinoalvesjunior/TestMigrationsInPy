@@ -1,0 +1,5 @@
+"commit_hash": "4d7fbc1f064a9d7ef3a1058ec6a3dbfb59993194",
+"commit_link": "https://github.com/getsentry/sentry/commit/4d7fbc1f064a9d7ef3a1058ec6a3dbfb59993194",
+"files": ["src/sentry/coreapi.py", "src/sentry/interfaces.py", "src/sentry/tasks/fetch_source.py", "src/sentry/testutils.py", "src/sentry/utils/models.py", "src/sentry/utils/strings.py", "tests/sentry/interfaces/stacktrace/tests.py", "tests/sentry/interfaces/tests.py", "tests/sentry/tasks/fetch_source/tests.py", ]
+"type": "assert"
+"numberOfMigration": ""

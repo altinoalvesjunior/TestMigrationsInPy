@@ -1,0 +1,5 @@
+"commit_hash": "7c0d8a2f83cc6db25bdddcf6cecb6fb56f05f02f",
+"commit_link": "https://github.com/apache/airflow/commit/7c0d8a2f83cc6db25bdddcf6cecb6fb56f05f02f",
+"files": ["tests/conftest.py", "tests/jobs/test_local_task_job.py", ]
+"type": "fixture, testcase"
+"numberOfMigration": ""

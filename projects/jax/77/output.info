@@ -1,0 +1,5 @@
+"commit_hash": "bbb8048d2e41cfb343df88ed204f1b0f679917c0",
+"commit_link": "https://github.com/google/jax/commit/bbb8048d2e41cfb343df88ed204f1b0f679917c0",
+"files": ["jax/_src/api.py", "jax/_src/lax/control_flow/for_loop.py", "jax/_src/state/discharge.py", "jax/_src/state/primitives.py", "jax/_src/state/types.py", "jax/core.py", "tests/lax_control_flow_test.py", "tests/state_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

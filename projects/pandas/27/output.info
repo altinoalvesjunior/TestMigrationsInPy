@@ -1,0 +1,5 @@
+"commit_hash": "9a7dcd9059199d442e90a0911f0005a0b4e8609d",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/9a7dcd9059199d442e90a0911f0005a0b4e8609d",
+"files": ["pandas/tests/frame/__init__.py", "pandas/tests/frame/common.py", "pandas/tests/frame/test_analytics.py", "pandas/tests/frame/test_constructors.py", "pandas/tests/frame/test_indexing.py", "pandas/tests/frame/test_operators.py", "pandas/tests/frame/test_query_eval.py", "pandas/tests/frame/test_replace.py", "pandas/tests/frame/test_reshape.py", "pandas/tests/frame/test_to_csv.py", "pandas/tests/test_frame.py", "setup.cfg", ]
+"type": "assert"
+"numberOfMigration": ""

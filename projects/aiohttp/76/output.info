@@ -1,0 +1,5 @@
+"commit_hash": "0f7cc5e7c6ec168b146b1f56a30899764c128983",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/0f7cc5e7c6ec168b146b1f56a30899764c128983",
+"files": ["README.rst", "aiohttp/_ws_impl.py", "aiohttp/client_ws.py", "aiohttp/web_ws.py", "demos/chat/aiohttpdemo_chat/views.py", "docs/api.rst", "docs/client.rst", "docs/web.rst", "examples/client_ws.py", "examples/legacy/tcp_protocol_parser.py", "examples/web_ws.py", "tests/autobahn/client.py", "tests/autobahn/server.py", "tests/test_client_ws.py", "tests/test_client_ws_functional.py", "tests/test_py35/test_web_websocket_35.py", "tests/test_test_utils.py", "tests/test_web_websocket.py", "tests/test_web_websocket_functional.py", "tests/test_web_websocket_functional_oldstyle.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "f6d209a46f1631862da5c787bc0c7454992d1006",
+"commit_link": "https://github.com/getsentry/sentry/commit/f6d209a46f1631862da5c787bc0c7454992d1006",
+"files": ["src/sentry/apidocs/examples/project_examples.py", "src/sentry/conf/server.py", "src/sentry/features/__init__.py", "src/sentry/models/projectownership.py", "src/sentry/notifications/utils/participants.py", "tests/sentry/api/endpoints/test_team_projects.py", "tests/sentry/digests/test_utilities.py", "tests/sentry/integrations/msteams/notifications/test_issue_alert.py", "tests/sentry/integrations/slack/notifications/test_issue_alert.py", "tests/sentry/mail/test_actions.py", "tests/sentry/mail/test_adapter.py", "tests/sentry/models/test_projectownership.py", "tests/sentry/notifications/notifications/test_digests.py", "tests/sentry/notifications/utils/test_participants.py", "tests/sentry/tasks/test_digests.py", ]
+"type": "assert"
+"numberOfMigration": ""

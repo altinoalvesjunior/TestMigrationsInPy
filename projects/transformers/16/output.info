@@ -1,0 +1,5 @@
+"commit_hash": "e11d923bfc61ed640bc7e696549578361126485e",
+"commit_link": "https://github.com/huggingface/transformers/commit/e11d923bfc61ed640bc7e696549578361126485e",
+"files": ["tests/test_modeling_pegasus.py", ]
+"type": "assert"
+"numberOfMigration": ""

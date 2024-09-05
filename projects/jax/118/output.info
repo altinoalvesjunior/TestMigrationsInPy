@@ -1,0 +1,5 @@
+"commit_hash": "c4d2fc73644de4b84fdb047cab93acc94eb0874e",
+"commit_link": "https://github.com/google/jax/commit/c4d2fc73644de4b84fdb047cab93acc94eb0874e",
+"files": ["tests/array_test.py", "tests/pjit_test.py", "tests/xmap_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

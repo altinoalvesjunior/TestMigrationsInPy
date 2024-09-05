@@ -1,0 +1,5 @@
+"commit_hash": "fcc4d8481df295019945ac7973906f960c58c9fb",
+"commit_link": "https://github.com/beetbox/beets/commit/fcc4d8481df295019945ac7973906f960c58c9fb",
+"files": ["test/plugins/test_bareasc.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "0958dde9c4aa34b057d50a2a9186baaf0e3c54d5",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/0958dde9c4aa34b057d50a2a9186baaf0e3c54d5",
+"files": ["aiohttp/client.py", "aiohttp/client_reqrep.py", "aiohttp/helpers.py", "changes/1198.feature", "docs/client.rst", "docs/client_reference.rst", "tests/test_helpers.py", "tests/test_proxy.py", "tests/test_proxy_functional.py", ]
+"type": "assert"
+"numberOfMigration": ""

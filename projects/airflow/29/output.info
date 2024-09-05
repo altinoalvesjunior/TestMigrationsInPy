@@ -1,0 +1,5 @@
+"commit_hash": "79d3f33c1b65c9c7e7b1a75e25d38cab9aa4517f",
+"commit_link": "https://github.com/apache/airflow/commit/79d3f33c1b65c9c7e7b1a75e25d38cab9aa4517f",
+"files": ["airflow/providers/google/cloud/example_dags/example_dataflow.py", "airflow/providers/google/cloud/hooks/gcs.py", "airflow/providers/google/cloud/operators/dataflow.py", "tests/providers/google/cloud/hooks/test_gcs.py", "tests/providers/google/cloud/operators/test_dataflow.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

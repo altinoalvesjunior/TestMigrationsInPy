@@ -1,0 +1,5 @@
+"commit_hash": "59dd18b3aeae80292f533d8ef1803cbad2eb4869",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/59dd18b3aeae80292f533d8ef1803cbad2eb4869",
+"files": ["pandas/io/stata.py", "pandas/io/tests/test_stata.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "65c880ea2241260b4049ea8af439df9c2e9e65cc",
+"commit_link": "https://github.com/getsentry/sentry/commit/65c880ea2241260b4049ea8af439df9c2e9e65cc",
+"files": ["tests/sentry/web/frontend/test_organization_auth_settings.py", ]
+"type": "assert"
+"numberOfMigration": ""

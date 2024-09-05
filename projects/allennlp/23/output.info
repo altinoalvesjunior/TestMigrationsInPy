@@ -1,0 +1,5 @@
+"commit_hash": "59b70108ec2bab36837563d9c31a44616a1d9c90",
+"commit_link": "https://github.com/allenai/allennlp/commit/59b70108ec2bab36837563d9c31a44616a1d9c90",
+"files": ["allennlp/common/from_params.py", "allennlp/tests/common/registrable_test.py", "allennlp/tests/training/callback_trainer_test.py", "allennlp/tests/training/learning_rate_schedulers/cosine_test.py", "allennlp/tests/training/learning_rate_schedulers/learning_rate_scheduler_test.py", "allennlp/tests/training/learning_rate_schedulers/slanted_triangular_test.py", "allennlp/tests/training/trainer_test.py", "allennlp/training/learning_rate_schedulers/__init__.py", "allennlp/training/learning_rate_schedulers/cosine.py", "allennlp/training/learning_rate_schedulers/learning_rate_scheduler.py", "allennlp/training/optimizers.py", "allennlp/training/trainer.py", ]
+"type": "assert"
+"numberOfMigration": ""
