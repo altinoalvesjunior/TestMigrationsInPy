@@ -1,0 +1,5 @@
+"commit_hash": "cc9b0283124fc4b446d3ea896518f0dd03221f4f",
+"commit_link": "https://github.com/zulip/zulip/commit/cc9b0283124fc4b446d3ea896518f0dd03221f4f",
+"files": ["puppet/zulip/manifests/app_frontend_base.pp", "pyproject.toml", "requirements/common.in", "requirements/dev.txt", "requirements/prod.txt", "version.py", "zerver/lib/rest.py", "zerver/lib/test_runner.py", "zerver/tests/test_upload.py", "zerver/views/upload.py", "zproject/computed_settings.py", "zproject/default_settings.py", "zproject/dev_settings.py", ]
+"type": "assert"
+"numberOfMigration": ""

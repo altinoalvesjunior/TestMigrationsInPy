@@ -1,0 +1,5 @@
+"commit_hash": "9938896d7f1d6bed212e2648f3b0e14c4b1873ec",
+"commit_link": "https://github.com/getsentry/sentry/commit/9938896d7f1d6bed212e2648f3b0e14c4b1873ec",
+"files": ["src/sentry/auth/access.py", "src/sentry/conf/server.py", "src/sentry/static/sentry/app/views/settings/organizationMembers/inviteMember/index.jsx", "tests/js/fixtures/roleList.js", "tests/sentry/api/endpoints/test_team_details.py", ]
+"type": "assert"
+"numberOfMigration": ""

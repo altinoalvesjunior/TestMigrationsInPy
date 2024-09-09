@@ -1,0 +1,5 @@
+"commit_hash": "880a3f95a7a169cc7e6b10da990809fc34eb13ec",
+"commit_link": "https://github.com/zulip/zulip/commit/880a3f95a7a169cc7e6b10da990809fc34eb13ec",
+"files": ["zerver/tests/test_upload.py", "zerver/tests/test_upload_local.py", "zerver/tests/test_upload_s3.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "3cce96793e7a50f5d912669f7ecf31f27813bcf6",
+"commit_link": "https://github.com/streamlit/streamlit/commit/3cce96793e7a50f5d912669f7ecf31f27813bcf6",
+"files": ["lib/streamlit/runtime/app_session.py", "lib/tests/streamlit/runtime/app_session_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

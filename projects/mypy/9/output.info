@@ -1,0 +1,5 @@
+"commit_hash": "bbb192d9aab3803cb172ce4674c026e20606fcb0",
+"commit_link": "https://github.com/python/mypy/commit/bbb192d9aab3803cb172ce4674c026e20606fcb0",
+"files": ["mypy/moduleinspect.py", "mypy/semanal.py", "mypy/stubdoc.py", "mypy/stubgen.py", "mypy/stubgenc.py", "mypy/stubutil.py", "mypy/test/teststubgen.py", "test-data/unit/check-classes.test", "test-data/unit/stubgen.test", ]
+"type": "assert"
+"numberOfMigration": ""

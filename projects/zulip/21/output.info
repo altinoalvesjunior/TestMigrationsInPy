@@ -1,0 +1,5 @@
+"commit_hash": "b95fc4858de35e48019cec99f7723747d066f395",
+"commit_link": "https://github.com/zulip/zulip/commit/b95fc4858de35e48019cec99f7723747d066f395",
+"files": ["corporate/lib/stripe.py", "corporate/tests/test_stripe.py", ]
+"type": "assert"
+"numberOfMigration": ""

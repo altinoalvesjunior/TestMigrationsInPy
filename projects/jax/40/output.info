@@ -1,0 +1,5 @@
+"commit_hash": "7d4835786ae35c09dce18e42b633331f33b2f4fa",
+"commit_link": "https://github.com/google/jax/commit/7d4835786ae35c09dce18e42b633331f33b2f4fa",
+"files": ["jax/experimental/jax2tf/g3doc/primitives_with_limited_support.md", "jax/experimental/jax2tf/jax2tf.py", "jax/experimental/jax2tf/tests/correctness_stats.py", "jax/experimental/jax2tf/tests/primitive_harness.py", "jax/experimental/jax2tf/tests/primitives_test.py", "jax/lax/__init__.py", ]
+"type": "assert"
+"numberOfMigration": ""

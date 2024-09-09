@@ -1,0 +1,5 @@
+"commit_hash": "db97355d56ff11d22943d70decebf543fb732191",
+"commit_link": "https://github.com/allenai/allennlp/commit/db97355d56ff11d22943d70decebf543fb732191",
+"files": ["allennlp/data/dataset.py", "allennlp/data/fields/index_field.py", "allennlp/data/fields/label_field.py", "allennlp/data/fields/list_field.py", "allennlp/data/fields/sequence_label_field.py", "allennlp/data/fields/text_field.py", "allennlp/data/instance.py", "tests/data/dataset_readers/language_modeling_dataset_test.py", "tests/data/dataset_readers/sequence_tagging_test.py", "tests/data/dataset_readers/snli_reader_test.py", "tests/data/dataset_readers/squad_reader_test.py", "tests/data/dataset_readers/squad_sentence_selection_reader_test.py", "tests/data/dataset_readers/srl_dataset_reader_test.py", "tests/data/iterators/basic_iterator_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

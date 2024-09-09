@@ -1,0 +1,5 @@
+"commit_hash": "2a96ab7bd9614be79f349975908b42c676a244ab",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/2a96ab7bd9614be79f349975908b42c676a244ab",
+"files": ["doc/source/whatsnew/v0.19.0.txt", "pandas/io/packers.py", "pandas/io/tests/data/legacy_msgpack/0.18.1/0.18.1_x86_64_darwin_2.7.12.msgpack", "pandas/io/tests/data/legacy_msgpack/0.18.1/0.18.1_x86_64_darwin_3.5.2.msgpack", "pandas/io/tests/data/legacy_pickle/0.18.1/0.18.1_x86_64_darwin_2.7.12.pickle", "pandas/io/tests/data/legacy_pickle/0.18.1/0.18.1_x86_64_darwin_3.5.2.pickle", "pandas/io/tests/generate_legacy_storage_files.py", "pandas/io/tests/test_packers.py", "pandas/io/tests/test_pickle.py", "pandas/lib.pxd", "pandas/src/inference.pyx", "pandas/src/period.pyx", "pandas/tests/indexing/test_indexing.py", "pandas/tests/series/test_constructors.py", "pandas/tests/test_multilevel.py", "pandas/tseries/index.py", "pandas/tseries/tests/test_base.py", "pandas/tseries/tests/test_timeseries.py", "pandas/tseries/tests/test_tslib.py", "pandas/tslib.pyx", ]
+"type": "assert"
+"numberOfMigration": ""

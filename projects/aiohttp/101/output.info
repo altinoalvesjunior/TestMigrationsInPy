@@ -1,0 +1,5 @@
+"commit_hash": "9a9aa6bedb45c73de263865f7388c9d169e0e9d6",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/9a9aa6bedb45c73de263865f7388c9d169e0e9d6",
+"files": ["aiohttp/client_reqrep.py", "aiohttp/streams.py", "aiohttp/web_reqrep.py", "tests/test_streams.py", "tests/test_web_functional.py", ]
+"type": "assert"
+"numberOfMigration": ""

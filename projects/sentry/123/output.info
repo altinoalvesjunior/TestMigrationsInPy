@@ -1,0 +1,5 @@
+"commit_hash": "cdad1b20e3030379df1ee1e90e78d49383427a48",
+"commit_link": "https://github.com/getsentry/sentry/commit/cdad1b20e3030379df1ee1e90e78d49383427a48",
+"files": ["src/sentry/api/bases/organization.py", "src/sentry/api/bases/sentryapps.py", "src/sentry/api/endpoints/organization_sentry_app_installation_details.py", "src/sentry/api/endpoints/sentry_app_authorizations.py", "src/sentry/api/endpoints/sentry_app_details.py", "src/sentry/api/endpoints/sentry_app_installation_details.py", "src/sentry/api/endpoints/sentry_app_installations.py", "src/sentry/api/endpoints/sentry_apps.py", "src/sentry/api/permissions.py", "src/sentry/api/urls.py", "src/sentry/features/helpers.py", "src/sentry/models/sentryapp.py", "src/sentry/testutils/cases.py", "tests/sentry/api/bases/test_sentryapps.py", "tests/sentry/api/endpoints/test_organization_sentry_app_installation_details.py", "tests/sentry/api/endpoints/test_organization_sentry_app_installations.py", "tests/sentry/api/endpoints/test_sentry_app_details.py", "tests/sentry/api/endpoints/test_sentry_apps.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

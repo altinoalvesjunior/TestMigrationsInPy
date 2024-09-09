@@ -1,0 +1,5 @@
+"commit_hash": "e285b1d6c2aaa1fdfe788f1894b0196bc64d1be1",
+"commit_link": "https://github.com/scrapy/scrapy/commit/e285b1d6c2aaa1fdfe788f1894b0196bc64d1be1",
+"files": ["scrapy/downloadermiddlewares/retry.py", "scrapy/downloadermiddlewares/stats.py", "scrapy/utils/misc.py", "scrapy/utils/python.py", "scrapy/utils/response.py", "tests/test_downloadermiddleware_retry.py", "tests/test_proxy_connect.py", ]
+"type": "assert"
+"numberOfMigration": ""

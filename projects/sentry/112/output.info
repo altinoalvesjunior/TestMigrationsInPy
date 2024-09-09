@@ -1,0 +1,5 @@
+"commit_hash": "0239aa7ddf0c9081efe9f0146dc8ffaa8792c129",
+"commit_link": "https://github.com/getsentry/sentry/commit/0239aa7ddf0c9081efe9f0146dc8ffaa8792c129",
+"files": ["src/sentry/api/endpoints/organization_integration_details.py", "src/sentry/api/endpoints/organization_integrations.py", "src/sentry/integrations/example/integration.py", "src/sentry/static/sentry/app/views/projectPlugins/index.jsx", "src/sentry/web/frontend/integration_setup.py", "src/sentry/web/frontend/organization_integration_setup.py", "tests/js/spec/views/projectPlugins/index.spec.jsx", "tests/js/spec/views/projectPlugins/pluginNavigation.integration.spec.jsx", "tests/js/spec/views/projectPlugins/projectPlugins.spec.jsx", "tests/sentry/api/endpoints/test_organization_integration_details.py", "tests/sentry/api/endpoints/test_organization_integrations.py", "tests/sentry/web/frontend/test_organization_integration_setup.py", ]
+"type": "assert"
+"numberOfMigration": ""

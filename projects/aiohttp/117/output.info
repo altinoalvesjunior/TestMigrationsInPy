@@ -1,0 +1,5 @@
+"commit_hash": "bc8fe54df1ad5b06713d469aa22bf25f77df1ee0",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/bc8fe54df1ad5b06713d469aa22bf25f77df1ee0",
+"files": ["aiohttp/client_reqrep.py", "aiohttp/helpers.py", "aiohttp/multipart.py", "aiohttp/payload.py", "tests/test_helpers.py", "tests/test_multipart.py", ]
+"type": "assert"
+"numberOfMigration": ""

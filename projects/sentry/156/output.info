@@ -1,0 +1,5 @@
+"commit_hash": "3c8146142823d4a857f5b7a84de2a612aa9559b4",
+"commit_link": "https://github.com/getsentry/sentry/commit/3c8146142823d4a857f5b7a84de2a612aa9559b4",
+"files": ["src/sentry/api/serializers/models/project.py", "src/sentry/static/sentry/app/views/organizationGroupDetails/groupUserFeedback.jsx", "src/sentry/static/sentry/app/views/settings/project/projectUserFeedback.jsx", "src/sentry/static/sentry/app/views/userFeedback/organizationUserFeedback.jsx", "src/sentry/static/sentry/app/views/userFeedback/userFeedbackEmpty.jsx", "tests/js/spec/views/userFeedback/organizationUserFeedback.spec.jsx", "tests/js/spec/views/userFeedback/userFeedbackEmpty.spec.jsx", "tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/api/serializers/test_project.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "05def2c2ace675a47fc255b96f853992707397e9",
+"commit_link": "https://github.com/getsentry/sentry/commit/05def2c2ace675a47fc255b96f853992707397e9",
+"files": ["src/sentry/coreapi.py", "src/sentry/utils/compat/__init__.py", "src/sentry/web/api.py", "tests/integration/tests.py", ]
+"type": "assert"
+"numberOfMigration": ""

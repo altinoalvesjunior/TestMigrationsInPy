@@ -1,0 +1,5 @@
+"commit_hash": "ba79adb6318d783807dead86cf209f5f7d6f0452",
+"commit_link": "https://github.com/apache/airflow/commit/ba79adb6318d783807dead86cf209f5f7d6f0452",
+"files": ["airflow/providers/microsoft/azure/hooks/wasb.py", "airflow/providers/microsoft/azure/transfers/local_to_wasb.py", "airflow/providers/microsoft/azure/transfers/sftp_to_wasb.py", "tests/providers/microsoft/azure/hooks/test_wasb.py", "tests/providers/microsoft/azure/transfers/test_local_to_wasb.py", "tests/providers/microsoft/azure/transfers/test_sftp_to_wasb.py", ]
+"type": "assert, import, testcase, add Param"
+"numberOfMigration": ""

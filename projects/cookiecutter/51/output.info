@@ -1,0 +1,5 @@
+"commit_hash": "be02f661de1c5a5326557c6a35b4aa93618e1431",
+"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/be02f661de1c5a5326557c6a35b4aa93618e1431",
+"files": ["tests/test_vcs.py", ]
+"type": "assert"
+"numberOfMigration": ""

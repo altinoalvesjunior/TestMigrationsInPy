@@ -1,0 +1,5 @@
+"commit_hash": "690dd7f38bfd245428bdc618dcca1fbc26284df1",
+"commit_link": "https://github.com/scrapy/scrapy/commit/690dd7f38bfd245428bdc618dcca1fbc26284df1",
+"files": ["scrapy/core/http2/protocol.py", "scrapy/core/http2/stream.py", "setup.py", "tests/test_http2_client_protocol.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

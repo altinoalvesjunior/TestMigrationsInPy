@@ -1,0 +1,5 @@
+"commit_hash": "8dd95bd0577ba4f1ccfef439d01b96838670f8f2",
+"commit_link": "https://github.com/zulip/zulip/commit/8dd95bd0577ba4f1ccfef439d01b96838670f8f2",
+"files": ["requirements/dev.in", "requirements/dev.txt", "tools/test-backend", "version.py", "zerver/tests/test_auth_backends.py", "zerver/tests/test_internet.py", ]
+"type": "assert"
+"numberOfMigration": ""

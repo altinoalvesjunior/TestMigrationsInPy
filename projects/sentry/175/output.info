@@ -1,0 +1,5 @@
+"commit_hash": "4db16785d8b19fa2090719ca3398753bafde30f8",
+"commit_link": "https://github.com/getsentry/sentry/commit/4db16785d8b19fa2090719ca3398753bafde30f8",
+"files": ["src/sentry/incidents/subscription_processor.py", "tests/sentry/incidents/test_subscription_processor.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "1732173127ecce503d069300329727065e16e238",
+"commit_link": "https://github.com/aleju/imgaug/commit/1732173127ecce503d069300329727065e16e238",
+"files": ["imgaug/augmentables/lines.py", "test/augmentables/test_lines.py", ]
+"type": "assert"
+"numberOfMigration": ""

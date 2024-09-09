@@ -1,0 +1,5 @@
+"commit_hash": "de13a951b38b85195984164819f1ab05fe508677",
+"commit_link": "https://github.com/huggingface/transformers/commit/de13a951b38b85195984164819f1ab05fe508677",
+"files": ["tests/test_modeling_flax_common.py", ]
+"type": "assert"
+"numberOfMigration": ""

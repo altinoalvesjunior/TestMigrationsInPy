@@ -1,0 +1,5 @@
+"commit_hash": "242bd2721a6533f36a00dee054be85d801b52200",
+"commit_link": "https://github.com/quantopian/zipline/commit/242bd2721a6533f36a00dee054be85d801b52200",
+"files": ["tests/test_algorithm.py", "tests/test_ordering.py", "zipline/test_algorithms.py", ]
+"type": "assert"
+"numberOfMigration": ""

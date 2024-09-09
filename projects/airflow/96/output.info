@@ -1,0 +1,5 @@
+"commit_hash": "ca45bba1478720522fc6b59792d0d0a87f51e2c9",
+"commit_link": "https://github.com/apache/airflow/commit/ca45bba1478720522fc6b59792d0d0a87f51e2c9",
+"files": ["chart/templates/_helpers.yaml", "chart/templates/jobs/migrate-database-job.yaml", "chart/templates/scheduler/scheduler-deployment.yaml", "chart/templates/triggerer/triggerer-deployment.yaml", "chart/templates/webserver/webserver-deployment.yaml", "chart/templates/workers/worker-deployment.yaml", "chart/tests/test_airflow_common.py", "chart/tests/test_migrate_database_job.py", "chart/values.schema.json", "chart/values.yaml", ]
+"type": "import, testcase, add Param"
+"numberOfMigration": ""

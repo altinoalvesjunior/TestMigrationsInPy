@@ -1,0 +1,5 @@
+"commit_hash": "d2f1e00a6afa46c26a334a24217d5bf605bab9fb",
+"commit_link": "https://github.com/scrapy/scrapy/commit/d2f1e00a6afa46c26a334a24217d5bf605bab9fb",
+"files": [".bumpversion.cfg", "docs/faq.rst", "docs/news.rst", "docs/topics/benchmarking.rst", "docs/topics/downloader-middleware.rst", "docs/topics/settings.rst", "docs/topics/signals.rst", "docs/topics/spider-middleware.rst", "docs/topics/spiders.rst", "scrapy/VERSION", "scrapy/core/engine.py", "scrapy/downloadermiddlewares/httpproxy.py", "scrapy/downloadermiddlewares/offsite.py", "scrapy/downloadermiddlewares/redirect.py", "scrapy/settings/default_settings.py", "scrapy/spidermiddlewares/offsite.py", "scrapy/utils/python.py", "tests/test_downloadermiddleware.py", "tests/test_downloadermiddleware_offsite.py", "tests/test_downloadermiddleware_redirect.py", "tests/test_engine.py", "tests/test_utils_project.py", "tox.ini", ]
+"type": "assert, testcase, add Param"
+"numberOfMigration": ""

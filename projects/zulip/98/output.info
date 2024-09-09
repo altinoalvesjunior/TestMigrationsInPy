@@ -1,0 +1,5 @@
+"commit_hash": "6c9e89e6c554d4a43a4eedefc98c16553d13345b",
+"commit_link": "https://github.com/zulip/zulip/commit/6c9e89e6c554d4a43a4eedefc98c16553d13345b",
+"files": ["zerver/tests/test_openapi.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "882512cf95b36b55fb4260316b9d0e2bbe501850",
+"commit_link": "https://github.com/aleju/imgaug/commit/882512cf95b36b55fb4260316b9d0e2bbe501850",
+"files": ["changelogs/master/changed/20200115_changed_defaults.md", "imgaug/augmenters/arithmetic.py", "imgaug/augmenters/blend.py", "imgaug/augmenters/blur.py", "imgaug/augmenters/color.py", "imgaug/augmenters/contrast.py", "imgaug/augmenters/convolutional.py", "imgaug/augmenters/flip.py", "imgaug/augmenters/geometric.py", "imgaug/augmenters/imgcorruptlike.py", "imgaug/augmenters/pooling.py", "imgaug/augmenters/segmentation.py", "imgaug/augmenters/size.py", "test/augmenters/test_arithmetic.py", "test/augmenters/test_color.py", "test/augmenters/test_geometric.py", "test/augmenters/test_segmentation.py", ]
+"type": "assert"
+"numberOfMigration": ""

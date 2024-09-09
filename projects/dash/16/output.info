@@ -1,0 +1,5 @@
+"commit_hash": "40525079c6f6af873ca68faec8ee2743de3c1c2e",
+"commit_link": "https://github.com/plotly/dash/commit/40525079c6f6af873ca68faec8ee2743de3c1c2e",
+"files": ["tests/integration/test_integration.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "09b6fbb589ef1edc5ac5c91f80bb8e4b9a662251",
+"commit_link": "https://github.com/getsentry/sentry/commit/09b6fbb589ef1edc5ac5c91f80bb8e4b9a662251",
+"files": ["tests/sentry/metrics/test_statsd.py", ]
+"type": "fixture, testcase"
+"numberOfMigration": ""

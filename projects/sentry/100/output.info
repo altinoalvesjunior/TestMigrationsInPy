@@ -1,0 +1,5 @@
+"commit_hash": "b832b5d44a6a8d48d5e86d07de6b3cfd9b1b62b4",
+"commit_link": "https://github.com/getsentry/sentry/commit/b832b5d44a6a8d48d5e86d07de6b3cfd9b1b62b4",
+"files": ["requirements-base.txt", "src/sentry/coreapi.py", "src/sentry/interfaces/csp.py", "src/sentry/interfaces/exception.py", "src/sentry/interfaces/http.py", "src/sentry/interfaces/schemas.py", "src/sentry/interfaces/stacktrace.py", "src/sentry/models/eventerror.py", "src/sentry/utils/json.py", "src/sentry/web/api.py", "src/sentry/web/urls.py", "tests/sentry/coreapi/tests.py", "tests/sentry/interfaces/test_csp.py", ]
+"type": "assert"
+"numberOfMigration": ""

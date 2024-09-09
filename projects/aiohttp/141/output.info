@@ -1,0 +1,5 @@
+"commit_hash": "bb5be1bb10f312e6bf942ce5f6b5afdd50090a69",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/bb5be1bb10f312e6bf942ce5f6b5afdd50090a69",
+"files": ["aiohttp/helpers.py", "aiohttp/http_exceptions.py", "aiohttp/multipart.py", "requirements/lint.in", "requirements/lint.txt", "tests/test_flowcontrol_streams.py", "tests/test_formdata.py", "tests/test_helpers.py", "tests/test_http_exceptions.py", "tests/test_http_parser.py", "tests/test_http_writer.py", "tests/test_multipart.py", "tests/test_proxy.py", "tests/test_proxy_functional.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "0c160882306a8e33f92815cc12dc8979f04f8f5e",
+"commit_link": "https://github.com/scrapy/scrapy/commit/0c160882306a8e33f92815cc12dc8979f04f8f5e",
+"files": ["docs/faq.rst", "docs/topics/exceptions.rst", "docs/topics/request-response.rst", "docs/topics/signals.rst", "scrapy/core/downloader/handlers/http11.py", "scrapy/signals.py", "tests/spiders.py", "tests/test_crawl.py", "tests/test_engine.py", "tests/test_engine_stop_download_bytes.py", "tests/test_engine_stop_download_headers.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "0df33b7a26d5248f449acbe9ba66ff4d8702abb3",
+"commit_link": "https://github.com/getsentry/sentry/commit/0df33b7a26d5248f449acbe9ba66ff4d8702abb3",
+"files": ["src/sentry/search/events/builder/metrics.py", "src/sentry/snuba/metrics/mqb_query_transformer.py", "src/sentry/snuba/metrics/query_builder.py", "tests/sentry/search/events/builder/test_metrics.py", "tests/sentry/snuba/metrics/test_mqb_query_transformer.py", ]
+"type": "assert"
+"numberOfMigration": ""

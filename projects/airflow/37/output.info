@@ -1,0 +1,5 @@
+"commit_hash": "f4edd90a94b8f91bbefbbbfba367372399559596",
+"commit_link": "https://github.com/apache/airflow/commit/f4edd90a94b8f91bbefbbbfba367372399559596",
+"files": ["airflow/providers/amazon/aws/hooks/lambda_function.py", "tests/providers/amazon/aws/hooks/test_lambda_function.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

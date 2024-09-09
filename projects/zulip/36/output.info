@@ -1,0 +1,5 @@
+"commit_hash": "ddf8ec33df21ddfba57569f42fcf03a1f143a878",
+"commit_link": "https://github.com/zulip/zulip/commit/ddf8ec33df21ddfba57569f42fcf03a1f143a878",
+"files": ["zerver/lib/upload.py", "zerver/tests/test_realm_export.py", "zerver/tests/test_upload.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "afde7187e22b2013147d0a15911f6ec72e056a43",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/afde7187e22b2013147d0a15911f6ec72e056a43",
+"files": ["doc/source/whatsnew/v0.18.2.txt", "pandas/core/categorical.py", "pandas/core/common.py", "pandas/core/ops.py", "pandas/indexes/base.py", "pandas/indexes/multi.py", "pandas/indexes/numeric.py", "pandas/tests/indexes/test_datetimelike.py", "pandas/tests/indexes/test_numeric.py", "pandas/tests/test_common.py", "pandas/tseries/index.py", "pandas/tseries/period.py", "pandas/tseries/tdi.py", "pandas/tseries/tests/test_base.py", "pandas/tseries/tests/test_period.py", "pandas/tseries/tests/test_timedeltas.py", "pandas/tseries/tests/test_timeseries.py", ]
+"type": "assert"
+"numberOfMigration": ""

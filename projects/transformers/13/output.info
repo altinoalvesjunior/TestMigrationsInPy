@@ -1,0 +1,5 @@
+"commit_hash": "353b8f1e7a7361c0afd9e391381bc226b4a5ca8f",
+"commit_link": "https://github.com/huggingface/transformers/commit/353b8f1e7a7361c0afd9e391381bc226b4a5ca8f",
+"files": ["docs/source/model_doc/bart.rst", "examples/longform-qa/eli5_app.py", "examples/seq2seq/README.md", "examples/seq2seq/finetune.py", "examples/seq2seq/finetune_t5.sh", "examples/seq2seq/test_seq2seq_examples.py", "examples/seq2seq/train_mbart_cc25_enro.sh", "examples/seq2seq/utils.py", "setup.cfg", "src/transformers/tokenization_bart.py", "tests/test_modeling_bart.py", "tests/test_modeling_mbart.py", "tests/test_tokenization_common.py", "tests/test_tokenization_mbart.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "0ade066f44257c5e119b292f4cc2ba105774f4e7",
+"commit_link": "https://github.com/apache/airflow/commit/0ade066f44257c5e119b292f4cc2ba105774f4e7",
+"files": ["airflow/contrib/hooks/spark_submit_hook.py", "airflow/contrib/operators/spark_submit_operator.py", "tests/contrib/hooks/spark_submit_hook.py", "tests/contrib/operators/spark_submit_operator.py", ]
+"type": "assert"
+"numberOfMigration": ""

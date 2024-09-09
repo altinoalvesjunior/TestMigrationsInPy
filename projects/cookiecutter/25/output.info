@@ -1,0 +1,5 @@
+"commit_hash": "220befc6a8d95208bcd94847c211161aca3e710b",
+"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/220befc6a8d95208bcd94847c211161aca3e710b",
+"files": ["tests/test_arg_parsing.py", "tests/test_main.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

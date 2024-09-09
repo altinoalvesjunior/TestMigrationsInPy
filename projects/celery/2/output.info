@@ -1,0 +1,5 @@
+"commit_hash": "6ed45eccb986ae596911b3a1ffa3086df49b2c9a",
+"commit_link": "https://github.com/celery/celery/commit/6ed45eccb986ae596911b3a1ffa3086df49b2c9a",
+"files": ["celery/app/amqp.py", "celery/app/base.py", "celery/canvas.py", "t/unit/tasks/test_canvas.py", ]
+"type": "assert"
+"numberOfMigration": ""

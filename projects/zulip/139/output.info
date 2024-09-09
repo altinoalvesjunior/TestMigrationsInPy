@@ -1,0 +1,5 @@
+"commit_hash": "4cce94b667bf73ff06737ca77acb84aa032c22ad",
+"commit_link": "https://github.com/zulip/zulip/commit/4cce94b667bf73ff06737ca77acb84aa032c22ad",
+"files": ["api_docs/changelog.md", "version.py", "web/src/invite.ts", "web/src/settings_invites.ts", "web/templates/invite_user_modal.hbs", "zerver/actions/create_user.py", "zerver/actions/invites.py", "zerver/migrations/0542_preregistrationuser_notify_referrer_on_join.py", "zerver/models/prereg_users.py", "zerver/openapi/zulip.yaml", "zerver/tests/test_invite.py", "zerver/views/invite.py", ]
+"type": "assert"
+"numberOfMigration": ""

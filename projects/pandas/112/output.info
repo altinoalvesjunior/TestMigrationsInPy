@@ -1,0 +1,5 @@
+"commit_hash": "3ee9000285bb554dc518b7e7ee272117481292d1",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/3ee9000285bb554dc518b7e7ee272117481292d1",
+"files": ["pandas/tests/arithmetic/test_datetime64.py", "pandas/tests/arithmetic/test_timedelta64.py", "pandas/tests/extension/base/ops.py", "pandas/tests/extension/test_boolean.py", "pandas/tests/extension/test_categorical.py", "pandas/tests/extension/test_datetime.py", "pandas/tests/extension/test_period.py", "pandas/tests/frame/test_cumulative.py", "pandas/tests/groupby/test_categorical.py", "pandas/tests/io/parser/test_usecols.py", "pandas/tests/scalar/timedelta/test_arithmetic.py", "pandas/tests/series/test_cumulative.py", "pandas/tests/test_downstream.py", "pandas/tests/test_expressions.py", "pandas/tests/tseries/offsets/test_offsets_properties.py", ]
+"type": "assert"
+"numberOfMigration": ""

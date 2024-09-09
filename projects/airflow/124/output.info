@@ -1,0 +1,5 @@
+"commit_hash": "d7e14ba0d612d8315238f9d0cba4ef8c44b6867c",
+"commit_link": "https://github.com/apache/airflow/commit/d7e14ba0d612d8315238f9d0cba4ef8c44b6867c",
+"files": ["airflow/callbacks/callback_requests.py", "airflow/models/taskinstance.py", "tests/callbacks/test_callback_requests.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

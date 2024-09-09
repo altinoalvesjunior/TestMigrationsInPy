@@ -1,0 +1,5 @@
+"commit_hash": "9eec34f5d8d49f46d71e67015b77541d77a4d0ac",
+"commit_link": "https://github.com/getsentry/sentry/commit/9eec34f5d8d49f46d71e67015b77541d77a4d0ac",
+"files": ["src/sentry/search/events/base.py", "src/sentry/search/events/constants.py", "src/sentry/search/events/fields.py", "src/sentry/search/events/filter.py", "tests/sentry/search/events/test_builder.py", "tests/sentry/snuba/test_discover.py", ]
+"type": "assert"
+"numberOfMigration": ""

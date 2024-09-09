@@ -1,0 +1,5 @@
+"commit_hash": "cb8dd8a428edb98c6d9750950e5572f5337de7d5",
+"commit_link": "https://github.com/certbot/certbot/commit/cb8dd8a428edb98c6d9750950e5572f5337de7d5",
+"files": ["CHANGELOG.md", "acme/acme/challenges.py", "acme/acme/challenges_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

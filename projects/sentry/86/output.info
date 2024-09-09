@@ -1,0 +1,5 @@
+"commit_hash": "abac260de62cef203722bccf830bbb8bdcb5f5a1",
+"commit_link": "https://github.com/getsentry/sentry/commit/abac260de62cef203722bccf830bbb8bdcb5f5a1",
+"files": ["src/sentry/api/bases/project.py", "src/sentry/api/endpoints/project_plugins.py", "src/sentry/api/endpoints/project_releases_token.py", "src/sentry/api/serializers/models/plugin.py", "src/sentry/api/urls.py", "src/sentry/plugins/base/v1.py", "src/sentry/plugins/base/v2.py", "src/sentry/static/sentry/app/components/pluginConfig.jsx", "src/sentry/static/sentry/app/routes.jsx", "src/sentry/static/sentry/app/views/projectReleaseTracking.jsx", "src/sentry/static/sentry/app/views/projectSettings/index.jsx", "src/sentry/templates/sentry/project-release-tracking.html", "src/sentry/templates/sentry/projects/manage.html", "src/sentry/web/frontend/project_release_tracking.py", "src/sentry/web/urls.py", "tests/sentry/api/endpoints/test_project_release_token.py", "tests/sentry/web/frontend/test_project_release_tracking.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "e38348ae8fa54f60e4110546e33d496808620850",
+"commit_link": "https://github.com/huggingface/transformers/commit/e38348ae8fa54f60e4110546e33d496808620850",
+"files": ["src/transformers/testing_utils.py", "tests/models/auto/test_modeling_auto.py", "tests/models/auto/test_modeling_tf_auto.py", "tests/models/auto/test_tokenization_auto.py", "tests/pipelines/test_pipelines_common.py", ]
+"type": "assert"
+"numberOfMigration": ""

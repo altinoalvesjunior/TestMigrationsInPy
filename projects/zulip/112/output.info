@@ -1,0 +1,5 @@
+"commit_hash": "61fc838179b74b0a999320912f472bf680fb880e",
+"commit_link": "https://github.com/zulip/zulip/commit/61fc838179b74b0a999320912f472bf680fb880e",
+"files": ["analytics/tests/test_counts.py", "analytics/tests/test_support_views.py", "corporate/tests/test_stripe.py", "tools/semgrep-py.yml", "zerver/tests/test_auth_backends.py", "zerver/tests/test_digest.py", "zerver/tests/test_email_change.py", "zerver/tests/test_example.py", "zerver/tests/test_gitter_importer.py", "zerver/tests/test_home.py", "zerver/tests/test_invite.py", "zerver/tests/test_muted_users.py", "zerver/tests/test_new_users.py", "zerver/tests/test_presence.py", "zerver/tests/test_sessions.py", "zerver/tests/test_user_groups.py", ]
+"type": "assert"
+"numberOfMigration": ""

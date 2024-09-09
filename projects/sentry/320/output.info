@@ -1,0 +1,5 @@
+"commit_hash": "a3264a8cd0366f1df21c4a12023256bd31416428",
+"commit_link": "https://github.com/getsentry/sentry/commit/a3264a8cd0366f1df21c4a12023256bd31416428",
+"files": ["src/sentry/api/helpers/teams.py", "src/sentry/integrations/slack/views/__init__.py", "src/sentry/integrations/slack/views/link_team.py", "src/sentry/integrations/slack/views/unlink_team.py", "src/sentry/integrations/slack/webhooks/command.py", "src/sentry/models/team.py", "tests/acceptance/test_link_team.py", "tests/sentry/integrations/slack/test_link_team.py", "tests/sentry/integrations/slack/webhooks/commands/test_link_team.py", ]
+"type": "assert"
+"numberOfMigration": ""

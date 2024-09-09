@@ -1,0 +1,5 @@
+"commit_hash": "847e3858a642405b8680f13ee16cd21a72b15a4d",
+"commit_link": "https://github.com/beetbox/beets/commit/847e3858a642405b8680f13ee16cd21a72b15a4d",
+"files": ["test/plugins/test_advancedrewrite.py", "test/plugins/test_art.py", "test/plugins/test_bucket.py", "test/plugins/test_embedart.py", "test/plugins/test_play.py", "test/plugins/test_plugin_mediafield.py", "test/plugins/test_smartplaylist.py", "test/plugins/test_thumbnails.py", "test/plugins/test_types_plugin.py", "test/test_autotag.py", "test/test_config_command.py", "test/test_datequery.py", "test/test_dbcore.py", "test/test_files.py", "test/test_importer.py", "test/test_library.py", "test/test_m3ufile.py", "test/test_pipeline.py", "test/test_plugins.py", "test/test_query.py", "test/test_ui.py", "test/test_ui_commands.py", "test/test_util.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "3c6975394129e7e2c6cc5785c3572f011a5ed98e",
+"commit_link": "https://github.com/getsentry/sentry/commit/3c6975394129e7e2c6cc5785c3572f011a5ed98e",
+"files": ["src/sentry/conf/server.py", "src/sentry/features/permanent.py", "src/sentry/tasks/post_process.py", "tests/sentry/api/endpoints/test_event_committers.py", "tests/sentry/api/serializers/test_organization.py", "tests/sentry/notifications/utils/test_participants.py", "tests/sentry/tasks/test_post_process.py", "tests/sentry/utils/test_committers.py", ]
+"type": "assert"
+"numberOfMigration": ""

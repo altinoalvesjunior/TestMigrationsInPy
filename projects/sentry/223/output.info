@@ -1,0 +1,5 @@
+"commit_hash": "6fd99b7ed52c93f1a00f1dae0535c0535adc92aa",
+"commit_link": "https://github.com/getsentry/sentry/commit/6fd99b7ed52c93f1a00f1dae0535c0535adc92aa",
+"files": ["src/sentry/api/endpoints/group_integration_details.py", "src/sentry/api/serializers/models/integration.py", "src/sentry/integrations/slack/message_builder/issues.py", "src/sentry/integrations/utils/sync.py", "src/sentry/models/externalissue.py", "src/sentry/models/group.py", "src/sentry/models/grouplink.py", "src/sentry/tasks/integrations/sync_status_inbound.py", "tests/sentry/integrations/slack/test_message_builder.py", "tests/sentry/manager/test_group_manager.py", "tests/sentry/manager/test_team_manager.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "4a04fdb43771eaedc400b90321a221d33d3ff2bd",
+"commit_link": "https://github.com/google/jax/commit/4a04fdb43771eaedc400b90321a221d33d3ff2bd",
+"files": ["jax/experimental/jax2tf/tests/sharding_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

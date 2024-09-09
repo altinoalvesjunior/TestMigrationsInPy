@@ -1,0 +1,5 @@
+"commit_hash": "23af534ad2740d321faa48bdbad976ae49a79dec",
+"commit_link": "https://github.com/getsentry/sentry/commit/23af534ad2740d321faa48bdbad976ae49a79dec",
+"files": ["src/sentry/api/endpoints/project_releases.py", "src/sentry/api/serializers/models/release.py", "tests/sentry/api/endpoints/test_organization_release_details.py", "tests/sentry/api/endpoints/test_project_releases.py", "tests/sentry/api/serializers/test_release.py", ]
+"type": "assert"
+"numberOfMigration": ""

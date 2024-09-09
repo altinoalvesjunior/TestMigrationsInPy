@@ -1,0 +1,5 @@
+"commit_hash": "cc5e92e3cc314dff74b5bd3518f5b8c0bfbbd9b2",
+"commit_link": "https://github.com/getsentry/sentry/commit/cc5e92e3cc314dff74b5bd3518f5b8c0bfbbd9b2",
+"files": ["src/sentry/web/forms/accounts.py", "tests/sentry/web/frontend/test_auth_login.py", ]
+"type": "assert"
+"numberOfMigration": ""

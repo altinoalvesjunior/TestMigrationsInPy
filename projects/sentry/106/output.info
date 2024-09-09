@@ -1,0 +1,5 @@
+"commit_hash": "3b75c9b7957caa2eea02443d117badf0015c2d06",
+"commit_link": "https://github.com/getsentry/sentry/commit/3b75c9b7957caa2eea02443d117badf0015c2d06",
+"files": ["requirements-base.txt", "src/sentry/conf/server.py", "src/sentry/coreapi.py", "src/sentry/eventtypes/__init__.py", "src/sentry/eventtypes/csp.py", "src/sentry/eventtypes/security.py", "src/sentry/interfaces/base.py", "src/sentry/interfaces/csp.py", "src/sentry/interfaces/schemas.py", "src/sentry/interfaces/security.py", "src/sentry/utils/csp.py", "src/sentry/web/api.py", "src/sentry/web/urls.py", "tests/integration/tests.py", "tests/sentry/coreapi/tests.py", "tests/sentry/interfaces/test_security.py", "tests/sentry/utils/test_csp.py", "tests/sentry/web/api/tests.py", ]
+"type": "assert, testcase, add Param"
+"numberOfMigration": ""

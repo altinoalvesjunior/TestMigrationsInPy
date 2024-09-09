@@ -1,0 +1,5 @@
+"commit_hash": "eda0ef11d67f482fe50bbe581685b8b6a284afb9",
+"commit_link": "https://github.com/beetbox/beets/commit/eda0ef11d67f482fe50bbe581685b8b6a284afb9",
+"files": ["test/plugins/test_export.py", "test/test_dbcore.py", "test/test_library.py", "test/test_logging.py", ]
+"type": "assert"
+"numberOfMigration": ""

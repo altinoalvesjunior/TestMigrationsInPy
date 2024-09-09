@@ -1,0 +1,5 @@
+"commit_hash": "637e112e381760143020e1d9856cbdae4b8978c3",
+"commit_link": "https://github.com/python/mypy/commit/637e112e381760143020e1d9856cbdae4b8978c3",
+"files": ["mypyc/buildc.py", "mypyc/emit.py", "mypyc/emitclass.py", "mypyc/emitfunc.py", "mypyc/emitmodule.py", "mypyc/emitwrapper.py", "mypyc/genops.py", "mypyc/namegen.py", "mypyc/ops.py", "mypyc/test/test_analysis.py", "mypyc/test/test_emit.py", "mypyc/test/test_emitfunc.py", "mypyc/test/test_emitmodule.py", "mypyc/test/test_emitwrapper.py", "mypyc/test/test_genops.py", "mypyc/test/test_namegen.py", "mypyc/test/test_run.py", "mypyc/test/testutil.py", "test-data/run-multimodule.test", ]
+"type": "assert"
+"numberOfMigration": ""

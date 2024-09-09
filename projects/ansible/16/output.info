@@ -1,0 +1,5 @@
+"commit_hash": "d877c146ab750c0f1505b4180e4170163d854fb5",
+"commit_link": "https://github.com/ansible/ansible/commit/d877c146ab750c0f1505b4180e4170163d854fb5",
+"files": ["lib/ansible/module_utils/network/common/utils.py", "lib/ansible/modules/cloud/amazon/ec2_group.py", "test/integration/targets/ec2_group/tasks/main.yml", "test/units/module_utils/network/common/test_utils.py", ]
+"type": "assert, import, testcase"
+"numberOfMigration": ""

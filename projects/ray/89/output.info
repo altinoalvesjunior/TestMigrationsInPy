@@ -1,0 +1,5 @@
+"commit_hash": "96b44adf67cd0971703ea8873a8b88750d33d78b",
+"commit_link": "https://github.com/ray-project/ray/commit/96b44adf67cd0971703ea8873a8b88750d33d78b",
+"files": ["python/ray/tune/BUILD", "python/ray/tune/examples/xgboost_dynamic_resources_example.py", "python/ray/tune/ray_trial_executor.py", "python/ray/tune/schedulers/pbt.py", "python/ray/tune/schedulers/trial_scheduler.py", "python/ray/tune/tests/test_cluster.py", "python/ray/tune/tests/test_trial_scheduler.py", "python/ray/tune/tests/test_trial_scheduler_pbt.py", "python/ray/tune/trial_executor.py", "python/ray/tune/trial_runner.py", "python/ray/tune/tune.py", "python/ray/tune/utils/placement_groups.py", ]
+"type": "assert, add Param"
+"numberOfMigration": ""

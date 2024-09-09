@@ -1,0 +1,5 @@
+"commit_hash": "c4b83b7eda460baa4a3547972d8955b4627e1a05",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/c4b83b7eda460baa4a3547972d8955b4627e1a05",
+"files": ["ci/install.sh", "doc/source/release.rst", "pandas/io/tests/test_data.py", "pandas/tools/tests/test_util.py", "pandas/tslib.pyx", "pandas/util/testing.py", ]
+"type": "assert"
+"numberOfMigration": ""

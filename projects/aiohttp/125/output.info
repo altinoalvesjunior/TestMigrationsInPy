@@ -1,0 +1,5 @@
+"commit_hash": "11f4efe8398aced01624f64ba31c2e4fbde0f060",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/11f4efe8398aced01624f64ba31c2e4fbde0f060",
+"files": ["CHANGES/2555.feature", "CHANGES/2555.removal", "aiohttp/_http_parser.pyx", "aiohttp/client_reqrep.py", "aiohttp/http_parser.py", "aiohttp/streams.py", "tests/test_client_functional.py", "tests/test_flowcontrol_streams.py", "tests/test_http_parser.py", "tests/test_multipart.py", "tests/test_streams.py", "tests/test_web_functional.py", "tests/test_web_protocol.py", "tests/test_web_request.py", ]
+"type": "assert, fixture, testcase"
+"numberOfMigration": ""

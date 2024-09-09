@@ -1,0 +1,5 @@
+"commit_hash": "b39468d2878554ba60863656364b4a95eda30685",
+"commit_link": "https://github.com/apache/airflow/commit/b39468d2878554ba60863656364b4a95eda30685",
+"files": ["airflow/providers/mysql/hooks/mysql.py", "docs/howto/connection/mysql.rst", "docs/howto/initialize-database.rst", "setup.py", "tests/operators/test_generic_transfer.py", "tests/providers/mysql/hooks/test_mysql.py", "tests/providers/mysql/operators/test_mysql.py", ]
+"type": "assert"
+"numberOfMigration": ""

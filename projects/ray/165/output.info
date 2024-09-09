@@ -1,0 +1,5 @@
+"commit_hash": "f66f1cc0b8c081e243bca126e6810f9317e40f4a",
+"commit_link": "https://github.com/ray-project/ray/commit/f66f1cc0b8c081e243bca126e6810f9317e40f4a",
+"files": [".buildkite/build.rayci.yml", ".buildkite/core.rayci.yml", ".buildkite/ml.rayci.yml", ".buildkite/serve.rayci.yml", "ci/k8s/run-chaos-test.sh", "ci/k8s/run-operator-tests.sh", "ci/ray_ci/builder.py", "ci/ray_ci/docker_container.py", "ci/ray_ci/test_anyscale_docker_container.py", "ci/ray_ci/test_base.py", "ci/ray_ci/test_ray_docker_container.py", "python/ray/_private/test_utils.py", "python/ray/tests/runtime_env_container/test_log_file_exists.py", "python/ray/tests/runtime_env_container/test_put_get.py", "python/ray/tests/runtime_env_container/test_ray_env_vars.py", "python/ray/tests/runtime_env_container/test_serve_basic.py", "python/ray/tests/runtime_env_container/test_serve_telemetry.py", "python/ray/tests/runtime_env_container/test_shared_memory.py", "python/ray/tests/runtime_env_container/test_worker_exit_intended_system_exit_and_user_error.py", "python/ray/tests/test_client_warnings.py", ]
+"type": "assert"
+"numberOfMigration": ""

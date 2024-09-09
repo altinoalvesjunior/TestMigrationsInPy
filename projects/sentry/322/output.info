@@ -1,0 +1,5 @@
+"commit_hash": "e5ee0aa57bcd69a89a7b5cb024e65b3967d55018",
+"commit_link": "https://github.com/getsentry/sentry/commit/e5ee0aa57bcd69a89a7b5cb024e65b3967d55018",
+"files": ["src/sentry/notifications/helpers.py", "tests/sentry/api/endpoints/test_organization_invite_request_index.py", "tests/sentry/api/serializers/test_group.py", "tests/sentry/api/serializers/test_project.py", "tests/sentry/incidents/action_handlers/test_email.py", "tests/sentry/incidents/endpoints/test_organization_alert_rule_details.py", "tests/sentry/integrations/slack/notifications/test_deploy.py", "tests/sentry/mail/activity/test_release.py", "tests/sentry/mail/test_adapter.py", "tests/sentry/models/test_groupsubscription.py", "tests/sentry/models/test_project.py", "tests/sentry/notifications/test_notificationcontroller.py", "tests/sentry/notifications/utils/test_participants.py", "tests/snuba/api/serializers/test_group.py", ]
+"type": "assert"
+"numberOfMigration": ""

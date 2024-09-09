@@ -1,0 +1,5 @@
+"commit_hash": "07d89958ee4fa22f1b4fc1fc58a583ddcf4c4f2b",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/07d89958ee4fa22f1b4fc1fc58a583ddcf4c4f2b",
+"files": ["tests/test_connector.py", ]
+"type": "assert, fixture, skip, testcase"
+"numberOfMigration": ""

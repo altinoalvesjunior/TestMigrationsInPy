@@ -1,0 +1,5 @@
+"commit_hash": "13ccf2d4051a858b615edf7728d45048f3501f59",
+"commit_link": "https://github.com/getsentry/sentry/commit/13ccf2d4051a858b615edf7728d45048f3501f59",
+"files": ["src/sentry/models/externalissue.py", "src/sentry/tasks/integrations.py", "src/sentry/tasks/integrations/__init__.py", "src/sentry/tasks/integrations/create_comment.py", "src/sentry/tasks/integrations/kick_off_status_syncs.py", "src/sentry/tasks/integrations/kickoff_vsts_subscription_check.py", "src/sentry/tasks/integrations/migrate_repo.py", "src/sentry/tasks/integrations/sync_assignee_outbound.py", "src/sentry/tasks/integrations/sync_metadata.py", "src/sentry/tasks/integrations/sync_status_inbound.py", "src/sentry/tasks/integrations/sync_status_outbound.py", "src/sentry/tasks/integrations/update_comment.py", "src/sentry/tasks/integrations/vsts_subscription_check.py", "tests/sentry/tasks/integrations/__init__.py", "tests/sentry/tasks/integrations/test_kickoff_vsts_subscription_check.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "81450244d05ec04884cdafc74fc927514eb5302a",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/81450244d05ec04884cdafc74fc927514eb5302a",
+"files": ["aiohttp/client.py", "aiohttp/hdrs.py", "aiohttp/helpers.py", "aiohttp/protocol.py", "aiohttp/test_utils.py", "aiohttp/web_urldispatcher.py", "setup.py", "tests/test_client_request.py", "tests/test_client_response.py", "tests/test_helpers.py", "tests/test_http_parser.py", "tests/test_multipart.py", "tests/test_protocol.py", "tests/test_proxy.py", "tests/test_server.py", "tests/test_web_exceptions.py", "tests/test_web_request.py", "tests/test_web_response.py", "tests/test_websocket_handshake.py", ]
+"type": "assert"
+"numberOfMigration": ""

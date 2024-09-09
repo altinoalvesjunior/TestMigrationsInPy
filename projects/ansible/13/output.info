@@ -1,0 +1,5 @@
+"commit_hash": "58fdbe741544c64a18a06356917a48a9643cc316",
+"commit_link": "https://github.com/ansible/ansible/commit/58fdbe741544c64a18a06356917a48a9643cc316",
+"files": ["test/units/modules/packaging/os/conftest.py", "test/units/modules/packaging/os/test_rhn_channel.py", "test/units/modules/packaging/os/test_rhn_register.py", ]
+"type": "assert, fixture, import, skip, add Param"
+"numberOfMigration": ""

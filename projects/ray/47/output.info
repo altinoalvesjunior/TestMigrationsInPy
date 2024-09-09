@@ -1,0 +1,5 @@
+"commit_hash": "6c49c01837ef9d83b998a2ec1a269a1a6767fc66",
+"commit_link": "https://github.com/ray-project/ray/commit/6c49c01837ef9d83b998a2ec1a269a1a6767fc66",
+"files": ["ci/jenkins_tests/run_tune_tests.sh", "doc/source/tune/_tutorials/tune-60-seconds.rst", "doc/source/tune/_tutorials/tune-usage.rst", "doc/source/tune/api_docs/trainable.rst", "python/ray/tune/BUILD", "python/ray/tune/__init__.py", "python/ray/tune/durable_trainable.py", "python/ray/tune/examples/hyperband_function_example.py", "python/ray/tune/examples/pbt_function.py", "python/ray/tune/experiment.py", "python/ray/tune/function_runner.py", "python/ray/tune/ray_trial_executor.py", "python/ray/tune/schedulers/hyperband.py", "python/ray/tune/session.py", "python/ray/tune/suggest/ax.py", "python/ray/tune/tests/test_cluster.py", "python/ray/tune/tests/test_function_api.py", "python/ray/tune/tests/test_track.py", "python/ray/tune/trainable.py", "python/ray/tune/trial_runner.py", "python/ray/tune/tune.py", ]
+"type": "assert"
+"numberOfMigration": ""

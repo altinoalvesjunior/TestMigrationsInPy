@@ -1,0 +1,5 @@
+"commit_hash": "81b5f50ae99eeadbaac093caa4cb41f1a51ca735",
+"commit_link": "https://github.com/apache/airflow/commit/81b5f50ae99eeadbaac093caa4cb41f1a51ca735",
+"files": ["airflow/providers/asana/CHANGELOG.rst", "airflow/providers/asana/hooks/asana.py", "tests/providers/asana/hooks/test_asana.py", ]
+"type": "assert, import, testcase, add Param"
+"numberOfMigration": ""

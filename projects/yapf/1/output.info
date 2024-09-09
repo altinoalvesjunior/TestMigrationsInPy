@@ -1,0 +1,5 @@
+"commit_hash": "9fb475bb608f8d91f3c1e58f042ba76a5623af72",
+"commit_link": "https://github.com/google/yapf/commit/9fb475bb608f8d91f3c1e58f042ba76a5623af72",
+"files": ["yapftests/reformatter_basic_test.py", "yapftests/reformatter_buganizer_test.py", "yapftests/reformatter_facebook_test.py", "yapftests/reformatter_pep8_test.py", "yapftests/reformatter_python3_test.py", "yapftests/reformatter_style_config_test.py", "yapftests/reformatter_test.py", "yapftests/reformatter_verify_test.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

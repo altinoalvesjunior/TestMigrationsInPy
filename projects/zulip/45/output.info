@@ -1,0 +1,5 @@
+"commit_hash": "152508e346cdf66fb707d9a62a846aa3034b15b4",
+"commit_link": "https://github.com/zulip/zulip/commit/152508e346cdf66fb707d9a62a846aa3034b15b4",
+"files": ["zerver/lib/actions.py", "zerver/lib/user_mutes.py", "zerver/tests/test_events.py", "zerver/tests/test_muting_users.py", "zerver/views/muting.py", ]
+"type": "assert"
+"numberOfMigration": ""

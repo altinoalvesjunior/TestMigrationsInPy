@@ -1,0 +1,5 @@
+"commit_hash": "4a4292bc296431fdb937d4ae785d649130e57164",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/4a4292bc296431fdb937d4ae785d649130e57164",
+"files": ["pandas/tests/test_graphics.py", "pandas/tests/test_groupby.py", "pandas/tests/test_indexing.py", "pandas/tools/tests/test_merge.py", ]
+"type": "assert"
+"numberOfMigration": ""

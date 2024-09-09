@@ -1,0 +1,5 @@
+"commit_hash": "c3af681edf5988d9f9b2aa58c3eb7c97b2f91ca3",
+"commit_link": "https://github.com/apache/airflow/commit/c3af681edf5988d9f9b2aa58c3eb7c97b2f91ca3",
+"files": ["tests/jobs/test_base_job.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

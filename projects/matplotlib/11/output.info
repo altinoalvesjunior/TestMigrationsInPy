@@ -1,0 +1,5 @@
+"commit_hash": "c4a19c12ebb95fcccc9cd3f2aba14ef3584ddc06",
+"commit_link": "https://github.com/matplotlib/matplotlib/commit/c4a19c12ebb95fcccc9cd3f2aba14ef3584ddc06",
+"files": ["lib/matplotlib/testing/compare.py", ]
+"type": "skip"
+"numberOfMigration": ""

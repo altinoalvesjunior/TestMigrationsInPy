@@ -1,0 +1,5 @@
+"commit_hash": "d262bae88b53365df222242bf1f4a5b7498c8210",
+"commit_link": "https://github.com/google/jax/commit/d262bae88b53365df222242bf1f4a5b7498c8210",
+"files": ["jax/_src/api.py", "jax/_src/device_array.py", "jax/_src/dispatch.py", "jax/_src/dlpack.py", "jax/_src/lax/lax.py", "jax/_src/numpy/lax_numpy.py", "jax/_src/test_util.py", "jax/core.py", "jax/experimental/djax.py", "jax/experimental/host_callback.py", "jax/experimental/jax2tf/jax2tf.py", "jax/experimental/jax2tf/tests/primitive_harness.py", "jax/experimental/jet.py", "jax/experimental/maps.py", "jax/interpreters/batching.py", "jax/interpreters/mlir.py", "jax/interpreters/pxla.py", "jax/interpreters/sharded_jit.py", "jax/interpreters/xla.py", "jax/numpy/__init__.py", "tests/api_test.py", "tests/custom_object_test.py", "tests/dtypes_test.py", "tests/lax_control_flow_test.py", "tests/lax_numpy_test.py", "tests/lax_test.py", "tests/multi_device_test.py", "tests/pmap_test.py", "tests/xla_interpreter_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

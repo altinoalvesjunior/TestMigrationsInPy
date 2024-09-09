@@ -1,0 +1,5 @@
+"commit_hash": "cfb9c98ec2a039ec74d6c9f44bd132ad18f21bf7",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/cfb9c98ec2a039ec74d6c9f44bd132ad18f21bf7",
+"files": ["doc/source/release.rst", "doc/source/v0.13.1.txt", "pandas/core/format.py", "pandas/tests/test_format.py", "pandas/tseries/index.py", "pandas/tseries/tests/test_timezones.py", "pandas/tslib.pyx", ]
+"type": "assert"
+"numberOfMigration": ""

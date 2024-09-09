@@ -1,0 +1,5 @@
+"commit_hash": "0042e02db2775a6eb80c51f121680b4807293ff6",
+"commit_link": "https://github.com/getsentry/sentry/commit/0042e02db2775a6eb80c51f121680b4807293ff6",
+"files": ["Makefile", "pyproject.toml", "src/sentry/api/endpoints/artifact_lookup.py", "src/sentry/lang/javascript/processing.py", "src/sentry/testutils/skips.py", "src/sentry/utils/pytest/fixtures.py", "tests/relay_integration/lang/javascript/test_example.py", "tests/relay_integration/lang/javascript/test_plugin.py", "tests/symbolicator/snapshots/TestSymbolicatorSourceMapIntegration/test_symbolicator_roundtrip/0.pysnap", "tests/symbolicator/snapshots/TestSymbolicatorSourceMapIntegration/test_symbolicator_roundtrip/1.pysnap", "tests/symbolicator/test_sourcemap.py", ]
+"type": "fixture"
+"numberOfMigration": ""

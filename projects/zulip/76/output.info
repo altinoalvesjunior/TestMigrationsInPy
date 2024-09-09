@@ -1,0 +1,5 @@
+"commit_hash": "c572d9be5a3a6c7bfe14e3637b784b30e691bfaa",
+"commit_link": "https://github.com/zulip/zulip/commit/c572d9be5a3a6c7bfe14e3637b784b30e691bfaa",
+"files": ["corporate/lib/stripe.py", "corporate/tests/test_stripe.py", "zerver/lib/import_realm.py", "zerver/tests/test_email_mirror.py", "zerver/tests/test_email_notifications.py", "zerver/tests/test_import_export.py", "zerver/tests/test_link_embed.py", "zerver/tests/test_markdown.py", "zerver/tests/test_message_edit.py", "zerver/tests/test_scim.py", ]
+"type": "assert"
+"numberOfMigration": ""

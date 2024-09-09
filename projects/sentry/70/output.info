@@ -1,0 +1,5 @@
+"commit_hash": "e995a54054f1157df34a09a7ca41b375bb749f16",
+"commit_link": "https://github.com/getsentry/sentry/commit/e995a54054f1157df34a09a7ca41b375bb749f16",
+"files": ["src/sentry/interfaces/stacktrace.py", "src/sentry/static/sentry/app/components/events/interfaces/frame.jsx", "tests/sentry/interfaces/test_stacktrace.py", ]
+"type": "assert"
+"numberOfMigration": ""

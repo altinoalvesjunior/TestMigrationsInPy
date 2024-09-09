@@ -1,0 +1,5 @@
+"commit_hash": "0a7085cdf72f2528b949340e6d848af54c6857c3",
+"commit_link": "https://github.com/getsentry/sentry/commit/0a7085cdf72f2528b949340e6d848af54c6857c3",
+"files": ["src/sentry/monitors/consumers/monitor_consumer.py", "src/sentry/monitors/endpoints/base.py", "src/sentry/monitors/endpoints/monitor_ingest_checkin_index.py", "src/sentry/monitors/endpoints/organization_monitor_details.py", "src/sentry/monitors/endpoints/organization_monitor_index.py", "src/sentry/monitors/logic/mark_failed.py", "src/sentry/monitors/logic/mark_ok.py", "src/sentry/monitors/models.py", "src/sentry/monitors/tasks.py", "src/sentry/monitors/validators.py", "tests/sentry/monitors/endpoints/test_monitor_ingest_checkin_index.py", "tests/sentry/monitors/endpoints/test_organization_monitor_details.py", "tests/sentry/monitors/endpoints/test_organization_monitor_index.py", "tests/sentry/monitors/logic/test_mark_failed.py", "tests/sentry/monitors/test_monitor_consumer.py", "tests/sentry/monitors/test_tasks.py", ]
+"type": "assert"
+"numberOfMigration": ""

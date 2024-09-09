@@ -1,0 +1,5 @@
+"commit_hash": "99bd5cdacc8299b73e64fe95c8528c4d23f4234d",
+"commit_link": "https://github.com/apache/airflow/commit/99bd5cdacc8299b73e64fe95c8528c4d23f4234d",
+"files": ["tests/integration/executors/test_celery_executor.py", "tests/integration/providers/google/cloud/transfers/test_presto_to_gcs.py", "tests/integration/providers/google/cloud/transfers/test_trino_to_gcs.py", ]
+"type": "assert, testcase, add Param"
+"numberOfMigration": ""

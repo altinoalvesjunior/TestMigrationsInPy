@@ -1,0 +1,5 @@
+"commit_hash": "e94d7cd092d813d88c2216fca3ca6bd48e0747a3",
+"commit_link": "https://github.com/getsentry/sentry/commit/e94d7cd092d813d88c2216fca3ca6bd48e0747a3",
+"files": ["src/sentry/api/endpoints/accept_organization_invite.py", "src/sentry/api/invite_helper.py", "src/sentry/api/urls.py", "src/sentry/models/organizationmember.py", "src/sentry/web/frontend/debug/mail.py", "src/sentry/web/urls.py", "tests/sentry/api/endpoints/test_accept_organization_invite.py", ]
+"type": "assert"
+"numberOfMigration": ""

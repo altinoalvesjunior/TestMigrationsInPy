@@ -1,0 +1,5 @@
+"commit_hash": "5e276d0935c68137b7410acfbc115361057f2f5f",
+"commit_link": "https://github.com/google/jax/commit/5e276d0935c68137b7410acfbc115361057f2f5f",
+"files": ["jax/_src/config.py", "jax/_src/traceback_util.py", "jax/errors.py", "tests/errors_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "f08156ab7c525955163d522c1eff11e7d9a52f8c",
+"commit_link": "https://github.com/google/jax/commit/f08156ab7c525955163d522c1eff11e7d9a52f8c",
+"files": ["CHANGELOG.md", "jax/_src/config.py", "jax/_src/test_util.py", "jax/experimental/host_callback.py", "tests/host_callback_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

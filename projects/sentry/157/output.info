@@ -1,0 +1,5 @@
+"commit_hash": "59b12592f478a82bfb0cbf6822263fce769dcbd0",
+"commit_link": "https://github.com/getsentry/sentry/commit/59b12592f478a82bfb0cbf6822263fce769dcbd0",
+"files": ["src/sentry/incidents/models.py", "src/sentry/incidents/subscription_processor.py", "src/sentry/south_migrations/0512_alert_rule_incident_triggers.py", "tests/sentry/incidents/test_subscription_processor.py", "tests/snuba/incidents/test_tasks.py", ]
+"type": "assert"
+"numberOfMigration": ""

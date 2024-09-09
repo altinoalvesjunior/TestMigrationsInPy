@@ -1,0 +1,5 @@
+"commit_hash": "1e47a005191f12ea4177934597931d2d29145513",
+"commit_link": "https://github.com/python/mypy/commit/1e47a005191f12ea4177934597931d2d29145513",
+"files": ["mypyc/compiler.py", "mypyc/emitter.py", "mypyc/test/test_emitter.py", ]
+"type": "assert"
+"numberOfMigration": ""

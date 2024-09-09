@@ -1,0 +1,5 @@
+"commit_hash": "47f26ee11c84b28e3eac0379c9c3e3112de1b32d",
+"commit_link": "https://github.com/ansible/ansible/commit/47f26ee11c84b28e3eac0379c9c3e3112de1b32d",
+"files": ["test/units/module_utils/basic/test__symbolic_mode_to_octal.py", "test/units/module_utils/test_basic.py", ]
+"type": "assert, add Param"
+"numberOfMigration": ""

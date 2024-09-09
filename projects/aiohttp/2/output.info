@@ -1,0 +1,5 @@
+"commit_hash": "7698eeef62b0ef413ab58c2b53a1f2c094c6cdeb",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/7698eeef62b0ef413ab58c2b53a1f2c094c6cdeb",
+"files": ["tests/test_helpers.py", ]
+"type": "assert, import, testcase"
+"numberOfMigration": ""

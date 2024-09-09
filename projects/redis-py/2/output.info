@@ -1,0 +1,5 @@
+"commit_hash": "4b0e43eedc457b7f3c41885427c3fc5bd4ade7d1",
+"commit_link": "https://github.com/andymccurdy/redis-py/commit/4b0e43eedc457b7f3c41885427c3fc5bd4ade7d1",
+"files": ["redis/_compat.py", "tests/test_connection_pool.py", ]
+"type": "assert, import, testcase"
+"numberOfMigration": ""

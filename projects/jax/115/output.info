@@ -1,0 +1,5 @@
+"commit_hash": "5c2635c2058b83249a066eeb2e914b84b7aa1d57",
+"commit_link": "https://github.com/google/jax/commit/5c2635c2058b83249a066eeb2e914b84b7aa1d57",
+"files": ["tests/shard_map_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

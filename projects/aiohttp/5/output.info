@@ -1,0 +1,5 @@
+"commit_hash": "b484d2da6fe48bda825e3a25cc74a43d4debbcf5",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/b484d2da6fe48bda825e3a25cc74a43d4debbcf5",
+"files": [".travis.yml", "requirements-dev.txt", "tests/conftest.py", "tests/test_client_session.py", ]
+"type": "assert, fixture, import, testcase"
+"numberOfMigration": ""

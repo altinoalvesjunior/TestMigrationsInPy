@@ -1,0 +1,5 @@
+"commit_hash": "54ceb6fd48ff4c4add2107a460376fc72c2b76e9",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/54ceb6fd48ff4c4add2107a460376fc72c2b76e9",
+"files": ["CHANGES/7583.feature", "CONTRIBUTORS.txt", "aiohttp/cookiejar.py", "tests/test_cookiejar.py", ]
+"type": "assert, add Param"
+"numberOfMigration": ""

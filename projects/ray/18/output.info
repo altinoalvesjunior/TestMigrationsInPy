@@ -1,0 +1,5 @@
+"commit_hash": "ed6289771a3b7ffde78e6a5f5ba1c75f1e001105",
+"commit_link": "https://github.com/ray-project/ray/commit/ed6289771a3b7ffde78e6a5f5ba1c75f1e001105",
+"files": [".travis.yml", "test/runtest.py", "test/stress_tests.py", ]
+"type": "fixture, import, skip, testcase"
+"numberOfMigration": ""

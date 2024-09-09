@@ -1,0 +1,5 @@
+"commit_hash": "d55ea510e29540f6e3ba79141bf5f6cceefc20d4",
+"commit_link": "https://github.com/google/jax/commit/d55ea510e29540f6e3ba79141bf5f6cceefc20d4",
+"files": [".travis.yml", "jax/api.py", "jax/dlpack.py", "jax/experimental/host_callback.py", "jax/interpreters/pxla.py", "jax/interpreters/sharded_jit.py", "jax/interpreters/xla.py", "jax/lax/lax.py", "jax/lax/lax_control_flow.py", "jax/lax/lax_parallel.py", "jax/lax_linalg.py", "jax/lazy.py", "jax/lib/__init__.py", "jax/lib/xla_bridge.py", "jax/random.py", "jax/tools/jax_to_hlo.py", "jaxlib/cuda_prng.py", "jaxlib/cusolver.py", "jaxlib/lapack.pyx", "tests/api_test.py", "tests/host_callback_test.py", "tests/infeed_test.py", "tests/lax_control_flow_test.py", "tests/xla_bridge_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

@@ -1,0 +1,5 @@
+"commit_hash": "58173914f4e7009df583b312630919dceff3ff57",
+"commit_link": "https://github.com/ray-project/ray/commit/58173914f4e7009df583b312630919dceff3ff57",
+"files": ["doc/source/ray-air/examples/huggingface_text_classification.ipynb", "doc/source/tune/api_docs/integration.rst", "doc/source/tune/examples/tune-mlflow.ipynb", "python/ray/air/BUILD", "python/ray/air/_internal/mlflow.py", "python/ray/air/integrations/mlflow.py", "python/ray/air/integrations/wandb.py", "python/ray/air/tests/test_integration_comet.py", "python/ray/air/tests/test_integration_mlflow.py", "python/ray/air/tests/test_integration_wandb.py", "python/ray/air/tests/test_mlflow.py", "python/ray/tune/BUILD", "python/ray/tune/examples/mlflow_example.py", "python/ray/tune/examples/mlflow_ptl.py", "python/ray/tune/integration/mlflow.py", "python/ray/tune/integration/wandb.py", "python/ray/tune/tests/test_client.py", "python/ray/tune/trainable/session.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

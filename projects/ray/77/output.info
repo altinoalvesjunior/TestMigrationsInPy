@@ -1,0 +1,5 @@
+"commit_hash": "e8f8e9f3285473fc33b3980ba29f465d4a6461e4",
+"commit_link": "https://github.com/ray-project/ray/commit/e8f8e9f3285473fc33b3980ba29f465d4a6461e4",
+"files": ["doc/source/tune/api_docs/search_space.rst", "doc/source/tune/key-concepts.rst", "python/ray/tune/sample.py", "python/ray/tune/suggest/ax.py", "python/ray/tune/suggest/bohb.py", "python/ray/tune/suggest/hebo.py", "python/ray/tune/suggest/hyperopt.py", "python/ray/tune/suggest/nevergrad.py", "python/ray/tune/suggest/optuna.py", "python/ray/tune/suggest/skopt.py", "python/ray/tune/suggest/zoopt.py", "python/ray/tune/tests/test_sample.py", "python/requirements/tune/requirements_tune.txt", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

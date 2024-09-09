@@ -1,0 +1,5 @@
+"commit_hash": "de0563616bb48443a5f6286e1b7726ff780ec694",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/de0563616bb48443a5f6286e1b7726ff780ec694",
+"files": ["doc/source/release.rst", "doc/source/timeseries.rst", "doc/source/v0.13.0.txt", "pandas/tseries/frequencies.py", "pandas/tseries/offsets.py", "pandas/tseries/tests/test_frequencies.py", "pandas/tseries/tests/test_offsets.py", "pandas/tseries/tests/test_period.py", "pandas/tseries/tests/test_timeseries.py", "pandas/tseries/tests/test_tslib.py", "pandas/tslib.pyx", ]
+"type": "assert"
+"numberOfMigration": ""

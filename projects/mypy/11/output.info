@@ -1,0 +1,5 @@
+"commit_hash": "68763aecddbb4edad90e7ed896db08ef9acbdfd5",
+"commit_link": "https://github.com/python/mypy/commit/68763aecddbb4edad90e7ed896db08ef9acbdfd5",
+"files": ["mypyc/codegen/emitfunc.py", "mypyc/ir/ops.py", "mypyc/ir/rtypes.py", "mypyc/irbuild/builder.py", "mypyc/irbuild/for_helpers.py", "mypyc/irbuild/ll_builder.py", "mypyc/irbuild/specialize.py", "mypyc/lib-rt/mypyc_util.h", "mypyc/primitives/list_ops.py", "mypyc/primitives/struct_regsitry.py", "mypyc/test-data/irbuild-basic.test", "mypyc/test-data/irbuild-lists.test", "mypyc/test-data/irbuild-statements.test", "mypyc/test/test_emitfunc.py", "mypyc/test/test_struct.py", ]
+"type": "assert"
+"numberOfMigration": ""

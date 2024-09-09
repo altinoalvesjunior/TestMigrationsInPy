@@ -1,0 +1,5 @@
+"commit_hash": "cd3fdca540781d0b982e885b01f467f1601dba75",
+"commit_link": "https://github.com/ansible/ansible/commit/cd3fdca540781d0b982e885b01f467f1601dba75",
+"files": ["Makefile", "hacking/README.md", "lib/ansible/test-requirements.txt", "test/README.md", "test/units/module_utils/test_database.py", "test/units/parsing/test_splitter.py", "test/units/parsing/test_unquote.py", "test/utils/shippable/integration-requirements.txt", "test/utils/shippable/integration.sh", "test/utils/shippable/python3-test-tag-blacklist.txt", "test/utils/shippable/python3-test-target-blacklist.txt", "test/utils/tox/requirements-py3.txt", "test/utils/tox/requirements.txt", ]
+"type": "import, add Param"
+"numberOfMigration": ""

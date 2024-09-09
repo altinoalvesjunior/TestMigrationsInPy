@@ -1,0 +1,5 @@
+"commit_hash": "d226125b25726f8ab47d102cef5a7a295336710b",
+"commit_link": "https://github.com/getsentry/sentry/commit/d226125b25726f8ab47d102cef5a7a295336710b",
+"files": ["pyproject.toml", "requirements-base.txt", "requirements-dev-frozen.txt", "requirements-frozen.txt", "src/bitfield/py.typed", "src/django_picklefield/py.typed", "src/sentry/similarity/signatures.py", "src/sentry_plugins/py.typed", "src/social_auth/py.typed", "src/sudo/py.typed", "tests/sentry/similarity/test_signatures.py", ]
+"type": "assert, testcase"
+"numberOfMigration": ""

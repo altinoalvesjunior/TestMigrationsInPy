@@ -1,0 +1,5 @@
+"commit_hash": "a752c143214902409f4ff831c2165bf5b1cdd25d",
+"commit_link": "https://github.com/getsentry/sentry/commit/a752c143214902409f4ff831c2165bf5b1cdd25d",
+"files": ["src/sentry/integrations/discord/__init__.py", "src/sentry/integrations/discord/client.py", "src/sentry/integrations/discord/commands.py", "src/sentry/integrations/discord/integration.py", "tests/sentry/integrations/discord/test_integration.py", ]
+"type": "assert"
+"numberOfMigration": ""

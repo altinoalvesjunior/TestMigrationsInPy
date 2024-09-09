@@ -1,0 +1,5 @@
+"commit_hash": "ea548e7c86d7d82e6ddaf79a27e7aed280c78785",
+"commit_link": "https://github.com/google/jax/commit/ea548e7c86d7d82e6ddaf79a27e7aed280c78785",
+"files": ["docs/pallas/grid_blockspec.md", "jax/_src/pallas/core.py", "jax/_src/pallas/mosaic/core.py", "jax/_src/pallas/pallas_call.py", "tests/pallas/pallas_test.py", ]
+"type": "assert"
+"numberOfMigration": ""

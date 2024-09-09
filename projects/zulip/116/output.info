@@ -1,0 +1,5 @@
+"commit_hash": "250b52e3dcf63a764a51a3dd88306305656dd9e8",
+"commit_link": "https://github.com/zulip/zulip/commit/250b52e3dcf63a764a51a3dd88306305656dd9e8",
+"files": ["corporate/tests/test_remote_billing.py", "corporate/views/remote_billing_page.py", "templates/corporate/remote_realm_billing_finalize_login_confirmation.html", "web/src/billing/remote_billing_confirmation.ts", "web/styles/portico/billing.css", "web/webpack.assets.json", "zilencer/migrations/0044_remoterealmbillinguser.py", "zilencer/models.py", ]
+"type": "assert"
+"numberOfMigration": ""

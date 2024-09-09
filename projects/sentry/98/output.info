@@ -1,0 +1,5 @@
+"commit_hash": "60ec0162abe67e4e9d0e83a517d511362b8499dc",
+"commit_link": "https://github.com/getsentry/sentry/commit/60ec0162abe67e4e9d0e83a517d511362b8499dc",
+"files": ["src/sentry/api/bases/organization.py", "src/sentry/api/endpoints/organization_api_key_details.py", "src/sentry/api/endpoints/organization_api_key_index.py", "src/sentry/api/endpoints/organization_auth_provider_details.py", "src/sentry/api/endpoints/organization_auth_provider_send_reminders.py", "src/sentry/api/endpoints/organization_auth_providers.py", "src/sentry/api/serializers/models/auth_provider.py", "src/sentry/api/urls.py", "src/sentry/testutils/cases.py", "tests/sentry/api/endpoints/test_organization_auth_provider_details.py", "tests/sentry/api/endpoints/test_organization_auth_providers.py", ]
+"type": "assert"
+"numberOfMigration": ""
