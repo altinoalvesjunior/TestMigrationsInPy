@@ -1,7 +1,7 @@
-"commit_hash": "66c342d033bd3cb959b4dc4e7e4b8aad597aab63",
-"commit_link": "https://github.com/apache/airflow/commit/66c342d033bd3cb959b4dc4e7e4b8aad597aab63",
+"commit_hash": "6b810b89c3f63dd2d2cf107c568be40ba9da0ba2",
+"commit_link": "https://github.com/apache/airflow/commit/6b810b89c3f63dd2d2cf107c568be40ba9da0ba2",
 "testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/cli/commands/test_db_command.py", "tests/utils/test_db.py"],
-"type": ["import", "testcase", "add Param"],
-"numberOfMigration": ""
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/models/test_dag.py", "tests/operators/test_trigger_dagrun.py"],
+"type": ["assert"],
+"numberOfMigration": 

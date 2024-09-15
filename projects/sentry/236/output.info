@@ -1,7 +1,0 @@
-"commit_hash": "260465a09fda691375584902f4b1a1a3ea1e7f0b",
-"commit_link": "https://github.com/getsentry/sentry/commit/260465a09fda691375584902f4b1a1a3ea1e7f0b",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/mail/test_adapter.py", "tests/sentry/ownership/test_grammar.py"],
-"type": ["assert"],
-"numberOfMigration": ""

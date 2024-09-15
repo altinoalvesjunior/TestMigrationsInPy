@@ -1,7 +1,7 @@
-"commit_hash": "7dd4091458d9117e57d2ad9ce3126855bd00108c",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/7dd4091458d9117e57d2ad9ce3126855bd00108c",
-"testFilesChanged": 42,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/api/tests/__init__.py", "pandas/api/tests/test_api.py", "pandas/computation/tests/test_eval.py", "pandas/io/tests/test_sql.py", "pandas/io/tests/test_stata.py", "pandas/src/testing.pyx", "pandas/tests/frame/test_apply.py", "pandas/tests/frame/test_constructors.py", "pandas/tests/frame/test_dtypes.py", "pandas/tests/frame/test_indexing.py", "pandas/tests/indexing/test_indexing.py", "pandas/tests/series/test_constructors.py", "pandas/tests/series/test_datetime_values.py", "pandas/tests/series/test_indexing.py", "pandas/tests/series/test_quantile.py", "pandas/tests/test_base.py", "pandas/tests/test_categorical.py", "pandas/tests/test_common.py", "pandas/tests/test_generic.py", "pandas/tests/test_graphics.py", "pandas/tests/test_groupby.py", "pandas/tests/test_infer_and_convert.py", "pandas/tests/test_lib.py", "pandas/tests/test_multilevel.py", "pandas/tests/test_nanops.py", "pandas/tests/test_panel.py", "pandas/tests/test_panel4d.py", "pandas/tests/test_strings.py", "pandas/tests/types/test_cast.py", "pandas/tests/types/test_common.py", "pandas/tests/types/test_dtypes.py", "pandas/tests/types/test_generic.py", "pandas/tests/types/test_inference.py", "pandas/tests/types/test_io.py", "pandas/tests/types/test_missing.py", "pandas/tests/types/test_types.py", "pandas/tseries/tests/test_bin_groupby.py", "pandas/tseries/tests/test_period.py", "pandas/tseries/tests/test_resample.py", "pandas/tseries/tests/test_timeseries.py", "pandas/tseries/tests/test_timezones.py", "pandas/util/testing.py"],
+"commit_hash": "898e5d0fd65f78562ef1e21c96e21ed371a9e6df",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/898e5d0fd65f78562ef1e21c96e21ed371a9e6df",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["pandas/tests/extension/json/test_json.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

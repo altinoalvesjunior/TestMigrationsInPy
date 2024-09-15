@@ -1,7 +1,7 @@
-"commit_hash": "1cdd20c9b4c2f7481311e9360f634680037dc6a4",
-"commit_link": "https://github.com/getsentry/sentry/commit/1cdd20c9b4c2f7481311e9360f634680037dc6a4",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/web/frontend/accounts/tests.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "3e581ed84d9af589d75050924e32ccc768f87507",
+"commit_link": "https://github.com/getsentry/sentry/commit/3e581ed84d9af589d75050924e32ccc768f87507",
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/sentry/api/endpoints/test_auth_config.py", "tests/sentry/api/endpoints/test_user_subscriptions.py", "tests/sentry/web/frontend/test_auth_login.py"],
+"type": ["fixture"],
+"numberOfMigration": 

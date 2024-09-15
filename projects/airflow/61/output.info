@@ -1,7 +1,7 @@
-"commit_hash": "7ef9aa7d545f11442b6ebb86590cd8ce5f98430b",
-"commit_link": "https://github.com/apache/airflow/commit/7ef9aa7d545f11442b6ebb86590cd8ce5f98430b",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/plugins/test_plugins_manager.py", "tests/www/test_views.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "e81527c5d39840b37180060a0865467c37d698ee",
+"commit_link": "https://github.com/apache/airflow/commit/e81527c5d39840b37180060a0865467c37d698ee",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/cli/commands/test_connection_command.py"],
+"type": ["fixture", "testcase", "add Param"],
+"numberOfMigration": 

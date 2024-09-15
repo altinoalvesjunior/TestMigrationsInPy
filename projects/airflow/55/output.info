@@ -1,7 +1,7 @@
-"commit_hash": "f507180b902d0ff5d5fca4af4c3a4ba6ca7db254",
-"commit_link": "https://github.com/apache/airflow/commit/f507180b902d0ff5d5fca4af4c3a4ba6ca7db254",
-"testFilesChanged": 10,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/api/common/experimental/test_delete_dag.py", "tests/api_connexion/endpoints/test_dag_run_endpoint.py", "tests/api_connexion/endpoints/test_extra_link_endpoint.py", "tests/api_connexion/endpoints/test_log_endpoint.py", "tests/api_connexion/endpoints/test_xcom_endpoint.py", "tests/models/test_dag.py", "tests/models/test_dagrun.py", "tests/operators/test_python.py", "tests/ti_deps/deps/test_dagrun_id_dep.py", "tests/www/test_views.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "b96e4992b5df24898e169c01fe23e4cb7d32dd94",
+"commit_link": "https://github.com/apache/airflow/commit/b96e4992b5df24898e169c01fe23e4cb7d32dd94",
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/always/test_deprecations.py", "tests/core/test_impersonation_tests.py", "tests/decorators/test_python.py", "tests/providers/apache/hdfs/hooks/test_hdfs.py", "tests/providers/google/cloud/utils/test_mlengine_prediction_summary.py", "tests/providers/mysql/hooks/test_mysql.py"],
+"type": ["skip"],
+"numberOfMigration": 

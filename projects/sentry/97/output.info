@@ -1,7 +1,0 @@
-"commit_hash": "fb799ca8987a4db291d2ebe66ec6f85efc627d22",
-"commit_link": "https://github.com/getsentry/sentry/commit/fb799ca8987a4db291d2ebe66ec6f85efc627d22",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/coreapi/tests.py"],
-"type": ["assert"],
-"numberOfMigration": ""

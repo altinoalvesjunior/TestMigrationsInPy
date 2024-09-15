@@ -1,7 +1,0 @@
-"commit_hash": "bee4b34f378cda49df2ec4fde889eb43a08ce4b6",
-"commit_link": "https://github.com/getsentry/sentry/commit/bee4b34f378cda49df2ec4fde889eb43a08ce4b6",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/web/frontend/test_emails.py"],
-"type": ["assert"],
-"numberOfMigration": ""

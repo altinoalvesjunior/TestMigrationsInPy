@@ -1,7 +1,0 @@
-"commit_hash": "c4c532d25e012dbe6ab1ac14bca75e53e0acc621",
-"commit_link": "https://github.com/allenai/allennlp/commit/c4c532d25e012dbe6ab1ac14bca75e53e0acc621",
-"testFilesChanged": 13,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["allennlp/commands/test_install.py", "allennlp/common/testing/model_test_case.py", "allennlp/common/testing/test_case.py", "allennlp/tests/commands/configure_test.py", "allennlp/tests/commands/dry_run_test.py", "allennlp/tests/commands/elmo_test.py", "allennlp/tests/commands/evaluate_test.py", "allennlp/tests/commands/find_learning_rate_test.py", "allennlp/tests/commands/fine_tune_test.py", "allennlp/tests/commands/main_test.py", "allennlp/tests/commands/make_vocab_test.py", "allennlp/tests/commands/no_op_train_test.py", "allennlp/tests/commands/predict_test.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

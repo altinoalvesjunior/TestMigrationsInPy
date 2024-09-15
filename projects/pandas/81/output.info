@@ -1,7 +1,0 @@
-"commit_hash": "d984cfc391121882906564541fbce49c48cdc229",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/d984cfc391121882906564541fbce49c48cdc229",
-"testFilesChanged": 7,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/tests/frame/test_api.py", "pandas/tests/frame/test_query_eval.py", "pandas/tests/indexes/common.py", "pandas/tests/series/test_api.py", "pandas/tests/series/test_quantile.py", "pandas/tests/sparse/test_frame.py", "pandas/tests/sparse/test_series.py"],
-"type": ["assert"],
-"numberOfMigration": ""

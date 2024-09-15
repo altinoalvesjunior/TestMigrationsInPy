@@ -1,7 +1,0 @@
-"commit_hash": "9e147d31f67a03ea4f5b11a5c7c3b7f8d252bfb7",
-"commit_link": "https://github.com/huggingface/transformers/commit/9e147d31f67a03ea4f5b11a5c7c3b7f8d252bfb7",
-"testFilesChanged": 13,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_modeling_marian.py", "tests/test_modeling_mbart.py", "tests/test_modeling_tf_marian.py", "tests/test_modeling_tf_mbart.py", "tests/test_modeling_tf_pegasus.py", "tests/test_tokenization_bart.py", "tests/test_tokenization_barthez.py", "tests/test_tokenization_marian.py", "tests/test_tokenization_mbart.py", "tests/test_tokenization_mbart50.py", "tests/test_tokenization_pegasus.py", "tests/test_tokenization_prophetnet.py", "tests/test_tokenization_t5.py"],
-"type": ["assert"],
-"numberOfMigration": ""

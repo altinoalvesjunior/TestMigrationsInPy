@@ -1,7 +1,0 @@
-"commit_hash": "60ec0162abe67e4e9d0e83a517d511362b8499dc",
-"commit_link": "https://github.com/getsentry/sentry/commit/60ec0162abe67e4e9d0e83a517d511362b8499dc",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/testutils/cases.py", "tests/sentry/api/endpoints/test_organization_auth_provider_details.py", "tests/sentry/api/endpoints/test_organization_auth_providers.py"],
-"type": ["assert"],
-"numberOfMigration": ""

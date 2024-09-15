@@ -1,7 +1,7 @@
-"commit_hash": "bfe4e9f6f16da07990fe31a6be5956162b3b0fae",
-"commit_link": "https://github.com/plotly/dash/commit/bfe4e9f6f16da07990fe31a6be5956162b3b0fae",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/unit/test_configs.py"],
-"type": ["assert", "fixture", "testcase", "add Param"],
-"numberOfMigration": ""
+"commit_hash": "933bef2c58166eca6b94af029efd8361f444cbf3",
+"commit_link": "https://github.com/plotly/dash/commit/933bef2c58166eca6b94af029efd8361f444cbf3",
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["packages/dash-html-components/tests/IntegrationTests.py", "packages/dash-html-components/tests/test_dash_html_components.py", "packages/dash-html-components/tests/test_dash_import.py", "packages/dash-html-components/tests/test_integration.py"],
+"type": ["assert", "import", "testcase"],
+"numberOfMigration": 

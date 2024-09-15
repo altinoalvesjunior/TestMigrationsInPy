@@ -1,7 +1,0 @@
-"commit_hash": "29a924d92a5ebc304ecb055e7361f1475f16518f",
-"commit_link": "https://github.com/ray-project/ray/commit/29a924d92a5ebc304ecb055e7361f1475f16518f",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["python/ray/tune/tests/test_tune_restore.py"],
-"type": ["assert", "testcase", "add Param"],
-"numberOfMigration": ""

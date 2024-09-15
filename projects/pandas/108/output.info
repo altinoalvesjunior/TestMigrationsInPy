@@ -1,7 +1,0 @@
-"commit_hash": "fc7bc3f74d1f5702bf66c519ad190126538a8f5b",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/fc7bc3f74d1f5702bf66c519ad190126538a8f5b",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/tests/arrays/categorical/test_analytics.py", "pandas/tests/arrays/interval/test_interval.py", "pandas/tests/extension/base/methods.py", "pandas/tests/indexes/period/test_ops.py", "pandas/tests/indexes/period/test_period.py"],
-"type": ["assert", "add Param"],
-"numberOfMigration": ""

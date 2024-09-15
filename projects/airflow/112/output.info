@@ -1,7 +1,7 @@
-"commit_hash": "833087f4f9e86ee063d6a754593d80e9e5cd4100",
-"commit_link": "https://github.com/apache/airflow/commit/833087f4f9e86ee063d6a754593d80e9e5cd4100",
+"commit_hash": "0133f6806dbfb60b84b5bea4ce0daf073c246d52",
+"commit_link": "https://github.com/apache/airflow/commit/0133f6806dbfb60b84b5bea4ce0daf073c246d52",
 "testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/providers/google/cloud/hooks/test_bigquery.py"],
-"type": ["assert", "testcase", "add Param"],
-"numberOfMigration": ""
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/executors/test_kubernetes_executor.py"],
+"type": ["assert", "add Param"],
+"numberOfMigration": 

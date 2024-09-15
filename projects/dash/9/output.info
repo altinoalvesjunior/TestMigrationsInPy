@@ -1,7 +1,7 @@
-"commit_hash": "468a4d0267f8066247f846cbc2c3d77d32f647d9",
-"commit_link": "https://github.com/plotly/dash/commit/468a4d0267f8066247f846cbc2c3d77d32f647d9",
-"testFilesChanged": 25,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["packages/dash-table/tests/cypress/dash/v_be_page.py", "packages/dash-table/tests/cypress/dash/v_copy_paste.py", "packages/dash-table/tests/cypress/dash/v_data_loading.py", "packages/dash-table/tests/cypress/dash/v_default.py", "packages/dash-table/tests/cypress/dash/v_fe_page.py", "packages/dash-table/tests/cypress/dash/v_markdown.py", "packages/dash-table/tests/cypress/dash/v_pagination.py", "packages/dash-table/tests/cypress/tests/server/copy_paste_test.ts", "packages/dash-table/tests/cypress/tests/server/dash_test.ts", "packages/dash-table/tests/cypress/tests/server/delete_cells_test.ts", "packages/dash-table/tests/cypress/tests/server/delete_row_test.ts", "packages/dash-table/tests/cypress/tests/server/loading_uneditable_test.ts", "packages/dash-table/tests/cypress/tests/server/pagination_test.ts", "packages/dash-table/tests/cypress/tests/server/select_props_test.ts", "packages/dash-table/tests/integration/review_app/test_app_df_backend_paging.py", "packages/dash-table/tests/integration/review_app/test_app_df_graph.py", "packages/dash-table/tests/integration/test_table_export_csv.py", "packages/dash-table/tests/selenium/conftest.py", "packages/dash-table/tests/selenium/test_basic_copy_paste.py", "packages/dash-table/tests/selenium/test_basic_operations.py", "packages/dash-table/tests/selenium/test_derived_props.py", "packages/dash-table/tests/selenium/test_editable.py", "packages/dash-table/tests/selenium/test_markdown_copy_paste.py", "packages/dash-table/tests/selenium/test_pagination.py", "packages/dash-table/tests/unit/format_test.py"],
-"type": ["assert", "add Param"],
-"numberOfMigration": ""
+"commit_hash": "40525079c6f6af873ca68faec8ee2743de3c1c2e",
+"commit_link": "https://github.com/plotly/dash/commit/40525079c6f6af873ca68faec8ee2743de3c1c2e",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/integration/test_integration.py"],
+"type": ["assert"],
+"numberOfMigration": 

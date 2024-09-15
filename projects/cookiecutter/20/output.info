@@ -1,7 +1,7 @@
 "commit_hash": "112f2a2bf291d9e15a97bf34c02398966dae54ab",
 "commit_link": "https://github.com/cookiecutter/cookiecutter/commit/112f2a2bf291d9e15a97bf34c02398966dae54ab",
 "testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
+"testFilesChangedWithMigrations": ,
 "filesWithMigration": ["tests/test_cookiecutter_local_no_input.py", "tests/test_main.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

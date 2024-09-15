@@ -1,7 +1,0 @@
-"commit_hash": "fce6f84bbb21772a2c5b3d03dcd70eb22e0063bd",
-"commit_link": "https://github.com/getsentry/sentry/commit/fce6f84bbb21772a2c5b3d03dcd70eb22e0063bd",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/integrations/opsgenie/test_integration.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "e22e12fe604be3e8204b59ecd7a1ebb4923c9880",
-"commit_link": "https://github.com/zulip/zulip/commit/e22e12fe604be3e8204b59ecd7a1ebb4923c9880",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["zerver/tests/test_message_send.py", "zerver/tests/test_subs.py"],
-"type": ["assert"],
-"numberOfMigration": ""

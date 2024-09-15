@@ -1,7 +1,7 @@
-"commit_hash": "c21be391538d277ccea810ee8b7fa3e5a1c94f7e",
-"commit_link": "https://github.com/plotly/dash/commit/c21be391538d277ccea810ee8b7fa3e5a1c94f7e",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/unit/dash/test_resources.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "b2c2fe0a0b6d843bdfef58901debec64ad934175",
+"commit_link": "https://github.com/plotly/dash/commit/b2c2fe0a0b6d843bdfef58901debec64ad934175",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/unit/development/test_base_component.py", "tests/unit/test_configs.py"],
+"type": ["assert", "fixture", "import", "testcase"],
+"numberOfMigration": 

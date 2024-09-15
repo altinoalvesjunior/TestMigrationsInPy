@@ -1,7 +1,0 @@
-"commit_hash": "79e881fc3c4d7ce569c6886da4fbf5aed9b5a03b",
-"commit_link": "https://github.com/getsentry/sentry/commit/79e881fc3c4d7ce569c6886da4fbf5aed9b5a03b",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/testutils/middleware.py", "tests/sentry/middleware/test_customer_domain.py", "tests/sentry/sudo/test_views.py", "tests/tools/mypy_helpers/test_plugin.py"],
-"type": ["assert", "add Param"],
-"numberOfMigration": ""

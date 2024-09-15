@@ -1,7 +1,7 @@
-"commit_hash": "07dd7c2fd8996fec2979555437dfeff0d38cbf28",
-"commit_link": "https://github.com/huggingface/transformers/commit/07dd7c2fd8996fec2979555437dfeff0d38cbf28",
-"testFilesChanged": 10,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_tokenization_albert.py", "tests/test_tokenization_bert.py", "tests/test_tokenization_bert_japanese.py", "tests/test_tokenization_common.py", "tests/test_tokenization_distilbert.py", "tests/test_tokenization_openai.py", "tests/test_tokenization_t5.py", "tests/test_tokenization_xlm.py", "tests/test_tokenization_xlm_roberta.py", "tests/test_tokenization_xlnet.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "84caa23301f2f25dfca0737198ff26c3d711ed63",
+"commit_link": "https://github.com/huggingface/transformers/commit/84caa23301f2f25dfca0737198ff26c3d711ed63",
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/test_pipelines_common.py", "tests/test_pipelines_fill_mask.py", "tests/test_pipelines_zero_shot.py"],
+"type": ["import", "testcase"],
+"numberOfMigration": 

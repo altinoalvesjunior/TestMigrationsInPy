@@ -1,7 +1,0 @@
-"commit_hash": "ba51901321df6671b2cf83dcfdcd121ded0d7869",
-"commit_link": "https://github.com/getsentry/sentry/commit/ba51901321df6671b2cf83dcfdcd121ded0d7869",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/api/endpoints/test_organization_dashboard_details.py", "tests/sentry/api/endpoints/test_organization_dashboard_widget_details.py", "tests/sentry/api/endpoints/test_organization_dashboards.py", "tests/sentry/api/test_paginator.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "f91c29c4f9a9a83ad00ab66d8f2cabecee1d8ef6",
-"commit_link": "https://github.com/getsentry/sentry/commit/f91c29c4f9a9a83ad00ab66d8f2cabecee1d8ef6",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/incidents/endpoints/test_project_alert_rule_index.py", "tests/sentry/snuba/test_entity_subscriptions.py", "tests/sentry/snuba/test_tasks.py"],
-"type": ["assert"],
-"numberOfMigration": ""

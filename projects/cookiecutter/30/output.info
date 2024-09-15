@@ -1,7 +1,7 @@
-"commit_hash": "85b2d677cfe83eb16d8bba59354f0f36ac3918b3",
-"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/85b2d677cfe83eb16d8bba59354f0f36ac3918b3",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_find.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "a550efa3a56b2523765badbc1203aaffd06e0e8b",
+"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/a550efa3a56b2523765badbc1203aaffd06e0e8b",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/test_arg_parsing.py", "tests/test_prompt.py"],
+"type": ["assert", "import", "testcase"],
+"numberOfMigration": 

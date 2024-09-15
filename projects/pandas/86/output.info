@@ -1,7 +1,0 @@
-"commit_hash": "5146b5971324009873cf1a54c8f0828de63874ae",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/5146b5971324009873cf1a54c8f0828de63874ae",
-"testFilesChanged": 22,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/tests/core/sparse/test_frame.py", "pandas/tests/core/sparse/test_indexing.py", "pandas/tests/core/sparse/test_series.py", "pandas/tests/frame/test_axis_select_reindex.py", "pandas/tests/frame/test_block_internals.py", "pandas/tests/frame/test_indexing.py", "pandas/tests/frame/test_missing.py", "pandas/tests/frame/test_timeseries.py", "pandas/tests/indexes/common.py", "pandas/tests/indexes/test_base.py", "pandas/tests/indexes/test_category.py", "pandas/tests/indexes/test_frozen.py", "pandas/tests/indexes/test_interval.py", "pandas/tests/indexes/test_multi.py", "pandas/tests/series/test_apply.py", "pandas/tests/series/test_timeseries.py", "pandas/tests/test_generic.py", "pandas/tests/test_internals.py", "pandas/tests/test_panel.py", "pandas/tests/test_panel4d.py", "pandas/tests/tools/test_concat.py", "pandas/util/testing.py"],
-"type": ["assert"],
-"numberOfMigration": ""

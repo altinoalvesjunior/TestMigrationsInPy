@@ -1,7 +1,7 @@
-"commit_hash": "36434220fc807c5015bc8f0f1e50ab21f7d34914",
-"commit_link": "https://github.com/huggingface/transformers/commit/36434220fc807c5015bc8f0f1e50ab21f7d34914",
-"testFilesChanged": 13,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["templates/adding_a_new_model/tests/test_tokenization_xxx.py", "tests/test_tokenization_albert.py", "tests/test_tokenization_bert.py", "tests/test_tokenization_bert_japanese.py", "tests/test_tokenization_common.py", "tests/test_tokenization_ctrl.py", "tests/test_tokenization_fast.py", "tests/test_tokenization_gpt2.py", "tests/test_tokenization_marian.py", "tests/test_tokenization_openai.py", "tests/test_tokenization_roberta.py", "tests/test_tokenization_transfo_xl.py", "tests/test_tokenization_xlm.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "c6d664849bdc580cf813b2d3a555a9b33d31b33d",
+"commit_link": "https://github.com/huggingface/transformers/commit/c6d664849bdc580cf813b2d3a555a9b33d31b33d",
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["examples/tests/deepspeed/ds_config_zero2.json", "examples/tests/deepspeed/ds_config_zero3.json", "examples/tests/deepspeed/test_deepspeed.py", "tests/test_trainer.py"],
+"type": ["assert", "testcase"],
+"numberOfMigration": 

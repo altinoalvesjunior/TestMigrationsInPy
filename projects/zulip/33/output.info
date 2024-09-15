@@ -1,7 +1,0 @@
-"commit_hash": "3a710ab9965ae1a6874d008ef74c45bfb02e8190",
-"commit_link": "https://github.com/zulip/zulip/commit/3a710ab9965ae1a6874d008ef74c45bfb02e8190",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["zerver/lib/test_classes.py", "zerver/webhooks/jira/tests.py"],
-"type": ["assert"],
-"numberOfMigration": ""

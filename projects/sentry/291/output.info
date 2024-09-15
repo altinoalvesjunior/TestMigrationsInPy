@@ -1,7 +1,0 @@
-"commit_hash": "760609bbbbc045a75ddc9a581798e200783757e1",
-"commit_link": "https://github.com/getsentry/sentry/commit/760609bbbbc045a75ddc9a581798e200783757e1",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/testutils/asserts.py", "tests/sentry/api/endpoints/test_team_details.py"],
-"type": ["assert"],
-"numberOfMigration": ""

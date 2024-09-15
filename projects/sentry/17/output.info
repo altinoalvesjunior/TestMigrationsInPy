@@ -1,7 +1,7 @@
-"commit_hash": "4d7fbc1f064a9d7ef3a1058ec6a3dbfb59993194",
-"commit_link": "https://github.com/getsentry/sentry/commit/4d7fbc1f064a9d7ef3a1058ec6a3dbfb59993194",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/testutils.py", "tests/sentry/interfaces/stacktrace/tests.py", "tests/sentry/interfaces/tests.py", "tests/sentry/tasks/fetch_source/tests.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "d23c50fd0700ae82f0f2184b5162b828c06b2341",
+"commit_link": "https://github.com/getsentry/sentry/commit/d23c50fd0700ae82f0f2184b5162b828c06b2341",
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/integration/fixtures/csp/firefox_blocked_asset_input.json", "tests/integration/fixtures/csp/firefox_blocked_asset_output.json", "tests/integration/tests.py", "tests/sentry/event_manager/test_validate_csp.py", "tests/sentry/utils/test_csp.py"],
+"type": ["assert", "add Param"],
+"numberOfMigration": 

@@ -1,7 +1,0 @@
-"commit_hash": "1e6dba0aa0283cfbb6497e44eac81c5558033b71",
-"commit_link": "https://github.com/getsentry/sentry/commit/1e6dba0aa0283cfbb6497e44eac81c5558033b71",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/relay_integration/lang/java/test_plugin.py"],
-"type": ["assert"],
-"numberOfMigration": ""

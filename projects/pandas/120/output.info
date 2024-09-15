@@ -1,7 +1,0 @@
-"commit_hash": "2bb3557ac2be0a8ce9d8f416fe04087332862cb6",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/2bb3557ac2be0a8ce9d8f416fe04087332862cb6",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/tests/extension/base/groupby.py", "pandas/tests/extension/base/methods.py", "pandas/tests/extension/conftest.py", "pandas/tests/extension/test_arrow.py", "pandas/tests/extension/test_boolean.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,7 @@
-"commit_hash": "756a285275647ccbfd040c4f15fe677ba42a58db",
-"commit_link": "https://github.com/getsentry/sentry/commit/756a285275647ccbfd040c4f15fe677ba42a58db",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/web/frontend/test_team_settings.py"],
+"commit_hash": "697e6385d69ed3004df5c31ece1a41cc30c784b0",
+"commit_link": "https://github.com/getsentry/sentry/commit/697e6385d69ed3004df5c31ece1a41cc30c784b0",
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/sentry/incidents/endpoints/test_organization_alert_rule_index.py", "tests/sentry/incidents/endpoints/test_organization_combined_rule_index_endpoint.py", "tests/sentry/incidents/endpoints/test_project_alert_rule_index.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

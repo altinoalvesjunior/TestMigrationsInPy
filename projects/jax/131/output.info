@@ -1,7 +1,0 @@
-"commit_hash": "0d5dae09ffe30ab72c6600b3650a41f8915aa2b4",
-"commit_link": "https://github.com/google/jax/commit/0d5dae09ffe30ab72c6600b3650a41f8915aa2b4",
-"testFilesChanged": 14,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["jax/experimental/jax2tf/tests/jax2tf_test.py", "jax/experimental/jax2tf/tests/jax_primitives_coverage_test.py", "jax/experimental/jax2tf/tests/sharding_test.py", "tests/BUILD", "tests/compilation_cache_test.py", "tests/debug_nans_test.py", "tests/debugging_primitives_test.py", "tests/jaxpr_effects_test.py", "tests/lax_control_flow_test.py", "tests/multiprocess_gpu_test.py", "tests/pjit_test.py", "tests/pmap_test.py", "tests/python_callback_test.py", "tests/xmap_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

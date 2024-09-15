@@ -1,7 +1,7 @@
 "commit_hash": "3cb124bba72d29d0b69c87848b1e2297029092ef",
 "commit_link": "https://github.com/httpie/httpie/commit/3cb124bba72d29d0b69c87848b1e2297029092ef",
 "testFilesChanged": 13,
-"testFilesChangedWithMigrations": "",
+"testFilesChangedWithMigrations": ,
 "filesWithMigration": ["tests/__init__.py", "tests/test_auth.py", "tests/test_binary.py", "tests/test_cli.py", "tests/test_defaults.py", "tests/test_downloads.py", "tests/test_exit_status.py", "tests/test_httpie.py", "tests/test_output.py", "tests/test_sessions.py", "tests/test_stream.py", "tests/test_uploads.py", "tests/test_windows.py"],
 "type": ["assert", "testcase"],
-"numberOfMigration": ""
+"numberOfMigration": 

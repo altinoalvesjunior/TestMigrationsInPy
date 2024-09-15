@@ -1,7 +1,0 @@
-"commit_hash": "121d3eca77716336707c0e53dec22c3d80d038cc",
-"commit_link": "https://github.com/allenai/allennlp/commit/121d3eca77716336707c0e53dec22c3d80d038cc",
-"testFilesChanged": 11,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["allennlp/tests/commands/evaluate_test.py", "allennlp/tests/common/registrable_test.py", "allennlp/tests/data/fields/list_field_test.py", "allennlp/tests/data/iterators/__init__.py", "allennlp/tests/data/iterators/basic_iterator_test.py", "allennlp/tests/data/iterators/bucket_iterator_test.py", "allennlp/tests/data/iterators/homogeneous_iterator_test.py", "allennlp/tests/data/iterators/pass_through_iterator_test.py", "allennlp/tests/data/samplers/bucket_batch_sampler_test.py", "allennlp/tests/modules/elmo_test.py", "allennlp/tests/training/multi_task_trainer_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

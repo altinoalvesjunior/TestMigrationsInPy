@@ -1,7 +1,0 @@
-"commit_hash": "9c19aff7c7561e3a82978a272ecdaad40dda5c00",
-"commit_link": "https://github.com/django/django/commit/9c19aff7c7561e3a82978a272ecdaad40dda5c00",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["django/contrib/admin/tests.py"],
-"type": ["assert"],
-"numberOfMigration": ""

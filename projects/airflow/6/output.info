@@ -1,7 +1,7 @@
-"commit_hash": "3cfe4a1c9dc49c91839e9c278b97f9c18033fdf4",
-"commit_link": "https://github.com/apache/airflow/commit/3cfe4a1c9dc49c91839e9c278b97f9c18033fdf4",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/gcp/hooks/test_gcp_compute_hook.py", "tests/gcp/operators/test_compute.py", "tests/test_core_to_contrib.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "27dac00e125b87626a0b87074d61e6d38031bf47",
+"commit_link": "https://github.com/apache/airflow/commit/27dac00e125b87626a0b87074d61e6d38031bf47",
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/providers/google/cloud/operators/test_cloud_storage_transfer_service_system.py", "tests/providers/google/cloud/operators/test_cloud_storage_transfer_service_system_helper.py", "tests/test_utils/gcp_system_helpers.py", "tests/test_utils/system_tests_class.py"],
+"type": ["fixture"],
+"numberOfMigration": 

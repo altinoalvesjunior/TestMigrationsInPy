@@ -1,7 +1,0 @@
-"commit_hash": "cb8dcce2fe6048ce2d8d07b95abc9ca292da9154",
-"commit_link": "https://github.com/google/jax/commit/cb8dcce2fe6048ce2d8d07b95abc9ca292da9154",
-"testFilesChanged": 25,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/api_test.py", "tests/array_test.py", "tests/batching_test.py", "tests/checkify_test.py", "tests/core_test.py", "tests/errors_test.py", "tests/global_device_array_test.py", "tests/host_callback_test.py", "tests/infeed_test.py", "tests/jax_jit_test.py", "tests/jaxpr_effects_test.py", "tests/lax_control_flow_test.py", "tests/lax_numpy_test.py", "tests/lax_test.py", "tests/multiprocess_gpu_test.py", "tests/name_stack_test.py", "tests/nn_test.py", "tests/pjit_test.py", "tests/pmap_test.py", "tests/python_callback_test.py", "tests/random_test.py", "tests/shard_map_test.py", "tests/state_test.py", "tests/typing_test.py", "tests/xmap_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

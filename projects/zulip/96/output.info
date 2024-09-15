@@ -1,7 +1,0 @@
-"commit_hash": "b67108c8c6236cb13cf2cd9870961686d67c1784",
-"commit_link": "https://github.com/zulip/zulip/commit/b67108c8c6236cb13cf2cd9870961686d67c1784",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["zerver/tests/test_delete_unclaimed_attachments.py", "zerver/tests/test_upload.py"],
-"type": ["assert"],
-"numberOfMigration": ""

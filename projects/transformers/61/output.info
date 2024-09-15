@@ -1,7 +1,0 @@
-"commit_hash": "a0779b9e19093dc0371abbf516030491eec3d86c",
-"commit_link": "https://github.com/huggingface/transformers/commit/a0779b9e19093dc0371abbf516030491eec3d86c",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/models/llama/test_modeling_llama.py", "tests/models/mistral/test_modeling_mistral.py", "tests/test_modeling_common.py", "tests/test_modeling_utils.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

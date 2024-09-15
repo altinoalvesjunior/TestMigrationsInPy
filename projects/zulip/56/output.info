@@ -1,7 +1,0 @@
-"commit_hash": "de2678a3197921b0cd64c8d5c70de41aea82f18e",
-"commit_link": "https://github.com/zulip/zulip/commit/de2678a3197921b0cd64c8d5c70de41aea82f18e",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["corporate/tests/test_stripe.py", "zerver/tests/test_events.py", "zerver/tests/test_message_fetch.py", "zerver/tests/test_realm_export.py"],
-"type": ["assert"],
-"numberOfMigration": ""

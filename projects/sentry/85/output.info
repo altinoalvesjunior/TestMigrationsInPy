@@ -1,7 +1,0 @@
-"commit_hash": "6ee5bfefab00363e1c941f401dbfb6f90401ff1b",
-"commit_link": "https://github.com/getsentry/sentry/commit/6ee5bfefab00363e1c941f401dbfb6f90401ff1b",
-"testFilesChanged": 12,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/utils/pytest/sentry.py", "tests/sentry/api/endpoints/test_group_stats.py", "tests/sentry/api/endpoints/test_organization_stats.py", "tests/sentry/api/endpoints/test_project_group_index.py", "tests/sentry/api/endpoints/test_project_stats.py", "tests/sentry/api/endpoints/test_team_stats.py", "tests/sentry/app/__init__.py", "tests/sentry/app/tests.py", "tests/sentry/interfaces/test_exception.py", "tests/sentry/lang/native/test_plugin.py", "tests/sentry/rules/conditions/test_event_frequency.py", "tests/sentry/tasks/process_buffer/tests.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

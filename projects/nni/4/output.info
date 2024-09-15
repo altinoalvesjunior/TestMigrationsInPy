@@ -1,7 +1,7 @@
-"commit_hash": "a36dc07e8d39ec4438fd660c98f6f4551ff5f4a6",
-"commit_link": "https://github.com/microsoft/nni/commit/a36dc07e8d39ec4438fd660c98f6f4551ff5f4a6",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test/ut/retiarii/test_highlevel_apis.py"],
+"commit_hash": "a911b856172741802083ab1ce2f92f09e9ec279f",
+"commit_link": "https://github.com/microsoft/nni/commit/a911b856172741802083ab1ce2f92f09e9ec279f",
+"testFilesChanged": 0,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": [],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

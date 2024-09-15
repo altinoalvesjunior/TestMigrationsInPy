@@ -1,7 +1,0 @@
-"commit_hash": "6bb41c54914fec90b6fda876e46acd256b23b69d",
-"commit_link": "https://github.com/getsentry/sentry/commit/6bb41c54914fec90b6fda876e46acd256b23b69d",
-"testFilesChanged": 10,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/south/test_shim.py", "tests/acceptance/test_create_organization_member.py", "tests/acceptance/test_create_project.py", "tests/js/spec/views/inviteMember/__snapshots__/inviteMember.spec.jsx.snap", "tests/js/spec/views/inviteMember/inviteMember.spec.jsx", "tests/js/spec/views/onboarding/__snapshots__/createProject.spec.jsx.snap", "tests/js/spec/views/onboarding/__snapshots__/index.spec.jsx.snap", "tests/js/spec/views/onboarding/project/__snapshots__/index.spec.jsx.snap", "tests/sentry/api/endpoints/test_organization_member_index.py", "tests/sentry/web/frontend/test_create_organization_member.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

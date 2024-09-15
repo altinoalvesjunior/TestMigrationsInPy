@@ -1,7 +1,0 @@
-"commit_hash": "acc18a951c97c284f0691a671c43c083cf9c2cea",
-"commit_link": "https://github.com/getsentry/sentry/commit/acc18a951c97c284f0691a671c43c083cf9c2cea",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/api/endpoints/test_project_artifact_lookup.py"],
-"type": ["assert"],
-"numberOfMigration": ""

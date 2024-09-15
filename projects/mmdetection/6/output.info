@@ -1,7 +1,0 @@
-"commit_hash": "cd4e9ed8269b0c767e129169b7268b0ced7e60c9",
-"commit_link": "https://github.com/open-mmlab/mmdetection/commit/cd4e9ed8269b0c767e129169b7268b0ced7e60c9",
-"testFilesChanged": 8,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["mmdet/testing/__init__.py", "mmdet/testing/_utils.py", "tests/test_models/test_roi_heads/test_bbox_heads/test_double_bbox_head.py", "tests/test_models/test_roi_heads/test_dynamic_roi_head.py", "tests/test_models/test_roi_heads/test_mask_heads/test_maskiou_head.py", "tests/test_models/test_roi_heads/test_mask_scoring_roI_head.py", "tests/test_models/test_roi_heads/test_standard_roi_head.py", "tests/test_models/test_roi_heads/test_trident_roi_head.py"],
-"type": ["assert"],
-"numberOfMigration": ""

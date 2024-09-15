@@ -1,7 +1,0 @@
-"commit_hash": "f902dbe91f2b8c8675a4599719a0adb4f31346d8",
-"commit_link": "https://github.com/apache/airflow/commit/f902dbe91f2b8c8675a4599719a0adb4f31346d8",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/cli/commands/test_task_command.py", "tests/providers/amazon/aws/hooks/test_s3.py"],
-"type": ["skip"],
-"numberOfMigration": ""

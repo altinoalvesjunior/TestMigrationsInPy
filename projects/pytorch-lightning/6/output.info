@@ -1,7 +1,0 @@
-"commit_hash": "ac576ffb8040ccd55c6ea5d130c03e9d4b2959b6",
-"commit_link": "https://github.com/PyTorchLightning/pytorch-lightning/commit/ac576ffb8040ccd55c6ea5d130c03e9d4b2959b6",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/tests_pytorch/loggers/test_neptune.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

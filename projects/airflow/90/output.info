@@ -1,7 +1,7 @@
-"commit_hash": "77c4325fb064d7e8b5e1088b2675a0a419d56b03",
-"commit_link": "https://github.com/apache/airflow/commit/77c4325fb064d7e8b5e1088b2675a0a419d56b03",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/providers/amazon/aws/hooks/test_glue.py", "tests/providers/amazon/aws/hooks/test_glue_crawler.py", "tests/providers/amazon/aws/operators/test_glue.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "dd4804e05bb7e994a3782feacf47c89d2e9481f3",
+"commit_link": "https://github.com/apache/airflow/commit/dd4804e05bb7e994a3782feacf47c89d2e9481f3",
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/providers/google/cloud/_internal_client/test_secret_manager_client.py", "tests/providers/google/cloud/secrets/test_secret_manager.py", "tests/providers/google/cloud/utils/test_credentials_provider.py", "tests/providers/google/cloud/utils/test_field_sanitizer.py", "tests/providers/google/cloud/utils/test_field_validator.py", "tests/providers/google/cloud/utils/test_mlengine_operator_utils.py", "tests/providers/google/cloud/utils/test_mlengine_prediction_summary.py"],
+"type": ["assert", "testcase", "add Param"],
+"numberOfMigration": 

@@ -1,7 +1,0 @@
-"commit_hash": "be379770e90f6b7f97109f1cbdffd1e4749402ba",
-"commit_link": "https://github.com/getsentry/sentry/commit/be379770e90f6b7f97109f1cbdffd1e4749402ba",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/integrations/msteams/test_integration.py", "tests/sentry/integrations/msteams/test_message_builder.py", "tests/sentry/integrations/msteams/test_webhook.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "e661c3f0cfa459485815b6e1dbe891bd0777b0e7",
-"commit_link": "https://github.com/google/jax/commit/e661c3f0cfa459485815b6e1dbe891bd0777b0e7",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["jax/experimental/sparse/test_util.py", "tests/sparse_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

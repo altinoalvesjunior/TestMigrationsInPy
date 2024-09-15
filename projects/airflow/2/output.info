@@ -1,7 +1,7 @@
-"commit_hash": "219c5064142c66cf8f051455199f2dda9b164584",
-"commit_link": "https://github.com/apache/airflow/commit/219c5064142c66cf8f051455199f2dda9b164584",
-"testFilesChanged": 30,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/contrib/hooks/test_aws_hook.py", "tests/contrib/hooks/test_bigquery_hook.py", "tests/contrib/hooks/test_databricks_hook.py", "tests/contrib/hooks/test_emr_hook.py", "tests/contrib/hooks/test_gcp_dataflow_hook.py", "tests/contrib/hooks/test_spark_submit_hook.py", "tests/contrib/hooks/test_sqoop_hook.py", "tests/contrib/hooks/test_zendesk_hook.py", "tests/contrib/hooks/zendesk_hook.py", "tests/contrib/operators/__init__.py", "tests/contrib/operators/test_databricks_operator.py", "tests/contrib/operators/test_dataflow_operator.py", "tests/contrib/operators/test_ecs_operator.py", "tests/contrib/operators/test_emr_add_steps_operator.py", "tests/contrib/operators/test_emr_create_job_flow_operator.py", "tests/contrib/operators/test_emr_terminate_job_flow_operator.py", "tests/contrib/operators/test_fs_operator.py", "tests/contrib/operators/test_hipchat_operator.py", "tests/contrib/operators/test_jira_operator_test.py", "tests/contrib/operators/test_spark_submit_operator.py", "tests/contrib/operators/test_sqoop_operator.py", "tests/contrib/operators/test_ssh_execute_operator.py", "tests/contrib/sensors/test_datadog_sensor.py", "tests/contrib/sensors/test_emr_base_sensor.py", "tests/contrib/sensors/test_emr_job_flow_sensor.py", "tests/contrib/sensors/test_emr_step_sensor.py", "tests/contrib/sensors/test_ftp_sensor.py", "tests/contrib/sensors/test_hdfs_sensors.py", "tests/contrib/sensors/test_jira_sensor_test.py", "tests/contrib/sensors/test_redis_sensor.py"],
+"commit_hash": "78d8fe6944b689b9b0af99255286e34e06eedec3",
+"commit_link": "https://github.com/apache/airflow/commit/78d8fe6944b689b9b0af99255286e34e06eedec3",
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/providers/amazon/aws/hooks/test_batch_client.py", "tests/providers/amazon/aws/hooks/test_batch_waiters.py", "tests/providers/amazon/aws/operators/test_batch.py", "tests/test_core_to_contrib.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

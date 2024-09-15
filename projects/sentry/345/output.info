@@ -1,7 +1,0 @@
-"commit_hash": "a8fe14cc6ac012cec884295d68f81e89be243616",
-"commit_link": "https://github.com/getsentry/sentry/commit/a8fe14cc6ac012cec884295d68f81e89be243616",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/issues/test_ongoing.py", "tests/sentry/issues/test_priority.py", "tests/sentry/issues/test_status_change_consumer.py"],
-"type": ["assert"],
-"numberOfMigration": ""

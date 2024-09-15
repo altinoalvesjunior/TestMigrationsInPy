@@ -1,7 +1,7 @@
-"commit_hash": "fdd9b6f65b608c516b8a062b058972d9a45ec9e3",
-"commit_link": "https://github.com/apache/airflow/commit/fdd9b6f65b608c516b8a062b058972d9a45ec9e3",
-"testFilesChanged": 0,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": [],
-"type": ["assert", "add Param"],
-"numberOfMigration": ""
+"commit_hash": "6f26af95022799cd463d30405b3ac1058f0689da",
+"commit_link": "https://github.com/apache/airflow/commit/6f26af95022799cd463d30405b3ac1058f0689da",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/providers/snowflake/hooks/test_snowflake.py"],
+"type": ["fixture", "testcase", "add Param"],
+"numberOfMigration": 

@@ -1,7 +1,0 @@
-"commit_hash": "0ba15cedbcbe9a9db2d5cde76ea4bb712c311934",
-"commit_link": "https://github.com/huggingface/transformers/commit/0ba15cedbcbe9a9db2d5cde76ea4bb712c311934",
-"testFilesChanged": 22,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["conftest.py", "src/transformers/testing_utils.py", "tests/agents/__init__.py", "tests/agents/test_agent_types.py", "tests/agents/test_agents.py", "tests/agents/test_document_question_answering.py", "tests/agents/test_final_answer.py", "tests/agents/test_image_question_answering.py", "tests/agents/test_python_interpreter.py", "tests/agents/test_speech_to_text.py", "tests/agents/test_text_to_speech.py", "tests/agents/test_tools_common.py", "tests/agents/test_translation.py", "tests/tools/test_image_captioning.py", "tests/tools/test_image_segmentation.py", "tests/tools/test_python_interpreter.py", "tests/tools/test_text_classification.py", "tests/tools/test_text_question_answering.py", "tests/tools/test_text_summarization.py", "tests/tools/test_tools_common.py", "tests/tools/test_translation.py", "utils/not_doctested.txt"],
-"type": ["assert", "import", "testcase"],
-"numberOfMigration": ""

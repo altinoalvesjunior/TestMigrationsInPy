@@ -1,7 +1,0 @@
-"commit_hash": "439217644a180f9a69d86971aeb409ba620f875d",
-"commit_link": "https://github.com/google/jax/commit/439217644a180f9a69d86971aeb409ba620f875d",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/BUILD", "tests/lax_numpy_operators_test.py", "tests/lax_numpy_reducers_test.py", "tests/lax_numpy_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

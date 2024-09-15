@@ -1,7 +1,0 @@
-"commit_hash": "02bebf897b5a7d166f8cc9304eb58290aea1eba6",
-"commit_link": "https://github.com/apache/airflow/commit/02bebf897b5a7d166f8cc9304eb58290aea1eba6",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/providers/google/cloud/hooks/test_mlengine.py", "tests/providers/google/cloud/operators/test_mlengine.py", "tests/providers/google/cloud/operators/test_mlengine_utils.py", "tests/providers/google/cloud/triggers/test_mlengine.py", "tests/system/providers/google/cloud/ml_engine/example_mlengine.py", "tests/system/providers/google/cloud/ml_engine/example_mlengine_async.py"],
-"type": ["import", "testcase"],
-"numberOfMigration": ""

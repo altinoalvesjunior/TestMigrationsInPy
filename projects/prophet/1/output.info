@@ -1,7 +1,7 @@
 "commit_hash": "0bc1f9e7840dc5539a351018467b50d4818c6274",
 "commit_link": "https://github.com/facebook/prophet/commit/0bc1f9e7840dc5539a351018467b50d4818c6274",
 "testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
+"testFilesChangedWithMigrations": ,
 "filesWithMigration": ["python/prophet/tests/conftest.py", "python/prophet/tests/test_diagnostics.py", "python/prophet/tests/test_prophet.py", "python/prophet/tests/test_serialize.py", "python/prophet/tests/test_utilities.py"],
 "type": ["assert", "testcase", "add Param"],
-"numberOfMigration": ""
+"numberOfMigration": 

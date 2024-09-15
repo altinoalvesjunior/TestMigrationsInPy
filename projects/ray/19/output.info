@@ -1,7 +1,7 @@
-"commit_hash": "658c14282c384aa49a52b7d7bb4ac71c65cf8b86",
-"commit_link": "https://github.com/ray-project/ray/commit/658c14282c384aa49a52b7d7bb4ac71c65cf8b86",
-"testFilesChanged": 49,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["java/test/src/main/java/org/ray/api/test/RayConfigTest.java", "python/ray/common/redis_module/runtest.py", "python/ray/common/test/test.py", "python/ray/global_scheduler/test/test.py", "python/ray/local_scheduler/test/test.py", "python/ray/plasma/test/test.py", "python/ray/test/cluster_utils.py", "python/ray/test/test_ray_init.py", "python/ray/test/test_utils.py", "python/ray/tune/test/trial_runner_test.py", "src/common/test/db_tests.cc", "src/common/test/example_task.h", "src/common/test/io_tests.cc", "src/common/test/object_table_tests.cc", "src/common/test/redis_tests.cc", "src/common/test/run_tests.sh", "src/common/test/run_valgrind.sh", "src/common/test/task_table_tests.cc", "src/common/test/task_tests.cc", "src/common/test/test_common.h", "src/common/thirdparty/greatest.h", "src/local_scheduler/test/local_scheduler_tests.cc", "src/local_scheduler/test/run_tests.sh", "src/local_scheduler/test/run_valgrind.sh", "src/plasma/test/client_tests.cc", "src/plasma/test/manager_tests.cc", "src/plasma/test/run_tests.sh", "src/plasma/test/run_valgrind.sh", "src/ray/gcs/asio_test.cc", "src/ray/gcs/client_test.cc", "src/ray/object_manager/test/object_manager_stress_test.cc", "src/ray/object_manager/test/object_manager_test.cc", "src/ray/raylet/object_manager_integration_test.cc", "src/ray/raylet/reconstruction_policy_test.cc", "src/ray/test/run_gcs_tests.sh", "src/ray/test/run_object_manager_tests.sh", "src/ray/test/run_object_manager_valgrind.sh", "src/ray/thirdparty/hiredis/test.c", "test/actor_test.py", "test/component_failures_test.py", "test/failure_test.py", "test/jenkins_tests/multi_node_docker_test.py", "test/jenkins_tests/run_multi_node_tests.sh", "test/multi_node_test.py", "test/multi_node_test_2.py", "test/runtest.py", "test/stress_tests.py", "test/tempfile_test.py", "test/xray_test.py"],
-"type": ["assert", "skip", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "1ea05a2c088419d9adf84dd14ed11a7cffc97499",
+"commit_link": "https://github.com/ray-project/ray/commit/1ea05a2c088419d9adf84dd14ed11a7cffc97499",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["python/ray/tune/tests/test_progress_reporter.py", "python/ray/tune/tests/test_trial_scheduler.py"],
+"type": ["assert"],
+"numberOfMigration": 

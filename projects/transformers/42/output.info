@@ -1,7 +1,0 @@
-"commit_hash": "1fc6817a30ea583a02bffb77215f213429d5b5bc",
-"commit_link": "https://github.com/huggingface/transformers/commit/1fc6817a30ea583a02bffb77215f213429d5b5bc",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_feature_extraction_detr.py"],
-"type": ["assert"],
-"numberOfMigration": ""

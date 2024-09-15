@@ -1,7 +1,7 @@
-"commit_hash": "36bca545ff1c13eb7af710d38af4270ef6a965ed",
-"commit_link": "https://github.com/huggingface/transformers/commit/36bca545ff1c13eb7af710d38af4270ef6a965ed",
-"testFilesChanged": 17,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["examples/test_examples.py", "pytorch_transformers/tests/model_utils_test.py", "pytorch_transformers/tests/modeling_bert_test.py", "pytorch_transformers/tests/modeling_gpt2_test.py", "pytorch_transformers/tests/modeling_openai_test.py", "pytorch_transformers/tests/modeling_tests_commons.py", "pytorch_transformers/tests/modeling_transfo_xl_test.py", "pytorch_transformers/tests/modeling_utils_test.py", "pytorch_transformers/tests/modeling_xlm_test.py", "pytorch_transformers/tests/modeling_xlnet_test.py", "pytorch_transformers/tests/tokenization_bert_test.py", "pytorch_transformers/tests/tokenization_gpt2_test.py", "pytorch_transformers/tests/tokenization_openai_test.py", "pytorch_transformers/tests/tokenization_transfo_xl_test.py", "pytorch_transformers/tests/tokenization_utils_test.py", "pytorch_transformers/tests/tokenization_xlm_test.py", "pytorch_transformers/tests/tokenization_xlnet_test.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "07dd7c2fd8996fec2979555437dfeff0d38cbf28",
+"commit_link": "https://github.com/huggingface/transformers/commit/07dd7c2fd8996fec2979555437dfeff0d38cbf28",
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/test_tokenization_albert.py", "tests/test_tokenization_bert.py", "tests/test_tokenization_bert_japanese.py", "tests/test_tokenization_common.py", "tests/test_tokenization_distilbert.py", "tests/test_tokenization_openai.py", "tests/test_tokenization_t5.py", "tests/test_tokenization_xlm.py", "tests/test_tokenization_xlm_roberta.py", "tests/test_tokenization_xlnet.py"],
+"type": ["assert"],
+"numberOfMigration": 

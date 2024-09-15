@@ -1,7 +1,7 @@
-"commit_hash": "61b1daa65f2e1978fac127aa11f7b0831d4ff243",
-"commit_link": "https://github.com/ansible/ansible/commit/61b1daa65f2e1978fac127aa11f7b0831d4ff243",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["hacking/tests/gen_distribution_version_testcase.py", "test/units/executor/module_common/test_recursive_finder.py", "test/units/module_utils/basic/test_platform_distribution.py", "test/units/module_utils/test_distribution_version.py", "test/units/module_utils/test_distro.py"],
+"commit_hash": "7e92ff823e2bf97ee33c1b7ff87bb8acecb5ae77",
+"commit_link": "https://github.com/ansible/ansible/commit/7e92ff823e2bf97ee33c1b7ff87bb8acecb5ae77",
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["test/units/arguments/test_context_objects.py", "test/units/arguments/test_optparse_helpers.py", "test/units/cli/test_cli.py", "test/units/cli/test_galaxy.py", "test/units/executor/test_playbook_executor.py", "test/units/executor/test_task_queue_manager_callbacks.py", "test/units/playbook/test_play_context.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

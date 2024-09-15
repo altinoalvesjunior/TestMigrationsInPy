@@ -1,7 +1,0 @@
-"commit_hash": "a770e9ca440de734416e35dab388be8340c7e58f",
-"commit_link": "https://github.com/apache/airflow/commit/a770e9ca440de734416e35dab388be8340c7e58f",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/providers/jdbc/hooks/test_jdbc.py"],
-"type": ["import", "testcase", "add Param"],
-"numberOfMigration": ""

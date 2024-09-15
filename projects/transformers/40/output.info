@@ -1,7 +1,0 @@
-"commit_hash": "619200cc42d1f55fb07b0d6e9c3fff79e30a2e06",
-"commit_link": "https://github.com/huggingface/transformers/commit/619200cc42d1f55fb07b0d6e9c3fff79e30a2e06",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/deepspeed/test_deepspeed.py", "tests/extended/test_trainer_ext.py"],
-"type": ["assert"],
-"numberOfMigration": ""

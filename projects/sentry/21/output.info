@@ -1,7 +1,7 @@
-"commit_hash": "bef02bfd5c10e09e0e552af51b70d3c40b23db6d",
-"commit_link": "https://github.com/getsentry/sentry/commit/bef02bfd5c10e09e0e552af51b70d3c40b23db6d",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/plugins/mail/tests.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "8b5de121b9e2afe1868b42ebe64fe31e49e9f584",
+"commit_link": "https://github.com/getsentry/sentry/commit/8b5de121b9e2afe1868b42ebe64fe31e49e9f584",
+"testFilesChanged": 24,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["src/sentry/utils/pytest/sentry.py", "tests/sentry/api/endpoints/test_group_details.py", "tests/sentry/api/endpoints/test_group_tagkey_details.py", "tests/sentry/api/endpoints/test_group_tagkey_values.py", "tests/sentry/api/endpoints/test_group_tags.py", "tests/sentry/api/endpoints/test_organization_user_issues.py", "tests/sentry/api/endpoints/test_organization_user_issues_search.py", "tests/sentry/api/endpoints/test_project_tagkey_details.py", "tests/sentry/api/endpoints/test_project_tagkey_values.py", "tests/sentry/api/serializers/test_release.py", "tests/sentry/deletions/test_event.py", "tests/sentry/deletions/test_group.py", "tests/sentry/deletions/test_tagkey.py", "tests/sentry/lang/java/test_plugin.py", "tests/sentry/lang/javascript/test_plugin.py", "tests/sentry/manager/tests.py", "tests/sentry/models/test_group.py", "tests/sentry/models/test_groupsnooze.py", "tests/sentry/tasks/post_process/tests.py", "tests/sentry/tasks/test_deletion.py", "tests/sentry/tasks/test_merge.py", "tests/sentry/web/frontend/test_group_tag_export.py", "tests/snuba/api/endpoints/test_group_tags.py", "tests/snuba/tasks/test_unmerge.py"],
+"type": ["assert", "testcase"],
+"numberOfMigration": 

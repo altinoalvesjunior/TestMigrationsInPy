@@ -1,7 +1,0 @@
-"commit_hash": "c886882624d369e13d27957abbc694652dff20b8",
-"commit_link": "https://github.com/getsentry/sentry/commit/c886882624d369e13d27957abbc694652dff20b8",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/acceptance/test_member_list.py", "tests/sentry/api/endpoints/test_organization_access_requests.py", "tests/sentry/web/forms/test_base_organization_member.py", "tests/sentry/web/frontend/test_organization_member_settings.py", "tests/sentry/web/frontend/test_organization_members.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

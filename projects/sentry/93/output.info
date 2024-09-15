@@ -1,7 +1,0 @@
-"commit_hash": "29833d8dc0eca2a5d4bd1cfcb9376e99da72b8ae",
-"commit_link": "https://github.com/getsentry/sentry/commit/29833d8dc0eca2a5d4bd1cfcb9376e99da72b8ae",
-"testFilesChanged": 10,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/js/setup.js", "tests/js/spec/components/forms/__snapshots__/multipleCheckboxField.spec.jsx.snap", "tests/js/spec/views/__snapshots__/organizationApiKeyDetailsView.spec.jsx.snap", "tests/js/spec/views/__snapshots__/organizationApiKeysView.spec.jsx.snap", "tests/js/spec/views/organizationApiKeyDetailsView.spec.jsx", "tests/js/spec/views/organizationApiKeysView.spec.jsx", "tests/sentry/api/endpoints/test_organization_api_key_details.py", "tests/sentry/api/endpoints/test_organization_api_key_index.py", "tests/sentry/web/frontend/test_organization_api_key_settings.py", "tests/sentry/web/frontend/test_organization_api_keys.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

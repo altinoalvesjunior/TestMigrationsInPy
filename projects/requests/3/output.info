@@ -1,7 +1,0 @@
-"commit_hash": "b0e2e4f284f619536b7f405122bb1a93900cd743",
-"commit_link": "https://github.com/psf/requests/commit/b0e2e4f284f619536b7f405122bb1a93900cd743",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test_requests.py"],
-"type": ["assert"],
-"numberOfMigration": ""

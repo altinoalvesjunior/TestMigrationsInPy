@@ -1,7 +1,7 @@
-"commit_hash": "0ebd55e0f8fc7eb26a2b35b779106201ffe88f55",
-"commit_link": "https://github.com/apache/airflow/commit/0ebd55e0f8fc7eb26a2b35b779106201ffe88f55",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/deprecated_classes.py", "tests/providers/amazon/aws/hooks/test_batch_client.py", "tests/providers/amazon/aws/hooks/test_batch_waiters.py", "tests/providers/amazon/aws/operators/test_batch.py", "tests/providers/amazon/aws/sensors/test_batch.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "863ec46e25ea49d6d5b006d8fd3a83f50aa9db79",
+"commit_link": "https://github.com/apache/airflow/commit/863ec46e25ea49d6d5b006d8fd3a83f50aa9db79",
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["kubernetes_tests/test_base.py", "kubernetes_tests/test_kubernetes_executor.py", "kubernetes_tests/test_kubernetes_pod_operator.py", "kubernetes_tests/test_other_executors.py"],
+"type": ["fixture", "import", "testcase"],
+"numberOfMigration": 

@@ -1,7 +1,0 @@
-"commit_hash": "d9b0ca36fad5ef7a79a59097db015b3b6e34c9f3",
-"commit_link": "https://github.com/getsentry/sentry/commit/d9b0ca36fad5ef7a79a59097db015b3b6e34c9f3",
-"testFilesChanged": 15,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/testutils/cases.py", "tests/conftest.py", "tests/sentry/api/endpoints/test_project_rule_details.py", "tests/sentry/integrations/discord/test_issue_alert.py", "tests/sentry/integrations/github/test_client.py", "tests/sentry/integrations/gitlab/test_search.py", "tests/sentry/integrations/msteams/test_unlink_identity.py", "tests/sentry/integrations/slack/test_link_team.py", "tests/sentry/integrations/slack/test_tasks.py", "tests/sentry/integrations/slack/webhooks/commands/test_link_team.py", "tests/sentry/integrations/slack/webhooks/events/test_discover_link_shared.py", "tests/sentry/integrations/vsts/test_integration.py", "tests/sentry/integrations/vsts/test_provider.py", "tests/sentry/sentry_apps/test_sentry_app_installation_creator.py", "tests/sentry/web/frontend/test_vercel_extension_configuration.py"],
-"type": ["fixture"],
-"numberOfMigration": ""

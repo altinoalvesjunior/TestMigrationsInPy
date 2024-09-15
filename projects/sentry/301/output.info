@@ -1,7 +1,0 @@
-"commit_hash": "d178af71c12de22293ce1798cf09075199465e1b",
-"commit_link": "https://github.com/getsentry/sentry/commit/d178af71c12de22293ce1798cf09075199465e1b",
-"testFilesChanged": 15,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/api/endpoints/test_project_rules_configuration.py", "tests/sentry/integrations/discord/message_builder/test_action_row.py", "tests/sentry/integrations/discord/message_builder/test_builder.py", "tests/sentry/integrations/discord/message_builder/test_button.py", "tests/sentry/integrations/discord/message_builder/test_embed.py", "tests/sentry/integrations/discord/message_builder/test_flags.py", "tests/sentry/integrations/discord/message_builder/test_select_menu.py", "tests/sentry/integrations/discord/test_integration.py", "tests/sentry/integrations/discord/test_issue_alert.py", "tests/sentry/integrations/discord/test_message_builder.py", "tests/sentry/integrations/discord/test_requests.py", "tests/sentry/integrations/discord/test_utils.py", "tests/sentry/integrations/discord/webhooks/test_command.py", "tests/sentry/integrations/discord/webhooks/test_endpoint.py", "tests/sentry/integrations/discord/webhooks/test_message_component.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

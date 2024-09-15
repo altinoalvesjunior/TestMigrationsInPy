@@ -1,7 +1,0 @@
-"commit_hash": "6313ddc47cf9df4df8c8907997df559850a1b874",
-"commit_link": "https://github.com/ray-project/ray/commit/6313ddc47cf9df4df8c8907997df559850a1b874",
-"testFilesChanged": 13,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["python/ray/tune/tests/__init__.py", "python/ray/tune/tests/test_api.py", "python/ray/tune/tests/test_cluster.py", "python/ray/tune/tests/test_cluster_searcher.py", "python/ray/tune/tests/test_integration_docker.py", "python/ray/tune/tests/test_integration_kubernetes.py", "python/ray/tune/tests/test_sync.py", "python/ray/tune/tests/test_syncer.py", "python/ray/tune/tests/test_syncer_callback.py", "python/ray/tune/tests/test_trainable_util.py", "python/ray/tune/tests/test_trial_runner_3.py", "python/ray/tune/tests/test_trial_runner_callbacks.py", "python/ray/tune/tests/test_util_file_transfer.py"],
-"type": ["assert", "fixture", "import", "testcase", "add Param"],
-"numberOfMigration": ""

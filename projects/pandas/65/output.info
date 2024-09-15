@@ -1,7 +1,0 @@
-"commit_hash": "61fa8bed7c3aa620828923098c64af5610e0f9e3",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/61fa8bed7c3aa620828923098c64af5610e0f9e3",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/tests/groupby/test_aggregate.py", "pandas/tests/groupby/test_transform.py", "pandas/tests/tseries/test_resample.py"],
-"type": ["assert"],
-"numberOfMigration": ""

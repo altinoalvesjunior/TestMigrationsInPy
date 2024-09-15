@@ -1,7 +1,0 @@
-"commit_hash": "b85acdc41477a2cd80b13ddc9fd1889061c86771",
-"commit_link": "https://github.com/getsentry/sentry/commit/b85acdc41477a2cd80b13ddc9fd1889061c86771",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/monitors/endpoints/test_monitor_ingest_checkin_index.py", "tests/sentry/monitors/endpoints/test_organization_monitor_details.py", "tests/sentry/monitors/logic/test_mark_failed.py", "tests/sentry/monitors/test_monitor_consumer.py", "tests/sentry/monitors/test_tasks.py"],
-"type": ["assert"],
-"numberOfMigration": ""

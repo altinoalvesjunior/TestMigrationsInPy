@@ -1,7 +1,0 @@
-"commit_hash": "d55ea510e29540f6e3ba79141bf5f6cceefc20d4",
-"commit_link": "https://github.com/google/jax/commit/d55ea510e29540f6e3ba79141bf5f6cceefc20d4",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/api_test.py", "tests/host_callback_test.py", "tests/infeed_test.py", "tests/lax_control_flow_test.py", "tests/xla_bridge_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

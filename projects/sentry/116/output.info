@@ -1,7 +1,0 @@
-"commit_hash": "4204ff55fcf9ffbfee1789218f56ebcb62717356",
-"commit_link": "https://github.com/getsentry/sentry/commit/4204ff55fcf9ffbfee1789218f56ebcb62717356",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/testutils/fixtures.py", "tests/integration/tests.py", "tests/sentry/models/test_event.py", "tests/sentry/test_canonical.py", "tests/sentry/test_event_manager.py", "tests/sentry/utils/test_safe.py"],
-"type": ["assert"],
-"numberOfMigration": ""

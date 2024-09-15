@@ -1,7 +1,7 @@
-"commit_hash": "c9958e1e0d87285e4f0aeeb14f13bdf57a1905d4",
-"commit_link": "https://github.com/plotly/plotly.py/commit/c9958e1e0d87285e4f0aeeb14f13bdf57a1905d4",
-"testFilesChanged": 15,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["plotly/tests/test_core/test_figure_messages/test_batch_animate.py", "plotly/tests/test_core/test_figure_messages/test_on_change.py", "plotly/tests/test_core/test_figure_messages/test_plotly_relayout.py", "plotly/tests/test_core/test_figure_messages/test_plotly_update.py", "plotly/tests/test_core/test_graph_objs/test_figure.py", "plotly/tests/test_core/test_graph_objs/test_figure_properties.py", "plotly/tests/test_core/test_graph_objs/test_graph_objs.py", "plotly/tests/test_core/test_graph_objs/test_layout_subplots.py", "plotly/tests/test_core/test_graph_objs/test_property_assignment.py", "plotly/tests/test_core/test_graph_objs/test_template.py", "plotly/tests/test_core/test_graph_reference/test_graph_reference.py", "plotly/tests/test_optional/test_figure_factory/test_figure_factory.py", "plotly/tests/test_optional/test_plotly/test_plot_mpl.py", "plotly/tests/test_optional/test_tools/test_figure_factory.py", "plotly/tests/test_plot_ly/test_plotly/test_plot.py"],
+"commit_hash": "de02fcab52cf8c5275621b8895bf6436f974ac4f",
+"commit_link": "https://github.com/plotly/plotly.py/commit/de02fcab52cf8c5275621b8895bf6436f974ac4f",
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["packages/python/plotly/_plotly_utils/tests/validators/test_colorscale_validator.py", "packages/python/plotly/plotly/tests/test_core/test_graph_objs/test_properties_validated.py", "packages/python/plotly/plotly/tests/test_optional/test_figure_factory/test_figure_factory.py", "packages/python/plotly/plotly/tests/test_optional/test_tools/test_figure_factory.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

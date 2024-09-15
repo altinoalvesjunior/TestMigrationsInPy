@@ -1,7 +1,7 @@
-"commit_hash": "fb364d42418846191f7feade67bdd5619b619d71",
-"commit_link": "https://github.com/getsentry/sentry/commit/fb364d42418846191f7feade67bdd5619b619d71",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/web/frontend/projects/tests.py", "tests/sentry/web/frontend/tests.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "96bc1c63df5ec73fe12c136ada11561bf52f1ec9",
+"commit_link": "https://github.com/getsentry/sentry/commit/96bc1c63df5ec73fe12c136ada11561bf52f1ec9",
+"testFilesChanged": 0,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": [],
+"type": ["assert", "add Param"],
+"numberOfMigration": 

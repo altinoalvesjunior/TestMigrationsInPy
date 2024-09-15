@@ -1,7 +1,0 @@
-"commit_hash": "e853d9e910151a83dcb944fa3c7ad82a19075edd",
-"commit_link": "https://github.com/scrapy/scrapy/commit/e853d9e910151a83dcb944fa3c7ad82a19075edd",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_http_request.py", "tests/test_http_response.py"],
-"type": ["assert"],
-"numberOfMigration": ""

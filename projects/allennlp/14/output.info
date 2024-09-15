@@ -1,7 +1,0 @@
-"commit_hash": "0409371e7cd21777ac976296a891d3868f101f25",
-"commit_link": "https://github.com/allenai/allennlp/commit/0409371e7cd21777ac976296a891d3868f101f25",
-"testFilesChanged": 15,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["allennlp/tests/data/dataset_readers/semantic_parsing/nlvr_test.py", "allennlp/tests/fixtures/data/nlvr/sample_processed_data.jsonl", "allennlp/tests/fixtures/semantic_parsing/nlvr_coverage_semantic_parser/serialization/best.th", "allennlp/tests/fixtures/semantic_parsing/nlvr_coverage_semantic_parser/serialization/model.tar.gz", "allennlp/tests/fixtures/semantic_parsing/nlvr_coverage_semantic_parser/serialization/vocabulary/rule_labels.txt", "allennlp/tests/fixtures/semantic_parsing/nlvr_direct_semantic_parser/serialization/best.th", "allennlp/tests/fixtures/semantic_parsing/nlvr_direct_semantic_parser/serialization/model.tar.gz", "allennlp/tests/fixtures/semantic_parsing/nlvr_direct_semantic_parser/serialization/vocabulary/rule_labels.txt", "allennlp/tests/models/semantic_parsing/nlvr/nlvr_coverage_semantic_parser_test.py", "allennlp/tests/semparse/domain_languages/domain_language_test.py", "allennlp/tests/semparse/domain_languages/nlvr_language_test.py", "allennlp/tests/semparse/domain_languages/quarel_language_test.py", "allennlp/tests/semparse/executors/nlvr_executor_test.py", "allennlp/tests/semparse/worlds/nlvr_world_test.py", "allennlp/tests/semparse/worlds/world_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "5e8e6078ba9d7d27d67854ad7658203b6ad1583b",
-"commit_link": "https://github.com/getsentry/sentry/commit/5e8e6078ba9d7d27d67854ad7658203b6ad1583b",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/testutils/cases.py", "tests/sentry/integrations/jira/test_configure.py", "tests/sentry/integrations/jira/test_extension_configuration.py", "tests/sentry/integrations/jira/test_integration.py", "tests/sentry/integrations/jira/test_ui_hook.py", "tests/sentry/integrations/vercel/test_integration.py"],
-"type": ["assert"],
-"numberOfMigration": ""

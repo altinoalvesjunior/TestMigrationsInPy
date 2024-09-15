@@ -1,7 +1,0 @@
-"commit_hash": "8c9f5c9106193e97a8427e04ae7093712677f33a",
-"commit_link": "https://github.com/ansible/ansible/commit/8c9f5c9106193e97a8427e04ae7093712677f33a",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test/units/plugins/action/test_action.py", "test/units/plugins/action/test_raw.py", "test/units/plugins/connection/test_connection.py", "test/units/plugins/connection/test_ssh.py"],
-"type": ["assert"],
-"numberOfMigration": ""

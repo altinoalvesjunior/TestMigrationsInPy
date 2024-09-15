@@ -1,7 +1,7 @@
-"commit_hash": "fca4fe9eb353eb500bc24a9c401bffbf0883565d",
-"commit_link": "https://github.com/joke2k/faker/commit/fca4fe9eb353eb500bc24a9c401bffbf0883565d",
-"testFilesChanged": 13,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/providers/__init__.py", "tests/providers/conftest.py", "tests/providers/test_barcode.py", "tests/providers/test_currency.py", "tests/providers/test_internet.py", "tests/providers/test_isbn.py", "tests/providers/test_user_agent.py", "tests/sphinx/test_docstring.py", "tests/sphinx/test_validator.py", "tests/test_base_provider.py", "tests/test_factory.py", "tests/test_generator.py", "tests/test_proxy.py"],
-"type": ["assert", "fixture", "import", "testcase", "add Param"],
-"numberOfMigration": ""
+"commit_hash": "40a50ac5d95cd8f25382af3df4be244850417e62",
+"commit_link": "https://github.com/joke2k/faker/commit/40a50ac5d95cd8f25382af3df4be244850417e62",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["faker/contrib/pytest/plugin.py"],
+"type": ["assert", "add Param"],
+"numberOfMigration": 

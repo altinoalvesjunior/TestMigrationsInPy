@@ -1,7 +1,7 @@
-"commit_hash": "95d9088ab144ced6c87ccc5ced08d495c25b1aa7",
-"commit_link": "https://github.com/apache/airflow/commit/95d9088ab144ced6c87ccc5ced08d495c25b1aa7",
+"commit_hash": "3007159c2468f8e74476cc17573e03655ab168fa",
+"commit_link": "https://github.com/apache/airflow/commit/3007159c2468f8e74476cc17573e03655ab168fa",
 "testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/core/test_core.py", "tests/utils/test_dates.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/cli/commands/test_task_command.py", "tests/utils/log/test_secrets_masker.py"],
+"type": ["assert", "testcase"],
+"numberOfMigration": 

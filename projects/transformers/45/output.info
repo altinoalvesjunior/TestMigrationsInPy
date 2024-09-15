@@ -1,7 +1,0 @@
-"commit_hash": "e03966e404394e0ccd4f62f2bdb9607b4a69993d",
-"commit_link": "https://github.com/huggingface/transformers/commit/e03966e404394e0ccd4f62f2bdb9607b4a69993d",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/gpt2/test_modeling_tf_gpt2.py", "tests/t5/test_modeling_tf_t5.py", "tests/test_modeling_tf_common.py"],
-"type": ["assert"],
-"numberOfMigration": ""

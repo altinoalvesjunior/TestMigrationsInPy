@@ -1,7 +1,0 @@
-"commit_hash": "1277400304da582425e6d579e0000de44e598f81",
-"commit_link": "https://github.com/getsentry/sentry/commit/1277400304da582425e6d579e0000de44e598f81",
-"testFilesChanged": 12,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/interfaces/test_applecrashreport.py", "tests/sentry/interfaces/test_breadcrumbs.py", "tests/sentry/interfaces/test_contexts.py", "tests/sentry/interfaces/test_debug_meta.py", "tests/sentry/interfaces/test_device.py", "tests/sentry/interfaces/test_exception.py", "tests/sentry/interfaces/test_geo.py", "tests/sentry/interfaces/test_sdk.py", "tests/sentry/interfaces/test_stacktrace.py", "tests/sentry/interfaces/test_template.py", "tests/sentry/interfaces/test_threads.py", "tests/sentry/interfaces/test_user.py"],
-"type": ["assert"],
-"numberOfMigration": ""

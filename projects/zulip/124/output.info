@@ -1,7 +1,0 @@
-"commit_hash": "ee612dafacea1c4d00aa682333f8bce73e2f7677",
-"commit_link": "https://github.com/zulip/zulip/commit/ee612dafacea1c4d00aa682333f8bce73e2f7677",
-"testFilesChanged": 10,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["web/e2e-tests/admin.test.ts", "web/tests/dispatch.test.js", "web/tests/dispatch_subs.test.js", "web/tests/lib/events.js", "zerver/tests/test_audit_log.py", "zerver/tests/test_events.py", "zerver/tests/test_home.py", "zerver/tests/test_new_users.py", "zerver/tests/test_realm.py", "zerver/tests/test_signup.py"],
-"type": ["assert"],
-"numberOfMigration": ""

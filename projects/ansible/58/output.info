@@ -1,7 +1,0 @@
-"commit_hash": "8750a1f9ace81f57e33a9e3f0234f8f6c1c76e66",
-"commit_link": "https://github.com/ansible/ansible/commit/8750a1f9ace81f57e33a9e3f0234f8f6c1c76e66",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test/units/modules/test_iptables.py"],
-"type": ["assert", "fixture", "add Param"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "323fca30be2fd8603f1217c73b4efeb69f831f72",
-"commit_link": "https://github.com/getsentry/sentry/commit/323fca30be2fd8603f1217c73b4efeb69f831f72",
-"testFilesChanged": 8,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/integration/fixtures/csp/chrome_blocked_asset_output.json", "tests/integration/tests.py", "tests/sentry/event_manager/test_normalization.py", "tests/sentry/event_manager/test_validate_csp.py", "tests/sentry/event_manager/test_validate_data.py", "tests/sentry/interfaces/test_exception.py", "tests/sentry/interfaces/test_stacktrace.py", "tests/sentry/lang/javascript/test_plugin.py"],
-"type": ["assert"],
-"numberOfMigration": ""

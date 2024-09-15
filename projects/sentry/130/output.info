@@ -1,7 +1,0 @@
-"commit_hash": "7c07c7cda376cca5bdfc0987f4905762d8833bb4",
-"commit_link": "https://github.com/getsentry/sentry/commit/7c07c7cda376cca5bdfc0987f4905762d8833bb4",
-"testFilesChanged": 8,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/testutils/fixtures.py", "tests/sentry/api/bases/test_sentryapps.py", "tests/sentry/api/endpoints/test_sentry_app_authorizations.py", "tests/sentry/auth/test_access.py", "tests/sentry/mediators/sentry_app_installations/test_authorizer.py", "tests/sentry/mediators/token_exchange/test_grant_exchanger.py", "tests/sentry/mediators/token_exchange/test_refresher.py", "tests/sentry/mediators/token_exchange/test_validator.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

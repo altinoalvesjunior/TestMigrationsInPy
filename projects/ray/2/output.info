@@ -1,7 +1,7 @@
-"commit_hash": "52888e4c6fe6bb9e1a364383060b1f4d58f459f9",
-"commit_link": "https://github.com/ray-project/ray/commit/52888e4c6fe6bb9e1a364383060b1f4d58f459f9",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test/trial_runner_test.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "696a229ece4dfa7b10634873d485267b6749d1df",
+"commit_link": "https://github.com/ray-project/ray/commit/696a229ece4dfa7b10634873d485267b6749d1df",
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["python/ray/test/test_functions.py", "test/actor_test.py", "test/failure_test.py", "test/microbenchmarks.py", "test/recursion_test.py", "test/runtest.py"],
+"type": ["assert", "fixture", "testcase"],
+"numberOfMigration": 

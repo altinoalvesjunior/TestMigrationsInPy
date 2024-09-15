@@ -1,7 +1,0 @@
-"commit_hash": "1bed43d3d0f2820377089bd132a3fa8a381ac04d",
-"commit_link": "https://github.com/streamlit/streamlit/commit/1bed43d3d0f2820377089bd132a3fa8a381ac04d",
-"testFilesChanged": 17,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["e2e_playwright/st_dialog_test.py", "e2e_playwright/st_table_test.py", "frontend/lib/src/components/elements/Skeleton/Skeleton.test.tsx", "lib/tests/streamlit/elements/doc_string_test.py", "lib/tests/streamlit/elements/empty_test.py", "lib/tests/streamlit/elements/map_test.py", "lib/tests/streamlit/runtime/script_data_test.py", "lib/tests/streamlit/runtime/scriptrunner/script_runner_test.py", "lib/tests/streamlit/runtime/secrets_test.py", "lib/tests/streamlit/source_util_test.py", "lib/tests/streamlit/watcher/local_sources_watcher_test.py", "lib/tests/streamlit/web/bootstrap_test.py", "lib/tests/streamlit/web/cli_test.py", "lib/tests/streamlit/web/server/app_static_file_handler_test.py", "lib/tests/streamlit/web/server/component_request_handler_test.py", "lib/tests/streamlit/web/server/routes_test.py", "lib/tests/streamlit/web/server/server_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

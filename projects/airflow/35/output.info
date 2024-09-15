@@ -1,7 +1,7 @@
-"commit_hash": "8b54919711a203c3f35d98c6310a55d4df5da590",
-"commit_link": "https://github.com/apache/airflow/commit/8b54919711a203c3f35d98c6310a55d4df5da590",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/providers/google/cloud/hooks/test_bigquery.py", "tests/providers/google/cloud/operators/test_bigquery.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "126788a25ac8852f2dd148fde38b5ab9f4ce8545",
+"commit_link": "https://github.com/apache/airflow/commit/126788a25ac8852f2dd148fde38b5ab9f4ce8545",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/jobs/test_scheduler_job.py"],
+"type": ["assert", "fixture", "testcase"],
+"numberOfMigration": 

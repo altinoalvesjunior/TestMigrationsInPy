@@ -1,7 +1,0 @@
-"commit_hash": "abac260de62cef203722bccf830bbb8bdcb5f5a1",
-"commit_link": "https://github.com/getsentry/sentry/commit/abac260de62cef203722bccf830bbb8bdcb5f5a1",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/api/endpoints/test_project_release_token.py", "tests/sentry/web/frontend/test_project_release_tracking.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

@@ -1,7 +1,7 @@
-"commit_hash": "c3af681edf5988d9f9b2aa58c3eb7c97b2f91ca3",
-"commit_link": "https://github.com/apache/airflow/commit/c3af681edf5988d9f9b2aa58c3eb7c97b2f91ca3",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/jobs/test_base_job.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "7c0d8a2f83cc6db25bdddcf6cecb6fb56f05f02f",
+"commit_link": "https://github.com/apache/airflow/commit/7c0d8a2f83cc6db25bdddcf6cecb6fb56f05f02f",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/conftest.py", "tests/jobs/test_local_task_job.py"],
+"type": ["fixture", "testcase"],
+"numberOfMigration": 

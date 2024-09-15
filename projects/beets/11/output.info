@@ -1,7 +1,0 @@
-"commit_hash": "6a3380bcb5e803e825bd9485fcc4b70d352947eb",
-"commit_link": "https://github.com/beetbox/beets/commit/6a3380bcb5e803e825bd9485fcc4b70d352947eb",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test/test_art_resize.py", "test/test_autotag.py", "test/test_library.py", "test/test_sort.py"],
-"type": ["assert"],
-"numberOfMigration": ""

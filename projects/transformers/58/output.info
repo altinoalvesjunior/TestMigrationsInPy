@@ -1,7 +1,0 @@
-"commit_hash": "65a926e82b64a53f869efe858e2896b2002dee13",
-"commit_link": "https://github.com/huggingface/transformers/commit/65a926e82b64a53f869efe858e2896b2002dee13",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/models/whisper/test_modeling_whisper.py", "tests/pipelines/test_pipelines_automatic_speech_recognition.py"],
-"type": ["assert"],
-"numberOfMigration": ""

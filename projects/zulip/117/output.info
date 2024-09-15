@@ -1,7 +1,0 @@
-"commit_hash": "d763fae9d03045e3e6a95b074d2e8ed8c7e5c476",
-"commit_link": "https://github.com/zulip/zulip/commit/d763fae9d03045e3e6a95b074d2e8ed8c7e5c476",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["corporate/tests/test_remote_billing.py", "zerver/tests/test_import_export.py", "zerver/tests/test_push_notifications.py", "zerver/tests/test_realm.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,7 @@
-"commit_hash": "9c94d2c286ae613ef05039216fc4657e32dc72ea",
-"commit_link": "https://github.com/getsentry/sentry/commit/9c94d2c286ae613ef05039216fc4657e32dc72ea",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/web/frontend/accounts/tests.py", "tests/sentry/web/frontend/test_auth_login.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "0042e02db2775a6eb80c51f121680b4807293ff6",
+"commit_link": "https://github.com/getsentry/sentry/commit/0042e02db2775a6eb80c51f121680b4807293ff6",
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["src/sentry/testutils/skips.py", "src/sentry/utils/pytest/fixtures.py", "tests/relay_integration/lang/javascript/test_example.py", "tests/relay_integration/lang/javascript/test_plugin.py", "tests/symbolicator/snapshots/TestSymbolicatorSourceMapIntegration/test_symbolicator_roundtrip/0.pysnap", "tests/symbolicator/snapshots/TestSymbolicatorSourceMapIntegration/test_symbolicator_roundtrip/1.pysnap", "tests/symbolicator/test_sourcemap.py"],
+"type": ["fixture"],
+"numberOfMigration": 

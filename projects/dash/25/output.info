@@ -1,7 +1,0 @@
-"commit_hash": "a3fe1b41556dc6d9f9111597d817ce00962651ca",
-"commit_link": "https://github.com/plotly/dash/commit/a3fe1b41556dc6d9f9111597d817ce00962651ca",
-"testFilesChanged": 18,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["dash/testing/application_runners.py", "dash/testing/browser.py", "dash/testing/dash_page.py", "dash/testing/plugin.py", "dash/testing/wait.py", "tests/integration/callbacks/test_basic_callback.py", "tests/integration/callbacks/test_callback_context.py", "tests/integration/callbacks/test_layout_paths_with_callbacks.py", "tests/integration/callbacks/test_multiple_callbacks.py", "tests/integration/callbacks/test_wildcards.py", "tests/integration/devtools/test_callback_validation.py", "tests/integration/devtools/test_devtools_error_handling.py", "tests/integration/devtools/test_props_check.py", "tests/integration/renderer/test_persistence.py", "tests/integration/renderer/test_state_and_input.py", "tests/integration/test_integration.py", "tests/integration/test_render.py", "tests/unit/test_configs.py"],
-"type": ["assert"],
-"numberOfMigration": ""

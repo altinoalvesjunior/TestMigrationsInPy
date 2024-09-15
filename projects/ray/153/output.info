@@ -1,7 +1,0 @@
-"commit_hash": "2cf264c7b482c305fd36375f86745a8cb805ee80",
-"commit_link": "https://github.com/ray-project/ray/commit/2cf264c7b482c305fd36375f86745a8cb805ee80",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["python/ray/air/tests/test_integration_mlflow.py"],
-"type": ["assert"],
-"numberOfMigration": ""

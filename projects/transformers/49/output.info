@@ -1,7 +1,0 @@
-"commit_hash": "39a72125e7671a1029b8e8c3a72a52ab1d59d4e4",
-"commit_link": "https://github.com/huggingface/transformers/commit/39a72125e7671a1029b8e8c3a72a52ab1d59d4e4",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/models/roc_bert/test_modeling_roc_bert.py", "tests/models/roc_bert/test_tokenization_roc_bert.py"],
-"type": ["assert"],
-"numberOfMigration": ""

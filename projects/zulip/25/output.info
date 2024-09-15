@@ -1,7 +1,0 @@
-"commit_hash": "d690cc32e170eaa8fe618822fdf87b867ca56418",
-"commit_link": "https://github.com/zulip/zulip/commit/d690cc32e170eaa8fe618822fdf87b867ca56418",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["zerver/tests/test_decorators.py"],
-"type": ["assert"],
-"numberOfMigration": ""

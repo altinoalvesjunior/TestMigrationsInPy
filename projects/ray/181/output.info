@@ -1,7 +1,0 @@
-"commit_hash": "71ca353715ae0dc2fa914dfff8ade3a9d8c02efe",
-"commit_link": "https://github.com/ray-project/ray/commit/71ca353715ae0dc2fa914dfff8ade3a9d8c02efe",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["ci/pipeline/determine_tests_to_run.py", "ci/pipeline/py_dep_analysis_test.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

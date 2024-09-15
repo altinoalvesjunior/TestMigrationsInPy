@@ -1,7 +1,7 @@
-"commit_hash": "caa60b1141ac02cdde1c33464be9adca114c2ed5",
-"commit_link": "https://github.com/apache/airflow/commit/caa60b1141ac02cdde1c33464be9adca114c2ed5",
-"testFilesChanged": 15,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["airflow/operators/latest_only_operator.py", "tests/executors/test_dask_executor.py", "tests/jobs/test_scheduler_job.py", "tests/models/test_cleartasks.py", "tests/models/test_taskinstance.py", "tests/models/test_xcom.py", "tests/providers/amazon/aws/operators/test_s3_to_sftp.py", "tests/security/test_kerberos.py", "tests/test_configuration.py", "tests/test_logging_config.py", "tests/utils/test_dag_processing.py", "tests/utils/test_email.py", "tests/utils/test_task_handler_with_custom_formatter.py", "tests/www/api/experimental/test_kerberos_endpoints.py", "tests/www/test_views.py"],
-"type": ["fixture"],
-"numberOfMigration": ""
+"commit_hash": "866a601b76e219b3c043e1dbbc8fb22300866351",
+"commit_link": "https://github.com/apache/airflow/commit/866a601b76e219b3c043e1dbbc8fb22300866351",
+"testFilesChanged": 0,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": [],
+"type": ["assert", "testcase"],
+"numberOfMigration": 

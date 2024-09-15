@@ -1,7 +1,0 @@
-"commit_hash": "d3b8c9dd7bef6bccb5e70d2ccf3cda8463444a34",
-"commit_link": "https://github.com/getsentry/sentry/commit/d3b8c9dd7bef6bccb5e70d2ccf3cda8463444a34",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/snuba/api/endpoints/test_organization_events.py", "tests/snuba/api/endpoints/test_organization_events_mep.py"],
-"type": ["assert"],
-"numberOfMigration": ""

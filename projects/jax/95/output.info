@@ -1,7 +1,0 @@
-"commit_hash": "dea7450e4e5cca2d0e80d2c0fd74d244a1e68f04",
-"commit_link": "https://github.com/google/jax/commit/dea7450e4e5cca2d0e80d2c0fd74d244a1e68f04",
-"testFilesChanged": 27,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["jax/experimental/gda_serialization/serialization_test.py", "jax/experimental/jax2tf/tests/call_tf_test.py", "jax/experimental/jax2tf/tests/jax2tf_test.py", "jax/experimental/jax2tf/tests/primitives_test.py", "jax/experimental/jax2tf/tests/sharding_test.py", "tests/BUILD", "tests/api_test.py", "tests/array_test.py", "tests/checkify_test.py", "tests/custom_object_test.py", "tests/debug_nans_test.py", "tests/debugger_test.py", "tests/debugging_primitives_test.py", "tests/dtypes_test.py", "tests/dynamic_api_test.py", "tests/jaxpr_effects_test.py", "tests/lax_numpy_operators_test.py", "tests/lax_numpy_test.py", "tests/lax_test.py", "tests/multi_device_test.py", "tests/pjit_test.py", "tests/pmap_test.py", "tests/python_callback_test.py", "tests/remote_transfer_test.py", "tests/shard_map_test.py", "tests/typing_test.py", "tests/xmap_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

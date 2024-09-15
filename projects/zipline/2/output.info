@@ -1,7 +1,0 @@
-"commit_hash": "59c8e371a2994c2577f5c2fc8ce0837e3b3548f9",
-"commit_link": "https://github.com/quantopian/zipline/commit/59c8e371a2994c2577f5c2fc8ce0837e3b3548f9",
-"testFilesChanged": 28,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/data/bundles/test_core.py", "tests/data/bundles/test_quandl.py", "tests/data/bundles/test_yahoo.py", "tests/data/test_minute_bars.py", "tests/data/test_us_equity_pricing.py", "tests/pipeline/test_engine.py", "tests/pipeline/test_us_equity_pricing_loader.py", "tests/resources/example_data.tar.gz", "tests/resources/quandl_samples/AAPL.csv.gz", "tests/resources/quandl_samples/BRK_A.csv.gz", "tests/resources/quandl_samples/MSFT.csv.gz", "tests/resources/quandl_samples/ZEN.csv.gz", "tests/resources/quandl_samples/metadata-1.csv.gz", "tests/resources/quandl_samples/metadata-2.csv.gz", "tests/resources/quandl_samples/rebuild_samples.py", "tests/resources/rebuild_example_data", "tests/resources/yahoo_samples/AAPL.adjustments.gz", "tests/resources/yahoo_samples/AAPL.csv.gz", "tests/resources/yahoo_samples/IBM.adjustments.gz", "tests/resources/yahoo_samples/IBM.csv.gz", "tests/resources/yahoo_samples/MSFT.adjustments.gz", "tests/resources/yahoo_samples/MSFT.csv.gz", "tests/resources/yahoo_samples/rebuild_samples", "tests/test_cli.py", "tests/test_examples.py", "zipline/testing/__init__.py", "zipline/testing/core.py", "zipline/testing/predicates.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

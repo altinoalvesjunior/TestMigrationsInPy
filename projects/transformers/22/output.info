@@ -1,7 +1,0 @@
-"commit_hash": "960faaaf28b198c0dd2fcb288fa336a846aed398",
-"commit_link": "https://github.com/huggingface/transformers/commit/960faaaf28b198c0dd2fcb288fa336a846aed398",
-"testFilesChanged": 7,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test_tokenization_blenderbot.py", "tests/test_modeling_auto.py", "tests/test_modeling_bart.py", "tests/test_modeling_blenderbot.py", "tests/test_modeling_common.py", "tests/test_modeling_mbart.py", "tests/test_tokenization_blenderbot.py"],
-"type": ["assert"],
-"numberOfMigration": ""

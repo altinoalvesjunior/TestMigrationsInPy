@@ -1,7 +1,0 @@
-"commit_hash": "5751c2d2a7bf4b21451476f3f03ff513b772ac78",
-"commit_link": "https://github.com/getsentry/sentry/commit/5751c2d2a7bf4b21451476f3f03ff513b772ac78",
-"testFilesChanged": 20,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/api/endpoints/test_sentry_app_publish_request.py", "tests/sentry/integrations/github/test_client.py", "tests/sentry/integrations/github/test_integration.py", "tests/sentry/integrations/github/test_issues.py", "tests/sentry/integrations/github/test_repository.py", "tests/sentry/integrations/github/test_search.py", "tests/sentry/integrations/github/test_webhooks.py", "tests/sentry/integrations/github_enterprise/test_integration.py", "tests/sentry/integrations/github_enterprise/test_issues.py", "tests/sentry/integrations/github_enterprise/test_search.py", "tests/sentry/integrations/github_enterprise/test_webhooks.py", "tests/sentry/integrations/gitlab/test_client.py", "tests/sentry/integrations/gitlab/test_integration.py", "tests/sentry/integrations/gitlab/test_issues.py", "tests/sentry/integrations/gitlab/test_repository.py", "tests/sentry/integrations/gitlab/test_search.py", "tests/sentry/integrations/gitlab/test_webhook.py", "tests/sentry/integrations/gitlab/testutils.py", "tests/snuba/api/endpoints/test_organization_events_distribution.py", "tests/snuba/tsdb/test_tsdb_backend.py"],
-"type": ["assert"],
-"numberOfMigration": ""

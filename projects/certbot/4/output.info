@@ -1,7 +1,0 @@
-"commit_hash": "860af81fef3042134b2b71a6b71b4240c75b1886",
-"commit_link": "https://github.com/certbot/certbot/commit/860af81fef3042134b2b71a6b71b4240c75b1886",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["certbot/tests/account_test.py", "certbot/tests/client_test.py", "certbot/tests/eff_test.py", "certbot/tests/main_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

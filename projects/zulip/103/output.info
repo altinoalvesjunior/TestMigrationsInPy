@@ -1,7 +1,0 @@
-"commit_hash": "a8f5836ee6f5823082445f7bbb2ae3d7fb7a7ec1",
-"commit_link": "https://github.com/zulip/zulip/commit/a8f5836ee6f5823082445f7bbb2ae3d7fb7a7ec1",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["zerver/lib/test_classes.py", "zerver/tests/test_message_notification_emails.py", "zerver/tests/test_push_notifications.py", "zerver/tests/test_signup.py"],
-"type": ["assert"],
-"numberOfMigration": ""

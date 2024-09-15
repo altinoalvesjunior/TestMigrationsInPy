@@ -1,7 +1,0 @@
-"commit_hash": "8212782a333c749fa9f2000b92cfbe2a681512e9",
-"commit_link": "https://github.com/plotly/dash/commit/8212782a333c749fa9f2000b92cfbe2a681512e9",
-"testFilesChanged": 10,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["dash/testing/dash_page.py", "tests/integration/callbacks/test_basic_callback.py", "tests/integration/callbacks/test_callback_context.py", "tests/integration/callbacks/test_layout_paths_with_callbacks.py", "tests/integration/callbacks/test_missing_inputs.py", "tests/integration/callbacks/test_multiple_callbacks.py", "tests/integration/callbacks/test_wildcards.py", "tests/integration/renderer/test_dependencies.py", "tests/integration/renderer/test_due_diligence.py", "tests/integration/test_render.py"],
-"type": ["assert"],
-"numberOfMigration": ""

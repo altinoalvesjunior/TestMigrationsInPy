@@ -1,7 +1,0 @@
-"commit_hash": "d95c3ebcf219b99ff95ea48cda00476d4597d1f8",
-"commit_link": "https://github.com/getsentry/sentry/commit/d95c3ebcf219b99ff95ea48cda00476d4597d1f8",
-"testFilesChanged": 11,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/acceptance/test_create_project.py", "tests/acceptance/test_organization_onboarding.py", "tests/acceptance/test_project_overview.py", "tests/js/spec/views/onboarding/__snapshots__/createProject.spec.jsx.snap", "tests/js/spec/views/onboarding/__snapshots__/index.spec.jsx.snap", "tests/js/spec/views/onboarding/createProject.spec.jsx", "tests/js/spec/views/onboarding/index.spec.jsx", "tests/js/spec/views/onboarding/project/__snapshots__/index.spec.jsx.snap", "tests/js/spec/views/projectInstall/__snapshots__/newProject.spec.jsx.snap", "tests/js/spec/views/projectInstall/newProject.spec.jsx", "tests/sentry/web/frontend/test_create_project.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

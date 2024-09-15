@@ -1,7 +1,0 @@
-"commit_hash": "f3b516234dbbe9e1514fb474d591e04171948745",
-"commit_link": "https://github.com/getsentry/sentry/commit/f3b516234dbbe9e1514fb474d591e04171948745",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/api/test_event_search.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "5bf9d5084fe38d864c1b5075145d2e778c431a5b",
-"commit_link": "https://github.com/ray-project/ray/commit/5bf9d5084fe38d864c1b5075145d2e778c431a5b",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["rllib/connectors/tests/test_action.py", "rllib/connectors/tests/test_agent.py", "rllib/connectors/tests/test_connector.py", "rllib/evaluation/tests/test_env_runner_v2.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

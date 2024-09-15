@@ -1,7 +1,7 @@
-"commit_hash": "deb953d9b3c1cf450aee9dfe92f81e9ffa768f06",
-"commit_link": "https://github.com/apache/airflow/commit/deb953d9b3c1cf450aee9dfe92f81e9ffa768f06",
-"testFilesChanged": 13,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_utils/www.py", "tests/www/test_views.py", "tests/www/views/conftest.py", "tests/www/views/test_views.py", "tests/www/views/test_views_connection.py", "tests/www/views/test_views_dagrun.py", "tests/www/views/test_views_decorators.py", "tests/www/views/test_views_extra_links.py", "tests/www/views/test_views_mount.py", "tests/www/views/test_views_pool.py", "tests/www/views/test_views_rendered.py", "tests/www/views/test_views_trigger_dag.py", "tests/www/views/test_views_variable.py"],
-"type": ["fixture", "testcase", "add Param"],
-"numberOfMigration": ""
+"commit_hash": "a770e9ca440de734416e35dab388be8340c7e58f",
+"commit_link": "https://github.com/apache/airflow/commit/a770e9ca440de734416e35dab388be8340c7e58f",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/providers/jdbc/hooks/test_jdbc.py"],
+"type": ["import", "testcase", "add Param"],
+"numberOfMigration": 

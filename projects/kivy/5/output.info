@@ -1,7 +1,0 @@
-"commit_hash": "39daaa912ac2ff298c7c82ff6b39813a4a019f01",
-"commit_link": "https://github.com/kivy/kivy/commit/39daaa912ac2ff298c7c82ff6b39813a4a019f01",
-"testFilesChanged": 9,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["kivy/tests/common.py", "kivy/tests/conftest.py", "kivy/tests/fixtures.py", "kivy/tests/test_clock.py", "kivy/tests/test_filechooser_unicode.py", "kivy/tests/test_multistroke.py", "kivy/tests/test_properties.py", "kivy/tests/test_uix_translate_coordinates.py", "kivy/tests/test_urlrequest.py"],
-"type": ["assert", "fixture", "import", "testcase"],
-"numberOfMigration": ""

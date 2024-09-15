@@ -1,7 +1,0 @@
-"commit_hash": "fa9ec2de498d12ba3ccbeea360f21d462693ea8d",
-"commit_link": "https://github.com/getsentry/sentry/commit/fa9ec2de498d12ba3ccbeea360f21d462693ea8d",
-"testFilesChanged": 20,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/testutils/cases.py", "tests/sentry/api/serializers/test_auditlogentry.py", "tests/sentry/data_export/test_tasks.py", "tests/sentry/issues/test_ingest.py", "tests/sentry/models/test_projectcodeowners.py", "tests/sentry/sentry_metrics/test_multiprocess_steps.py", "tests/sentry/snuba/metrics/fields/test_base.py", "tests/sentry/snuba/metrics/test_query_builder.py", "tests/sentry/web/frontend/test_auth_login.py", "tests/sentry/web/frontend/test_auth_oauth2.py", "tests/sentry/web/frontend/test_auth_organization_login.py", "tests/sentry/web/frontend/test_auth_saml2.py", "tests/sentry/web/frontend/test_oauth_authorize.py", "tests/sentry/web/frontend/test_organization_auth_settings.py", "tests/sentry/web/frontend/test_react_page.py", "tests/sentry/web/frontend/test_release_webhook.py", "tests/sentry/web/frontend/test_setup_wizard.py", "tests/sentry/web/frontend/test_unsubscribe_notifications.py", "tests/sentry/web/frontend/test_vercel_extension_configuration.py", "tests/sentry/web/frontend/test_vsts_extension_configuration.py"],
-"type": ["assert"],
-"numberOfMigration": ""

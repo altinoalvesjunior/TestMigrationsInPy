@@ -1,7 +1,0 @@
-"commit_hash": "239ace152bfa84188d78d3802d2e69b64752be7e",
-"commit_link": "https://github.com/huggingface/transformers/commit/239ace152bfa84188d78d3802d2e69b64752be7e",
-"testFilesChanged": 24,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/generation/test_framework_agnostic.py", "tests/models/codegen/test_modeling_codegen.py", "tests/models/data2vec/test_modeling_data2vec_audio.py", "tests/models/encodec/test_modeling_encodec.py", "tests/models/gpt2/test_modeling_gpt2.py", "tests/models/gptj/test_modeling_gptj.py", "tests/models/hubert/test_modeling_hubert.py", "tests/models/mctct/test_modeling_mctct.py", "tests/models/rwkv/test_modeling_rwkv.py", "tests/models/sew/test_modeling_sew.py", "tests/models/sew_d/test_modeling_sew_d.py", "tests/models/speecht5/test_modeling_speecht5.py", "tests/models/unispeech/test_modeling_unispeech.py", "tests/models/unispeech_sat/test_modeling_unispeech_sat.py", "tests/models/wav2vec2/test_modeling_flax_wav2vec2.py", "tests/models/wav2vec2/test_modeling_wav2vec2.py", "tests/models/wav2vec2_conformer/test_modeling_wav2vec2_conformer.py", "tests/models/wavlm/test_modeling_wavlm.py", "tests/models/whisper/test_modeling_whisper.py", "tests/onnx/test_onnx.py", "tests/test_modeling_tf_common.py", "tests/test_tokenization_common.py", "tests/trainer/test_trainer_seq2seq.py", "utils/tests_fetcher.py"],
-"type": ["assert"],
-"numberOfMigration": ""

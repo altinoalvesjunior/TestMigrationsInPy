@@ -1,7 +1,7 @@
-"commit_hash": "21719ba6a930d628d8e571e701c4ae7c9353c593",
-"commit_link": "https://github.com/getsentry/sentry/commit/21719ba6a930d628d8e571e701c4ae7c9353c593",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/integration/tests.py", "tests/sentry/coreapi/tests.py", "tests/sentry/web/api/tests.py"],
+"commit_hash": "6a40c27dc82bd3d362b0e6f612ef67c5399ee943",
+"commit_link": "https://github.com/getsentry/sentry/commit/6a40c27dc82bd3d362b0e6f612ef67c5399ee943",
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/sentry/api/endpoints/test_user_authenticator_details.py", "tests/sentry/db/models/fields/test_picklefield.py", "tests/sentry/ingest/test_transaction_clusterer.py", "tests/sentry/models/test_authenticator.py"],
 "type": ["assert", "testcase"],
-"numberOfMigration": ""
+"numberOfMigration": 

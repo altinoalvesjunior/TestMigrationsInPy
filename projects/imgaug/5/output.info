@@ -1,7 +1,0 @@
-"commit_hash": "1732173127ecce503d069300329727065e16e238",
-"commit_link": "https://github.com/aleju/imgaug/commit/1732173127ecce503d069300329727065e16e238",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test/augmentables/test_lines.py"],
-"type": ["assert"],
-"numberOfMigration": ""

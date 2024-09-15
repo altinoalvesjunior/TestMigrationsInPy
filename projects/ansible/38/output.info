@@ -1,7 +1,7 @@
-"commit_hash": "8acf71f78fce89d70a58fc45ee528003c4785e6b",
-"commit_link": "https://github.com/ansible/ansible/commit/8acf71f78fce89d70a58fc45ee528003c4785e6b",
-"testFilesChanged": 11,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test/units/modules/cloud/cloudstack/test_cs_traffic_type.py", "test/units/modules/source_control/test_bitbucket_pipeline_known_host.py", "test/units/modules/source_control/test_gitlab_deploy_key.py", "test/units/modules/source_control/test_gitlab_group.py", "test/units/modules/source_control/test_gitlab_hook.py", "test/units/modules/source_control/test_gitlab_project.py", "test/units/modules/source_control/test_gitlab_runner.py", "test/units/modules/source_control/test_gitlab_user.py", "test/units/plugins/filter/test_network.py", "test/units/plugins/lookup/test_password.py", "test/units/utils/test_encrypt.py"],
-"type": ["assert", "skip", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "04666c9fa1eb2f367cf3b1c9c6853828bdcb813f",
+"commit_link": "https://github.com/ansible/ansible/commit/04666c9fa1eb2f367cf3b1c9c6853828bdcb813f",
+"testFilesChanged": 17,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["test/sanity/ignore.txt", "test/units/inventory/test_group.py", "test/units/inventory/test_host.py", "test/units/module_utils/network/netscaler/test_netscaler.py", "test/units/modules/messaging/rabbitmq/test_rabbitmq_user.py", "test/units/modules/network/eric_eccli/test_eric_eccli_command.py", "test/units/modules/network/nxos/test_nxos_pim_interface.py", "test/units/modules/network/nxos/test_nxos_pim_interface_bfd.py", "test/units/modules/network/onyx/test_onyx_protocol.py", "test/units/modules/network/onyx/test_onyx_ptp_global.py", "test/units/modules/system/test_mount.py", "test/units/plugins/cache/test_cache.py", "test/units/plugins/cache/test_memcached.py", "test/units/plugins/cache/test_redis.py", "test/units/plugins/filter/test_core.py", "test/units/plugins/strategy/test_linear.py", "test/units/plugins/strategy/test_strategy.py"],
+"type": ["assert"],
+"numberOfMigration": 

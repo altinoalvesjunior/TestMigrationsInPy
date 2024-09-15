@@ -1,7 +1,7 @@
-"commit_hash": "105e46f3795e4c5267c2d31bf559c141955dce7e",
-"commit_link": "https://github.com/google/jax/commit/105e46f3795e4c5267c2d31bf559c141955dce7e",
+"commit_hash": "c2b15a1eb8c1afed9a05e1897eed8756f9c9b00e",
+"commit_link": "https://github.com/google/jax/commit/c2b15a1eb8c1afed9a05e1897eed8756f9c9b00e",
 "testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/batching_test.py", "tests/lax_control_flow_test.py", "tests/lax_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/BUILD", "tests/aot_test.py", "tests/array_test.py"],
+"type": ["import"],
+"numberOfMigration": 

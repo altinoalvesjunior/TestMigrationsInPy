@@ -1,7 +1,0 @@
-"commit_hash": "2795097344880b3ea1d90bbdf848db3176164e68",
-"commit_link": "https://github.com/ray-project/ray/commit/2795097344880b3ea1d90bbdf848db3176164e68",
-"testFilesChanged": 8,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["python/ray/tune/tests/test_api.py", "python/ray/tune/tests/test_ray_trial_executor.py", "python/ray/tune/tests/test_resource_updater.py", "python/ray/tune/tests/test_trial_runner.py", "python/ray/tune/tests/test_trial_runner_2.py", "python/ray/tune/tests/test_trial_runner_3.py", "python/ray/tune/tests/test_trial_scheduler.py", "python/ray/tune/tests/test_tune_server.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

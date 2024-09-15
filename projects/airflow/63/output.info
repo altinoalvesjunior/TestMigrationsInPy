@@ -1,7 +1,7 @@
-"commit_hash": "4d3300c1dc1d40aa82e5c5a80a455b8862196dfa",
-"commit_link": "https://github.com/apache/airflow/commit/4d3300c1dc1d40aa82e5c5a80a455b8862196dfa",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/cli/commands/test_plugins_command.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "c23826915dcdca4f22b52b74633336cb2f4a1eca",
+"commit_link": "https://github.com/apache/airflow/commit/c23826915dcdca4f22b52b74633336cb2f4a1eca",
+"testFilesChanged": 15,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["airflow/config_templates/default_test.cfg", "tests/api_connexion/endpoints/test_log_endpoint.py", "tests/conftest.py", "tests/providers/alibaba/cloud/log/test_oss_task_handler.py", "tests/providers/amazon/aws/log/test_cloudwatch_task_handler.py", "tests/providers/amazon/aws/log/test_s3_task_handler.py", "tests/providers/elasticsearch/log/test_es_task_handler.py", "tests/providers/google/cloud/log/test_gcs_task_handler.py", "tests/providers/microsoft/azure/log/test_wasb_task_handler.py", "tests/task/task_runner/test_task_runner.py", "tests/utils/log/test_log_reader.py", "tests/utils/test_log_handlers.py", "tests/www/test_logs/dag_for_testing_log_view/scheduled__2017-09-01T00:00:00+00:00/task_for_testing_log_view/1.log", "tests/www/test_logs/dag_id=dag_for_testing_log_view/run_id=scheduled__2017-09-01T00:00:00+00:00/task_id=task_for_testing_log_view/attempt=1.log", "tests/www/views/test_views_log.py"],
+"type": ["fixture", "import", "skip", "testcase"],
+"numberOfMigration": 

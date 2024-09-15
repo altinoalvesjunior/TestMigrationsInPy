@@ -1,7 +1,0 @@
-"commit_hash": "8f911e15122638f07bc863d86f93e3e1e47010d0",
-"commit_link": "https://github.com/google/jax/commit/8f911e15122638f07bc863d86f93e3e1e47010d0",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/BUILD", "tests/random_lax_test.py", "tests/random_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

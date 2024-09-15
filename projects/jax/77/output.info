@@ -1,7 +1,0 @@
-"commit_hash": "bbb8048d2e41cfb343df88ed204f1b0f679917c0",
-"commit_link": "https://github.com/google/jax/commit/bbb8048d2e41cfb343df88ed204f1b0f679917c0",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/lax_control_flow_test.py", "tests/state_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

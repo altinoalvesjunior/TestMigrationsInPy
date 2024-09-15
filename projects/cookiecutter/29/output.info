@@ -1,7 +1,7 @@
-"commit_hash": "ce8dcba62df31e19b8f571bacfb57ac2d4681918",
-"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/ce8dcba62df31e19b8f571bacfb57ac2d4681918",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_compat.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "8767a8a343077d63c47a014e6b47d97356a97e6a",
+"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/8767a8a343077d63c47a014e6b47d97356a97e6a",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/test_config.py", "tests/test_get_user_config.py"],
+"type": ["assert"],
+"numberOfMigration": 

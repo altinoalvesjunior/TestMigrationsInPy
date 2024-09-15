@@ -1,7 +1,7 @@
-"commit_hash": "da57c99f47b0ad2a7d8d82248a8b88cbc8c71d2d",
-"commit_link": "https://github.com/ray-project/ray/commit/da57c99f47b0ad2a7d8d82248a8b88cbc8c71d2d",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["python/ray/tune/tests/test_trial_runner_3.py", "python/ray/tune/tests/test_tune_restore.py", "python/ray/tune/tests/test_tune_restore_warm_start.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "29a924d92a5ebc304ecb055e7361f1475f16518f",
+"commit_link": "https://github.com/ray-project/ray/commit/29a924d92a5ebc304ecb055e7361f1475f16518f",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["python/ray/tune/tests/test_tune_restore.py"],
+"type": ["assert", "testcase", "add Param"],
+"numberOfMigration": 

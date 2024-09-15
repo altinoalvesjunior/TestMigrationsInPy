@@ -1,7 +1,0 @@
-"commit_hash": "b8e23c4e44769907e7b8eaed7943311b8daa4007",
-"commit_link": "https://github.com/plotly/plotly.py/commit/b8e23c4e44769907e7b8eaed7943311b8daa4007",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["packages/python/plotly/plotly/tests/test_core/test_graph_objs/test_figure.py"],
-"type": ["assert"],
-"numberOfMigration": ""

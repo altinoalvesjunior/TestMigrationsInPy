@@ -1,7 +1,7 @@
-"commit_hash": "1cdab56a6192f69962506b7ff632c986c84eb10d",
-"commit_link": "https://github.com/apache/airflow/commit/1cdab56a6192f69962506b7ff632c986c84eb10d",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/jobs/test_scheduler_job.py", "tests/operators/test_python.py", "tests/ti_deps/deps/test_not_previously_skipped_dep.py", "tests/ti_deps/deps/test_trigger_rule_dep.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "fd373902197183cab5f3e71dbef27187ba49ff6a",
+"commit_link": "https://github.com/apache/airflow/commit/fd373902197183cab5f3e71dbef27187ba49ff6a",
+"testFilesChanged": 19,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["pylintrc-tests", "tests/api_connexion/endpoints/conftest.py", "tests/api_connexion/endpoints/test_config_endpoint.py", "tests/api_connexion/endpoints/test_connection_endpoint.py", "tests/api_connexion/endpoints/test_dag_endpoint.py", "tests/api_connexion/endpoints/test_dag_run_endpoint.py", "tests/api_connexion/endpoints/test_dag_source_endpoint.py", "tests/api_connexion/endpoints/test_event_log_endpoint.py", "tests/api_connexion/endpoints/test_extra_link_endpoint.py", "tests/api_connexion/endpoints/test_health_endpoint.py", "tests/api_connexion/endpoints/test_import_error_endpoint.py", "tests/api_connexion/endpoints/test_log_endpoint.py", "tests/api_connexion/endpoints/test_plugin_endpoint.py", "tests/api_connexion/endpoints/test_pool_endpoint.py", "tests/api_connexion/endpoints/test_task_endpoint.py", "tests/api_connexion/endpoints/test_task_instance_endpoint.py", "tests/api_connexion/endpoints/test_variable_endpoint.py", "tests/api_connexion/endpoints/test_version_endpoint.py", "tests/api_connexion/endpoints/test_xcom_endpoint.py"],
+"type": ["fixture", "import", "testcase"],
+"numberOfMigration": 

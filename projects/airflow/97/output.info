@@ -1,7 +1,7 @@
-"commit_hash": "7b1196bc508cc93ac55ecf0bcf1da406f7809bd4",
-"commit_link": "https://github.com/apache/airflow/commit/7b1196bc508cc93ac55ecf0bcf1da406f7809bd4",
+"commit_hash": "e6810d1ee295889a1324b1af3c8191b40261ed51",
+"commit_link": "https://github.com/apache/airflow/commit/e6810d1ee295889a1324b1af3c8191b40261ed51",
 "testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/providers/amazon/aws/hooks/test_kinesis.py"],
-"type": ["import", "skip", "testcase"],
-"numberOfMigration": ""
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/providers/amazon/aws/transfers/test_dynamodb_to_s3.py"],
+"type": ["assert", "add Param"],
+"numberOfMigration": 

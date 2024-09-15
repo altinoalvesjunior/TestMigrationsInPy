@@ -1,7 +1,0 @@
-"commit_hash": "d7f32cf78e1c0b5aac72a1eb5e475a84927db880",
-"commit_link": "https://github.com/python/mypy/commit/d7f32cf78e1c0b5aac72a1eb5e475a84927db880",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["mypyc/test/test_emitfunc.py", "mypyc/test/test_emitter.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

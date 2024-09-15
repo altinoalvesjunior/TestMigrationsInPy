@@ -1,7 +1,7 @@
-"commit_hash": "833e3383230e1f6f73f8022ddf439d3d531eff01",
-"commit_link": "https://github.com/apache/airflow/commit/833e3383230e1f6f73f8022ddf439d3d531eff01",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/cli/commands/test_info_command.py", "tests/providers/google/cloud/log/test_stackdriver_task_handler.py", "tests/providers/google/cloud/log/test_stackdriver_task_handler_system.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "65ac62867e2a09a406ca443a6ac44f9b667fbc55",
+"commit_link": "https://github.com/apache/airflow/commit/65ac62867e2a09a406ca443a6ac44f9b667fbc55",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/providers/amazon/aws/hooks/test_base_aws.py", "tests/providers/amazon/aws/hooks/test_glue.py"],
+"type": ["assert", "fixture", "import", "skip", "testcase", "add Param"],
+"numberOfMigration": 

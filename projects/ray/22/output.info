@@ -1,7 +1,7 @@
-"commit_hash": "aad3c50e2db422bee9e6ad38b7a08c2b6ff4adb7",
-"commit_link": "https://github.com/ray-project/ray/commit/aad3c50e2db422bee9e6ad38b7a08c2b6ff4adb7",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["python/ray/test/cluster_utils.py", "python/ray/tune/test/cluster_tests.py", "python/ray/tune/test/trial_runner_test.py", "python/ray/tune/test/trial_scheduler_test.py", "test/multi_node_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "d192ef06119f3eccf569a844b30976db99cfa0f6",
+"commit_link": "https://github.com/ray-project/ray/commit/d192ef06119f3eccf569a844b30976db99cfa0f6",
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["ci/jenkins_tests/run_tune_tests.sh", "python/ray/util/sgd/tests/test_torch.py", "python/ray/util/sgd/tests/test_torch_runner.py"],
+"type": ["assert", "add Param"],
+"numberOfMigration": 

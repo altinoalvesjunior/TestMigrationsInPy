@@ -1,7 +1,0 @@
-"commit_hash": "882512cf95b36b55fb4260316b9d0e2bbe501850",
-"commit_link": "https://github.com/aleju/imgaug/commit/882512cf95b36b55fb4260316b9d0e2bbe501850",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test/augmenters/test_arithmetic.py", "test/augmenters/test_color.py", "test/augmenters/test_geometric.py", "test/augmenters/test_segmentation.py"],
-"type": ["assert"],
-"numberOfMigration": ""

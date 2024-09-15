@@ -1,7 +1,7 @@
-"commit_hash": "220befc6a8d95208bcd94847c211161aca3e710b",
-"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/220befc6a8d95208bcd94847c211161aca3e710b",
+"commit_hash": "b52ecfdbcb728f84d0d5d766bc3198f455d009f2",
+"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/b52ecfdbcb728f84d0d5d766bc3198f455d009f2",
 "testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_arg_parsing.py", "tests/test_main.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/test_abbreviation_expansion.py", "tests/test_main.py"],
+"type": ["assert", "add Param"],
+"numberOfMigration": 

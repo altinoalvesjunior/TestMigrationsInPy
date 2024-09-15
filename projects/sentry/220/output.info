@@ -1,7 +1,0 @@
-"commit_hash": "13ccf2d4051a858b615edf7728d45048f3501f59",
-"commit_link": "https://github.com/getsentry/sentry/commit/13ccf2d4051a858b615edf7728d45048f3501f59",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/tasks/integrations/__init__.py", "tests/sentry/tasks/integrations/test_kickoff_vsts_subscription_check.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,7 @@
-"commit_hash": "cdb79b0e3a17f83ba90fe0a0c081d7135e4d1b44",
-"commit_link": "https://github.com/ansible/ansible/commit/cdb79b0e3a17f83ba90fe0a0c081d7135e4d1b44",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test/units/playbook/test_included_file.py"],
-"type": ["assert", "import", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "0785656344c3c42b5f1ff408d2fad3e29f98f278",
+"commit_link": "https://github.com/ansible/ansible/commit/0785656344c3c42b5f1ff408d2fad3e29f98f278",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["test/runner/requirements/units.txt", "test/units/contrib/inventory/test_vmware_inventory.py"],
+"type": ["import", "skip", "testcase"],
+"numberOfMigration": 

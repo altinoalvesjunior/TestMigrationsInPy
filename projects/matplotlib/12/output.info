@@ -1,7 +1,0 @@
-"commit_hash": "4930fbc5f7063621cea310192a550bf0c1cd5512",
-"commit_link": "https://github.com/matplotlib/matplotlib/commit/4930fbc5f7063621cea310192a550bf0c1cd5512",
-"testFilesChanged": 8,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["lib/matplotlib/testing/__init__.py", "lib/matplotlib/testing/compare.py", "lib/matplotlib/testing/decorators.py", "lib/matplotlib/tests/test_axes.py", "lib/matplotlib/tests/test_dates.py", "lib/matplotlib/tests/test_mlab.py", "lib/matplotlib/tests/test_patches.py", "lib/matplotlib/tests/test_rcparams.py"],
-"type": ["skip"],
-"numberOfMigration": ""

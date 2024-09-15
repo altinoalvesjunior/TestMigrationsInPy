@@ -1,7 +1,0 @@
-"commit_hash": "82d6202466b334eff76b899d2c02e57d957b3f05",
-"commit_link": "https://github.com/getsentry/sentry/commit/82d6202466b334eff76b899d2c02e57d957b3f05",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/integrations/vsts/test_integration.py"],
-"type": ["assert"],
-"numberOfMigration": ""

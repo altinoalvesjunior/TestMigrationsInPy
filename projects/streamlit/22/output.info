@@ -1,7 +1,7 @@
-"commit_hash": "d2bfc89d7340d79e6c80d83168709419e63f7b0d",
-"commit_link": "https://github.com/streamlit/streamlit/commit/d2bfc89d7340d79e6c80d83168709419e63f7b0d",
-"testFilesChanged": 13,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["frontend/src/App.test.tsx", "frontend/src/lib/SessionInfo.test.ts", "frontend/src/lib/WebsocketConnection.test.tsx", "lib/tests/streamlit/runtime/app_session_test.py", "lib/tests/streamlit/runtime/memory_session_storage_test.py", "lib/tests/streamlit/runtime/runtime_test.py", "lib/tests/streamlit/runtime/runtime_test_case.py", "lib/tests/streamlit/runtime/runtime_threading_test.py", "lib/tests/streamlit/runtime/websocket_session_manager_test.py", "lib/tests/streamlit/web/server/browser_websocket_handler_test.py", "lib/tests/streamlit/web/server/server_test.py", "lib/tests/streamlit/web/server/server_test_case.py", "lib/tests/streamlit/web/server/websocket_headers_test.py"],
+"commit_hash": "485ec8d64a1b2c6b6662ad140d99447a185d3bb2",
+"commit_link": "https://github.com/streamlit/streamlit/commit/485ec8d64a1b2c6b6662ad140d99447a185d3bb2",
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["e2e_playwright/__snapshots__/linux/st_dialog_test/st_dialog-with_inline_error[chromium].png", "e2e_playwright/st_dialog_test.py", "lib/tests/streamlit/elements/layouts_test.py", "lib/tests/streamlit/runtime/fragment_test.py", "lib/tests/streamlit/runtime/scriptrunner/code_exec_test.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

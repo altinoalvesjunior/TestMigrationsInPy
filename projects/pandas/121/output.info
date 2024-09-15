@@ -1,7 +1,0 @@
-"commit_hash": "898e5d0fd65f78562ef1e21c96e21ed371a9e6df",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/898e5d0fd65f78562ef1e21c96e21ed371a9e6df",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/tests/extension/json/test_json.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,7 @@
-"commit_hash": "353b8f1e7a7361c0afd9e391381bc226b4a5ca8f",
-"commit_link": "https://github.com/huggingface/transformers/commit/353b8f1e7a7361c0afd9e391381bc226b4a5ca8f",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["examples/seq2seq/test_seq2seq_examples.py", "tests/test_modeling_bart.py", "tests/test_modeling_mbart.py", "tests/test_tokenization_common.py", "tests/test_tokenization_mbart.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "0ba15cedbcbe9a9db2d5cde76ea4bb712c311934",
+"commit_link": "https://github.com/huggingface/transformers/commit/0ba15cedbcbe9a9db2d5cde76ea4bb712c311934",
+"testFilesChanged": 22,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["conftest.py", "src/transformers/testing_utils.py", "tests/agents/__init__.py", "tests/agents/test_agent_types.py", "tests/agents/test_agents.py", "tests/agents/test_document_question_answering.py", "tests/agents/test_final_answer.py", "tests/agents/test_image_question_answering.py", "tests/agents/test_python_interpreter.py", "tests/agents/test_speech_to_text.py", "tests/agents/test_text_to_speech.py", "tests/agents/test_tools_common.py", "tests/agents/test_translation.py", "tests/tools/test_image_captioning.py", "tests/tools/test_image_segmentation.py", "tests/tools/test_python_interpreter.py", "tests/tools/test_text_classification.py", "tests/tools/test_text_question_answering.py", "tests/tools/test_text_summarization.py", "tests/tools/test_tools_common.py", "tests/tools/test_translation.py", "utils/not_doctested.txt"],
+"type": ["assert", "import", "testcase"],
+"numberOfMigration": 

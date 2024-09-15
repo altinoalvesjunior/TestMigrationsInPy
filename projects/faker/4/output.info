@@ -1,7 +1,7 @@
-"commit_hash": "94b166f1305cf4d9fb3611a92713403b5e64d439",
-"commit_link": "https://github.com/joke2k/faker/commit/94b166f1305cf4d9fb3611a92713403b5e64d439",
-"testFilesChanged": 22,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/providers/__init__.py", "tests/providers/test_address.py", "tests/providers/test_automotive.py", "tests/providers/test_bank.py", "tests/providers/test_barcode.py", "tests/providers/test_color.py", "tests/providers/test_company.py", "tests/providers/test_credit_card.py", "tests/providers/test_currency.py", "tests/providers/test_date_time.py", "tests/providers/test_file.py", "tests/providers/test_geo.py", "tests/providers/test_internet.py", "tests/providers/test_job.py", "tests/providers/test_misc.py", "tests/providers/test_person.py", "tests/providers/test_phone_number.py", "tests/providers/test_python.py", "tests/providers/test_ssn.py", "tests/providers/test_user_agent.py", "tests/test_factory.py", "tests/test_proxy.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "fca4fe9eb353eb500bc24a9c401bffbf0883565d",
+"commit_link": "https://github.com/joke2k/faker/commit/fca4fe9eb353eb500bc24a9c401bffbf0883565d",
+"testFilesChanged": 13,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/providers/__init__.py", "tests/providers/conftest.py", "tests/providers/test_barcode.py", "tests/providers/test_currency.py", "tests/providers/test_internet.py", "tests/providers/test_isbn.py", "tests/providers/test_user_agent.py", "tests/sphinx/test_docstring.py", "tests/sphinx/test_validator.py", "tests/test_base_provider.py", "tests/test_factory.py", "tests/test_generator.py", "tests/test_proxy.py"],
+"type": ["assert", "fixture", "import", "testcase", "add Param"],
+"numberOfMigration": 

@@ -1,7 +1,7 @@
-"commit_hash": "b96e4992b5df24898e169c01fe23e4cb7d32dd94",
-"commit_link": "https://github.com/apache/airflow/commit/b96e4992b5df24898e169c01fe23e4cb7d32dd94",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/always/test_deprecations.py", "tests/core/test_impersonation_tests.py", "tests/decorators/test_python.py", "tests/providers/apache/hdfs/hooks/test_hdfs.py", "tests/providers/google/cloud/utils/test_mlengine_prediction_summary.py", "tests/providers/mysql/hooks/test_mysql.py"],
-"type": ["skip"],
-"numberOfMigration": ""
+"commit_hash": "73c8e7df0be8b254e3727890b51ca0f76308e6b5",
+"commit_link": "https://github.com/apache/airflow/commit/73c8e7df0be8b254e3727890b51ca0f76308e6b5",
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/operators/test_bash.py", "tests/operators/test_datetime.py", "tests/operators/test_email.py", "tests/operators/test_generic_transfer.py", "tests/operators/test_weekday.py"],
+"type": ["assert", "testcase", "add Param"],
+"numberOfMigration": 

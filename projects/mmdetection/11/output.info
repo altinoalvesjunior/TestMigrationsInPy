@@ -1,7 +1,0 @@
-"commit_hash": "d0c945c94576e5f3de900cc7cee5937384ff41ce",
-"commit_link": "https://github.com/open-mmlab/mmdetection/commit/d0c945c94576e5f3de900cc7cee5937384ff41ce",
-"testFilesChanged": 12,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["configs/bytetrack/bytetrack_yolox_x_8xb4-80e_crowdhuman-mot17halftrain_test-mot17halfval.py", "configs/bytetrack/bytetrack_yolox_x_8xb4-80e_crowdhuman-mot20train_test-mot20test.py", "configs/bytetrack/bytetrack_yolox_x_8xb4-amp-80e_crowdhuman-mot17halftrain_test-mot17halfval.py", "configs/bytetrack/bytetrack_yolox_x_8xb4-amp-80e_crowdhuman-mot17halftrain_test-mot17test.py", "configs/bytetrack/bytetrack_yolox_x_8xb4-amp-80e_crowdhuman-mot20train_test-mot20test.py", "mmdet/testing/__init__.py", "mmdet/testing/_utils.py", "tests/test_engine/test_hooks/test_yolox_mode_switch_hook.py", "tests/test_models/test_mot/test_byte_track.py", "tests/test_models/test_task_modules/test_track/test_interpolation.py", "tests/test_models/test_task_modules/test_track/test_kalman_filter.py", "tests/test_models/test_trackers/test_byte_tracker.py"],
-"type": ["assert"],
-"numberOfMigration": ""

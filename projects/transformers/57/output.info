@@ -1,7 +1,0 @@
-"commit_hash": "415e9a0980b00ef230d850bff7ecf0021c52640d",
-"commit_link": "https://github.com/huggingface/transformers/commit/415e9a0980b00ef230d850bff7ecf0021c52640d",
-"testFilesChanged": 25,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["examples/tensorflow/test_tensorflow_examples.py", "tests/generation/test_tf_utils.py", "tests/models/bert/test_tokenization_bert_tf.py", "tests/models/blip/test_modeling_tf_blip.py", "tests/models/clip/test_modeling_tf_clip.py", "tests/models/convbert/test_modeling_tf_convbert.py", "tests/models/ctrl/test_modeling_tf_ctrl.py", "tests/models/cvt/test_modeling_tf_cvt.py", "tests/models/data2vec/test_modeling_tf_data2vec_vision.py", "tests/models/deit/test_modeling_tf_deit.py", "tests/models/efficientformer/test_modeling_tf_efficientformer.py", "tests/models/encoder_decoder/test_modeling_tf_encoder_decoder.py", "tests/models/esm/test_modeling_tf_esm.py", "tests/models/gpt2/test_tokenization_gpt2_tf.py", "tests/models/groupvit/test_modeling_tf_groupvit.py", "tests/models/sam/test_modeling_tf_sam.py", "tests/models/swin/test_modeling_tf_swin.py", "tests/models/vision_encoder_decoder/test_modeling_tf_vision_encoder_decoder.py", "tests/models/vit/test_modeling_tf_vit.py", "tests/models/vit_mae/test_modeling_tf_vit_mae.py", "tests/sagemaker/scripts/tensorflow/run_tf.py", "tests/sagemaker/scripts/tensorflow/run_tf_dist.py", "tests/test_modeling_tf_common.py", "tests/test_modeling_tf_utils.py", "tests/utils/test_modeling_tf_core.py"],
-"type": ["assert"],
-"numberOfMigration": ""

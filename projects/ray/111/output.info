@@ -1,7 +1,0 @@
-"commit_hash": "38d87c281b1424a365ee8a23a50a6ec0db5777c8",
-"commit_link": "https://github.com/ray-project/ray/commit/38d87c281b1424a365ee8a23a50a6ec0db5777c8",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["python/ray/tests/test_autoscaler.py"],
-"type": ["assert"],
-"numberOfMigration": ""

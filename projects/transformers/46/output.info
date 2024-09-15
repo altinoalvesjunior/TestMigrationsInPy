@@ -1,7 +1,0 @@
-"commit_hash": "986526a0e4f5ab803581074e9e4069c3edcff1dc",
-"commit_link": "https://github.com/huggingface/transformers/commit/986526a0e4f5ab803581074e9e4069c3edcff1dc",
-"testFilesChanged": 20,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/models/bart/test_tokenization_bart.py", "tests/models/byt5/test_tokenization_byt5.py", "tests/models/canine/test_tokenization_canine.py", "tests/models/dpr/test_tokenization_dpr.py", "tests/models/m2m_100/test_tokenization_m2m_100.py", "tests/models/marian/test_modeling_marian.py", "tests/models/marian/test_tokenization_marian.py", "tests/models/mbart/test_tokenization_mbart.py", "tests/models/mbart50/test_tokenization_mbart50.py", "tests/models/mctct/test_processor_mctct.py", "tests/models/mvp/test_tokenization_mvp.py", "tests/models/nllb/test_tokenization_nllb.py", "tests/models/pegasus/test_tokenization_pegasus.py", "tests/models/perceiver/test_tokenization_perceiver.py", "tests/models/plbart/test_tokenization_plbart.py", "tests/models/speech_to_text/test_processor_speech_to_text.py", "tests/models/t5/test_tokenization_t5.py", "tests/models/tapex/test_tokenization_tapex.py", "tests/models/wav2vec2/test_processor_wav2vec2.py", "tests/models/wav2vec2_with_lm/test_processor_wav2vec2_with_lm.py"],
-"type": ["assert"],
-"numberOfMigration": ""

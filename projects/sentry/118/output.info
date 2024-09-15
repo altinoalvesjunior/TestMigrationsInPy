@@ -1,7 +1,0 @@
-"commit_hash": "b1a8892ebbae8c7a967c9703e1b23e603d448ebf",
-"commit_link": "https://github.com/getsentry/sentry/commit/b1a8892ebbae8c7a967c9703e1b23e603d448ebf",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/bitfield/models.py", "tests/bitfield/tests.py", "tests/sentry/tasks/test_auth.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

@@ -1,7 +1,7 @@
-"commit_hash": "987b7e7e586b8df1d127406c69e0a9094a1a5322",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/987b7e7e586b8df1d127406c69e0a9094a1a5322",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/io/tests/test_sql.py", "pandas/io/tests/test_stata.py", "pandas/tseries/tests/test_offsets.py", "pandas/tseries/tests/test_timedeltas.py", "pandas/tseries/tests/test_timeseries.py", "pandas/tseries/tests/test_tslib.py"],
+"commit_hash": "0e2bbcf95624e5312c9ba0f9de48e9b2a1f2ede0",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/0e2bbcf95624e5312c9ba0f9de48e9b2a1f2ede0",
+"testFilesChanged": 17,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["pandas/tests/core/computation/test_eval.py", "pandas/tests/frame/test_indexing.py", "pandas/tests/indexes/datetimes/test_construction.py", "pandas/tests/indexes/datetimes/test_ops.py", "pandas/tests/indexes/test_multi.py", "pandas/tests/indexing/test_chaining_and_caching.py", "pandas/tests/io/formats/test_format.py", "pandas/tests/io/formats/test_printing.py", "pandas/tests/io/test_pytables.py", "pandas/tests/plotting/test_datetimelike.py", "pandas/tests/series/test_indexing.py", "pandas/tests/series/test_timeseries.py", "pandas/tests/test_base.py", "pandas/tests/test_panel.py", "pandas/tests/test_panel4d.py", "pandas/tests/tools/test_concat.py", "pandas/util/testing.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

@@ -1,7 +1,0 @@
-"commit_hash": "2422cda01b6165f9d67f14a76391520c6def2f18",
-"commit_link": "https://github.com/huggingface/transformers/commit/2422cda01b6165f9d67f14a76391520c6def2f18",
-"testFilesChanged": 7,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_modeling_common.py", "tests/test_modeling_encoder_decoder.py", "tests/test_modeling_prophetnet.py", "tests/test_modeling_t5.py", "tests/test_modeling_xlm_prophetnet.py", "tests/test_tokenization_prophetnet.py", "tests/test_tokenization_xlm_prophetnet.py"],
-"type": ["assert"],
-"numberOfMigration": ""

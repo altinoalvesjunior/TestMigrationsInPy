@@ -1,7 +1,0 @@
-"commit_hash": "783d7d2629e97c5f0c5f9ef01b8c66410275c204",
-"commit_link": "https://github.com/huggingface/transformers/commit/783d7d2629e97c5f0c5f9ef01b8c66410275c204",
-"testFilesChanged": 23,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["examples/_tests_requirements.txt", "examples/conftest.py", "examples/research_projects/bert-loses-patience/test_run_glue_with_pabee.py", "examples/research_projects/bertabs/test_utils_summarization.py", "examples/research_projects/deebert/test_glue_deebert.py", "examples/research_projects/rag/_test_finetune_rag.py", "examples/research_projects/rag/test_data/my_knowledge_dataset.csv", "examples/research_projects/rag/test_distributed_retriever.py", "examples/research_projects/seq2seq-distillation/_test_bash_script.py", "examples/research_projects/seq2seq-distillation/_test_make_student.py", "examples/research_projects/seq2seq-distillation/_test_seq2seq_examples.py", "examples/research_projects/seq2seq-distillation/_test_seq2seq_examples_multi_gpu.py", "examples/seq2seq/test_calculate_rouge.py", "examples/seq2seq/test_data/test_data", "examples/seq2seq/test_data/wmt_en_ro/train.len", "examples/seq2seq/test_data/wmt_en_ro/val.len", "examples/seq2seq/test_datasets.py", "examples/seq2seq/test_finetune_trainer.py", "examples/seq2seq/test_seq2seq_examples.py", "examples/seq2seq/test_seq2seq_examples_multi_gpu.py", "examples/seq2seq/test_tatoeba_conversion.py", "examples/test_examples.py", "examples/token-classification/test_ner_examples.py"],
-"type": ["assert", "import", "testcase"],
-"numberOfMigration": ""

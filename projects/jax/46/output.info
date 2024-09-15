@@ -1,7 +1,0 @@
-"commit_hash": "166e1296b98f551c9de320b875ae686f73aa8413",
-"commit_link": "https://github.com/google/jax/commit/166e1296b98f551c9de320b875ae686f73aa8413",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/xmap_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "de0319d92b5952e56de9529d8d837a48f1ca6cc9",
-"commit_link": "https://github.com/getsentry/sentry/commit/de0319d92b5952e56de9529d8d837a48f1ca6cc9",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/api/endpoints/test_organization_dashboard_details.py"],
-"type": ["assert"],
-"numberOfMigration": ""

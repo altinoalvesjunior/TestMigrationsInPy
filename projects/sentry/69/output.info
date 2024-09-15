@@ -1,7 +1,7 @@
-"commit_hash": "9cc9c10092b0798e7e848450e0d0b58fd974f0d7",
-"commit_link": "https://github.com/getsentry/sentry/commit/9cc9c10092b0798e7e848450e0d0b58fd974f0d7",
-"testFilesChanged": 10,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/utils/pytest.py", "tests/sentry/buffer/redis/tests.py", "tests/sentry/cache/test_redis.py", "tests/sentry/digests/backends/test_redis.py", "tests/sentry/options/test_manager.py", "tests/sentry/options/test_store.py", "tests/sentry/quotas/redis/tests.py", "tests/sentry/ratelimits/test_redis.py", "tests/sentry/tsdb/test_redis.py", "tests/sentry/utils/test_redis.py"],
+"commit_hash": "f9c7b1ff630b1a43aacf93d429f5de8652977040",
+"commit_link": "https://github.com/getsentry/sentry/commit/f9c7b1ff630b1a43aacf93d429f5de8652977040",
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/sentry/snuba/metrics/test_snql.py", "tests/sentry/snuba/test_tasks.py", "tests/snuba/rules/conditions/test_event_frequency.py", "tests/snuba/sessions/test_sessions.py", "tests/snuba/tagstore/test_tagstore_backend.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

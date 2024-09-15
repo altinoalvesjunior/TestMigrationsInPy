@@ -1,7 +1,7 @@
-"commit_hash": "9d0bd50e78fa937f7c3a66d94365e5d6cdef47c1",
-"commit_link": "https://github.com/ray-project/ray/commit/9d0bd50e78fa937f7c3a66d94365e5d6cdef47c1",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["python/ray/tune/test/cluster_tests.py", "python/ray/tune/test/ray_trial_executor_test.py", "python/ray/tune/test/trial_runner_test.py"],
+"commit_hash": "48cdca843f2d06aeb356db27d48e01c1153eba22",
+"commit_link": "https://github.com/ray-project/ray/commit/48cdca843f2d06aeb356db27d48e01c1153eba22",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["python/ray/util/sgd/tests/test_pytorch.py", "python/ray/util/sgd/tests/test_pytorch_runner.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 
