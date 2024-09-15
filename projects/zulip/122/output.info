@@ -1,5 +1,7 @@
 "commit_hash": "1c61bb2fadf4c13ac0b7b4598427a586f342165c",
 "commit_link": "https://github.com/zulip/zulip/commit/1c61bb2fadf4c13ac0b7b4598427a586f342165c",
-"files": ["corporate/tests/test_remote_billing.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["corporate/tests/test_remote_billing.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "3f6b5574c61ef9765d077bdd08ccdaba14013e4a",
 "commit_link": "https://github.com/apache/airflow/commit/3f6b5574c61ef9765d077bdd08ccdaba14013e4a",
-"files": ["tests/providers/google/cloud/operators/test_cloud_base.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/google/cloud/operators/test_cloud_base.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

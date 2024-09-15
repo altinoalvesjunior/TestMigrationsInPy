@@ -1,5 +1,7 @@
 "commit_hash": "87a4a0adff037fcfa299fdffd0877a8fdacdd428",
 "commit_link": "https://github.com/apache/airflow/commit/87a4a0adff037fcfa299fdffd0877a8fdacdd428",
-"files": ["airflow/cli/commands/role_command.py", "airflow/cli/commands/sync_perm_command.py", "airflow/cli/commands/user_command.py", "airflow/cli/commands/webserver_command.py", "airflow/www/app.py", "airflow/www/security.py", "airflow/www/views.py", "tests/cli/commands/test_celery_command.py", "tests/cli/commands/test_role_command.py", "tests/cli/commands/test_sync_perm_command.py", "tests/cli/commands/test_task_command.py", "tests/cli/commands/test_user_command.py", "tests/plugins/test_plugins_manager.py", "tests/www/api/experimental/test_dag_runs_endpoint.py", "tests/www/api/experimental/test_endpoints.py", "tests/www/api/experimental/test_kerberos_endpoints.py", "tests/www/test_app.py", "tests/www/test_utils.py", "tests/www/test_views.py", ]
-"type": "assert"
+"testFilesChanged": 12,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/cli/commands/test_celery_command.py", "tests/cli/commands/test_role_command.py", "tests/cli/commands/test_sync_perm_command.py", "tests/cli/commands/test_task_command.py", "tests/cli/commands/test_user_command.py", "tests/plugins/test_plugins_manager.py", "tests/www/api/experimental/test_dag_runs_endpoint.py", "tests/www/api/experimental/test_endpoints.py", "tests/www/api/experimental/test_kerberos_endpoints.py", "tests/www/test_app.py", "tests/www/test_utils.py", "tests/www/test_views.py"],
+"type": ["assert"],
 "numberOfMigration": ""

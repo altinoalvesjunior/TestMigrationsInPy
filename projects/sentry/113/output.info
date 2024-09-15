@@ -1,5 +1,7 @@
 "commit_hash": "20026c984f0a2f5871b3d18031d843cc24a0125c",
 "commit_link": "https://github.com/getsentry/sentry/commit/20026c984f0a2f5871b3d18031d843cc24a0125c",
-"files": ["src/sentry/api/endpoints/project_avatar.py", "src/sentry/api/serializers/models/project.py", "src/sentry/api/urls.py", "tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/api/endpoints/test_project_avatar.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/api/endpoints/test_project_avatar.py"],
+"type": ["assert"],
 "numberOfMigration": ""

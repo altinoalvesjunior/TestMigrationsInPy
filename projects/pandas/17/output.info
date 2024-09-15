@@ -1,5 +1,7 @@
 "commit_hash": "84404afc6eec53e3d31ee9298cecf2b3c2de1d8c",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/84404afc6eec53e3d31ee9298cecf2b3c2de1d8c",
-"files": ["pandas/tools/plotting.py", "pandas/tseries/index.py", "pandas/tseries/period.py", "pandas/tseries/tests/test_frequencies.py", "pandas/tseries/tests/test_offsets.py", "pandas/tseries/tests/test_period.py", "pandas/tseries/tests/test_timeseries.py", "pandas/tseries/tools.py", "pandas/tslib.pyx", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tseries/tests/test_frequencies.py", "pandas/tseries/tests/test_offsets.py", "pandas/tseries/tests/test_period.py", "pandas/tseries/tests/test_timeseries.py"],
+"type": ["assert"],
 "numberOfMigration": ""

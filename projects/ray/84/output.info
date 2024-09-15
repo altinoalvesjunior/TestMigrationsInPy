@@ -1,5 +1,7 @@
 "commit_hash": "a96dbd885bc42dff8608764a8ce15a8a2cf7b1fe",
 "commit_link": "https://github.com/ray-project/ray/commit/a96dbd885bc42dff8608764a8ce15a8a2cf7b1fe",
-"files": ["rllib/BUILD", "rllib/evaluation/tests/test_trajectory_view_api.py", "rllib/examples/policy/episode_env_aware_policy.py", "rllib/policy/eager_tf_policy.py", "rllib/policy/policy.py", "rllib/policy/sample_batch.py", "rllib/utils/sgd.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["rllib/evaluation/tests/test_trajectory_view_api.py"],
+"type": ["assert"],
 "numberOfMigration": ""

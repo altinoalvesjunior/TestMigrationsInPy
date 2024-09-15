@@ -1,5 +1,7 @@
 "commit_hash": "153c97966286964f0c3729e6281063321668f1f6",
 "commit_link": "https://github.com/ansible/ansible/commit/153c97966286964f0c3729e6281063321668f1f6",
-"files": ["test/units/module_utils/facts/network/test_fc_wwn.py", "test/units/module_utils/facts/network/test_generic_bsd.py", "test/units/module_utils/facts/network/test_iscsi_get_initiator.py", "test/units/module_utils/facts/network/test_locally_reachable_ips.py", ]
-"type": "assert, import, testcase, add Param"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/units/module_utils/facts/network/test_fc_wwn.py", "test/units/module_utils/facts/network/test_generic_bsd.py", "test/units/module_utils/facts/network/test_iscsi_get_initiator.py", "test/units/module_utils/facts/network/test_locally_reachable_ips.py"],
+"type": ["assert", "import", "testcase", "add Param"],
 "numberOfMigration": ""

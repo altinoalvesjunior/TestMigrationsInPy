@@ -1,5 +1,7 @@
 "commit_hash": "74b2add460f25b83ae728b06e50d06321a2a9b79",
 "commit_link": "https://github.com/ansible/ansible/commit/74b2add460f25b83ae728b06e50d06321a2a9b79",
-"files": ["changelogs/fragments/74081-paramiko-mark-connected.yml", "lib/ansible/plugins/connection/paramiko_ssh.py", "test/units/plugins/connection/test_paramiko.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/units/plugins/connection/test_paramiko.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

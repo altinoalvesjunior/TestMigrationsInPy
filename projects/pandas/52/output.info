@@ -1,5 +1,7 @@
 "commit_hash": "71df09cfb3110cebf5598e3eb1646f246b483f51",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/71df09cfb3110cebf5598e3eb1646f246b483f51",
-"files": ["asv_bench/benchmarks/gil.py", "asv_bench/benchmarks/groupby.py", "doc/source/whatsnew/v0.19.0.txt", "pandas/algos.pyx", "pandas/core/categorical.py", "pandas/core/groupby.py", "pandas/indexes/base.py", "pandas/indexes/numeric.py", "pandas/src/algos_common_helper.pxi", "pandas/src/algos_common_helper.pxi.in", "pandas/tests/indexes/test_base.py", "pandas/tests/indexes/test_numeric.py", "pandas/tests/test_groupby.py", "pandas/tests/types/test_inference.py", "pandas/tseries/base.py", "pandas/types/common.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/indexes/test_base.py", "pandas/tests/indexes/test_numeric.py", "pandas/tests/test_groupby.py", "pandas/tests/types/test_inference.py"],
+"type": ["assert"],
 "numberOfMigration": ""

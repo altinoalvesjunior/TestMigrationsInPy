@@ -1,5 +1,7 @@
 "commit_hash": "24f65720354bbb762f6975ae79e3c30af2909dce",
 "commit_link": "https://github.com/getsentry/sentry/commit/24f65720354bbb762f6975ae79e3c30af2909dce",
-"files": ["src/sentry/api/endpoints/organization_events_spans_performance.py", "tests/snuba/api/endpoints/test_organization_events_spans_performance.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/snuba/api/endpoints/test_organization_events_spans_performance.py"],
+"type": ["assert"],
 "numberOfMigration": ""

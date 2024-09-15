@@ -1,5 +1,7 @@
 "commit_hash": "351bdfaf789c16055c1e11c8e23408a633fe2e0d",
 "commit_link": "https://github.com/zulip/zulip/commit/351bdfaf789c16055c1e11c8e23408a633fe2e0d",
-"files": ["zerver/actions/message_send.py", "zerver/lib/cache.py", "zerver/lib/markdown/__init__.py", "zerver/lib/message.py", "zerver/lib/url_preview/preview.py", "zerver/tests/test_cache.py", "zerver/tests/test_link_embed.py", "zerver/tests/test_markdown.py", "zerver/worker/queue_processors.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/tests/test_cache.py", "zerver/tests/test_link_embed.py", "zerver/tests/test_markdown.py"],
+"type": ["assert"],
 "numberOfMigration": ""

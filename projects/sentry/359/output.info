@@ -1,5 +1,7 @@
 "commit_hash": "f42956f4b8e3d5525261d1557e91236b8854f58d",
 "commit_link": "https://github.com/getsentry/sentry/commit/f42956f4b8e3d5525261d1557e91236b8854f58d",
-"files": ["src/sentry/uptime/detectors/ranking.py", "src/sentry/uptime/detectors/tasks.py", "tests/sentry/tasks/test_post_process.py", "tests/sentry/uptime/detectors/test_detector.py", "tests/sentry/uptime/detectors/test_ranking.py", "tests/sentry/uptime/detectors/test_tasks.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/tasks/test_post_process.py", "tests/sentry/uptime/detectors/test_detector.py", "tests/sentry/uptime/detectors/test_ranking.py", "tests/sentry/uptime/detectors/test_tasks.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

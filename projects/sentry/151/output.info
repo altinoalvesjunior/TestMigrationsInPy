@@ -1,5 +1,7 @@
 "commit_hash": "1845fbfd628e0cc01ce67bb9ab2e89f8160be940",
 "commit_link": "https://github.com/getsentry/sentry/commit/1845fbfd628e0cc01ce67bb9ab2e89f8160be940",
-"files": ["src/sentry/api/endpoints/project_user_reports.py", "src/sentry/testutils/cases.py", "tests/sentry/api/endpoints/test_project_user_reports.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["src/sentry/testutils/cases.py", "tests/sentry/api/endpoints/test_project_user_reports.py"],
+"type": ["assert"],
 "numberOfMigration": ""

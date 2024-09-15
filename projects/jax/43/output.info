@@ -1,5 +1,7 @@
 "commit_hash": "cf6da862bc587730079f35bfa9f98d943dd4cd68",
 "commit_link": "https://github.com/google/jax/commit/cf6da862bc587730079f35bfa9f98d943dd4cd68",
-"files": ["jax/experimental/jax2tf/g3doc/jax_primitives_coverage.md", "jax/experimental/jax2tf/g3doc/jax_primitives_coverage.md.template", "jax/experimental/jax2tf/g3doc/primitives_with_limited_support.md", "jax/experimental/jax2tf/g3doc/primitives_with_limited_support.md.template", "jax/experimental/jax2tf/tests/jax_primitives_coverage_test.py", "jax/experimental/jax2tf/tests/primitive_harness.py", "jax/experimental/jax2tf/tests/primitives_test.py", "jax/experimental/jax2tf/tests/tf_test_util.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["jax/experimental/jax2tf/tests/jax_primitives_coverage_test.py", "jax/experimental/jax2tf/tests/primitive_harness.py", "jax/experimental/jax2tf/tests/primitives_test.py", "jax/experimental/jax2tf/tests/tf_test_util.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "2ba5ead1e3e713fec59458ab2165959e8886e70b",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/2ba5ead1e3e713fec59458ab2165959e8886e70b",
-"files": ["doc/source/release.rst", "doc/source/remote_data.rst", "doc/source/v0.14.1.txt", "pandas/io/data.py", "pandas/io/tests/data/yahoo_options1.html", "pandas/io/tests/data/yahoo_options2.html", "pandas/io/tests/test_data.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/io/tests/data/yahoo_options1.html", "pandas/io/tests/data/yahoo_options2.html", "pandas/io/tests/test_data.py"],
+"type": ["assert"],
 "numberOfMigration": ""

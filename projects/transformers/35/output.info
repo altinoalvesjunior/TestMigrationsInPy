@@ -1,5 +1,7 @@
 "commit_hash": "a7dabfb3d1d0c3fbbb710933c2edd9d044b72977",
 "commit_link": "https://github.com/huggingface/transformers/commit/a7dabfb3d1d0c3fbbb710933c2edd9d044b72977",
-"files": ["src/transformers/modeling_tf_utils.py", "src/transformers/models/bart/modeling_tf_bart.py", "src/transformers/models/blenderbot/modeling_tf_blenderbot.py", "src/transformers/models/blenderbot_small/__init__.py", "src/transformers/models/blenderbot_small/modeling_tf_blenderbot_small.py", "src/transformers/models/led/modeling_tf_led.py", "src/transformers/models/longformer/modeling_tf_longformer.py", "src/transformers/models/marian/modeling_tf_marian.py", "src/transformers/models/mbart/modeling_tf_mbart.py", "src/transformers/models/pegasus/modeling_tf_pegasus.py", "src/transformers/models/t5/modeling_tf_t5.py", "templates/adding_a_new_model/cookiecutter-template-{{cookiecutter.modelname}}/modeling_tf_{{cookiecutter.lowercase_modelname}}.py", "tests/test_modeling_tf_bart.py", "tests/test_modeling_tf_blenderbot.py", "tests/test_modeling_tf_blenderbot_small.py", "tests/test_modeling_tf_common.py", "tests/test_modeling_tf_led.py", "tests/test_modeling_tf_marian.py", "tests/test_modeling_tf_mbart.py", "tests/test_modeling_tf_pegasus.py", ]
-"type": "assert"
+"testFilesChanged": 8,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_modeling_tf_bart.py", "tests/test_modeling_tf_blenderbot.py", "tests/test_modeling_tf_blenderbot_small.py", "tests/test_modeling_tf_common.py", "tests/test_modeling_tf_led.py", "tests/test_modeling_tf_marian.py", "tests/test_modeling_tf_mbart.py", "tests/test_modeling_tf_pegasus.py"],
+"type": ["assert"],
 "numberOfMigration": ""

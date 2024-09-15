@@ -1,5 +1,7 @@
 "commit_hash": "094d6bf01b9d8b1a5d358dc10fd561cf3a04c51b",
 "commit_link": "https://github.com/apache/airflow/commit/094d6bf01b9d8b1a5d358dc10fd561cf3a04c51b",
-"files": ["airflow/providers/google/cloud/example_dags/example_dataflow.py", "airflow/providers/google/cloud/example_dags/example_dataflow_flex_template.py", "airflow/providers/google/cloud/hooks/dataflow.py", "airflow/providers/google/cloud/links/dataflow.py", "airflow/providers/google/cloud/operators/dataflow.py", "airflow/providers/google/cloud/triggers/dataflow.py", "airflow/providers/google/provider.yaml", "generated/provider_dependencies.json", "tests/providers/google/cloud/hooks/test_dataflow.py", "tests/providers/google/cloud/operators/test_dataflow.py", "tests/providers/google/cloud/triggers/test_dataflow.py", "tests/system/providers/google/cloud/dataflow/example_dataflow_template.py", ]
-"type": "fixture, testcase, add Param"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/google/cloud/hooks/test_dataflow.py", "tests/providers/google/cloud/operators/test_dataflow.py", "tests/providers/google/cloud/triggers/test_dataflow.py", "tests/system/providers/google/cloud/dataflow/example_dataflow_template.py"],
+"type": ["fixture", "testcase", "add Param"],
 "numberOfMigration": ""

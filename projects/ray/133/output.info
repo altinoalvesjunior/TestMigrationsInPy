@@ -1,5 +1,7 @@
 "commit_hash": "ccd24cfbc6e545af4258f4299f7d36c7b46705ac",
 "commit_link": "https://github.com/ray-project/ray/commit/ccd24cfbc6e545af4258f4299f7d36c7b46705ac",
-"files": ["rllib/BUILD", "rllib/core/rl_module/marl_module.py", "rllib/core/rl_module/rl_module.py", "rllib/core/rl_trainer/rl_trainer.py", "rllib/core/rl_trainer/tests/test_rl_trainer.py", "rllib/core/rl_trainer/tests/test_trainer_runner.py", "rllib/core/rl_trainer/tests/test_trainer_runner_local.py", "rllib/core/rl_trainer/tests/tf/__init__.py", "rllib/core/rl_trainer/tests/tf/test_tf_rl_trainer.py", "rllib/core/rl_trainer/tf/tf_rl_trainer.py", "rllib/core/rl_trainer/trainer_runner.py", ]
-"type": "import, testcase"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["rllib/core/rl_trainer/tests/test_rl_trainer.py", "rllib/core/rl_trainer/tests/test_trainer_runner.py", "rllib/core/rl_trainer/tests/test_trainer_runner_local.py", "rllib/core/rl_trainer/tests/tf/__init__.py", "rllib/core/rl_trainer/tests/tf/test_tf_rl_trainer.py"],
+"type": ["import", "testcase"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "c21be391538d277ccea810ee8b7fa3e5a1c94f7e",
 "commit_link": "https://github.com/plotly/dash/commit/c21be391538d277ccea810ee8b7fa3e5a1c94f7e",
-"files": [".circleci/requirements/dev-requirements-py37.txt", ".circleci/requirements/dev-requirements.txt", "tests/unit/dash/test_resources.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/unit/dash/test_resources.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

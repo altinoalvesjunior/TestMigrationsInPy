@@ -1,5 +1,7 @@
 "commit_hash": "e5ea9eeb974f1891d709d779d7a463ff654eed9b",
 "commit_link": "https://github.com/matplotlib/matplotlib/commit/e5ea9eeb974f1891d709d779d7a463ff654eed9b",
-"files": ["conftest.py", "lib/matplotlib/testing/__init__.py", "lib/matplotlib/testing/decorators.py", ]
-"type": "skip"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["conftest.py", "lib/matplotlib/testing/__init__.py", "lib/matplotlib/testing/decorators.py"],
+"type": ["skip"],
 "numberOfMigration": ""

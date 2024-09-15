@@ -1,5 +1,7 @@
 "commit_hash": "43649e3b9d5fcd944d293aeaadfab37ffcdf9fab",
 "commit_link": "https://github.com/mirumee/saleor/commit/43649e3b9d5fcd944d293aeaadfab37ffcdf9fab",
-"files": ["saleor/__init__.py", "saleor/cart/middleware.py", "saleor/cart/models.py", "saleor/cart/test_cart.py", "saleor/checkout/__init__.py", "saleor/checkout/core.py", "saleor/checkout/test_checkout.py", "saleor/core/countries.py", "saleor/core/middleware.py", "saleor/core/templatetags/markdown.py", "saleor/core/test_core.py", "saleor/core/utils/__init__.py", "saleor/dashboard/__init__.py", "saleor/dashboard/category/forms.py", "saleor/dashboard/customer/__init__.py", "saleor/dashboard/order/__init__.py", "saleor/dashboard/order/forms.py", "saleor/dashboard/order/urls.py", "saleor/dashboard/payments/__init__.py", "saleor/dashboard/payments/views.py", "saleor/dashboard/product/__init__.py", "saleor/dashboard/product/forms.py", "saleor/dashboard/product/views.py", "saleor/dashboard/product/widgets.py", "saleor/dashboard/views.py", "saleor/order/forms.py", "saleor/order/models.py", "saleor/order/utils.py", "saleor/order/views.py", "saleor/product/admin.py", "saleor/product/forms.py", "saleor/product/lookups.py", "saleor/product/models/base.py", "saleor/product/models/images.py", "saleor/product/templatetags/price_ranges.py", "saleor/product/views.py", "saleor/registration/forms.py", "saleor/registration/models.py", "saleor/registration/test_registration.py", "saleor/registration/urls.py", "saleor/registration/views.py", "saleor/settings.py", "saleor/userprofile/views.py", "saleor/wsgi/__init__.py", "saleor/wsgi/static.py", "setup.py", "tox.ini", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["saleor/cart/test_cart.py", "saleor/checkout/test_checkout.py", "saleor/core/test_core.py", "saleor/registration/test_registration.py"],
+"type": ["assert"],
 "numberOfMigration": ""

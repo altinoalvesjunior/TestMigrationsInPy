@@ -1,5 +1,7 @@
 "commit_hash": "84babebc96e08f1ea2b7c31406eb5a1ed20cd5c4",
 "commit_link": "https://github.com/aio-libs/aiohttp/commit/84babebc96e08f1ea2b7c31406eb5a1ed20cd5c4",
-"files": [".github/workflows/ci.yml", "CHANGES/5927.feature", "aiohttp/connector.py", "aiohttp/helpers.py", "aiohttp/test_utils.py", "requirements/dev.txt", "requirements/lint.in", "requirements/lint.txt", "requirements/test.txt", "tests/conftest.py", "tests/test_client_functional.py", "tests/test_connector.py", "tests/test_loop.py", "tests/test_proxy_functional.py", "tests/test_worker.py", ]
-"type": "assert"
+"testFilesChanged": 8,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["aiohttp/test_utils.py", "requirements/test.txt", "tests/conftest.py", "tests/test_client_functional.py", "tests/test_connector.py", "tests/test_loop.py", "tests/test_proxy_functional.py", "tests/test_worker.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "544c1f6e390c72053f768d3992ea2d0801363b83",
 "commit_link": "https://github.com/scrapy/scrapy/commit/544c1f6e390c72053f768d3992ea2d0801363b83",
-"files": ["scrapy/commands/startproject.py", "tests/test_commands.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_commands.py"],
+"type": ["assert"],
 "numberOfMigration": ""

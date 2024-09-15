@@ -1,5 +1,7 @@
 "commit_hash": "2a6147af1b1bdc4b69b6849e6300ddea8703fd07",
 "commit_link": "https://github.com/google/jax/commit/2a6147af1b1bdc4b69b6849e6300ddea8703fd07",
-"files": ["jax/tools/BUILD", "jax/tools/build_defs.bzl", "jax/tools/jax_to_ir.py", "tests/jax_to_hlo_test.py", "tests/jax_to_ir_test.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/jax_to_hlo_test.py", "tests/jax_to_ir_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "02568af425f50e8fc6bcaf05804c5aeb7e54ea5a",
 "commit_link": "https://github.com/ray-project/ray/commit/02568af425f50e8fc6bcaf05804c5aeb7e54ea5a",
-"files": ["python/ray/air/tests/test_integration_mlflow.py", "python/ray/air/tests/test_integration_wandb.py", "python/ray/tune/integration/mlflow.py", "python/ray/tune/integration/wandb.py", "python/ray/tune/tests/test_actor_reuse.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/air/tests/test_integration_mlflow.py", "python/ray/air/tests/test_integration_wandb.py", "python/ray/tune/tests/test_actor_reuse.py"],
+"type": ["assert"],
 "numberOfMigration": ""

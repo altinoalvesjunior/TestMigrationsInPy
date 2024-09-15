@@ -1,5 +1,7 @@
 "commit_hash": "c2d716807ab1d011352bc7dd81e3f213c32d0464",
 "commit_link": "https://github.com/scrapy/scrapy/commit/c2d716807ab1d011352bc7dd81e3f213c32d0464",
-"files": ["conftest.py", "pytest.ini", "scrapy/utils/test.py", "tests/requirements.txt", "tests/test_closespider.py", "tests/test_crawl.py", "tests/test_pipeline_media.py", "tests/test_proxy_connect.py", "tests/test_spidermiddleware_httperror.py", "tests/test_utils_defer.py", "tests/test_utils_signal.py", "tox.ini", ]
-"type": "assert"
+"testFilesChanged": 11,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["conftest.py", "pytest.ini", "scrapy/utils/test.py", "tests/requirements.txt", "tests/test_closespider.py", "tests/test_crawl.py", "tests/test_pipeline_media.py", "tests/test_proxy_connect.py", "tests/test_spidermiddleware_httperror.py", "tests/test_utils_defer.py", "tests/test_utils_signal.py"],
+"type": ["assert"],
 "numberOfMigration": ""

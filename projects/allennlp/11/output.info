@@ -1,5 +1,7 @@
 "commit_hash": "4674b0182187ef10c54d0578d97f4ba9769a2863",
 "commit_link": "https://github.com/allenai/allennlp/commit/4674b0182187ef10c54d0578d97f4ba9769a2863",
-"files": ["allennlp/data/dataset_readers/dataset_utils/span_utils.py", "allennlp/tests/data/dataset_readers/dataset_utils/span_utils_test.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["allennlp/tests/data/dataset_readers/dataset_utils/span_utils_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

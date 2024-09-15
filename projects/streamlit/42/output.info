@@ -1,5 +1,7 @@
 "commit_hash": "485ec8d64a1b2c6b6662ad140d99447a185d3bb2",
 "commit_link": "https://github.com/streamlit/streamlit/commit/485ec8d64a1b2c6b6662ad140d99447a185d3bb2",
-"files": ["e2e_playwright/__snapshots__/linux/st_dialog_test/st_dialog-with_inline_error[chromium].png", "e2e_playwright/st_dialog.py", "e2e_playwright/st_dialog_test.py", "lib/streamlit/runtime/fragment.py", "lib/streamlit/runtime/metrics_util.py", "lib/streamlit/runtime/scriptrunner/__init__.py", "lib/streamlit/runtime/scriptrunner/exceptions.py", "lib/streamlit/runtime/scriptrunner/exec_code.py", "lib/streamlit/runtime/scriptrunner/script_runner.py", "lib/tests/streamlit/elements/layouts_test.py", "lib/tests/streamlit/runtime/fragment_test.py", "lib/tests/streamlit/runtime/scriptrunner/code_exec_test.py", ]
-"type": "assert"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["e2e_playwright/__snapshots__/linux/st_dialog_test/st_dialog-with_inline_error[chromium].png", "e2e_playwright/st_dialog_test.py", "lib/tests/streamlit/elements/layouts_test.py", "lib/tests/streamlit/runtime/fragment_test.py", "lib/tests/streamlit/runtime/scriptrunner/code_exec_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

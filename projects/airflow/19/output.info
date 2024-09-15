@@ -1,5 +1,7 @@
 "commit_hash": "58c3542ed25061320ce61dbe0adf451a44c738dd",
 "commit_link": "https://github.com/apache/airflow/commit/58c3542ed25061320ce61dbe0adf451a44c738dd",
-"files": ["UPDATING.md", "airflow/providers/amazon/aws/hooks/s3.py", "airflow/providers/amazon/aws/operators/s3_delete_objects.py", "tests/hooks/test_s3_hook.py", "tests/providers/amazon/aws/hooks/conftest.py", "tests/providers/amazon/aws/hooks/test_s3.py", "tests/test_project_structure.py", ]
-"type": "assert, fixture, import, skip, testcase"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/hooks/test_s3_hook.py", "tests/providers/amazon/aws/hooks/conftest.py", "tests/providers/amazon/aws/hooks/test_s3.py", "tests/test_project_structure.py"],
+"type": ["assert", "fixture", "import", "skip", "testcase"],
 "numberOfMigration": ""

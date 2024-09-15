@@ -1,5 +1,7 @@
 "commit_hash": "7e480fa923097826febec8ac6b74222dca6189a3",
 "commit_link": "https://github.com/google/jax/commit/7e480fa923097826febec8ac6b74222dca6189a3",
-"files": [".travis.yml", "README.md", "design_notes/custom_derivatives.md", "docs/CHANGELOG.rst", "docs/index.rst", "docs/jax.rst", "docs/jaxpr.rst", "docs/notebooks/Custom_derivative_rules_for_Python_code.ipynb", "docs/notebooks/How_JAX_primitives_work.ipynb", "examples/control_test.py", "images/custom_jvp_schematic.png", "jax/api.py", "jax/api_util.py", "jax/core.py", "jax/custom_derivatives.py", "jax/experimental/loops.py", "jax/experimental/ode.py", "jax/interpreters/ad.py", "jax/interpreters/batching.py", "jax/interpreters/partial_eval.py", "jax/lax/lax.py", "jax/lax/lax_control_flow.py", "jax/linear_util.py", "jax/nn/functions.py", "jax/numpy/lax_numpy.py", "jax/numpy/linalg.py", "jax/random.py", "jax/scipy/special.py", "tests/api_test.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["examples/control_test.py", "tests/api_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

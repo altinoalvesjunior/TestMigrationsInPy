@@ -1,5 +1,7 @@
 "commit_hash": "a10e7ca997509e85c77b18602a48f32109d7ae0b",
 "commit_link": "https://github.com/getsentry/sentry/commit/a10e7ca997509e85c77b18602a48f32109d7ae0b",
-"files": ["src/sentry/api/endpoints/group_ai_autofix.py", "src/sentry/api/endpoints/group_autofix_setup_check.py", "src/sentry/api/endpoints/project_autofix_create_codebase_index.py", "src/sentry/api/helpers/autofix.py", "src/sentry/autofix/__init__.py", "src/sentry/autofix/utils.py", "tests/sentry/autofix/test_utils.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/autofix/test_utils.py"],
+"type": ["assert"],
 "numberOfMigration": ""

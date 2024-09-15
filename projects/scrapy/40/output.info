@@ -1,5 +1,7 @@
 "commit_hash": "c5627af15bcf413c04539aeb47dd07cf8b3e4092",
 "commit_link": "https://github.com/scrapy/scrapy/commit/c5627af15bcf413c04539aeb47dd07cf8b3e4092",
-"files": ["docs/conf.py", "docs/news.rst", "docs/topics/api.rst", "docs/topics/item-pipeline.rst", "docs/topics/request-response.rst", "docs/topics/settings.rst", "scrapy/crawler.py", "scrapy/dupefilters.py", "scrapy/extensions/httpcache.py", "scrapy/pipelines/media.py", "scrapy/settings/default_settings.py", "scrapy/templates/project/module/settings.py.tmpl", "scrapy/utils/request.py", "scrapy/utils/test.py", "tests/test_crawler.py", "tests/test_dupefilters.py", "tests/test_pipeline_files.py", "tests/test_pipeline_media.py", "tests/test_utils_request.py", ]
-"type": "assert"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["scrapy/utils/test.py", "tests/test_crawler.py", "tests/test_dupefilters.py", "tests/test_pipeline_files.py", "tests/test_pipeline_media.py", "tests/test_utils_request.py"],
+"type": ["assert"],
 "numberOfMigration": ""

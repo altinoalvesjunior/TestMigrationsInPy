@@ -1,5 +1,7 @@
 "commit_hash": "16ef1bbd02669051d8abc19cc6c155c6012b0985",
 "commit_link": "https://github.com/getsentry/sentry/commit/16ef1bbd02669051d8abc19cc6c155c6012b0985",
-"files": ["src/sentry/templates/sentry/account/notifications.html", "src/sentry/web/forms/accounts.py", "src/sentry/web/frontend/account_notification.py", "tests/sentry/web/frontend/accounts/tests.py", "tests/sentry/web/frontend/test_account_notifications.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/web/frontend/accounts/tests.py", "tests/sentry/web/frontend/test_account_notifications.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "c25fbde09272f369f280212e5216441d5975687c",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/c25fbde09272f369f280212e5216441d5975687c",
-"files": ["doc/source/computation.rst", "doc/source/dsintro.rst", "doc/source/whatsnew/v0.20.0.txt", "pandas/core/panel.py", "pandas/core/window.py", "pandas/indexes/frozen.py", "pandas/indexes/multi.py", "pandas/tests/io/test_pytables.py", "pandas/tests/test_expressions.py", "pandas/tests/test_generic.py", "pandas/tests/test_panel.py", "pandas/tests/test_window.py", "pandas/tests/tools/test_concat.py", "pandas/tests/types/test_missing.py", "pandas/util/testing.py", ]
-"type": "assert, add Param"
+"testFilesChanged": 8,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/io/test_pytables.py", "pandas/tests/test_expressions.py", "pandas/tests/test_generic.py", "pandas/tests/test_panel.py", "pandas/tests/test_window.py", "pandas/tests/tools/test_concat.py", "pandas/tests/types/test_missing.py", "pandas/util/testing.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "4cb5e10ed824b74710244fd99cde5d3fce107751",
 "commit_link": "https://github.com/plotly/dash/commit/4cb5e10ed824b74710244fd99cde5d3fce107751",
-"files": ["tests/integration/renderer/test_multi_output.py", "tests/integration/test_render.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/integration/renderer/test_multi_output.py", "tests/integration/test_render.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "9cfdeeb0cd429b838f4c0b92d6fa82de081df5a2",
 "commit_link": "https://github.com/getsentry/sentry/commit/9cfdeeb0cd429b838f4c0b92d6fa82de081df5a2",
-"files": ["src/sentry/utils/data_scrubber.py", "tests/sentry/test_event_manager.py", "tests/sentry/utils/test_data_scrubber.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/test_event_manager.py", "tests/sentry/utils/test_data_scrubber.py"],
+"type": ["assert"],
 "numberOfMigration": ""

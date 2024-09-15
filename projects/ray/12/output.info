@@ -1,5 +1,7 @@
 "commit_hash": "ff2217251f99e325b36f7ee6ee59d17e0f2d4cd4",
 "commit_link": "https://github.com/ray-project/ray/commit/ff2217251f99e325b36f7ee6ee59d17e0f2d4cd4",
-"files": ["doc/requirements-doc.txt", "doc/source/conf.py", "python/ray/actor.py", "python/ray/common/redis_module/runtest.py", "python/ray/experimental/state.py", "python/ray/gcs_utils.py", "python/ray/global_scheduler/test/test.py", "python/ray/monitor.py", "python/ray/ray_constants.py", "python/ray/utils.py", "python/ray/worker.py", "python/ray/workers/default_worker.py", "src/common/redis_module/ray_redis_module.cc", "src/local_scheduler/lib/python/local_scheduler_extension.cc", "src/local_scheduler/local_scheduler_client.cc", "src/local_scheduler/local_scheduler_client.h", "src/ray/gcs/client.cc", "src/ray/gcs/client.h", "src/ray/gcs/format/gcs.fbs", "src/ray/gcs/tables.cc", "src/ray/gcs/tables.h", "src/ray/raylet/format/node_manager.fbs", "src/ray/raylet/node_manager.cc", "src/ray/util/CMakeLists.txt", "src/ray/util/util.h", "test/failure_test.py", "test/runtest.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/common/redis_module/runtest.py", "python/ray/global_scheduler/test/test.py", "test/failure_test.py", "test/runtest.py"],
+"type": ["assert"],
 "numberOfMigration": ""

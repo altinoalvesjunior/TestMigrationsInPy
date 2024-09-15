@@ -1,5 +1,7 @@
 "commit_hash": "5959fe1fffe4b5749de63d6a26ac64349bc791ac",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/5959fe1fffe4b5749de63d6a26ac64349bc791ac",
-"files": ["pandas/core/frame.py", "pandas/core/groupby.py", "pandas/core/reshape.py", "pandas/core/series.py", "pandas/core/sorting.py", "pandas/indexes/multi.py", "pandas/tests/groupby/test_filters.py", "pandas/tests/groupby/test_groupby.py", "pandas/tests/groupby/test_misc.py", "pandas/tests/groupby/test_value_counts.py", "pandas/tests/test_sorting.py", "pandas/tests/tools/test_merge.py", "pandas/tools/merge.py", ]
-"type": "assert, add Param"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/groupby/test_filters.py", "pandas/tests/groupby/test_groupby.py", "pandas/tests/groupby/test_misc.py", "pandas/tests/groupby/test_value_counts.py", "pandas/tests/test_sorting.py", "pandas/tests/tools/test_merge.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

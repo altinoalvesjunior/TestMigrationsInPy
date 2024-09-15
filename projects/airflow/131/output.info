@@ -1,5 +1,7 @@
 "commit_hash": "95a5fc7ec9a637337af9446f11d7f90a6e47e006",
 "commit_link": "https://github.com/apache/airflow/commit/95a5fc7ec9a637337af9446f11d7f90a6e47e006",
-"files": ["airflow/providers/slack/CHANGELOG.rst", "airflow/providers/slack/hooks/slack.py", "airflow/providers/slack/hooks/slack_webhook.py", "airflow/providers/slack/operators/slack_webhook.py", "airflow/providers/slack/transfers/sql_to_slack.py", "docs/apache-airflow-providers-slack/connections/slack-incoming-webhook.rst", "docs/apache-airflow-providers-slack/connections/slack.rst", "docs/spelling_wordlist.txt", "tests/providers/slack/hooks/test_slack_webhook.py", "tests/providers/slack/transfers/test_sql_to_slack.py", "tests/providers/snowflake/transfers/test_snowflake_to_slack.py", ]
-"type": "fixture, import, testcase, add Param"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/slack/hooks/test_slack_webhook.py", "tests/providers/slack/transfers/test_sql_to_slack.py", "tests/providers/snowflake/transfers/test_snowflake_to_slack.py"],
+"type": ["fixture", "import", "testcase", "add Param"],
 "numberOfMigration": ""

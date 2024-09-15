@@ -1,5 +1,7 @@
 "commit_hash": "e831e03bbd6d4a96d70f1e018b2a935a7052a1db",
 "commit_link": "https://github.com/getsentry/sentry/commit/e831e03bbd6d4a96d70f1e018b2a935a7052a1db",
-"files": ["src/sentry/api/endpoints/organization_dashboard_details.py", "src/sentry/api/endpoints/organization_dashboard_widgets.py", "src/sentry/api/serializers/rest_framework/dashboard.py", "src/sentry/api/serializers/rest_framework/dashboard_widget.py", "src/sentry/api/urls.py", "tests/sentry/api/endpoints/test_organization_dashboard_details.py", "tests/sentry/api/endpoints/test_organization_dashboard_widget_details.py", "tests/sentry/api/endpoints/test_organization_dashboard_widgets.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/api/endpoints/test_organization_dashboard_details.py", "tests/sentry/api/endpoints/test_organization_dashboard_widget_details.py", "tests/sentry/api/endpoints/test_organization_dashboard_widgets.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "426f8ce385f66cbf2d016449e6e894b8d4dddd04",
 "commit_link": "https://github.com/zulip/zulip/commit/426f8ce385f66cbf2d016449e6e894b8d4dddd04",
-"files": ["analytics/tests/test_support_views.py", "corporate/tests/test_stripe.py", "zerver/lib/test_classes.py", "zerver/lib/test_helpers.py", "zerver/tests/test_auth_backends.py", "zerver/tests/test_decorators.py", "zerver/tests/test_docs.py", "zerver/tests/test_email_mirror.py", "zerver/tests/test_external.py", "zerver/tests/test_home.py", "zerver/tests/test_i18n.py", "zerver/tests/test_message_edit.py", "zerver/tests/test_message_fetch.py", "zerver/tests/test_message_flags.py", "zerver/tests/test_message_send.py", "zerver/tests/test_reactions.py", "zerver/tests/test_scim.py", "zerver/tests/test_settings.py", "zerver/tests/test_signup.py", "zerver/tests/test_subs.py", "zerver/tests/test_widgets.py", "zerver/tests/test_zephyr.py", ]
-"type": "assert"
+"testFilesChanged": 22,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["analytics/tests/test_support_views.py", "corporate/tests/test_stripe.py", "zerver/lib/test_classes.py", "zerver/lib/test_helpers.py", "zerver/tests/test_auth_backends.py", "zerver/tests/test_decorators.py", "zerver/tests/test_docs.py", "zerver/tests/test_email_mirror.py", "zerver/tests/test_external.py", "zerver/tests/test_home.py", "zerver/tests/test_i18n.py", "zerver/tests/test_message_edit.py", "zerver/tests/test_message_fetch.py", "zerver/tests/test_message_flags.py", "zerver/tests/test_message_send.py", "zerver/tests/test_reactions.py", "zerver/tests/test_scim.py", "zerver/tests/test_settings.py", "zerver/tests/test_signup.py", "zerver/tests/test_subs.py", "zerver/tests/test_widgets.py", "zerver/tests/test_zephyr.py"],
+"type": ["assert"],
 "numberOfMigration": ""

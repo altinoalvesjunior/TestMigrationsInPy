@@ -1,5 +1,7 @@
 "commit_hash": "31d0141a30916e343117a52d9692fe009fa14c1e",
 "commit_link": "https://github.com/zulip/zulip/commit/31d0141a30916e343117a52d9692fe009fa14c1e",
-"files": ["scripts/lib/hash_reqs.py", "scripts/lib/setup_path.py", "tools/lib/provision.py", "tools/lib/provision_inner.py", "zerver/lib/dev_ldap_directory.py", "zerver/lib/test_classes.py", "zerver/openapi/test_curl_examples.py", "zerver/tests/test_auth_backends.py", "zerver/tests/test_decorators.py", "zerver/tests/test_import_export.py", "zerver/tests/test_signup.py", "zerver/tests/test_slack_importer.py", "zerver/tests/test_thumbnail.py", "zerver/tests/test_transfer.py", "zerver/tests/test_upload.py", "zilencer/management/commands/add_mock_conversation.py", ]
-"type": "assert"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/lib/test_classes.py", "zerver/openapi/test_curl_examples.py", "zerver/tests/test_auth_backends.py", "zerver/tests/test_decorators.py", "zerver/tests/test_import_export.py", "zerver/tests/test_signup.py", "zerver/tests/test_slack_importer.py", "zerver/tests/test_thumbnail.py", "zerver/tests/test_transfer.py", "zerver/tests/test_upload.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "f65a6415f15d438432cc6954ead61b052c5d4d60",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/f65a6415f15d438432cc6954ead61b052c5d4d60",
-"files": ["doc/source/whatsnew/v0.20.0.txt", "pandas/formats/style.py", "pandas/tests/formats/test_style.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/formats/test_style.py"],
+"type": ["assert"],
 "numberOfMigration": ""

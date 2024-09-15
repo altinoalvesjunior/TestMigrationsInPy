@@ -1,5 +1,7 @@
 "commit_hash": "a2f071f48c268de9793049cc5a3b909a2f82f798",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/a2f071f48c268de9793049cc5a3b909a2f82f798",
-"files": ["pandas/tests/test_base.py", "pandas/tests/test_index.py", "pandas/tests/test_internals.py", "pandas/tests/test_series.py", "pandas/util/testing.py", ]
-"type": "assert"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/test_base.py", "pandas/tests/test_index.py", "pandas/tests/test_internals.py", "pandas/tests/test_series.py", "pandas/util/testing.py"],
+"type": ["assert"],
 "numberOfMigration": ""

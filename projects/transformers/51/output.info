@@ -1,5 +1,7 @@
 "commit_hash": "c612628045822f909020f7eb6784c79700813eda",
 "commit_link": "https://github.com/huggingface/transformers/commit/c612628045822f909020f7eb6784c79700813eda",
-"files": [".circleci/config.yml", "Makefile", "tests/repo_utils/test_tests_fetcher.py", "utils/tests_fetcher.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/repo_utils/test_tests_fetcher.py", "utils/tests_fetcher.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

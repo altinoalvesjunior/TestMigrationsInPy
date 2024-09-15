@@ -1,5 +1,7 @@
 "commit_hash": "d582e9794448013f63154c15654ca10eddc814e0",
 "commit_link": "https://github.com/scikit-learn/scikit-learn/commit/d582e9794448013f63154c15654ca10eddc814e0",
-"files": ["sklearn/cluster/tests/test_dbscan.py", "sklearn/cluster/tests/test_k_means.py", "sklearn/cluster/tests/test_spectral.py", "sklearn/datasets/tests/test_base.py", "sklearn/datasets/tests/test_mldata.py", "sklearn/datasets/tests/test_svmlight_format.py", "sklearn/decomposition/tests/test_nmf.py", "sklearn/decomposition/tests/test_online_lda.py", "sklearn/decomposition/tests/test_pca.py", "sklearn/decomposition/tests/test_truncated_svd.py", "sklearn/utils/testing.py", ]
-"type": "skip, add Param"
+"testFilesChanged": 11,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["sklearn/cluster/tests/test_dbscan.py", "sklearn/cluster/tests/test_k_means.py", "sklearn/cluster/tests/test_spectral.py", "sklearn/datasets/tests/test_base.py", "sklearn/datasets/tests/test_mldata.py", "sklearn/datasets/tests/test_svmlight_format.py", "sklearn/decomposition/tests/test_nmf.py", "sklearn/decomposition/tests/test_online_lda.py", "sklearn/decomposition/tests/test_pca.py", "sklearn/decomposition/tests/test_truncated_svd.py", "sklearn/utils/testing.py"],
+"type": ["skip", "add Param"],
 "numberOfMigration": ""

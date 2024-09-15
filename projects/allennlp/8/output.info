@@ -1,5 +1,7 @@
 "commit_hash": "53974b49396835e1e366ea4fef7360180755155f",
 "commit_link": "https://github.com/allenai/allennlp/commit/53974b49396835e1e366ea4fef7360180755155f",
-"files": ["allennlp/commands/__init__.py", "allennlp/commands/evaluate.py", "allennlp/commands/predict.py", "allennlp/commands/train.py", "tests/commands/evaluate_test.py", "tests/commands/main_test.py", "tests/commands/predict_test.py", "tests/commands/train_test.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/commands/evaluate_test.py", "tests/commands/main_test.py", "tests/commands/predict_test.py", "tests/commands/train_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

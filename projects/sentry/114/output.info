@@ -1,5 +1,7 @@
 "commit_hash": "6b04cfb6bcfc621777fcbfdba83bf0d94cd4b4fc",
 "commit_link": "https://github.com/getsentry/sentry/commit/6b04cfb6bcfc621777fcbfdba83bf0d94cd4b4fc",
-"files": ["src/sentry/api/endpoints/project_key_details.py", "src/sentry/api/serializers/models/project_key.py", "src/sentry/conf/server.py", "src/sentry/middleware/user.py", "src/sentry/models/projectkey.py", "src/sentry/relay/config.py", "src/sentry/static/sentry/app/views/settings/project/projectKeys/projectKeyDetails.jsx", "src/sentry/templates/sentry/js-sdk-loader-noop.js.tmpl", "src/sentry/templates/sentry/js-sdk-loader.js.tmpl", "src/sentry/templates/sentry/js-sdk-loader.min.js.tmpl", "src/sentry/templates/sentry/relay-loader.js.tmpl", "src/sentry/web/frontend/js_sdk_loader.py", "src/sentry/web/frontend/relay_cdn.py", "src/sentry/web/urls.py", "tests/sentry/web/frontend/test_js_sdk_loader.py", "tests/sentry/web/frontend/test_relay_cdn.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/web/frontend/test_js_sdk_loader.py", "tests/sentry/web/frontend/test_relay_cdn.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

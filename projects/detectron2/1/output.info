@@ -1,5 +1,7 @@
 "commit_hash": "e8fa3d6b48794427d6345c9c26d042e498e2b4ef",
 "commit_link": "https://github.com/facebookresearch/detectron2/commit/e8fa3d6b48794427d6345c9c26d042e498e2b4ef",
-"files": ["detectron2/export/torchscript_patch.py", "detectron2/utils/testing.py", "tests/modeling/test_roi_heads.py", "tests/test_export_caffe2.py", "tests/test_export_torchscript.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["detectron2/utils/testing.py", "tests/modeling/test_roi_heads.py", "tests/test_export_caffe2.py", "tests/test_export_torchscript.py"],
+"type": ["assert"],
 "numberOfMigration": ""

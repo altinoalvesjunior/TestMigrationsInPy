@@ -1,5 +1,7 @@
 "commit_hash": "13c5573767eb5cf8b13a66067ff0385529b99af4",
 "commit_link": "https://github.com/getsentry/sentry/commit/13c5573767eb5cf8b13a66067ff0385529b99af4",
-"files": ["src/sentry/interfaces/base.py", "src/sentry/interfaces/exception.py", "src/sentry/interfaces/message.py", "src/sentry/interfaces/security.py", "src/sentry/interfaces/stacktrace.py", "src/sentry/interfaces/template.py", "src/sentry/interfaces/threads.py", "src/sentry/interfaces/user.py", "tests/sentry/interfaces/test_exception.py", "tests/sentry/interfaces/test_message.py", "tests/sentry/interfaces/test_security.py", "tests/sentry/interfaces/test_stacktrace.py", "tests/sentry/interfaces/test_template.py", "tests/sentry/interfaces/test_threads.py", ]
-"type": "assert"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/interfaces/test_exception.py", "tests/sentry/interfaces/test_message.py", "tests/sentry/interfaces/test_security.py", "tests/sentry/interfaces/test_stacktrace.py", "tests/sentry/interfaces/test_template.py", "tests/sentry/interfaces/test_threads.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "caab965687695c2c18a2bea20b0cf1d57979513f",
 "commit_link": "https://github.com/aio-libs/aiohttp/commit/caab965687695c2c18a2bea20b0cf1d57979513f",
-"files": [".appveyor.yml", "CHANGES.rst", "CHANGES/2408.bugfix", "CHANGES/2423.bugfix", "CHANGES/2424.bugfix", "CHANGES/2451.doc", "aiohttp/__init__.py", "aiohttp/connector.py", "docs/client_reference.rst", "docs/conf.py", "docs/deployment.rst", "docs/index.rst", "docs/toc.rst", "tests/test_connector.py", "tests/test_proxy.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_connector.py", "tests/test_proxy.py"],
+"type": ["assert"],
 "numberOfMigration": ""

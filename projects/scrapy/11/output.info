@@ -1,5 +1,7 @@
 "commit_hash": "3a03ef7c08f0b4b454d13933ea2239b053824675",
 "commit_link": "https://github.com/scrapy/scrapy/commit/3a03ef7c08f0b4b454d13933ea2239b053824675",
-"files": ["tests/py3-ignores.txt", "tests/test_selector.py", "tests/test_selector_csstranslator.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/py3-ignores.txt", "tests/test_selector.py", "tests/test_selector_csstranslator.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

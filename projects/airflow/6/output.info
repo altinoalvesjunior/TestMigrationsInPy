@@ -1,5 +1,7 @@
 "commit_hash": "3cfe4a1c9dc49c91839e9c278b97f9c18033fdf4",
 "commit_link": "https://github.com/apache/airflow/commit/3cfe4a1c9dc49c91839e9c278b97f9c18033fdf4",
-"files": ["UPDATING.md", "airflow/contrib/hooks/gcp_compute_hook.py", "airflow/contrib/hooks/gcp_container_hook.py", "airflow/contrib/operators/gcp_container_operator.py", "airflow/gcp/hooks/compute.py", "airflow/gcp/operators/compute.py", "tests/gcp/hooks/test_gcp_compute_hook.py", "tests/gcp/operators/test_compute.py", "tests/test_core_to_contrib.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/gcp/hooks/test_gcp_compute_hook.py", "tests/gcp/operators/test_compute.py", "tests/test_core_to_contrib.py"],
+"type": ["assert"],
 "numberOfMigration": ""

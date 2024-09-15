@@ -1,5 +1,7 @@
 "commit_hash": "1b67ccdaafd0bde67b46bc38827b3ef5f8b65444",
 "commit_link": "https://github.com/celery/celery/commit/1b67ccdaafd0bde67b46bc38827b3ef5f8b65444",
-"files": ["celery/app/control.py", "celery/worker/control.py", "celery/worker/request.py", "t/unit/app/test_control.py", "t/unit/worker/test_control.py", "t/unit/worker/test_request.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["t/unit/app/test_control.py", "t/unit/worker/test_control.py", "t/unit/worker/test_request.py"],
+"type": ["assert"],
 "numberOfMigration": ""

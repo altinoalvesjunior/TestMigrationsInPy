@@ -1,5 +1,7 @@
 "commit_hash": "870438e5f4665de836f7ff423055895b305a4e7f",
 "commit_link": "https://github.com/scrapy/scrapy/commit/870438e5f4665de836f7ff423055895b305a4e7f",
-"files": ["scrapy/utils/test.py", "tests/py3-ignores.txt", "tests/test_closespider.py", "tests/test_crawl.py", "tests/test_downloader_handlers.py", "tests/test_downloadermiddleware.py", "tests/test_downloadermiddleware_ajaxcrawlable.py", "tests/test_downloadermiddleware_defaultheaders.py", "tests/test_downloadermiddleware_downloadtimeout.py", "tests/test_downloadermiddleware_httpcache.py", "tests/test_downloadermiddleware_redirect.py", "tests/test_downloadermiddleware_retry.py", "tests/test_downloadermiddleware_stats.py", "tests/test_downloadermiddleware_useragent.py", "tests/test_engine.py", "tests/test_proxy_connect.py", "tests/test_spider.py", "tests/test_spidermiddleware_depth.py", "tests/test_spidermiddleware_httperror.py", "tests/test_spidermiddleware_offsite.py", "tests/test_stats.py", ]
-"type": "assert"
+"testFilesChanged": 21,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["scrapy/utils/test.py", "tests/py3-ignores.txt", "tests/test_closespider.py", "tests/test_crawl.py", "tests/test_downloader_handlers.py", "tests/test_downloadermiddleware.py", "tests/test_downloadermiddleware_ajaxcrawlable.py", "tests/test_downloadermiddleware_defaultheaders.py", "tests/test_downloadermiddleware_downloadtimeout.py", "tests/test_downloadermiddleware_httpcache.py", "tests/test_downloadermiddleware_redirect.py", "tests/test_downloadermiddleware_retry.py", "tests/test_downloadermiddleware_stats.py", "tests/test_downloadermiddleware_useragent.py", "tests/test_engine.py", "tests/test_proxy_connect.py", "tests/test_spider.py", "tests/test_spidermiddleware_depth.py", "tests/test_spidermiddleware_httperror.py", "tests/test_spidermiddleware_offsite.py", "tests/test_stats.py"],
+"type": ["assert"],
 "numberOfMigration": ""

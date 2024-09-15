@@ -1,5 +1,7 @@
 "commit_hash": "2d2dfbfc0bdd7fe1ce1dcb6a9c36f0289b531849",
 "commit_link": "https://github.com/getsentry/sentry/commit/2d2dfbfc0bdd7fe1ce1dcb6a9c36f0289b531849",
-"files": ["CHANGES", "src/sentry/api/endpoints/organization_details.py", "src/sentry/api/serializers/models/organization.py", "src/sentry/api/serializers/rest_framework/list.py", "src/sentry/static/sentry/app/components/organizations/homeSidebar.jsx", "src/sentry/static/sentry/app/routes.jsx", "src/sentry/static/sentry/app/stores/organizationStore.jsx", "src/sentry/static/sentry/app/views/organizationSettings.jsx", "src/sentry/templates/sentry/bases/organization.html", "src/sentry/templates/sentry/organization-settings.html", "src/sentry/templates/sentry/remove-organization.html", "src/sentry/web/urls.py", "tests/acceptance/test_organization_settings.py", "tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/web/frontend/test_organization_settings.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/acceptance/test_organization_settings.py", "tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/web/frontend/test_organization_settings.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

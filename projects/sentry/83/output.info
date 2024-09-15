@@ -1,5 +1,7 @@
 "commit_hash": "e7124a9a59ee7c9d99a80f18a9d6fb03001bf21c",
 "commit_link": "https://github.com/getsentry/sentry/commit/e7124a9a59ee7c9d99a80f18a9d6fb03001bf21c",
-"files": ["CHANGES", "src/sentry/api/endpoints/organization_details.py", "src/sentry/api/serializers/models/organization.py", "src/sentry/conf/server.py", "src/sentry/features/__init__.py", "src/sentry/quotas/base.py", "src/sentry/quotas/redis.py", "src/sentry/static/sentry/app/components/forms/formField.jsx", "src/sentry/static/sentry/app/components/forms/inputField.jsx", "src/sentry/static/sentry/app/components/forms/numberField.jsx", "src/sentry/static/sentry/app/components/forms/rangeField.jsx", "src/sentry/static/sentry/app/components/forms/textareaField.jsx", "src/sentry/static/sentry/app/views/organizationRateLimits/index.jsx", "src/sentry/templates/sentry/projects/manage.html", "src/sentry/templates/sentry/projects/quotas.html", "src/sentry/web/forms/projects.py", "src/sentry/web/frontend/project_quotas.py", "src/sentry/web/urls.py", "tests/acceptance/test_organization_rate_limits.py", "tests/sentry/quotas/redis/tests.py", "tests/sentry/quotas/test_base.py", "tests/sentry/web/forms/projects/__init__.py", "tests/sentry/web/forms/projects/tests.py", "tests/sentry/web/frontend/test_project_quotas.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/acceptance/test_organization_rate_limits.py", "tests/sentry/quotas/redis/tests.py", "tests/sentry/quotas/test_base.py", "tests/sentry/web/forms/projects/__init__.py", "tests/sentry/web/forms/projects/tests.py", "tests/sentry/web/frontend/test_project_quotas.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

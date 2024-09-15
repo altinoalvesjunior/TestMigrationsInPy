@@ -1,5 +1,7 @@
 "commit_hash": "bae61d95c01460268e02846a82f77d330c20193d",
 "commit_link": "https://github.com/ray-project/ray/commit/bae61d95c01460268e02846a82f77d330c20193d",
-"files": ["release/ray_release/alerts/handle.py", "release/ray_release/command_runner/client_runner.py", "release/ray_release/command_runner/job_runner.py", "release/ray_release/command_runner/sdk_runner.py", "release/ray_release/exception.py", "release/ray_release/glue.py", "release/ray_release/result.py", "release/ray_release/tests/test_glue.py", ]
-"type": "import"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["release/ray_release/tests/test_glue.py"],
+"type": ["import"],
 "numberOfMigration": ""

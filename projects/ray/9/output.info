@@ -1,5 +1,7 @@
 "commit_hash": "6172f94c044fcd351819eb4779763140984a0e27",
 "commit_link": "https://github.com/ray-project/ray/commit/6172f94c044fcd351819eb4779763140984a0e27",
-"files": ["doc/source/conf.py", "python/ray/experimental/state.py", "python/ray/monitor.py", "python/ray/services.py", "python/ray/worker.py", "python/setup.py", "src/common/lib/python/common_extension.cc", "src/ray/raylet/CMakeLists.txt", "test/runtest.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/runtest.py"],
+"type": ["assert"],
 "numberOfMigration": ""

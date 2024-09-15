@@ -1,5 +1,7 @@
 "commit_hash": "78831f9c3472293e5347a55da0bd2dbdb7b7a066",
 "commit_link": "https://github.com/getsentry/sentry/commit/78831f9c3472293e5347a55da0bd2dbdb7b7a066",
-"files": ["src/sentry/templates/sentry/create-team-step-0.html", "src/sentry/templates/sentry/create-team-step-1.html", "src/sentry/templates/sentry/create-team-step-2.html", "src/sentry/templates/sentry/create-team.html", "src/sentry/web/frontend/create_team.py", "tests/sentry/web/frontend/test_create_team.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/web/frontend/test_create_team.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "f1daaa9d2d713299e9b1408e0050230ce927d43c",
 "commit_link": "https://github.com/python/mypy/commit/f1daaa9d2d713299e9b1408e0050230ce927d43c",
-"files": ["mypyc/analysis.py", "mypyc/emit.py", "mypyc/emitfunc.py", "mypyc/exceptions.py", "mypyc/genops.py", "mypyc/ops.py", "mypyc/refcount.py", "mypyc/test/test_analysis.py", "mypyc/test/test_emit.py", "mypyc/test/test_emitfunc.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["mypyc/test/test_analysis.py", "mypyc/test/test_emit.py", "mypyc/test/test_emitfunc.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "900a487682b11696ccab5d18c9f13e0addd25f12",
 "commit_link": "https://github.com/scrapy/scrapy/commit/900a487682b11696ccab5d18c9f13e0addd25f12",
-"files": ["docs/topics/logging.rst", "scrapy/crawler.py", "scrapy/log.py", "tests/test_log.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_log.py"],
+"type": ["assert"],
 "numberOfMigration": ""

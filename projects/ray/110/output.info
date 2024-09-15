@@ -1,5 +1,7 @@
 "commit_hash": "4551def999016252b907108cb54bb9d9277f3d07",
 "commit_link": "https://github.com/ray-project/ray/commit/4551def999016252b907108cb54bb9d9277f3d07",
-"files": ["rllib/BUILD", "rllib/env/tests/test_multi_agent_env.py", "rllib/env/tests/test_multi_agent_pendulum.py", "rllib/tests/test_multi_agent_env.py", "rllib/tests/test_vector_env.py", ]
-"type": "import, testcase"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["rllib/env/tests/test_multi_agent_env.py", "rllib/env/tests/test_multi_agent_pendulum.py", "rllib/tests/test_multi_agent_env.py", "rllib/tests/test_vector_env.py"],
+"type": ["import", "testcase"],
 "numberOfMigration": ""

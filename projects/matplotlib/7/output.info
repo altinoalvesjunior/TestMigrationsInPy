@@ -1,5 +1,7 @@
 "commit_hash": "159ecdcbc42a62c981d3b0784318ee30efe36bc6",
 "commit_link": "https://github.com/matplotlib/matplotlib/commit/159ecdcbc42a62c981d3b0784318ee30efe36bc6",
-"files": ["lib/matplotlib/__init__.py", "lib/matplotlib/tests/test_dviread.py", "lib/matplotlib/tests/test_font_manager.py", "lib/matplotlib/tests/test_mathtext.py", "lib/matplotlib/tests/test_text.py", "lib/matplotlib/tests/test_type1font.py", "lib/matplotlib/tests/test_usetex.py", ]
-"type": "skip"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["lib/matplotlib/tests/test_dviread.py", "lib/matplotlib/tests/test_font_manager.py", "lib/matplotlib/tests/test_mathtext.py", "lib/matplotlib/tests/test_text.py", "lib/matplotlib/tests/test_type1font.py", "lib/matplotlib/tests/test_usetex.py"],
+"type": ["skip"],
 "numberOfMigration": ""

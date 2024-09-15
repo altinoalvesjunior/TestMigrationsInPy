@@ -1,5 +1,7 @@
 "commit_hash": "153da508a536a3ef203d9cd315c67b5fd3022a51",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/153da508a536a3ef203d9cd315c67b5fd3022a51",
-"files": ["pandas/tests/groupby/common.py", "pandas/tests/groupby/test_aggregate.py", "pandas/tests/groupby/test_categorical.py", "pandas/tests/groupby/test_groupby.py", "pandas/tests/groupby/test_misc.py", "pandas/tests/groupby/test_timegrouper.py", "pandas/tests/groupby/test_transform.py", ]
-"type": "assert"
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/groupby/common.py", "pandas/tests/groupby/test_aggregate.py", "pandas/tests/groupby/test_categorical.py", "pandas/tests/groupby/test_groupby.py", "pandas/tests/groupby/test_misc.py", "pandas/tests/groupby/test_timegrouper.py", "pandas/tests/groupby/test_transform.py"],
+"type": ["assert"],
 "numberOfMigration": ""

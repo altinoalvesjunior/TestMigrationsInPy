@@ -1,5 +1,7 @@
 "commit_hash": "27dac00e125b87626a0b87074d61e6d38031bf47",
 "commit_link": "https://github.com/apache/airflow/commit/27dac00e125b87626a0b87074d61e6d38031bf47",
-"files": ["airflow/providers/google/cloud/example_dags/example_cloud_storage_transfer_service_aws.py", "airflow/providers/google/cloud/example_dags/example_cloud_storage_transfer_service_gcp.py", "docs/howto/operator/gcp/cloud_storage_transfer_service.rst", "tests/providers/google/cloud/operators/test_cloud_storage_transfer_service_system.py", "tests/providers/google/cloud/operators/test_cloud_storage_transfer_service_system_helper.py", "tests/test_utils/gcp_system_helpers.py", "tests/test_utils/system_tests_class.py", ]
-"type": "fixture"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/google/cloud/operators/test_cloud_storage_transfer_service_system.py", "tests/providers/google/cloud/operators/test_cloud_storage_transfer_service_system_helper.py", "tests/test_utils/gcp_system_helpers.py", "tests/test_utils/system_tests_class.py"],
+"type": ["fixture"],
 "numberOfMigration": ""

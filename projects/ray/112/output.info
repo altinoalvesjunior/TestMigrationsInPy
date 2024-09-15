@@ -1,5 +1,7 @@
 "commit_hash": "c2bdee9fea6f354330545009d5e6caec3dd7eb26",
 "commit_link": "https://github.com/ray-project/ray/commit/c2bdee9fea6f354330545009d5e6caec3dd7eb26",
-"files": ["python/ray/air/checkpoint.py", "python/ray/air/tests/test_checkpoints.py", "python/ray/train/batch_predictor.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/air/tests/test_checkpoints.py"],
+"type": ["assert"],
 "numberOfMigration": ""

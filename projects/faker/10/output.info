@@ -1,5 +1,7 @@
 "commit_hash": "965da0fefc8567b732e5ce1920b247a6ba4b4a07",
 "commit_link": "https://github.com/joke2k/faker/commit/965da0fefc8567b732e5ce1920b247a6ba4b4a07",
-"files": ["faker/providers/phone_number/pt_BR/__init__.py", "tests/providers/test_color.py", "tests/providers/test_company.py", "tests/providers/test_credit_card.py", "tests/providers/test_misc.py", "tests/providers/test_phone_number.py", ]
-"type": "assert, fixture, import, testcase"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/test_color.py", "tests/providers/test_company.py", "tests/providers/test_credit_card.py", "tests/providers/test_misc.py", "tests/providers/test_phone_number.py"],
+"type": ["assert", "fixture", "import", "testcase"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "3d58a7ec0455ba609955c13470d31854687eff7a",
 "commit_link": "https://github.com/zulip/zulip/commit/3d58a7ec0455ba609955c13470d31854687eff7a",
-"files": ["corporate/lib/stripe.py", "corporate/tests/test_stripe.py", "corporate/tests/test_support_views.py", "corporate/views/support.py", "templates/corporate/support/next_plan_forms_support.html", "templates/corporate/support/remote_realm_details.html", "templates/corporate/support/remote_server_support.html", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["corporate/tests/test_stripe.py", "corporate/tests/test_support_views.py"],
+"type": ["assert"],
 "numberOfMigration": ""

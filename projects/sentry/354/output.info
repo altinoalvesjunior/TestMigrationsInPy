@@ -1,5 +1,7 @@
 "commit_hash": "3e581ed84d9af589d75050924e32ccc768f87507",
 "commit_link": "https://github.com/getsentry/sentry/commit/3e581ed84d9af589d75050924e32ccc768f87507",
-"files": ["src/sentry/newsletter/dummy.py", "src/sentry/utils/services.py", "tests/sentry/api/endpoints/test_auth_config.py", "tests/sentry/api/endpoints/test_user_subscriptions.py", "tests/sentry/web/frontend/test_auth_login.py", ]
-"type": "fixture"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/api/endpoints/test_auth_config.py", "tests/sentry/api/endpoints/test_user_subscriptions.py", "tests/sentry/web/frontend/test_auth_login.py"],
+"type": ["fixture"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "e6fc30eab948e25bed4ed37fd911c977617b1ab5",
 "commit_link": "https://github.com/getsentry/sentry/commit/e6fc30eab948e25bed4ed37fd911c977617b1ab5",
-"files": ["src/sentry/api/endpoints/project_details.py", "src/sentry/conf/server.py", "src/sentry/mail/adapter.py", "src/sentry/mail/utils.py", "src/sentry/management/commands/check_notifications.py", "src/sentry/plugins/sentry_mail/__init__.py", "src/sentry/plugins/sentry_mail/apps.py", "src/sentry/plugins/sentry_mail/models.py", "src/sentry/web/frontend/debug/mail.py", "tests/sentry/api/endpoints/test_organization_plugins.py", "tests/sentry/api/endpoints/test_project_rules_configuration.py", "tests/sentry/mail/test_utils.py", "tests/sentry/plugins/mail/__init__.py", "tests/sentry/plugins/mail/tests.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/api/endpoints/test_organization_plugins.py", "tests/sentry/api/endpoints/test_project_rules_configuration.py", "tests/sentry/mail/test_utils.py", "tests/sentry/plugins/mail/__init__.py", "tests/sentry/plugins/mail/tests.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "00b1f7fd0d401e45c3a5c6d4b32b5315b94a9b97",
 "commit_link": "https://github.com/aio-libs/aiohttp/commit/00b1f7fd0d401e45c3a5c6d4b32b5315b94a9b97",
-"files": ["tests/test_connector.py", "tests/test_flowcontrol_streams.py", "tests/test_streams.py", ]
-"type": "assert, fixture, import, testcase"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_connector.py", "tests/test_flowcontrol_streams.py", "tests/test_streams.py"],
+"type": ["assert", "fixture", "import", "testcase"],
 "numberOfMigration": ""

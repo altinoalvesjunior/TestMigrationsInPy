@@ -1,5 +1,7 @@
 "commit_hash": "5594cb5571d8a3a0c94d7aa08046dde2b4f97bcf",
 "commit_link": "https://github.com/open-mmlab/mmdetection/commit/5594cb5571d8a3a0c94d7aa08046dde2b4f97bcf",
-"files": ["mmdet/models/detectors/deformable_detr.py", "tests/test_models/test_dense_heads/test_deformable_detr_head.py", "tests/test_models/test_dense_heads/test_detr_head.py", "tests/test_models/test_detectors/test_deformable_detr.py", "tests/test_models/test_detectors/test_detr.py", "tests/test_models/test_detectors/test_maskformer.py", "tests/test_models/test_layers/test_plugins.py", "tests/test_models/test_layers/test_transformer.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_models/test_dense_heads/test_deformable_detr_head.py", "tests/test_models/test_dense_heads/test_detr_head.py", "tests/test_models/test_detectors/test_deformable_detr.py", "tests/test_models/test_detectors/test_detr.py", "tests/test_models/test_detectors/test_maskformer.py", "tests/test_models/test_layers/test_plugins.py", "tests/test_models/test_layers/test_transformer.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "7ed4a536e6b08b6b78ed8e710307347d2bbc3c55",
 "commit_link": "https://github.com/quantopian/zipline/commit/7ed4a536e6b08b6b78ed8e710307347d2bbc3c55",
-"files": ["tests/data/bundles/test_core.py", "tests/data/test_daily_bars.py", "tests/pipeline/test_engine.py", "tests/pipeline/test_us_equity_pricing_loader.py", "zipline/data/_equities.pyx", "zipline/data/hdf5_daily_bars.py", "zipline/pipeline/loaders/synthetic.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/data/bundles/test_core.py", "tests/data/test_daily_bars.py", "tests/pipeline/test_engine.py", "tests/pipeline/test_us_equity_pricing_loader.py"],
+"type": ["assert"],
 "numberOfMigration": ""

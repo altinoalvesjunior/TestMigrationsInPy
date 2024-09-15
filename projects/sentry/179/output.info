@@ -1,5 +1,7 @@
 "commit_hash": "0a4d3a3e50843420c781aec06c3dc7811bd29d19",
 "commit_link": "https://github.com/getsentry/sentry/commit/0a4d3a3e50843420c781aec06c3dc7811bd29d19",
-"files": ["migrations_lockfile.txt", "src/sentry/api/bases/dashboard.py", "src/sentry/api/endpoints/organization_dashboard_details.py", "src/sentry/api/endpoints/organization_dashboard_widget_details.py", "src/sentry/api/endpoints/organization_dashboard_widgets.py", "src/sentry/api/serializers/models/organization_dashboard.py", "src/sentry/api/serializers/rest_framework/dashboard_widget.py", "src/sentry/api/serializers/rest_framework/widget.py", "src/sentry/migrations/0128_change_dashboards.py", "src/sentry/models/dashboard_widget.py", "src/sentry/testutils/cases.py", "tests/sentry/api/endpoints/test_organization_dashboard_details.py", "tests/sentry/api/endpoints/test_organization_dashboard_widget_details.py", "tests/sentry/api/endpoints/test_organization_dashboard_widgets.py", "tests/sentry/deletions/test_organization.py", ]
-"type": "assert"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["src/sentry/testutils/cases.py", "tests/sentry/api/endpoints/test_organization_dashboard_details.py", "tests/sentry/api/endpoints/test_organization_dashboard_widget_details.py", "tests/sentry/api/endpoints/test_organization_dashboard_widgets.py", "tests/sentry/deletions/test_organization.py"],
+"type": ["assert"],
 "numberOfMigration": ""

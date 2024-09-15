@@ -1,5 +1,7 @@
 "commit_hash": "00204f2b4cf52eb9541841c79949bd8f29728b47",
 "commit_link": "https://github.com/huggingface/transformers/commit/00204f2b4cf52eb9541841c79949bd8f29728b47",
-"files": ["templates/adding_a_new_model/tests/test_tokenization_xxx.py", "tests/test_configuration_common.py", "tests/test_model_card.py", "tests/test_optimization.py", "tests/test_tokenization_albert.py", "tests/test_tokenization_bert.py", "tests/test_tokenization_bert_japanese.py", "tests/test_tokenization_common.py", "tests/test_tokenization_ctrl.py", "tests/test_tokenization_gpt2.py", "tests/test_tokenization_openai.py", "tests/test_tokenization_roberta.py", "tests/test_tokenization_t5.py", "tests/test_tokenization_transfo_xl.py", "tests/test_tokenization_xlm.py", "tests/test_tokenization_xlnet.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 16,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["templates/adding_a_new_model/tests/test_tokenization_xxx.py", "tests/test_configuration_common.py", "tests/test_model_card.py", "tests/test_optimization.py", "tests/test_tokenization_albert.py", "tests/test_tokenization_bert.py", "tests/test_tokenization_bert_japanese.py", "tests/test_tokenization_common.py", "tests/test_tokenization_ctrl.py", "tests/test_tokenization_gpt2.py", "tests/test_tokenization_openai.py", "tests/test_tokenization_roberta.py", "tests/test_tokenization_t5.py", "tests/test_tokenization_transfo_xl.py", "tests/test_tokenization_xlm.py", "tests/test_tokenization_xlnet.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

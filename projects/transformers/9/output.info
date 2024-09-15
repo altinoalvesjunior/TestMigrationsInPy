@@ -1,5 +1,7 @@
 "commit_hash": "08b59d10e507d2235de70430da5ae6e19afd90cc",
 "commit_link": "https://github.com/huggingface/transformers/commit/08b59d10e507d2235de70430da5ae6e19afd90cc",
-"files": ["src/transformers/tokenization_bart.py", "tests/test_modeling_bart.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_modeling_bart.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

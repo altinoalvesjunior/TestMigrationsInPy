@@ -1,5 +1,7 @@
 "commit_hash": "6dd7b6c0497d5577e0a43f4e616b2ea43bd2521b",
 "commit_link": "https://github.com/streamlit/streamlit/commit/6dd7b6c0497d5577e0a43f4e616b2ea43bd2521b",
-"files": ["lib/streamlit/components/v1/components.py", "lib/streamlit/elements/button.py", "lib/streamlit/elements/camera_input.py", "lib/streamlit/elements/checkbox.py", "lib/streamlit/elements/color_picker.py", "lib/streamlit/elements/file_uploader.py", "lib/streamlit/elements/multiselect.py", "lib/streamlit/elements/number_input.py", "lib/streamlit/elements/radio.py", "lib/streamlit/elements/select_slider.py", "lib/streamlit/elements/selectbox.py", "lib/streamlit/elements/slider.py", "lib/streamlit/elements/text_widgets.py", "lib/streamlit/elements/time_widgets.py", "lib/streamlit/state/safe_session_state.py", "lib/streamlit/state/session_state.py", "lib/streamlit/state/session_state_proxy.py", "lib/streamlit/state/widgets.py", "lib/streamlit/type_util.py", "lib/tests/streamlit/form_test.py", "lib/tests/streamlit/scriptrunner/script_runner_test.py", "lib/tests/streamlit/state/session_state_test.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["lib/tests/streamlit/form_test.py", "lib/tests/streamlit/scriptrunner/script_runner_test.py", "lib/tests/streamlit/state/session_state_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "9c0aae724ed821fd954a14db83902a86f7fe7731",
 "commit_link": "https://github.com/scrapy/scrapy/commit/9c0aae724ed821fd954a14db83902a86f7fe7731",
-"files": ["docs/topics/downloader-middleware.rst", "scrapy/downloadermiddlewares/httpproxy.py", "tests/test_downloadermiddleware_httpproxy.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_downloadermiddleware_httpproxy.py"],
+"type": ["assert"],
 "numberOfMigration": ""

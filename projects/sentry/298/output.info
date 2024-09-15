@@ -1,5 +1,7 @@
 "commit_hash": "1d9609ac0d57fbe0048bd81c640f106283bb87e7",
 "commit_link": "https://github.com/getsentry/sentry/commit/1d9609ac0d57fbe0048bd81c640f106283bb87e7",
-"files": ["tests/sentry/profiles/test_task.py", ]
-"type": "fixture, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/profiles/test_task.py"],
+"type": ["fixture", "testcase"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "f20f34c7e8100fc4580c6919713e5c16aa96476b",
 "commit_link": "https://github.com/allenai/allennlp/commit/f20f34c7e8100fc4580c6919713e5c16aa96476b",
-"files": ["allennlp/common/testing/model_test_case.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["allennlp/common/testing/model_test_case.py"],
+"type": ["assert"],
 "numberOfMigration": ""

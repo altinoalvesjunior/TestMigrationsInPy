@@ -1,5 +1,7 @@
 "commit_hash": "f4f74f9d56f6765918eb1c8d04b7c3a120194660",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/f4f74f9d56f6765918eb1c8d04b7c3a120194660",
-"files": ["pandas/sparse/api.py", "pandas/sparse/array.py", "pandas/sparse/frame.py", "pandas/sparse/panel.py", "pandas/sparse/scipy_sparse.py", "pandas/sparse/series.py", "pandas/sparse/tests/test_array.py", "pandas/sparse/tests/test_libsparse.py", "pandas/sparse/tests/test_sparse.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/sparse/tests/test_array.py", "pandas/sparse/tests/test_libsparse.py", "pandas/sparse/tests/test_sparse.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "e78b67c52774c2c25704cb173312aa04eab80010",
 "commit_link": "https://github.com/getsentry/sentry/commit/e78b67c52774c2c25704cb173312aa04eab80010",
-"files": ["docs/config/index.rst", "src/sentry/manager.py", "src/sentry/models.py", "src/sentry/web/forms/projects.py", "src/sentry/web/helpers.py", "tests/sentry/manager/tests.py", "tests/sentry/web/helpers/tests.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/manager/tests.py", "tests/sentry/web/helpers/tests.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "5bf9d5084fe38d864c1b5075145d2e778c431a5b",
 "commit_link": "https://github.com/ray-project/ray/commit/5bf9d5084fe38d864c1b5075145d2e778c431a5b",
-"files": ["doc/source/rllib/rllib-connector.rst", "rllib/connectors/action/clip.py", "rllib/connectors/action/immutable.py", "rllib/connectors/action/lambdas.py", "rllib/connectors/action/normalize.py", "rllib/connectors/action/pipeline.py", "rllib/connectors/agent/lambdas.py", "rllib/connectors/agent/pipeline.py", "rllib/connectors/agent/view_requirement.py", "rllib/connectors/connector.py", "rllib/connectors/tests/test_action.py", "rllib/connectors/tests/test_agent.py", "rllib/connectors/tests/test_connector.py", "rllib/evaluation/env_runner_v2.py", "rllib/evaluation/tests/test_env_runner_v2.py", "rllib/utils/policy.py", "rllib/utils/typing.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["rllib/connectors/tests/test_action.py", "rllib/connectors/tests/test_agent.py", "rllib/connectors/tests/test_connector.py", "rllib/evaluation/tests/test_env_runner_v2.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

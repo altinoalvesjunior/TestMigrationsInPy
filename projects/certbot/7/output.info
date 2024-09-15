@@ -1,5 +1,7 @@
 "commit_hash": "315ddb247f3dcf29eaa0bd357e3e88c9e6465eac",
 "commit_link": "https://github.com/certbot/certbot/commit/315ddb247f3dcf29eaa0bd357e3e88c9e6465eac",
-"files": [".pylintrc", "certbot-apache/certbot_apache/_internal/apache_util.py", "certbot-apache/certbot_apache/_internal/assertions.py", "certbot-apache/certbot_apache/_internal/configurator.py", "certbot-apache/tests/debian_test.py", "certbot-apache/tests/parser_test.py", "certbot-ci/certbot_integration_tests/nginx_tests/context.py", "certbot-ci/certbot_integration_tests/utils/acme_server.py", "certbot-ci/certbot_integration_tests/utils/dns_server.py", "certbot-nginx/certbot_nginx/_internal/configurator.py", "certbot-nginx/tests/configurator_test.py", "certbot/certbot/_internal/main.py", "certbot/certbot/_internal/plugins/webroot.py", "certbot/certbot/_internal/renewal.py", "certbot/certbot/compat/misc.py", "certbot/certbot/ocsp.py", "certbot/certbot/reverter.py", "certbot/certbot/tests/util.py", "certbot/certbot/util.py", "certbot/tests/compat/misc_test.py", "certbot/tests/main_test.py", "certbot/tests/ocsp_test.py", "certbot/tests/util_test.py", "tests/lock_test.py", "tools/pinning/pyproject.toml", "tools/requirements.txt", ]
-"type": "assert"
+"testFilesChanged": 12,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["certbot-apache/tests/debian_test.py", "certbot-apache/tests/parser_test.py", "certbot-ci/certbot_integration_tests/nginx_tests/context.py", "certbot-ci/certbot_integration_tests/utils/acme_server.py", "certbot-ci/certbot_integration_tests/utils/dns_server.py", "certbot-nginx/tests/configurator_test.py", "certbot/certbot/tests/util.py", "certbot/tests/compat/misc_test.py", "certbot/tests/main_test.py", "certbot/tests/ocsp_test.py", "certbot/tests/util_test.py", "tests/lock_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

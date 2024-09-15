@@ -1,5 +1,7 @@
 "commit_hash": "b0e2e4f284f619536b7f405122bb1a93900cd743",
 "commit_link": "https://github.com/psf/requests/commit/b0e2e4f284f619536b7f405122bb1a93900cd743",
-"files": ["requests/auth.py", "requests/models.py", "requests/packages/oreos/monkeys.py", "requests/packages/urllib3/connectionpool.py", "requests/packages/urllib3/contrib/ntlmpool.py", "requests/packages/urllib3/packages/__init__.py", "requests/packages/urllib3/packages/six.py", "requests/packages/urllib3/request.py", "requests/packages/urllib3/response.py", "requests/sessions.py", "requests/status_codes.py", "requests/structures.py", "requests/utils.py", "test_requests.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test_requests.py"],
+"type": ["assert"],
 "numberOfMigration": ""

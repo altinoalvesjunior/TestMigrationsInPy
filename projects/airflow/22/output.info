@@ -1,5 +1,7 @@
 "commit_hash": "7d0e7122dd14576d834c6f66fe919a72b100b7f8",
 "commit_link": "https://github.com/apache/airflow/commit/7d0e7122dd14576d834c6f66fe919a72b100b7f8",
-"files": ["airflow/providers/amazon/aws/hooks/sns.py", "airflow/providers/amazon/aws/operators/sns.py", "tests/providers/amazon/aws/hooks/test_sns.py", "tests/providers/amazon/aws/operators/test_sns.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/amazon/aws/hooks/test_sns.py", "tests/providers/amazon/aws/operators/test_sns.py"],
+"type": ["assert"],
 "numberOfMigration": ""

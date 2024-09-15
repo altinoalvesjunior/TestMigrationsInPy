@@ -1,5 +1,7 @@
 "commit_hash": "07d54c07d546e741defb40c6e17943771ca7ee80",
 "commit_link": "https://github.com/aleju/imgaug/commit/07d54c07d546e741defb40c6e17943771ca7ee80",
-"files": ["imgaug/augmentables/__init__.py", "imgaug/augmentables/batches.py", "imgaug/augmenters/meta.py", "imgaug/imgaug.py", "imgaug/multicore.py", "test/augmentables/test_batches.py", "test/test_imgaug.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/augmentables/test_batches.py", "test/test_imgaug.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

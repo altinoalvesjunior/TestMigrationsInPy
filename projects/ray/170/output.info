@@ -1,5 +1,7 @@
 "commit_hash": "c812e31cbd458553a819968ceadae5be34c85e27",
 "commit_link": "https://github.com/ray-project/ray/commit/c812e31cbd458553a819968ceadae5be34c85e27",
-"files": ["python/ray/autoscaler/v2/BUILD", "python/ray/autoscaler/v2/instance_manager/subscribers/cloud_instance_updater.py", "python/ray/autoscaler/v2/instance_manager/subscribers/instance_launcher.py", "python/ray/autoscaler/v2/tests/test_instance_launcher.py", "python/ray/autoscaler/v2/tests/test_subscribers.py", "src/ray/protobuf/experimental/instance_manager.proto", ]
-"type": "import, testcase"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/autoscaler/v2/tests/test_instance_launcher.py", "python/ray/autoscaler/v2/tests/test_subscribers.py"],
+"type": ["import", "testcase"],
 "numberOfMigration": ""

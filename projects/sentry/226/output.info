@@ -1,5 +1,7 @@
 "commit_hash": "d50caff952f042e21e8c0b288e1c2a5146f03617",
 "commit_link": "https://github.com/getsentry/sentry/commit/d50caff952f042e21e8c0b288e1c2a5146f03617",
-"files": ["src/sentry/incidents/subscription_processor.py", "src/sentry/snuba/models.py", "tests/sentry/incidents/test_subscription_processor.py", "tests/sentry/sentry_metrics/test_postgres_indexer.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/incidents/test_subscription_processor.py", "tests/sentry/sentry_metrics/test_postgres_indexer.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

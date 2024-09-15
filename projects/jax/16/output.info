@@ -1,5 +1,7 @@
 "commit_hash": "d2f84d635bedaa5a415339f9ffe7f19ba5d56855",
 "commit_link": "https://github.com/google/jax/commit/d2f84d635bedaa5a415339f9ffe7f19ba5d56855",
-"files": ["jax/abstract_arrays.py", "jax/dtypes.py", "jax/lax_reference.py", "jax/lazy.py", "jax/numpy/lax_numpy.py", "jax/test_util.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["jax/test_util.py"],
+"type": ["assert"],
 "numberOfMigration": ""

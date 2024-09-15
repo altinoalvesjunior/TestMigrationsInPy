@@ -1,5 +1,7 @@
 "commit_hash": "7571c2aed37d55c7777a5fd7156720690f74b4f5",
 "commit_link": "https://github.com/allenai/allennlp/commit/7571c2aed37d55c7777a5fd7156720690f74b4f5",
-"files": ["allennlp/__main__.py", "allennlp/commands/__init__.py", "allennlp/commands/bulk.py", "allennlp/data/fields/text_field.py", "tests/commands/__init__.py", "tests/commands/bulk_test.py", "tests/commands/main_test.py", "tests/service/cli_test.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/commands/__init__.py", "tests/commands/bulk_test.py", "tests/commands/main_test.py", "tests/service/cli_test.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "4b6658430e1c21d9ba5687c82f40aaba6c9bcbf3",
 "commit_link": "https://github.com/getsentry/sentry/commit/4b6658430e1c21d9ba5687c82f40aaba6c9bcbf3",
-"files": ["src/sentry/models/groupassignee.py", "src/sentry/plugins/sentry_mail/activity/assigned.py", "src/sentry/south_migrations/0387_auto__add_field_groupassignee_team__chg_field_groupassignee_user.py", "tests/sentry/models/test_groupassignee.py", "tests/sentry/receivers/test_releases.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/models/test_groupassignee.py", "tests/sentry/receivers/test_releases.py"],
+"type": ["assert"],
 "numberOfMigration": ""

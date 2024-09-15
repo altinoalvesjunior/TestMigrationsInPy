@@ -1,5 +1,7 @@
 "commit_hash": "6a94bdaf2bdc5858590f1a18e2b05ed9445bd21f",
 "commit_link": "https://github.com/chriskiehl/Gooey/commit/6a94bdaf2bdc5858590f1a18e2b05ed9445bd21f",
-"files": ["gooey/tests/component_builder_unittest.py", "gooey/tests/components_unittest.py", "gooey/tests/config_generator_unittest.py", "gooey/tests/gui/__init__.py", "gooey/tests/gui/widgets/__init__.py", "gooey/tests/gui/widgets/componenets2_runner.py", "gooey/tests/i18n_unittest.py", "gooey/tests/source_parser_unittest.py", "gooey/tests/test_argparse_to_json.py", "gooey/tests/test_image_repositoy.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["gooey/tests/component_builder_unittest.py", "gooey/tests/components_unittest.py", "gooey/tests/config_generator_unittest.py", "gooey/tests/gui/__init__.py", "gooey/tests/gui/widgets/__init__.py", "gooey/tests/gui/widgets/componenets2_runner.py", "gooey/tests/i18n_unittest.py", "gooey/tests/source_parser_unittest.py", "gooey/tests/test_argparse_to_json.py", "gooey/tests/test_image_repositoy.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

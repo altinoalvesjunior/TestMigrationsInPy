@@ -1,5 +1,7 @@
 "commit_hash": "ffb42b6808cb957ec80db7a78975fc930267a88c",
 "commit_link": "https://github.com/getsentry/sentry/commit/ffb42b6808cb957ec80db7a78975fc930267a88c",
-"files": ["src/sentry/digests/backends/redis.py", "src/sentry/scripts/digests/digests.lua", "src/sentry/scripts/digests/ensure_timeline_scheduled.lua", "src/sentry/scripts/digests/truncate_timeline.lua", "tests/sentry/digests/backends/test_redis.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/digests/backends/test_redis.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

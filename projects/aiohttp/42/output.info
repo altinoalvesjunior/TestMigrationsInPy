@@ -1,5 +1,7 @@
 "commit_hash": "07e986d0bb1c4eee0c373c55f88a4c1b086230b5",
 "commit_link": "https://github.com/aio-libs/aiohttp/commit/07e986d0bb1c4eee0c373c55f88a4c1b086230b5",
-"files": ["tests/test_resolver.py", ]
-"type": "assert, fixture, import, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_resolver.py"],
+"type": ["assert", "fixture", "import", "testcase"],
 "numberOfMigration": ""

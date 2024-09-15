@@ -1,5 +1,7 @@
 "commit_hash": "c0c581b57081fc238f5cd7e465e94c08031199f6",
 "commit_link": "https://github.com/plotly/dash/commit/c0c581b57081fc238f5cd7e465e94c08031199f6",
-"files": ["dash/development/_py_components_generation.py", "dash/development/_r_components_generation.py", "tests/unit/dash/development/metadata_test.py", "tests/unit/dash/development/test_base_component.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/unit/dash/development/metadata_test.py", "tests/unit/dash/development/test_base_component.py"],
+"type": ["assert"],
 "numberOfMigration": ""

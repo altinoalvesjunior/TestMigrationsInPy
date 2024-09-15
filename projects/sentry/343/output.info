@@ -1,5 +1,7 @@
 "commit_hash": "eb6fbd5cc61a52c8a833b473af3b3e0de210f06b",
 "commit_link": "https://github.com/getsentry/sentry/commit/eb6fbd5cc61a52c8a833b473af3b3e0de210f06b",
-"files": ["tests/sentry/api/path_params/__init__.py", "tests/sentry/api/path_params/resources/__init__.py", "tests/sentry/api/path_params/resources/test_doc_integration_slug.py", "tests/sentry/api/path_params/resources/test_id_or_slug_path_params_mixin.py", "tests/sentry/api/path_params/resources/test_organization_slug.py", "tests/sentry/api/path_params/resources/test_sentry_app_slug.py", "tests/sentry/api/path_params/test_id_or_slug_path_params.py", "tests/sentry/api/test_id_or_slug_path_parameters.py", ]
-"type": "assert"
+"testFilesChanged": 8,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/api/path_params/__init__.py", "tests/sentry/api/path_params/resources/__init__.py", "tests/sentry/api/path_params/resources/test_doc_integration_slug.py", "tests/sentry/api/path_params/resources/test_id_or_slug_path_params_mixin.py", "tests/sentry/api/path_params/resources/test_organization_slug.py", "tests/sentry/api/path_params/resources/test_sentry_app_slug.py", "tests/sentry/api/path_params/test_id_or_slug_path_params.py", "tests/sentry/api/test_id_or_slug_path_parameters.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "fb929ca218fe3499a003950b6b7e08f6dbeb05d2",
 "commit_link": "https://github.com/zulip/zulip/commit/fb929ca218fe3499a003950b6b7e08f6dbeb05d2",
-"files": ["zerver/lib/thumbnail.py", "zerver/lib/upload/__init__.py", "zerver/tests/test_transfer.py", "zerver/tests/test_upload.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/tests/test_transfer.py", "zerver/tests/test_upload.py"],
+"type": ["assert"],
 "numberOfMigration": ""

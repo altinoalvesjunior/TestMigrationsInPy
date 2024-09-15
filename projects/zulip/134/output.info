@@ -1,5 +1,7 @@
 "commit_hash": "7203661d997f6b6f04e2cb2536ac13de81b53e56",
 "commit_link": "https://github.com/zulip/zulip/commit/7203661d997f6b6f04e2cb2536ac13de81b53e56",
-"files": ["corporate/lib/activity.py", "corporate/lib/stripe.py", "corporate/lib/support.py", "corporate/migrations/0043_remove_customer_default_discount_and_more.py", "corporate/models.py", "corporate/tests/test_activity_views.py", "corporate/tests/test_stripe.py", "corporate/tests/test_support_views.py", "corporate/views/installation_activity.py", "corporate/views/support.py", "templates/corporate/billing/upgrade.html", "templates/corporate/support/current_plan_details.html", "templates/corporate/support/next_plan_details.html", "templates/corporate/support/realm_details.html", "templates/corporate/support/remote_realm_details.html", "templates/corporate/support/remote_server_support.html", "templates/corporate/support/sponsorship_details.html", "templates/corporate/support/sponsorship_discount_forms.html", "templates/corporate/support/support.html", "tools/linter_lib/custom_check.py", "web/src/base_page_params.ts", "web/src/billing/upgrade.ts", "web/src/support/support.ts", "web/styles/portico/activity.css", "web/webpack.assets.json", "zerver/lib/validator.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["corporate/tests/test_activity_views.py", "corporate/tests/test_stripe.py", "corporate/tests/test_support_views.py"],
+"type": ["assert"],
 "numberOfMigration": ""

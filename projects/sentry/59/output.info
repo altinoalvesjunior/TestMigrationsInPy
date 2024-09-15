@@ -1,5 +1,7 @@
 "commit_hash": "119a49f44588b0b6cc19c9d62ddf4528b6e79d90",
 "commit_link": "https://github.com/getsentry/sentry/commit/119a49f44588b0b6cc19c9d62ddf4528b6e79d90",
-"files": ["src/sentry/digests/redis.py", "tests/sentry/digests/test_redis.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/digests/test_redis.py"],
+"type": ["assert"],
 "numberOfMigration": ""

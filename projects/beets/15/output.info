@@ -1,5 +1,7 @@
 "commit_hash": "d3bdd93bf6b689a15b3eae35e9a7844bf87a3e68",
 "commit_link": "https://github.com/beetbox/beets/commit/d3bdd93bf6b689a15b3eae35e9a7844bf87a3e68",
-"files": ["test/plugins/test_importadded.py", "test/plugins/test_player.py", "test/plugins/test_random.py", "test/plugins/test_replaygain.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/plugins/test_importadded.py", "test/plugins/test_player.py", "test/plugins/test_random.py", "test/plugins/test_replaygain.py"],
+"type": ["assert"],
 "numberOfMigration": ""

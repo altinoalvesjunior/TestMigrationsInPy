@@ -1,5 +1,7 @@
 "commit_hash": "583a2b313fd8bf72808507e91d4ee5dd5319ae5b",
 "commit_link": "https://github.com/open-mmlab/mmdetection/commit/583a2b313fd8bf72808507e91d4ee5dd5319ae5b",
-"files": ["configs/yolox/yolox_s_8x8_300e_coco.py", "configs/yolox/yolox_tiny_8x8_300e_coco.py", "mmdet/core/bbox/assigners/sim_ota_assigner.py", "mmdet/datasets/pipelines/loading.py", "mmdet/datasets/pipelines/transforms.py", "mmdet/models/dense_heads/yolox_head.py", "mmdet/models/detectors/yolox.py", "tests/test_core/test_bbox/test_assigners/test_simota_assigner.py", "tests/test_datasets/test_pipelines/test_transforms.py", "tests/test_models/test_dense_heads/test_yolox_head.py", "tests/test_models/test_detectors/test_single_stage.py", "tests/test_models/test_detectors/test_yolox.py", ]
-"type": "assert"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_core/test_bbox/test_assigners/test_simota_assigner.py", "tests/test_datasets/test_pipelines/test_transforms.py", "tests/test_models/test_dense_heads/test_yolox_head.py", "tests/test_models/test_detectors/test_single_stage.py", "tests/test_models/test_detectors/test_yolox.py"],
+"type": ["assert"],
 "numberOfMigration": ""

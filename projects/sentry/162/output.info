@@ -1,5 +1,7 @@
 "commit_hash": "547deed26603fe30c4c7e0634f949a3eb62d56c6",
 "commit_link": "https://github.com/getsentry/sentry/commit/547deed26603fe30c4c7e0634f949a3eb62d56c6",
-"files": ["src/sentry/mediators/external_issues/issue_link_creator.py", "src/sentry/mediators/external_requests/issue_link_requester.py", "src/sentry/mediators/external_requests/select_requester.py", "src/sentry/mediators/external_requests/util.py", "src/sentry/mediators/sentry_app_installations/installation_notifier.py", "src/sentry/tasks/sentry_apps.py", "src/sentry/utils/sentryappwebhookrequests.py", "tests/sentry/mediators/external_issues/test_issue_link_creator.py", "tests/sentry/mediators/external_requests/test_issue_link_requester.py", "tests/sentry/mediators/external_requests/test_select_requester.py", "tests/sentry/mediators/sentry_app_installations/test_installation_notifier.py", "tests/sentry/tasks/test_sentry_apps.py", ]
-"type": "assert"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/mediators/external_issues/test_issue_link_creator.py", "tests/sentry/mediators/external_requests/test_issue_link_requester.py", "tests/sentry/mediators/external_requests/test_select_requester.py", "tests/sentry/mediators/sentry_app_installations/test_installation_notifier.py", "tests/sentry/tasks/test_sentry_apps.py"],
+"type": ["assert"],
 "numberOfMigration": ""

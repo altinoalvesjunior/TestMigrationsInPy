@@ -1,5 +1,7 @@
 "commit_hash": "23ac0fe6cb9bd88d389f277d94499ca77ff7d04d",
 "commit_link": "https://github.com/streamlit/streamlit/commit/23ac0fe6cb9bd88d389f277d94499ca77ff7d04d",
-"files": ["lib/streamlit/state/session_state.py", "lib/tests/streamlit/scriptrunner/script_runner_test.py", "lib/tests/streamlit/state/session_state_test.py", "lib/tests/streamlit/state/strategies.py", "lib/tests/streamlit/state/widgets_test.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["lib/tests/streamlit/scriptrunner/script_runner_test.py", "lib/tests/streamlit/state/session_state_test.py", "lib/tests/streamlit/state/strategies.py", "lib/tests/streamlit/state/widgets_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

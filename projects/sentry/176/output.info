@@ -1,5 +1,7 @@
 "commit_hash": "0c7921366ff085f86b19783ac378416228c9e144",
 "commit_link": "https://github.com/getsentry/sentry/commit/0c7921366ff085f86b19783ac378416228c9e144",
-"files": ["src/sentry/integrations/msteams/integration.py", "src/sentry/integrations/msteams/webhook.py", "src/sentry/models/integration.py", "tests/sentry/integrations/msteams/test_helpers.py", "tests/sentry/integrations/msteams/test_integration.py", "tests/sentry/integrations/msteams/test_webhook.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/integrations/msteams/test_helpers.py", "tests/sentry/integrations/msteams/test_integration.py", "tests/sentry/integrations/msteams/test_webhook.py"],
+"type": ["assert"],
 "numberOfMigration": ""

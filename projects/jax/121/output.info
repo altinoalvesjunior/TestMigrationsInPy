@@ -1,5 +1,7 @@
 "commit_hash": "24201ef92225c9933af9a4493d894a3fe91d2bde",
 "commit_link": "https://github.com/google/jax/commit/24201ef92225c9933af9a4493d894a3fe91d2bde",
-"files": ["jax/experimental/export/__init__.py", "jax/experimental/export/_export.py", "jax/experimental/export/_serialization.py", "jax/experimental/export/_shape_poly.py", "jax/experimental/jax2tf/README.md", "jax/experimental/jax2tf/jax2tf.py", "jax/experimental/jax2tf/tests/shape_poly_test.py", "tests/export_test.py", "tests/shape_poly_test.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["jax/experimental/jax2tf/tests/shape_poly_test.py", "tests/export_test.py", "tests/shape_poly_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

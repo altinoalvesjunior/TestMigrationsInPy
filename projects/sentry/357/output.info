@@ -1,5 +1,7 @@
 "commit_hash": "02aebd54abcb9a092210ac0fc305fedc75109ea5",
 "commit_link": "https://github.com/getsentry/sentry/commit/02aebd54abcb9a092210ac0fc305fedc75109ea5",
-"files": ["src/sentry/features/temporary.py", "src/sentry/integrations/slack/message_builder/issues.py", "tests/sentry/integrations/slack/notifications/test_assigned.py", "tests/sentry/integrations/slack/notifications/test_issue_alert.py", "tests/sentry/integrations/slack/notifications/test_regression.py", "tests/sentry/integrations/slack/notifications/test_resolved.py", "tests/sentry/integrations/slack/notifications/test_resolved_in_release.py", "tests/sentry/integrations/slack/notifications/test_unassigned.py", "tests/sentry/integrations/slack/test_message_builder.py", "tests/sentry/integrations/slack/webhooks/actions/test_status.py", ]
-"type": "assert"
+"testFilesChanged": 8,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/integrations/slack/notifications/test_assigned.py", "tests/sentry/integrations/slack/notifications/test_issue_alert.py", "tests/sentry/integrations/slack/notifications/test_regression.py", "tests/sentry/integrations/slack/notifications/test_resolved.py", "tests/sentry/integrations/slack/notifications/test_resolved_in_release.py", "tests/sentry/integrations/slack/notifications/test_unassigned.py", "tests/sentry/integrations/slack/test_message_builder.py", "tests/sentry/integrations/slack/webhooks/actions/test_status.py"],
+"type": ["assert"],
 "numberOfMigration": ""

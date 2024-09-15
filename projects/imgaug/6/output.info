@@ -1,5 +1,7 @@
 "commit_hash": "ecdc4b198320febbaff7f12108ed882f9014a26e",
 "commit_link": "https://github.com/aleju/imgaug/commit/ecdc4b198320febbaff7f12108ed882f9014a26e",
-"files": ["changelogs/master/20191113_iterable_augmentables.md", "imgaug/augmentables/bbs.py", "imgaug/augmentables/lines.py", "imgaug/augmentables/polys.py", "test/augmentables/test_bbs.py", "test/augmentables/test_lines.py", "test/augmentables/test_polys.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/augmentables/test_bbs.py", "test/augmentables/test_lines.py", "test/augmentables/test_polys.py"],
+"type": ["assert"],
 "numberOfMigration": ""

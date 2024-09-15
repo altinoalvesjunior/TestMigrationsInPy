@@ -1,5 +1,7 @@
 "commit_hash": "60f76436c144a08aa6b74bfefd559ac0188202f6",
 "commit_link": "https://github.com/ansible/ansible/commit/60f76436c144a08aa6b74bfefd559ac0188202f6",
-"files": ["changelogs/fragments/ansiblej2vars-chainmap.yml", "lib/ansible/template/vars.py", "test/units/template/test_vars.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/units/template/test_vars.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

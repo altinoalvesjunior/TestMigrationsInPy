@@ -1,5 +1,7 @@
 "commit_hash": "5fd531a20a7cdca6ae9af51b6382a07ed6bd2002",
 "commit_link": "https://github.com/plotly/dash/commit/5fd531a20a7cdca6ae9af51b6382a07ed6bd2002",
-"files": ["tests/integration/callbacks/state_path.json", "tests/integration/callbacks/test_radiobutton_generate.py", "tests/integration/test_render.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/integration/callbacks/state_path.json", "tests/integration/callbacks/test_radiobutton_generate.py", "tests/integration/test_render.py"],
+"type": ["assert"],
 "numberOfMigration": ""

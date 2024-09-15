@@ -1,5 +1,7 @@
 "commit_hash": "9796d50fa90de9642c937ef5f0cf03a7d7f1934c",
 "commit_link": "https://github.com/chriskiehl/Gooey/commit/9796d50fa90de9642c937ef5f0cf03a7d7f1934c",
-"files": ["gooey/tests/argparse_to_json_unittest.py", ]
-"type": "assert, fixture, import, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["gooey/tests/argparse_to_json_unittest.py"],
+"type": ["assert", "fixture", "import", "testcase"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "4fe2bcfe4131e0c7e0d756f0ca051a58a1f82db2",
 "commit_link": "https://github.com/google/jax/commit/4fe2bcfe4131e0c7e0d756f0ca051a58a1f82db2",
-"files": ["jax/interpreters/batching.py", "tests/lax_control_flow_test.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/lax_control_flow_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

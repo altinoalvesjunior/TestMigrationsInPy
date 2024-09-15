@@ -1,5 +1,7 @@
 "commit_hash": "fe1a20ebb39dd339d0b7b4d6286bbee6f05cbfa8",
 "commit_link": "https://github.com/zulip/zulip/commit/fe1a20ebb39dd339d0b7b4d6286bbee6f05cbfa8",
-"files": ["api_docs/changelog.md", "version.py", "web/e2e-tests/admin.test.ts", "web/src/admin.js", "web/src/server_events_dispatch.js", "web/src/settings_components.js", "web/src/settings_org.js", "web/src/stream_edit.js", "web/src/ui_init.js", "web/templates/confirm_dialog/confirm_deactivate_stream.hbs", "web/templates/settings/organization_settings_admin.hbs", "web/tests/dispatch.test.js", "web/tests/dispatch_subs.test.js", "web/tests/lib/events.js", "zerver/actions/create_realm.py", "zerver/actions/realm_settings.py", "zerver/lib/event_schema.py", "zerver/lib/events.py", "zerver/lib/import_realm.py", "zerver/migrations/0500_realm_zulip_update_announcements_stream.py", "zerver/models/realms.py", "zerver/openapi/zulip.yaml", "zerver/tests/test_audit_log.py", "zerver/tests/test_event_system.py", "zerver/tests/test_events.py", "zerver/tests/test_home.py", "zerver/tests/test_realm.py", "zerver/views/realm.py", "zilencer/management/commands/populate_db.py", ]
-"type": "assert"
+"testFilesChanged": 9,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["web/e2e-tests/admin.test.ts", "web/tests/dispatch.test.js", "web/tests/dispatch_subs.test.js", "web/tests/lib/events.js", "zerver/tests/test_audit_log.py", "zerver/tests/test_event_system.py", "zerver/tests/test_events.py", "zerver/tests/test_home.py", "zerver/tests/test_realm.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "8fef91acd6ca45576f723e2ce102dc059fbf0d69",
 "commit_link": "https://github.com/getsentry/sentry/commit/8fef91acd6ca45576f723e2ce102dc059fbf0d69",
-"files": ["src/sentry/digests/backends/base.py", "src/sentry/digests/backends/redis.py", "src/sentry/digests/backoff.py", "src/sentry/plugins/bases/notify.py", "src/sentry/tasks/digests.py", "tests/sentry/digests/backends/test_redis.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/digests/backends/test_redis.py"],
+"type": ["assert"],
 "numberOfMigration": ""

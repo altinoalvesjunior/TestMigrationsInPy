@@ -1,5 +1,7 @@
 "commit_hash": "d4769d5c5a34efa008ad8defe3e003487ab4f104",
 "commit_link": "https://github.com/getsentry/sentry/commit/d4769d5c5a34efa008ad8defe3e003487ab4f104",
-"files": ["bower.json", "src/sentry/api/endpoints/project_details.py", "src/sentry/conf/server.py", "src/sentry/models/project.py", "src/sentry/permissions.py", "src/sentry/receivers/core.py", "src/sentry/templates/sentry/layout.html", "src/sentry/templates/sentry/projects/manage.html", "src/sentry/templatetags/sentry_dsn.py", "src/sentry/web/helpers.py", "tests/sentry/receivers/test_core.py", "tests/sentry/utils/http/tests.py", "tests/sentry/web/helpers/tests.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/receivers/test_core.py", "tests/sentry/utils/http/tests.py", "tests/sentry/web/helpers/tests.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

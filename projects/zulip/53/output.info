@@ -1,5 +1,7 @@
 "commit_hash": "0ac7d7d21de7a5405451736ee49a0fa347374a54",
 "commit_link": "https://github.com/zulip/zulip/commit/0ac7d7d21de7a5405451736ee49a0fa347374a54",
-"files": ["corporate/migrations/0012_zulipsponsorshiprequest.py", "corporate/models.py", "corporate/tests/test_stripe.py", "corporate/views.py", "templates/corporate/upgrade.html", "zerver/models.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["corporate/tests/test_stripe.py"],
+"type": ["assert"],
 "numberOfMigration": ""

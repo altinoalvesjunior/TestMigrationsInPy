@@ -1,5 +1,7 @@
 "commit_hash": "5ddbbf1f59cf7f5999c3a872d4a14adab8427435",
 "commit_link": "https://github.com/apache/airflow/commit/5ddbbf1f59cf7f5999c3a872d4a14adab8427435",
-"files": ["airflow/api_connexion/endpoints/dag_run_endpoint.py", "airflow/api_connexion/schemas/dag_run_schema.py", "tests/api_connexion/endpoints/test_dag_run_endpoint.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/api_connexion/endpoints/test_dag_run_endpoint.py"],
+"type": ["assert"],
 "numberOfMigration": ""

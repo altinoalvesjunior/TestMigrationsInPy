@@ -1,5 +1,7 @@
 "commit_hash": "b84ab363ec45b51eadb80fc1e2ba1d1b8c50fbca",
 "commit_link": "https://github.com/ray-project/ray/commit/b84ab363ec45b51eadb80fc1e2ba1d1b8c50fbca",
-"files": ["python/ray/autoscaler/_private/commands.py", "python/ray/autoscaler/_private/kuberay/autoscaling_config.py", "python/ray/autoscaler/_private/util.py", "python/ray/autoscaler/local/development-example.yaml", "python/ray/autoscaler/ray-schema.json", "python/ray/tests/kuberay/test_autoscaling_config.py", "python/ray/tests/test_autoscaler.py", "python/ray/tests/test_autoscaler_yaml.py", "python/ray/tests/test_resource_demand_scheduler.py", "python/ray/tune/examples/tune-default.yaml", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/tests/kuberay/test_autoscaling_config.py", "python/ray/tests/test_autoscaler.py", "python/ray/tests/test_autoscaler_yaml.py", "python/ray/tests/test_resource_demand_scheduler.py"],
+"type": ["assert"],
 "numberOfMigration": ""

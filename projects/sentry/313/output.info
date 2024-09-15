@@ -1,5 +1,7 @@
 "commit_hash": "94c8abb498d59f75052933bfd1adacb005264f3d",
 "commit_link": "https://github.com/getsentry/sentry/commit/94c8abb498d59f75052933bfd1adacb005264f3d",
-"files": ["src/sentry/tasks/integrations/slack/find_channel_id_for_rule.py", "tests/sentry/integrations/slack/test_tasks.py", ]
-"type": "fixture"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/integrations/slack/test_tasks.py"],
+"type": ["fixture"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "53f40133eb60b996f4719be8d43450519faa65cb",
 "commit_link": "https://github.com/zulip/zulip/commit/53f40133eb60b996f4719be8d43450519faa65cb",
-"files": ["zerver/lib/remote_server.py", "zerver/tests/test_push_notifications.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/tests/test_push_notifications.py"],
+"type": ["assert"],
 "numberOfMigration": ""

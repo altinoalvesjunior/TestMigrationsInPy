@@ -1,5 +1,7 @@
 "commit_hash": "91cdda82d21bc1fe605705d8fb0e6ad126b6c119",
 "commit_link": "https://github.com/getsentry/sentry/commit/91cdda82d21bc1fe605705d8fb0e6ad126b6c119",
-"files": ["src/sentry/api/serializers/models/team.py", "src/sentry/static/sentry/app/views/settings/organizationTeams/allTeamsRow.jsx", "tests/js/fixtures/team.js", "tests/js/spec/views/__snapshots__/organizationTeamProjects.spec.jsx.snap", "tests/js/spec/views/__snapshots__/projectTeams.spec.jsx.snap", "tests/js/spec/views/__snapshots__/ruleBuilder.spec.jsx.snap", "tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/api/serializers/test_team.py", ]
-"type": "assert"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/js/fixtures/team.js", "tests/js/spec/views/__snapshots__/organizationTeamProjects.spec.jsx.snap", "tests/js/spec/views/__snapshots__/projectTeams.spec.jsx.snap", "tests/js/spec/views/__snapshots__/ruleBuilder.spec.jsx.snap", "tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/api/serializers/test_team.py"],
+"type": ["assert"],
 "numberOfMigration": ""

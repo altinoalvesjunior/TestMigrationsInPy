@@ -1,5 +1,7 @@
 "commit_hash": "aa7bd8bc1129dc058a7aa637364d0051a88b2803",
 "commit_link": "https://github.com/ansible/ansible/commit/aa7bd8bc1129dc058a7aa637364d0051a88b2803",
-"files": ["test/units/module_utils/basic/test_deprecate_warn.py", ]
-"type": "assert, import, testcase, add Param"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/units/module_utils/basic/test_deprecate_warn.py"],
+"type": ["assert", "import", "testcase", "add Param"],
 "numberOfMigration": ""

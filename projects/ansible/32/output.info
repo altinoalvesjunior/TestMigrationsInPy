@@ -1,5 +1,7 @@
 "commit_hash": "fa585151c2b99702d917a5cdef1c80c449f28ea0",
 "commit_link": "https://github.com/ansible/ansible/commit/fa585151c2b99702d917a5cdef1c80c449f28ea0",
-"files": ["lib/ansible/modules/network/fortimanager/fmgr_script.py", "test/units/modules/network/fortimanager/fixtures/test_fmgr_script.json", "test/units/modules/network/fortimanager/test_fmgr_script.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/units/modules/network/fortimanager/fixtures/test_fmgr_script.json", "test/units/modules/network/fortimanager/test_fmgr_script.py"],
+"type": ["assert"],
 "numberOfMigration": ""

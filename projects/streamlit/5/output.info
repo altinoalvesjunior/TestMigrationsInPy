@@ -1,5 +1,7 @@
 "commit_hash": "d6d375cbb531b3bf8e0424afeecb5a08a192e4b0",
 "commit_link": "https://github.com/streamlit/streamlit/commit/d6d375cbb531b3bf8e0424afeecb5a08a192e4b0",
-"files": ["frontend/cypress/integration/examples/core/map.spec.ts", "frontend/src/components/core/Block/Block.tsx", "frontend/src/components/elements/Map/Map.jsx", "frontend/src/components/elements/Map/Map.scss", "frontend/src/components/elements/Map/index.tsx", "lib/streamlit/DeltaGenerator.py", "lib/streamlit/elements/map.py", "lib/tests/streamlit/map_test.py", "lib/tests/streamlit/streamlit_test.py", "proto/streamlit/proto/Element.proto", "proto/streamlit/proto/Map.proto", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["lib/tests/streamlit/map_test.py", "lib/tests/streamlit/streamlit_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "91edde6b00a44888827e129f8e8bba2484f88a2e",
 "commit_link": "https://github.com/apache/airflow/commit/91edde6b00a44888827e129f8e8bba2484f88a2e",
-"files": ["chart/templates/workers/worker-kedaautoscaler.yaml", "chart/tests/helm_template_generator.py", "chart/tests/test_keda.py", "docs/helm-chart/keda.rst", "docs/spelling_wordlist.txt", ]
-"type": "assert, testcase"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["chart/tests/helm_template_generator.py", "chart/tests/test_keda.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

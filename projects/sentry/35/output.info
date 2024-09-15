@@ -1,5 +1,7 @@
 "commit_hash": "7b036390c64ce58149ee65d23871da910e162c1a",
 "commit_link": "https://github.com/getsentry/sentry/commit/7b036390c64ce58149ee65d23871da910e162c1a",
-"files": ["bin/load-mocks", "src/sentry/api/endpoints/project_details.py", "src/sentry/management/commands/repair.py", "src/sentry/migrations/0134_auto__del_field_project_owner__chg_field_project_team.py", "src/sentry/models/project.py", "src/sentry/models/user.py", "src/sentry/receivers/core.py", "src/sentry/testutils/fixtures.py", "src/sentry/web/frontend/admin.py", "src/sentry/web/frontend/team_settings.py", "tests/integration/tests.py", "tests/sentry/api/endpoints/test_project_releases.py", "tests/sentry/api/endpoints/test_project_stats.py", "tests/sentry/api/endpoints/test_team_project_index.py", "tests/sentry/coreapi/tests.py", "tests/sentry/manager/tests.py", "tests/sentry/models/tests.py", "tests/sentry/plugins/mail/tests.py", "tests/sentry/receivers/test_core.py", "tests/sentry/signals/__init__.py", "tests/sentry/signals/tests.py", "tests/sentry/tasks/test_deletion.py", "tests/sentry/utils/query/tests.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 14,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["src/sentry/testutils/fixtures.py", "tests/integration/tests.py", "tests/sentry/api/endpoints/test_project_releases.py", "tests/sentry/api/endpoints/test_project_stats.py", "tests/sentry/api/endpoints/test_team_project_index.py", "tests/sentry/coreapi/tests.py", "tests/sentry/manager/tests.py", "tests/sentry/models/tests.py", "tests/sentry/plugins/mail/tests.py", "tests/sentry/receivers/test_core.py", "tests/sentry/signals/__init__.py", "tests/sentry/signals/tests.py", "tests/sentry/tasks/test_deletion.py", "tests/sentry/utils/query/tests.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

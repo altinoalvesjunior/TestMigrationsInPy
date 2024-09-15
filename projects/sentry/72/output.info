@@ -1,5 +1,7 @@
 "commit_hash": "fc20eea0ec4313b06fec9641a35f85bce9f5115f",
 "commit_link": "https://github.com/getsentry/sentry/commit/fc20eea0ec4313b06fec9641a35f85bce9f5115f",
-"files": ["src/sentry/api/endpoints/organization_auditlogs.py", "src/sentry/api/serializers/models/auditlogentry.py", "src/sentry/api/urls.py", "src/sentry/models/auditlogentry.py", "src/sentry/static/sentry/app/components/organizations/homeSidebar.jsx", "src/sentry/static/sentry/app/components/selectInput.jsx", "src/sentry/static/sentry/app/routes.jsx", "src/sentry/static/sentry/app/views/organizationAuditLog.jsx", "src/sentry/static/sentry/less/includes/select2.less", "src/sentry/static/sentry/less/shared-components.less", "src/sentry/templates/sentry/bases/organization.html", "src/sentry/web/frontend/organization_audit_log.py", "src/sentry/web/urls.py", "tests/sentry/api/endpoints/test_organization_auditlogs.py", "tests/sentry/web/frontend/test_organization_audit_log.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/api/endpoints/test_organization_auditlogs.py", "tests/sentry/web/frontend/test_organization_audit_log.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

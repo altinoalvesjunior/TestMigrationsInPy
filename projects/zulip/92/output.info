@@ -1,5 +1,7 @@
 "commit_hash": "b0ef8f08220fe6e22a54b934bab6f18794562753",
 "commit_link": "https://github.com/zulip/zulip/commit/b0ef8f08220fe6e22a54b934bab6f18794562753",
-"files": ["zerver/tests/test_auth_backends.py", "zerver/tests/test_events.py", "zerver/tests/test_markdown.py", "zerver/tests/test_outgoing_http.py", "zerver/tests/test_realm_linkifiers.py", "zerver/tests/test_subs.py", "zerver/tests/test_thumbnail.py", "zerver/tests/test_upload.py", "zerver/tests/test_upload_local.py", "zerver/tests/test_upload_s3.py", ]
-"type": "assert"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/tests/test_auth_backends.py", "zerver/tests/test_events.py", "zerver/tests/test_markdown.py", "zerver/tests/test_outgoing_http.py", "zerver/tests/test_realm_linkifiers.py", "zerver/tests/test_subs.py", "zerver/tests/test_thumbnail.py", "zerver/tests/test_upload.py", "zerver/tests/test_upload_local.py", "zerver/tests/test_upload_s3.py"],
+"type": ["assert"],
 "numberOfMigration": ""

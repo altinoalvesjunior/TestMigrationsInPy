@@ -1,5 +1,7 @@
 "commit_hash": "8f5ea06dcd8cf2082a0d422a6059e819416f24cf",
 "commit_link": "https://github.com/streamlit/streamlit/commit/8f5ea06dcd8cf2082a0d422a6059e819416f24cf",
-"files": ["lib/streamlit/folder_black_list.py", "lib/streamlit/hashing.py", "lib/streamlit/watcher/file_watcher.py", "lib/streamlit/watcher/local_sources_watcher.py", "lib/tests/conftest.py", "lib/tests/streamlit/watcher/file_watcher_test.py", "lib/tests/streamlit/watcher/local_sources_watcher_test.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["lib/tests/conftest.py", "lib/tests/streamlit/watcher/file_watcher_test.py", "lib/tests/streamlit/watcher/local_sources_watcher_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

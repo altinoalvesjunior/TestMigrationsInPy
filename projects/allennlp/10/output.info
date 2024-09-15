@@ -1,5 +1,7 @@
 "commit_hash": "ef72e2e6a0f3956ac22a2c68060318d9b9688195",
 "commit_link": "https://github.com/allenai/allennlp/commit/ef72e2e6a0f3956ac22a2c68060318d9b9688195",
-"files": ["allennlp/tests/training/learning_rate_schedulers_test.py", "allennlp/tests/training/trainer_test.py", "allennlp/training/trainer.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["allennlp/tests/training/learning_rate_schedulers_test.py", "allennlp/tests/training/trainer_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

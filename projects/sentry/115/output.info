@@ -1,5 +1,7 @@
 "commit_hash": "9b4bc729fec6a1eddfcb9a3acb6013157cf84278",
 "commit_link": "https://github.com/getsentry/sentry/commit/9b4bc729fec6a1eddfcb9a3acb6013157cf84278",
-"files": ["src/sentry/api/endpoints/organization_details.py", "src/sentry/api/serializers/models/organization.py", "src/sentry/constants.py", "src/sentry/static/sentry/app/views/settings/organization/navigationConfiguration.jsx", "src/sentry/templates/sentry/bases/organization.html", "tests/sentry/api/endpoints/test_organization_details.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/api/endpoints/test_organization_details.py"],
+"type": ["assert"],
 "numberOfMigration": ""

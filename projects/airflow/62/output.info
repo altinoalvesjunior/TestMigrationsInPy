@@ -1,5 +1,7 @@
 "commit_hash": "4a02e0a287f880eab98979de565c061747b35f27",
 "commit_link": "https://github.com/apache/airflow/commit/4a02e0a287f880eab98979de565c061747b35f27",
-"files": ["UPDATING.md", "airflow/models/dagrun.py", "docs/apache-airflow/logging-monitoring/metrics.rst", "tests/models/test_dagrun.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/models/test_dagrun.py"],
+"type": ["assert"],
 "numberOfMigration": ""

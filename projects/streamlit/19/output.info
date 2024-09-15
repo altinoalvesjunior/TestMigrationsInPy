@@ -1,5 +1,7 @@
 "commit_hash": "5b3c16c1c1dd52b4fae9ca003368096f82a37889",
 "commit_link": "https://github.com/streamlit/streamlit/commit/5b3c16c1c1dd52b4fae9ca003368096f82a37889",
-"files": ["lib/tests/streamlit/web/server/message_mocks.py", "lib/tests/streamlit/web/server/routes_test.py", "lib/tests/streamlit/web/server/server_test.py", "lib/tests/streamlit/web/server/server_util_test.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["lib/tests/streamlit/web/server/message_mocks.py", "lib/tests/streamlit/web/server/routes_test.py", "lib/tests/streamlit/web/server/server_test.py", "lib/tests/streamlit/web/server/server_util_test.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

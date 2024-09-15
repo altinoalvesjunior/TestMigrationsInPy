@@ -1,5 +1,7 @@
 "commit_hash": "d1ecb8cd38bd8922780731682b696adc97974240",
 "commit_link": "https://github.com/scrapy/scrapy/commit/d1ecb8cd38bd8922780731682b696adc97974240",
-"files": ["tests/test_downloader_handlers.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_downloader_handlers.py"],
+"type": ["assert"],
 "numberOfMigration": ""

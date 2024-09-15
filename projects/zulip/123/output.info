@@ -1,5 +1,7 @@
 "commit_hash": "ab453fbe2010ac924c96a91cc992d9984cc2e934",
 "commit_link": "https://github.com/zulip/zulip/commit/ab453fbe2010ac924c96a91cc992d9984cc2e934",
-"files": ["api_docs/changelog.md", "version.py", "web/e2e-tests/admin.test.ts", "web/src/admin.js", "web/src/invite.ts", "web/src/server_events_dispatch.js", "web/src/settings_components.js", "web/src/settings_org.js", "web/src/state_data.ts", "web/src/stream_create.js", "web/src/stream_data.ts", "web/src/stream_edit.js", "web/src/stream_settings_ui.js", "web/src/stream_ui_updates.js", "web/src/ui_init.js", "web/templates/announce_stream_docs.hbs", "web/templates/confirm_dialog/confirm_deactivate_stream.hbs", "web/templates/invite_user_modal.hbs", "web/templates/settings/organization_settings_admin.hbs", "web/templates/stream_settings/announce_stream_checkbox.hbs", "web/tests/dispatch.test.js", "web/tests/dispatch_subs.test.js", "web/tests/lib/events.js", "web/tests/stream_data.test.js", "zerver/actions/create_realm.py", "zerver/actions/realm_settings.py", "zerver/lib/event_schema.py", "zerver/lib/events.py", "zerver/lib/import_realm.py", "zerver/migrations/0497_rename_notifications_stream_realm_new_stream_announcements_stream.py", "zerver/models/realms.py", "zerver/openapi/zulip.yaml", "zerver/tests/test_audit_log.py", "zerver/tests/test_events.py", "zerver/tests/test_home.py", "zerver/tests/test_realm.py", "zerver/tests/test_subs.py", "zerver/views/realm.py", "zerver/views/streams.py", "zilencer/management/commands/populate_db.py", ]
-"type": "assert"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["web/e2e-tests/admin.test.ts", "web/tests/dispatch.test.js", "web/tests/dispatch_subs.test.js", "web/tests/lib/events.js", "web/tests/stream_data.test.js", "zerver/tests/test_audit_log.py", "zerver/tests/test_events.py", "zerver/tests/test_home.py", "zerver/tests/test_realm.py", "zerver/tests/test_subs.py"],
+"type": ["assert"],
 "numberOfMigration": ""

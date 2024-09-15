@@ -1,5 +1,7 @@
 "commit_hash": "774bc5c445d55c75c1a1f7d2d5e5aac21435cc9e",
 "commit_link": "https://github.com/kivy/kivy/commit/774bc5c445d55c75c1a1f7d2d5e5aac21435cc9e",
-"files": ["kivy/tests/__init__.py", "kivy/tests/async_common.py", "kivy/tests/common.py", "kivy/tests/conftest.py", "kivy/tests/test_app.py", ]
-"type": "import"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["kivy/tests/__init__.py", "kivy/tests/async_common.py", "kivy/tests/common.py", "kivy/tests/conftest.py", "kivy/tests/test_app.py"],
+"type": ["import"],
 "numberOfMigration": ""

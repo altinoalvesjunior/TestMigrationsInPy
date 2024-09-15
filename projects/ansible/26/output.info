@@ -1,5 +1,7 @@
 "commit_hash": "61e5d04a60126aac3814fac88b4dc7e5d9f8f705",
 "commit_link": "https://github.com/ansible/ansible/commit/61e5d04a60126aac3814fac88b4dc7e5d9f8f705",
-"files": ["test/units/module_utils/ec2/test_aws.py", "test/units/module_utils/network/aci/test_aci.py", "test/units/modules/network/fortimanager/test_fmgr_provisioning.py", "test/units/modules/network/fortimanager/test_fmgr_script.py", "test/units/modules/network/nuage/nuage_module.py", "test/units/modules/network/nuage/test_nuage_vspk.py", ]
-"type": "skip"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/units/module_utils/ec2/test_aws.py", "test/units/module_utils/network/aci/test_aci.py", "test/units/modules/network/fortimanager/test_fmgr_provisioning.py", "test/units/modules/network/fortimanager/test_fmgr_script.py", "test/units/modules/network/nuage/nuage_module.py", "test/units/modules/network/nuage/test_nuage_vspk.py"],
+"type": ["skip"],
 "numberOfMigration": ""

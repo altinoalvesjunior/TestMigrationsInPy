@@ -1,5 +1,7 @@
 "commit_hash": "ace3c46be0ebf12f0eb4b63f22843d76b67ccfde",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/ace3c46be0ebf12f0eb4b63f22843d76b67ccfde",
-"files": ["pandas/util/testing.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/util/testing.py"],
+"type": ["assert"],
 "numberOfMigration": ""

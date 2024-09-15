@@ -1,5 +1,7 @@
 "commit_hash": "02b6f21905f083a6d2488786d3ce12ed697b5563",
 "commit_link": "https://github.com/aleju/imgaug/commit/02b6f21905f083a6d2488786d3ce12ed697b5563",
-"files": ["imgaug/augmentables/batches.py", "imgaug/augmentables/normalization.py", "test/augmentables/test_batches.py", "test/augmentables/test_normalization.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/augmentables/test_batches.py", "test/augmentables/test_normalization.py"],
+"type": ["assert"],
 "numberOfMigration": ""

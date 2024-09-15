@@ -1,5 +1,7 @@
 "commit_hash": "737e50a02a7031bf0123e57496a55e477cb61b8c",
 "commit_link": "https://github.com/apache/airflow/commit/737e50a02a7031bf0123e57496a55e477cb61b8c",
-"files": ["airflow/providers/amazon/aws/hooks/base_aws.py", "tests/providers/amazon/aws/hooks/test_base_aws.py", ]
-"type": "skip, add Param"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/amazon/aws/hooks/test_base_aws.py"],
+"type": ["skip", "add Param"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "1ef357332363719d085701af293303b4fa3e4eda",
 "commit_link": "https://github.com/getsentry/sentry/commit/1ef357332363719d085701af293303b4fa3e4eda",
-"files": ["src/sentry/incidents/__init__.py", "src/sentry/incidents/action_handlers.py", "src/sentry/incidents/apps.py", "src/sentry/incidents/models.py", "src/sentry/incidents/subscription_processor.py", "src/sentry/incidents/tasks.py", "tests/sentry/incidents/test_models.py", "tests/sentry/incidents/test_subscription_processor.py", "tests/sentry/incidents/test_tasks.py", "tests/snuba/incidents/test_tasks.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/incidents/test_models.py", "tests/sentry/incidents/test_subscription_processor.py", "tests/sentry/incidents/test_tasks.py", "tests/snuba/incidents/test_tasks.py"],
+"type": ["assert"],
 "numberOfMigration": ""

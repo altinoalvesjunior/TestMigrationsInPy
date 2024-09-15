@@ -1,5 +1,7 @@
 "commit_hash": "e3d87c322c5b286784a70a52cbffd1df848bddf7",
 "commit_link": "https://github.com/getsentry/sentry/commit/e3d87c322c5b286784a70a52cbffd1df848bddf7",
-"files": ["src/sentry/constants.py", "src/sentry/coreapi.py", "src/sentry/utils/raven.py", "src/sentry/web/api.py", "tests/sentry/coreapi/tests.py", "tests/sentry/test_event_manager.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/coreapi/tests.py", "tests/sentry/test_event_manager.py"],
+"type": ["assert"],
 "numberOfMigration": ""

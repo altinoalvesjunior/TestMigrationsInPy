@@ -1,5 +1,7 @@
 "commit_hash": "84c12c3e7d02ac0b972e3ce94b2ba39adc60040a",
 "commit_link": "https://github.com/getsentry/sentry/commit/84c12c3e7d02ac0b972e3ce94b2ba39adc60040a",
-"files": ["src/sentry/testutils/cases.py", "src/sentry/testutils/helpers/features.py", "tests/sentry/api/endpoints/test_organization_metrics.py", ]
-"type": "fixture"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["src/sentry/testutils/cases.py", "src/sentry/testutils/helpers/features.py", "tests/sentry/api/endpoints/test_organization_metrics.py"],
+"type": ["fixture"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "4eef2483dd3c06da6d26dc81189c97f881eb55ec",
 "commit_link": "https://github.com/getsentry/sentry/commit/4eef2483dd3c06da6d26dc81189c97f881eb55ec",
-"files": ["tests/sentry/models/test_projectkey.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/models/test_projectkey.py"],
+"type": ["assert"],
 "numberOfMigration": ""

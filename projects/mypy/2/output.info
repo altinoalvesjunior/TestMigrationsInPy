@@ -1,5 +1,7 @@
 "commit_hash": "7692a6ef3dfdfb0e3798398b0fac30743f08c1a9",
 "commit_link": "https://github.com/python/mypy/commit/7692a6ef3dfdfb0e3798398b0fac30743f08c1a9",
-"files": ["mypy/test/testpythoneval.py", "mypy/test/testsolve.py", "mypy/test/testsubtypes.py", "mypy/test/testtypes.py", "mypy_self_check.ini", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["mypy/test/testpythoneval.py", "mypy/test/testsolve.py", "mypy/test/testsubtypes.py", "mypy/test/testtypes.py"],
+"type": ["assert"],
 "numberOfMigration": ""

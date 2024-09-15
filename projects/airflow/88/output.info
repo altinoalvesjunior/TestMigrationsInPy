@@ -1,5 +1,7 @@
 "commit_hash": "ef1b1242a8907c1f526bb354945cd5eefa3a85e7",
 "commit_link": "https://github.com/apache/airflow/commit/ef1b1242a8907c1f526bb354945cd5eefa3a85e7",
-"files": ["tests/conftest.py", "tests/models/test_taskinstance.py", ]
-"type": "fixture, testcase, add Param"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/conftest.py", "tests/models/test_taskinstance.py"],
+"type": ["fixture", "testcase", "add Param"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "58942e2616bb71573faf23a4277ddae88624256b",
 "commit_link": "https://github.com/zulip/zulip/commit/58942e2616bb71573faf23a4277ddae88624256b",
-"files": ["zerver/tests/test_embedded_bot_system.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/tests/test_embedded_bot_system.py"],
+"type": ["assert"],
 "numberOfMigration": ""

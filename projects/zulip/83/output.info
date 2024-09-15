@@ -1,5 +1,7 @@
 "commit_hash": "d201229df8a547e0a0d4c15baa69dc56dc7d4499",
 "commit_link": "https://github.com/zulip/zulip/commit/d201229df8a547e0a0d4c15baa69dc56dc7d4499",
-"files": ["confirmation/models.py", "zerver/actions/invites.py", "zerver/migrations/0422_multiuseinvite_status.py", "zerver/models.py", "zerver/tests/test_signup.py", "zerver/views/invite.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/tests/test_signup.py"],
+"type": ["assert"],
 "numberOfMigration": ""

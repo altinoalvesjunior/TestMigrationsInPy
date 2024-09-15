@@ -1,5 +1,7 @@
 "commit_hash": "1f08d281632670aef1de8dfc62c9f63aeec18760",
 "commit_link": "https://github.com/apache/airflow/commit/1f08d281632670aef1de8dfc62c9f63aeec18760",
-"files": ["airflow/operators/trigger_dagrun.py", "tests/operators/test_trigger_dagrun.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/operators/test_trigger_dagrun.py"],
+"type": ["assert"],
 "numberOfMigration": ""

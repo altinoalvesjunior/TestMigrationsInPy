@@ -1,5 +1,7 @@
 "commit_hash": "8675387c9277ff7d240f86f9bfe0fda422ad8878",
 "commit_link": "https://github.com/kivy/kivy/commit/8675387c9277ff7d240f86f9bfe0fda422ad8878",
-"files": ["kivy/animation.py", "kivy/tests/test_animations.py", ]
-"type": "assert, fixture, import, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["kivy/tests/test_animations.py"],
+"type": ["assert", "fixture", "import", "testcase"],
 "numberOfMigration": ""

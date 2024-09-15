@@ -1,5 +1,7 @@
 "commit_hash": "f0768cf5913b77ddd125d49f0104fe2fee3ac674",
 "commit_link": "https://github.com/kivy/kivy/commit/f0768cf5913b77ddd125d49f0104fe2fee3ac674",
-"files": ["kivy/input/motionevent.py", "kivy/input/providers/mouse.py", "kivy/tests/async_common.py", "kivy/tests/common.py", "kivy/tests/test_app.py", "kivy/tests/test_mouse_multitouchsim.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["kivy/tests/async_common.py", "kivy/tests/common.py", "kivy/tests/test_app.py", "kivy/tests/test_mouse_multitouchsim.py"],
+"type": ["assert"],
 "numberOfMigration": ""

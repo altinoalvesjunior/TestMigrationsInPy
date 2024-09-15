@@ -1,5 +1,7 @@
 "commit_hash": "c126f2d204547b99dbea878698e88d80b8184c41",
 "commit_link": "https://github.com/apache/airflow/commit/c126f2d204547b99dbea878698e88d80b8184c41",
-"files": ["tests/core/test_configuration.py", "tests/core/test_impersonation_tests.py", "tests/executors/test_celery_executor.py", "tests/executors/test_celery_kubernetes_executor.py", "tests/executors/test_kubernetes_executor.py", "tests/models/test_serialized_dag.py", "tests/models/test_variable.py", "tests/utils/test_email.py", "tests/utils/test_logging_mixin.py", "tests/utils/test_process_utils.py", "tests/utils/test_retries.py", ]
-"type": "assert, fixture, import, skip, testcase, add Param"
+"testFilesChanged": 11,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/core/test_configuration.py", "tests/core/test_impersonation_tests.py", "tests/executors/test_celery_executor.py", "tests/executors/test_celery_kubernetes_executor.py", "tests/executors/test_kubernetes_executor.py", "tests/models/test_serialized_dag.py", "tests/models/test_variable.py", "tests/utils/test_email.py", "tests/utils/test_logging_mixin.py", "tests/utils/test_process_utils.py", "tests/utils/test_retries.py"],
+"type": ["assert", "fixture", "import", "skip", "testcase", "add Param"],
 "numberOfMigration": ""

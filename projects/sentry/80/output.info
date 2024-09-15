@@ -1,5 +1,7 @@
 "commit_hash": "2e3c7ea3b32518fd29aae9c6bfe275a904435ed6",
 "commit_link": "https://github.com/getsentry/sentry/commit/2e3c7ea3b32518fd29aae9c6bfe275a904435ed6",
-"files": ["src/sentry/models/user.py", "src/sentry/models/useremail.py", "src/sentry/static/sentry/less/auth.less", "src/sentry/static/sentry/less/shared-components.less", "src/sentry/templates/sentry/account/emails.html", "src/sentry/templates/sentry/account/notifications.html", "src/sentry/templates/sentry/bases/account.html", "src/sentry/web/forms/accounts.py", "src/sentry/web/frontend/accounts.py", "src/sentry/web/urls.py", "tests/sentry/web/frontend/accounts/tests.py", "tests/sentry/web/frontend/test_emails.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/web/frontend/accounts/tests.py", "tests/sentry/web/frontend/test_emails.py"],
+"type": ["assert"],
 "numberOfMigration": ""

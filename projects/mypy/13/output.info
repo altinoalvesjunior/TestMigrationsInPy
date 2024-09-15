@@ -1,5 +1,7 @@
 "commit_hash": "3c99f126ce3f5c0b6d3fadf96525b0f831b7c524",
 "commit_link": "https://github.com/python/mypy/commit/3c99f126ce3f5c0b6d3fadf96525b0f831b7c524",
-"files": ["mypyc/analysis/dataflow.py", "mypyc/codegen/emitfunc.py", "mypyc/ir/const_int.py", "mypyc/ir/func_ir.py", "mypyc/ir/ops.py", "mypyc/ir/pprint.py", "mypyc/irbuild/builder.py", "mypyc/irbuild/for_helpers.py", "mypyc/irbuild/function.py", "mypyc/irbuild/generator.py", "mypyc/irbuild/ll_builder.py", "mypyc/irbuild/nonlocalcontrol.py", "mypyc/irbuild/specialize.py", "mypyc/test-data/analysis.test", "mypyc/test/test_emitfunc.py", "mypyc/test/test_pprint.py", "mypyc/transform/exceptions.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["mypyc/test-data/analysis.test", "mypyc/test/test_emitfunc.py", "mypyc/test/test_pprint.py"],
+"type": ["assert"],
 "numberOfMigration": ""

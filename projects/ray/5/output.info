@@ -1,5 +1,7 @@
 "commit_hash": "ed77a4c415eedc31d8d081c6bdf29f56e719a9a2",
 "commit_link": "https://github.com/ray-project/ray/commit/ed77a4c415eedc31d8d081c6bdf29f56e719a9a2",
-"files": ["python/ray/services.py", "python/ray/utils.py", "python/ray/worker.py", "test/runtest.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/runtest.py"],
+"type": ["assert"],
 "numberOfMigration": ""

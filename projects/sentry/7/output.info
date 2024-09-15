@@ -1,5 +1,7 @@
 "commit_hash": "818a5d4666d61ce95ded1f2b401231486d9db30a",
 "commit_link": "https://github.com/getsentry/sentry/commit/818a5d4666d61ce95ded1f2b401231486d9db30a",
-"files": ["src/sentry/templates/sentry/dashboard.html", "src/sentry/templates/sentry/events/event_list.html", "src/sentry/templates/sentry/header.html", "src/sentry/templates/sentry/projects/base.html", "src/sentry/templates/sentry/projects/cannot_create_teams.html", "src/sentry/templates/sentry/projects/list.html", "src/sentry/templates/sentry/projects/new.html", "src/sentry/templates/sentry/teams/new.html", "src/sentry/testutils.py", "src/sentry/web/api.py", "src/sentry/web/frontend/events.py", "src/sentry/web/frontend/generic.py", "src/sentry/web/frontend/groups.py", "src/sentry/web/frontend/projects.py", "src/sentry/web/urls.py", "tests/sentry/web/frontend/tests.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["src/sentry/testutils.py", "tests/sentry/web/frontend/tests.py"],
+"type": ["assert"],
 "numberOfMigration": ""

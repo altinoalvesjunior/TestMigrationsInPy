@@ -1,5 +1,7 @@
 "commit_hash": "c9a97baa86762b9ba37ef71432573b7949e47e2b",
 "commit_link": "https://github.com/apache/airflow/commit/c9a97baa86762b9ba37ef71432573b7949e47e2b",
-"files": ["airflow/jobs/__init__.py", "airflow/jobs/scheduler_job.py", "airflow/models/dagbag.py", "airflow/utils/dag_processing.py", "tests/jobs/test_backfill_job.py", "tests/jobs/test_scheduler_job.py", "tests/test_core.py", "tests/utils/test_dag_processing.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/jobs/test_backfill_job.py", "tests/jobs/test_scheduler_job.py", "tests/test_core.py", "tests/utils/test_dag_processing.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "6600975de157f4e38b661e935d7882dc4399c294",
 "commit_link": "https://github.com/getsentry/sentry/commit/6600975de157f4e38b661e935d7882dc4399c294",
-"files": [".vscode/settings.json", "src/sentry/api/serializers/models/project.py", "tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/api/serializers/test_project.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/api/serializers/test_project.py"],
+"type": ["assert"],
 "numberOfMigration": ""

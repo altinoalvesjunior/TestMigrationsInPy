@@ -1,5 +1,7 @@
 "commit_hash": "cd475eb2766e7b2b0a8e910af5b60e7d75a17511",
 "commit_link": "https://github.com/getsentry/sentry/commit/cd475eb2766e7b2b0a8e910af5b60e7d75a17511",
-"files": ["src/sentry/api/endpoints/organization_events_facets.py", "src/sentry/snuba/discover.py", "tests/snuba/api/endpoints/test_organization_events_facets.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/snuba/api/endpoints/test_organization_events_facets.py"],
+"type": ["assert"],
 "numberOfMigration": ""

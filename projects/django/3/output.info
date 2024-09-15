@@ -1,5 +1,7 @@
 "commit_hash": "57f5669d23fe17d940887e1e3ce694c7366a6330",
 "commit_link": "https://github.com/django/django/commit/57f5669d23fe17d940887e1e3ce694c7366a6330",
-"files": ["django/test/client.py", "tests/requests/tests.py", "tests/test_client/test_fakepayload.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["django/test/client.py", "tests/requests/tests.py", "tests/test_client/test_fakepayload.py"],
+"type": ["assert"],
 "numberOfMigration": ""

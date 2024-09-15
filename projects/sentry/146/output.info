@@ -1,5 +1,7 @@
 "commit_hash": "81bac28ae9472efc4b1bb336b7faf2576b650ade",
 "commit_link": "https://github.com/getsentry/sentry/commit/81bac28ae9472efc4b1bb336b7faf2576b650ade",
-"files": ["src/sentry/mediators/token_exchange/refresher.py", "tests/sentry/api/endpoints/test_sentry_app_authorizations.py", "tests/sentry/mediators/token_exchange/test_refresher.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/api/endpoints/test_sentry_app_authorizations.py", "tests/sentry/mediators/token_exchange/test_refresher.py"],
+"type": ["assert"],
 "numberOfMigration": ""

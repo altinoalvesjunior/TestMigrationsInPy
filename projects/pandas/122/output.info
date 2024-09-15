@@ -1,5 +1,7 @@
 "commit_hash": "7eb254633b127aecb444ada902036ad25f8abd93",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/7eb254633b127aecb444ada902036ad25f8abd93",
-"files": ["pandas/tests/extension/base/methods.py", "pandas/tests/extension/json/test_json.py", "pandas/tests/extension/test_arrow.py", "pandas/tests/extension/test_period.py", "pandas/tests/extension/test_sparse.py", "pandas/tests/extension/test_string.py", ]
-"type": "assert"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/extension/base/methods.py", "pandas/tests/extension/json/test_json.py", "pandas/tests/extension/test_arrow.py", "pandas/tests/extension/test_period.py", "pandas/tests/extension/test_sparse.py", "pandas/tests/extension/test_string.py"],
+"type": ["assert"],
 "numberOfMigration": ""

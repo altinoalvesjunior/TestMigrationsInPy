@@ -1,5 +1,7 @@
 "commit_hash": "11ed16b6f061840738950d14a1f358e146533a4b",
 "commit_link": "https://github.com/ray-project/ray/commit/11ed16b6f061840738950d14a1f358e146533a4b",
-"files": ["rllib/algorithms/ppo/tests/test_ppo_rl_module.py", "rllib/algorithms/ppo/tf/__init__.py", "rllib/algorithms/ppo/tf/ppo_tf_rl_module.py", "rllib/algorithms/ppo/torch/ppo_torch_rl_module.py", "rllib/core/rl_module/encoder_tf.py", "rllib/models/tf/primitives.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["rllib/algorithms/ppo/tests/test_ppo_rl_module.py"],
+"type": ["assert"],
 "numberOfMigration": ""

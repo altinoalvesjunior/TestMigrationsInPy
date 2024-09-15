@@ -1,5 +1,7 @@
 "commit_hash": "c0cb3275d7e2b25e4965763f7f83e7a89ef7c0e4",
 "commit_link": "https://github.com/allenai/allennlp/commit/c0cb3275d7e2b25e4965763f7f83e7a89ef7c0e4",
-"files": ["allennlp/common/util.py", "allennlp/data/iterators/adaptive_iterator.py", "allennlp/data/iterators/basic_iterator.py", "allennlp/data/iterators/bucket_iterator.py", "allennlp/data/iterators/lazy_basic_iterator.py", "doc/api/allennlp.data.iterators.rst", "tests/commands/train_test.py", "tests/common/test_util.py", "tests/data/iterators/basic_iterator_test.py", "tests/data/iterators/bucket_iterator_test.py", "tests/data/iterators/lazy_basic_iterator_test.py", ]
-"type": "assert"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/commands/train_test.py", "tests/common/test_util.py", "tests/data/iterators/basic_iterator_test.py", "tests/data/iterators/bucket_iterator_test.py", "tests/data/iterators/lazy_basic_iterator_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

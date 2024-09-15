@@ -1,5 +1,7 @@
 "commit_hash": "69a9b05b23819dc5b6ccc79a41be80e4697b6eea",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/69a9b05b23819dc5b6ccc79a41be80e4697b6eea",
-"files": ["pandas/tests/indexes/datetimes/test_construction.py", "pandas/tests/indexes/datetimes/test_date_range.py", "pandas/tests/indexes/datetimes/test_datetime.py", "pandas/tests/indexes/datetimes/test_misc.py", "pandas/tests/indexes/test_timedelta.py", "pandas/tests/scalar/test_timestamp.py", "pandas/tests/series/test_missing.py", "pandas/tests/series/test_timeseries.py", "pandas/tseries/tests/test_timeseries.py", "pandas/tseries/tests/test_tslib.py", ]
-"type": "assert"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/indexes/datetimes/test_construction.py", "pandas/tests/indexes/datetimes/test_date_range.py", "pandas/tests/indexes/datetimes/test_datetime.py", "pandas/tests/indexes/datetimes/test_misc.py", "pandas/tests/indexes/test_timedelta.py", "pandas/tests/scalar/test_timestamp.py", "pandas/tests/series/test_missing.py", "pandas/tests/series/test_timeseries.py", "pandas/tseries/tests/test_timeseries.py", "pandas/tseries/tests/test_tslib.py"],
+"type": ["assert"],
 "numberOfMigration": ""

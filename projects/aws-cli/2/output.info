@@ -1,5 +1,7 @@
 "commit_hash": "0d5e0c1d7b959c5b1de299e9a6be7648d2a80051",
 "commit_link": "https://github.com/aws/aws-cli/commit/0d5e0c1d7b959c5b1de299e9a6be7648d2a80051",
-"files": [".changes/next-release/enhancement-ssmSessionManager-47156.json", "awscli/customizations/sessionmanager.py", "tests/functional/ssm/test_start_session.py", "tests/unit/customizations/test_sessionmanager.py", ]
-"type": "assert, add Param"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/functional/ssm/test_start_session.py", "tests/unit/customizations/test_sessionmanager.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "6aaf1ebf791706578fa26d2a4175e9bf34f2864b",
 "commit_link": "https://github.com/getsentry/sentry/commit/6aaf1ebf791706578fa26d2a4175e9bf34f2864b",
-"files": ["src/sentry/auth/helper.py", "src/sentry/services/hybrid_cloud/audit/__init__.py", "src/sentry/services/hybrid_cloud/audit/impl.py", "src/sentry/services/hybrid_cloud/log/__init__.py", "src/sentry/services/hybrid_cloud/organization/__init__.py", "src/sentry/testutils/outbox.py", "tests/sentry/middleware/test_auth.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["src/sentry/testutils/outbox.py", "tests/sentry/middleware/test_auth.py"],
+"type": ["assert"],
 "numberOfMigration": ""

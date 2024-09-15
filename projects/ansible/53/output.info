@@ -1,5 +1,7 @@
 "commit_hash": "82b5544b09057ca751f7a0991b7be3469f55ccd1",
 "commit_link": "https://github.com/ansible/ansible/commit/82b5544b09057ca751f7a0991b7be3469f55ccd1",
-"files": ["test/units/module_utils/common/parameters/test_list_deprecations.py", "test/units/module_utils/common/test_collections.py", "test/units/module_utils/common/text/converters/test_json_encode_fallback.py", "test/units/module_utils/common/validation/test_check_missing_parameters.py", "test/units/modules/conftest.py", "test/units/modules/test_apt.py", "test/units/modules/test_hostname.py", "test/units/modules/test_unarchive.py", "test/units/modules/utils.py", "test/units/parsing/test_ajson.py", "test/units/parsing/test_dataloader.py", "test/units/parsing/vault/test_vault.py", "test/units/parsing/vault/test_vault_editor.py", "test/units/parsing/yaml/test_dumper.py", "test/units/parsing/yaml/test_objects.py", ]
-"type": "assert"
+"testFilesChanged": 15,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/units/module_utils/common/parameters/test_list_deprecations.py", "test/units/module_utils/common/test_collections.py", "test/units/module_utils/common/text/converters/test_json_encode_fallback.py", "test/units/module_utils/common/validation/test_check_missing_parameters.py", "test/units/modules/conftest.py", "test/units/modules/test_apt.py", "test/units/modules/test_hostname.py", "test/units/modules/test_unarchive.py", "test/units/modules/utils.py", "test/units/parsing/test_ajson.py", "test/units/parsing/test_dataloader.py", "test/units/parsing/vault/test_vault.py", "test/units/parsing/vault/test_vault_editor.py", "test/units/parsing/yaml/test_dumper.py", "test/units/parsing/yaml/test_objects.py"],
+"type": ["assert"],
 "numberOfMigration": ""

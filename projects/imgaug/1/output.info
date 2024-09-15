@@ -1,5 +1,7 @@
 "commit_hash": "3a7cb068e0b17d20747e0d84b1dedd535898255d",
 "commit_link": "https://github.com/aleju/imgaug/commit/3a7cb068e0b17d20747e0d84b1dedd535898255d",
-"files": ["imgaug/augmentables/__init__.py", "imgaug/augmentables/polys.py", "imgaug/augmenters/geometric.py", "imgaug/imgaug.py", "test/augmentables/test_polys.py", "test/test_imgaug.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/augmentables/test_polys.py", "test/test_imgaug.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

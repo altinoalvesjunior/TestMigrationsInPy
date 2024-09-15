@@ -1,5 +1,7 @@
 "commit_hash": "e968b52cb7de4e6c2fcc6e7d5ccb98d984745715",
 "commit_link": "https://github.com/ray-project/ray/commit/e968b52cb7de4e6c2fcc6e7d5ccb98d984745715",
-"files": ["rllib/BUILD", "rllib/agents/callbacks.py", "rllib/agents/ppo/ppo_torch_policy.py", "rllib/agents/trainer.py", "rllib/env/policy_client.py", "rllib/evaluation/multi_agent_sample_collector.py", "rllib/evaluation/per_policy_sample_collector.py", "rllib/evaluation/rollout_worker.py", "rllib/evaluation/sampler.py", "rllib/evaluation/tests/test_trajectory_view_api.py", "rllib/examples/env/debug_counter_env.py", "rllib/examples/policy/episode_env_aware_policy.py", "rllib/models/catalog.py", "rllib/models/modelv2.py", "rllib/models/tf/recurrent_net.py", "rllib/models/torch/recurrent_net.py", "rllib/policy/policy.py", "rllib/policy/rnn_sequencing.py", "rllib/policy/sample_batch.py", "rllib/policy/tests/test_trajectory_view_api.py", "rllib/policy/torch_policy.py", "rllib/policy/torch_policy_template.py", "rllib/policy/view_requirement.py", "rllib/utils/sgd.py", "rllib/utils/typing.py", ]
-"type": "import, testcase"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["rllib/evaluation/tests/test_trajectory_view_api.py", "rllib/policy/tests/test_trajectory_view_api.py"],
+"type": ["import", "testcase"],
 "numberOfMigration": ""

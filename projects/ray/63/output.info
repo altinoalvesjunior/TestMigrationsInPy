@@ -1,5 +1,7 @@
 "commit_hash": "99c81c6795ddd5c97958b2f8e1343f81960477d4",
 "commit_link": "https://github.com/ray-project/ray/commit/99c81c6795ddd5c97958b2f8e1343f81960477d4",
-"files": ["rllib/agents/ppo/appo_tf_policy.py", "rllib/agents/ppo/ppo.py", "rllib/agents/ppo/ppo_tf_policy.py", "rllib/agents/ppo/ppo_torch_policy.py", "rllib/agents/qmix/model.py", "rllib/agents/qmix/qmix_policy.py", "rllib/contrib/maddpg/maddpg_policy.py", "rllib/evaluation/collectors/sample_collector.py", "rllib/evaluation/collectors/simple_list_collector.py", "rllib/evaluation/rollout_worker.py", "rllib/evaluation/sampler.py", "rllib/evaluation/tests/test_trajectory_view_api.py", "rllib/evaluation/worker_set.py", "rllib/examples/policy/episode_env_aware_policy.py", "rllib/examples/policy/rock_paper_scissors_dummies.py", "rllib/examples/two_trainer_workflow.py", "rllib/models/modelv2.py", "rllib/models/tf/recurrent_net.py", "rllib/models/torch/recurrent_net.py", "rllib/policy/dynamic_tf_policy.py", "rllib/policy/eager_tf_policy.py", "rllib/policy/policy.py", "rllib/policy/sample_batch.py", "rllib/policy/tests/test_compute_log_likelihoods.py", "rllib/policy/tf_policy.py", "rllib/policy/tf_policy_template.py", "rllib/policy/torch_policy_template.py", "rllib/policy/view_requirement.py", "rllib/tests/test_execution.py", "rllib/tests/test_multi_agent_env.py", "rllib/utils/exploration/tests/test_parameter_noise.py", "rllib/utils/typing.py", ]
-"type": "assert"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["rllib/evaluation/tests/test_trajectory_view_api.py", "rllib/policy/tests/test_compute_log_likelihoods.py", "rllib/tests/test_execution.py", "rllib/tests/test_multi_agent_env.py", "rllib/utils/exploration/tests/test_parameter_noise.py"],
+"type": ["assert"],
 "numberOfMigration": ""

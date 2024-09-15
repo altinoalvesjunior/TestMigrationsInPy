@@ -1,5 +1,7 @@
 "commit_hash": "6ba47ba19d874fe14d927e5c7a02a7c18da95785",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/6ba47ba19d874fe14d927e5c7a02a7c18da95785",
-"files": ["asv_bench/benchmarks/sparse.py", "doc/source/whatsnew/v1.4.0.rst", "pandas/core/arrays/sparse/array.py", "pandas/core/arrays/sparse/dtype.py", "pandas/tests/arrays/sparse/test_array.py", "pandas/tests/extension/test_sparse.py", ]
-"type": "assert, add Param"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/arrays/sparse/test_array.py", "pandas/tests/extension/test_sparse.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

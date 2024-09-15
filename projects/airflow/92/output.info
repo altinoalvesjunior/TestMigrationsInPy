@@ -1,5 +1,7 @@
 "commit_hash": "a2fd67dc5e52b54def97ea9bb61c8ba3557179c6",
 "commit_link": "https://github.com/apache/airflow/commit/a2fd67dc5e52b54def97ea9bb61c8ba3557179c6",
-"files": ["airflow/cli/commands/celery_command.py", "setup.py", "tests/cli/commands/test_celery_command.py", "tests/executors/test_celery_executor.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/cli/commands/test_celery_command.py", "tests/executors/test_celery_executor.py"],
+"type": ["assert"],
 "numberOfMigration": ""

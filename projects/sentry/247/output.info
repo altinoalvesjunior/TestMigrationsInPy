@@ -1,5 +1,7 @@
 "commit_hash": "2fbf550ec05c8501cbc9eca62e73526e717dcbdf",
 "commit_link": "https://github.com/getsentry/sentry/commit/2fbf550ec05c8501cbc9eca62e73526e717dcbdf",
-"files": ["src/sentry/integrations/jira/__init__.py", "src/sentry/integrations/jira/client.py", "src/sentry/integrations/jira/integration.py", "src/sentry/integrations/jira/utils/api.py", "src/sentry/integrations/jira/utils/choice.py", "src/sentry/integrations/jira_server/client.py", "src/sentry/integrations/jira_server/integration.py", "src/sentry/integrations/jira_server/search.py", "src/sentry/integrations/jira_server/utils/__init__.py", "src/sentry/integrations/jira_server/utils/api.py", "src/sentry/integrations/jira_server/utils/choice.py", "src/sentry/integrations/jira_server/webhooks.py", "tests/sentry/integrations/jira/test_client.py", "tests/sentry/integrations/jira/test_utils.py", "tests/sentry/integrations/jira_server/test_installation.py", "tests/sentry/integrations/jira_server/test_integration.py", "tests/sentry/integrations/jira_server/test_search.py", "tests/sentry/integrations/jira_server/test_utils.py", "tests/sentry/integrations/jira_server/test_webhooks.py", ]
-"type": "assert"
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/integrations/jira/test_client.py", "tests/sentry/integrations/jira/test_utils.py", "tests/sentry/integrations/jira_server/test_installation.py", "tests/sentry/integrations/jira_server/test_integration.py", "tests/sentry/integrations/jira_server/test_search.py", "tests/sentry/integrations/jira_server/test_utils.py", "tests/sentry/integrations/jira_server/test_webhooks.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "e0c329199e6f64d2461acd2b89dc398dc4df6057",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/e0c329199e6f64d2461acd2b89dc398dc4df6057",
-"files": ["pandas/tests/indexing/test_indexing.py", "pandas/tests/indexing/test_indexing_slow.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/indexing/test_indexing.py", "pandas/tests/indexing/test_indexing_slow.py"],
+"type": ["assert"],
 "numberOfMigration": ""

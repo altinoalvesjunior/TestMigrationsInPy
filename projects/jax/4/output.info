@@ -1,5 +1,7 @@
 "commit_hash": "bbf8129aa6edfd2c610d06459c41356ecd7b2ed7",
 "commit_link": "https://github.com/google/jax/commit/bbf8129aa6edfd2c610d06459c41356ecd7b2ed7",
-"files": ["jax/lax/lax_fft.py", "jax/test_util.py", "tests/api_test.py", "tests/batching_test.py", "tests/core_test.py", "tests/fft_test.py", "tests/lax_control_flow_test.py", "tests/lax_numpy_einsum_test.py", "tests/lax_numpy_test.py", "tests/lax_scipy_test.py", "tests/lax_test.py", "tests/linalg_test.py", "tests/masking_test.py", "tests/multibackend_test.py", "tests/nn_test.py", "tests/optimizers_test.py", "tests/random_test.py", "tests/scipy_stats_test.py", ]
-"type": "assert"
+"testFilesChanged": 17,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["jax/test_util.py", "tests/api_test.py", "tests/batching_test.py", "tests/core_test.py", "tests/fft_test.py", "tests/lax_control_flow_test.py", "tests/lax_numpy_einsum_test.py", "tests/lax_numpy_test.py", "tests/lax_scipy_test.py", "tests/lax_test.py", "tests/linalg_test.py", "tests/masking_test.py", "tests/multibackend_test.py", "tests/nn_test.py", "tests/optimizers_test.py", "tests/random_test.py", "tests/scipy_stats_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

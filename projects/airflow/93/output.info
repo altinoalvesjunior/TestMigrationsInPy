@@ -1,5 +1,7 @@
 "commit_hash": "9c19f0db7dd39103ac9bc884995d286ba8530c10",
 "commit_link": "https://github.com/apache/airflow/commit/9c19f0db7dd39103ac9bc884995d286ba8530c10",
-"files": ["tests/providers/apache/hive/transfers/test_mysql_to_hive.py", ]
-"type": "fixture, testcase, add Param"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/apache/hive/transfers/test_mysql_to_hive.py"],
+"type": ["fixture", "testcase", "add Param"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "8c290e6a1e50c6a65fbdba787eccb5575bb4ff37",
 "commit_link": "https://github.com/getsentry/sentry/commit/8c290e6a1e50c6a65fbdba787eccb5575bb4ff37",
-"files": ["src/sentry/api/bases/organization.py", "src/sentry/api/endpoints/auth_index.py", "src/sentry/api/endpoints/organization_details.py", "src/sentry/api/invite_helper.py", "src/sentry/models/authenticator.py", "src/sentry/models/user.py", "src/sentry/services/hybrid_cloud/user/__init__.py", "src/sentry/services/hybrid_cloud/user/impl.py", "src/sentry/tasks/auth.py", "src/sentry/utils/auth.py", "src/sentry/web/frontend/accounts.py", "src/sentry/web/frontend/base.py", "tests/sentry/api/bases/test_organization.py", "tests/sentry/api/bases/test_project.py", "tests/sentry/api/endpoints/test_accept_organization_invite.py", "tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/api/endpoints/test_user_authenticator_enroll.py", "tests/sentry/models/test_authenticator.py", ]
-"type": "assert"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/api/bases/test_organization.py", "tests/sentry/api/bases/test_project.py", "tests/sentry/api/endpoints/test_accept_organization_invite.py", "tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/api/endpoints/test_user_authenticator_enroll.py", "tests/sentry/models/test_authenticator.py"],
+"type": ["assert"],
 "numberOfMigration": ""

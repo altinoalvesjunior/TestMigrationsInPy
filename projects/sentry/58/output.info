@@ -1,5 +1,7 @@
 "commit_hash": "fc5cd491eef71a4127bf615b4fd311cff45c769b",
 "commit_link": "https://github.com/getsentry/sentry/commit/fc5cd491eef71a4127bf615b4fd311cff45c769b",
-"files": ["src/sentry/web/frontend/organization_member_settings.py", "tests/sentry/web/frontend/test_organization_member_settings.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/web/frontend/test_organization_member_settings.py"],
+"type": ["assert"],
 "numberOfMigration": ""

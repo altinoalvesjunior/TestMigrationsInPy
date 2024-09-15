@@ -1,5 +1,7 @@
 "commit_hash": "d505baa4c6ca08fe3c16708f36e6dc7be4beca5b",
 "commit_link": "https://github.com/getsentry/sentry/commit/d505baa4c6ca08fe3c16708f36e6dc7be4beca5b",
-"files": ["src/sentry/api/bases/avatar.py", "src/sentry/api/endpoints/doc_integration_avatar.py", "src/sentry/api/endpoints/sentry_app_avatar.py", "src/sentry/api/serializers/models/doc_integration.py", "src/sentry/api/serializers/models/doc_integration_avatar.py", "src/sentry/api/serializers/models/sentry_app.py", "src/sentry/api/serializers/rest_framework/doc_integration.py", "src/sentry/api/serializers/rest_framework/sentry_app.py", "src/sentry/api/urls.py", "src/sentry/models/docintegrationavatar.py", "src/sentry/models/integrationfeature.py", "src/sentry/testutils/factories.py", "src/sentry/web/frontend/doc_integration_avatar.py", "src/sentry/web/urls.py", "tests/sentry/api/endpoints/test_doc_integration_avatar.py", "tests/sentry/api/endpoints/test_doc_integration_details.py", "tests/sentry/api/endpoints/test_doc_integrations.py", "tests/sentry/web/frontend/test_doc_integration_avatar.py", ]
-"type": "assert"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["src/sentry/testutils/factories.py", "tests/sentry/api/endpoints/test_doc_integration_avatar.py", "tests/sentry/api/endpoints/test_doc_integration_details.py", "tests/sentry/api/endpoints/test_doc_integrations.py", "tests/sentry/web/frontend/test_doc_integration_avatar.py"],
+"type": ["assert"],
 "numberOfMigration": ""

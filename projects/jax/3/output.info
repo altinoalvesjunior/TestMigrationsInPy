@@ -1,5 +1,7 @@
 "commit_hash": "b702f8de3efdae390f082ffae1cb6574c7d06af1",
 "commit_link": "https://github.com/google/jax/commit/b702f8de3efdae390f082ffae1cb6574c7d06af1",
-"files": ["jax/abstract_arrays.py", "jax/ad_util.py", "jax/api.py", "jax/api_util.py", "jax/core.py", "jax/interpreters/ad.py", "jax/interpreters/batching.py", "jax/interpreters/parallel.py", "jax/interpreters/partial_eval.py", "jax/interpreters/pxla.py", "jax/interpreters/xla.py", "jax/lax/__init__.py", "jax/lax/lax.py", "jax/lax/lax_control_flow.py", "jax/lax/lax_fft.py", "jax/lax_linalg.py", "jax/numpy/lax_numpy.py", "jax/tree_util.py", "jax/util.py", "jaxlib/pytree.cc", "jaxlib/version.py", "tests/api_test.py", "tests/batching_test.py", "tests/core_test.py", "tests/lax_control_flow_test.py", "tests/lax_numpy_test.py", "tests/parallel_test.py", "tests/pmap_test.py", ]
-"type": "assert"
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/api_test.py", "tests/batching_test.py", "tests/core_test.py", "tests/lax_control_flow_test.py", "tests/lax_numpy_test.py", "tests/parallel_test.py", "tests/pmap_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

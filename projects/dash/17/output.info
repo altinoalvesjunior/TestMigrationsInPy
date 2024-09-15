@@ -1,5 +1,7 @@
 "commit_hash": "bfe4e9f6f16da07990fe31a6be5956162b3b0fae",
 "commit_link": "https://github.com/plotly/dash/commit/bfe4e9f6f16da07990fe31a6be5956162b3b0fae",
-"files": ["tests/unit/test_configs.py", ]
-"type": "assert, fixture, testcase, add Param"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/unit/test_configs.py"],
+"type": ["assert", "fixture", "testcase", "add Param"],
 "numberOfMigration": ""

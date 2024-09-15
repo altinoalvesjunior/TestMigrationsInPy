@@ -1,5 +1,7 @@
 "commit_hash": "04a857d1d817dd497b56c6792aed7725cf553090",
 "commit_link": "https://github.com/apache/airflow/commit/04a857d1d817dd497b56c6792aed7725cf553090",
-"files": ["airflow/api_connexion/endpoints/connection_endpoint.py", "airflow/api_connexion/openapi/v1.yaml", "airflow/api_connexion/schemas/connection_schema.py", "tests/api_connexion/endpoints/test_connection_endpoint.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/api_connexion/endpoints/test_connection_endpoint.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "ee4f39c67e3393c863c814b7e1ca3b1dc40625f0",
 "commit_link": "https://github.com/apache/airflow/commit/ee4f39c67e3393c863c814b7e1ca3b1dc40625f0",
-"files": ["tests/providers/google/cloud/utils/test_credentials_provider.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/google/cloud/utils/test_credentials_provider.py"],
+"type": ["assert"],
 "numberOfMigration": ""

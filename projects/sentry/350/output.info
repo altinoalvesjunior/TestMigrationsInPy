@@ -1,5 +1,7 @@
 "commit_hash": "48d9c5c4580f9e6d4a45a804083d3fe44c652827",
 "commit_link": "https://github.com/getsentry/sentry/commit/48d9c5c4580f9e6d4a45a804083d3fe44c652827",
-"files": ["src/sentry/monitors/consumers/monitor_consumer.py", "src/sentry/monitors/endpoints/organization_monitor_processing_errors_index.py", "src/sentry/monitors/endpoints/project_monitor_processing_errors_index.py", "src/sentry/monitors/endpoints/project_processing_errors_details.py", "src/sentry/monitors/processing_errors.py", "src/sentry/monitors/processing_errors/errors.py", "src/sentry/monitors/processing_errors/manager.py", "src/sentry/monitors/serializers.py", "src/sentry/monitors/testutils.py", "tests/sentry/monitors/consumers/test_monitor_consumer.py", "tests/sentry/monitors/endpoints/test_organization_monitor_processing_errors_index.py", "tests/sentry/monitors/endpoints/test_project_monitor_processing_errors_index.py", "tests/sentry/monitors/endpoints/test_project_processing_errors_details.py", "tests/sentry/monitors/processing_errors/__init__.py", "tests/sentry/monitors/processing_errors/test_errors.py", "tests/sentry/monitors/processing_errors/test_manager.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 8,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["src/sentry/monitors/testutils.py", "tests/sentry/monitors/consumers/test_monitor_consumer.py", "tests/sentry/monitors/endpoints/test_organization_monitor_processing_errors_index.py", "tests/sentry/monitors/endpoints/test_project_monitor_processing_errors_index.py", "tests/sentry/monitors/endpoints/test_project_processing_errors_details.py", "tests/sentry/monitors/processing_errors/__init__.py", "tests/sentry/monitors/processing_errors/test_errors.py", "tests/sentry/monitors/processing_errors/test_manager.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

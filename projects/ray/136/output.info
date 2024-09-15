@@ -1,5 +1,7 @@
 "commit_hash": "47f4da3bd0c4ebc4276e61023237b225642998be",
 "commit_link": "https://github.com/ray-project/ray/commit/47f4da3bd0c4ebc4276e61023237b225642998be",
-"files": ["python/ray/tune/analysis/experiment_analysis.py", "python/ray/tune/execution/trial_runner.py", "python/ray/tune/experiment/trial.py", "python/ray/tune/impl/tuner_internal.py", "python/ray/tune/tests/test_api.py", "python/ray/tune/tests/test_experiment_analysis.py", "python/ray/tune/tests/test_experiment_analysis_mem.py", "python/ray/tune/tests/test_trial_relative_logdir.py", "python/ray/tune/tests/test_trial_runner_3.py", "python/ray/tune/tests/test_trial_scheduler.py", "python/ray/tune/tests/test_tuner_restore.py", "python/ray/tune/tune.py", ]
-"type": "assert"
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/tune/tests/test_api.py", "python/ray/tune/tests/test_experiment_analysis.py", "python/ray/tune/tests/test_experiment_analysis_mem.py", "python/ray/tune/tests/test_trial_relative_logdir.py", "python/ray/tune/tests/test_trial_runner_3.py", "python/ray/tune/tests/test_trial_scheduler.py", "python/ray/tune/tests/test_tuner_restore.py"],
+"type": ["assert"],
 "numberOfMigration": ""

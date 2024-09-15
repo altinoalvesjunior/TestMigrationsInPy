@@ -1,5 +1,7 @@
 "commit_hash": "eec7e069bacb31014c246e9514bbecf2bb5ab4be",
 "commit_link": "https://github.com/ray-project/ray/commit/eec7e069bacb31014c246e9514bbecf2bb5ab4be",
-"files": ["python/ray/tune/execution/ray_trial_executor.py", "python/ray/tune/execution/trial_runner.py", "python/ray/tune/progress_reporter.py", "python/ray/tune/tests/test_cluster.py", "python/ray/tune/tests/test_trial_runner.py", "python/ray/tune/utils/resource_updater.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/tune/tests/test_cluster.py", "python/ray/tune/tests/test_trial_runner.py"],
+"type": ["assert"],
 "numberOfMigration": ""

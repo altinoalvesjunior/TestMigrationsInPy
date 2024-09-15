@@ -1,5 +1,7 @@
 "commit_hash": "557b0542412cbe66b3a49d7c32c68c4e40310b56",
 "commit_link": "https://github.com/aio-libs/aiohttp/commit/557b0542412cbe66b3a49d7c32c68c4e40310b56",
-"files": ["tests/conftest.py", "tests/test_client_functional2.py", "tests/test_client_functional_newstyle.py", ]
-"type": "assert, fixture, testcase, add Param"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/conftest.py", "tests/test_client_functional2.py", "tests/test_client_functional_newstyle.py"],
+"type": ["assert", "fixture", "testcase", "add Param"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "da41180dc07f36c5602172d5a9f462f81ecccb2f",
 "commit_link": "https://github.com/ray-project/ray/commit/da41180dc07f36c5602172d5a9f462f81ecccb2f",
-"files": ["python/ray/_raylet.pyx", "python/ray/includes/libcoreworker.pxd", "python/ray/remote_function.py", "python/ray/tests/BUILD", "python/ray/tests/test_failure.py", "python/ray/tests/test_multinode_failures.py", "python/ray/tests/test_multinode_failures_direct.py", "python/ray/worker.py", "rllib/tests/test_optimizers.py", "src/ray/core_worker/core_worker.cc", "src/ray/core_worker/core_worker.h", "src/ray/core_worker/task_manager.cc", "src/ray/core_worker/task_manager.h", "src/ray/core_worker/test/core_worker_test.cc", "src/ray/core_worker/test/direct_actor_transport_test.cc", "src/ray/core_worker/test/direct_task_transport_test.cc", "src/ray/core_worker/test/task_manager_test.cc", "src/ray/core_worker/transport/direct_actor_transport.cc", "src/ray/core_worker/transport/direct_task_transport.cc", "src/ray/core_worker/transport/direct_task_transport.h", "src/ray/protobuf/common.proto", ]
-"type": "assert, add Param"
+"testFilesChanged": 9,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/tests/BUILD", "python/ray/tests/test_failure.py", "python/ray/tests/test_multinode_failures.py", "python/ray/tests/test_multinode_failures_direct.py", "rllib/tests/test_optimizers.py", "src/ray/core_worker/test/core_worker_test.cc", "src/ray/core_worker/test/direct_actor_transport_test.cc", "src/ray/core_worker/test/direct_task_transport_test.cc", "src/ray/core_worker/test/task_manager_test.cc"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

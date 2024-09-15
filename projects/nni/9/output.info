@@ -1,5 +1,7 @@
 "commit_hash": "1e4f3f08d33542c55aa95fe29a736bf59c0dd850",
 "commit_link": "https://github.com/microsoft/nni/commit/1e4f3f08d33542c55aa95fe29a736bf59c0dd850",
-"files": ["nni/nas/execution/pytorch/graph.py", "nni/nas/execution/pytorch/simplified.py", "nni/nas/execution/sequential.py", "nni/nas/execution/tensorflow/__init__.py", "nni/nas/execution/tensorflow/op_def.py", "nni/nas/execution/training_service.py", "nni/nas/execution/trial_entry.py", "test/ut/nas/test_engine.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/ut/nas/test_engine.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""
