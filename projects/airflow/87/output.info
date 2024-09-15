@@ -1,7 +1,7 @@
-"commit_hash": "960da8a9074a4fb58881ea79f7dc9bc8fd58a5c4",
-"commit_link": "https://github.com/apache/airflow/commit/960da8a9074a4fb58881ea79f7dc9bc8fd58a5c4",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/jobs/test_backfill_job.py"],
-"type": ["fixture", "testcase", "add Param"],
-"numberOfMigration": ""
+"commit_hash": "527b948856584320f74d385f58477af79506834d",
+"commit_link": "https://github.com/apache/airflow/commit/527b948856584320f74d385f58477af79506834d",
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/providers/amazon/aws/operators/test_emr_add_steps.py", "tests/providers/amazon/aws/operators/test_s3_object.py", "tests/providers/google/cloud/operators/test_cloud_build.py"],
+"type": ["import", "testcase", "add Param"],
+"numberOfMigration": 

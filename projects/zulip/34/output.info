@@ -1,7 +1,0 @@
-"commit_hash": "69a7944c487c5dfbb3588ad9348f45c8edd3901e",
-"commit_link": "https://github.com/zulip/zulip/commit/69a7944c487c5dfbb3588ad9348f45c8edd3901e",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["zerver/tests/test_service_bot_system.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "e303e268770824f3259f456263aaa1b1783a7aab",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/e303e268770824f3259f456263aaa1b1783a7aab",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/tests/groupby/test_bin_groupby.py", "pandas/tests/indexes/datetimes/test_ops.py", "pandas/tests/tseries/test_frequencies.py"],
-"type": ["assert"],
-"numberOfMigration": ""

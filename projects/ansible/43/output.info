@@ -1,7 +1,7 @@
-"commit_hash": "4c5ce5a1a9e79a845aff4978cfeb72a0d4ecf7d6",
-"commit_link": "https://github.com/ansible/ansible/commit/4c5ce5a1a9e79a845aff4978cfeb72a0d4ecf7d6",
-"testFilesChanged": 20,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": [".azure-pipelines/templates/test.yml", "test/integration/targets/apt/tasks/apt.yml", "test/integration/targets/dnf/tasks/dnf.yml", "test/integration/targets/dnf/tasks/gpg.yml", "test/integration/targets/module_utils_respawn/aliases", "test/integration/targets/module_utils_respawn/library/respawnme.py", "test/integration/targets/module_utils_respawn/tasks/main.yml", "test/integration/targets/module_utils_selinux/aliases", "test/integration/targets/module_utils_selinux/tasks/main.yml", "test/integration/targets/module_utils_selinux/tasks/selinux.yml", "test/integration/targets/setup_rpm_repo/library/create_repo.py", "test/integration/targets/setup_rpm_repo/tasks/main.yml", "test/integration/targets/setup_rpm_repo/vars/RedHat-8.yml", "test/integration/targets/yum/tasks/yum.yml", "test/support/integration/plugins/modules/sefcontext.py", "test/units/executor/module_common/test_recursive_finder.py", "test/units/module_utils/basic/test_imports.py", "test/units/module_utils/basic/test_selinux.py", "test/utils/shippable/incidental/remote.sh", "test/utils/shippable/remote.sh"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "e7a3715a90e843416f43d2250cb9292737021830",
+"commit_link": "https://github.com/ansible/ansible/commit/e7a3715a90e843416f43d2250cb9292737021830",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["test/units/module_utils/common/test_dict_transformations.py"],
+"type": ["assert", "import", "testcase", "add Param"],
+"numberOfMigration": 

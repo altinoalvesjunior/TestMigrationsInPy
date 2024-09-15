@@ -1,7 +1,7 @@
-"commit_hash": "3d38ea2ecf155f4833efb56a4dd04b27e96bba2d",
-"commit_link": "https://github.com/getsentry/sentry/commit/3d38ea2ecf155f4833efb56a4dd04b27e96bba2d",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/testutils.py", "tests/sentry/web/frontend/generic/__init__.py", "tests/sentry/web/frontend/generic/tests.py", "tests/sentry/web/frontend/tests.py"],
+"commit_hash": "4b6658430e1c21d9ba5687c82f40aaba6c9bcbf3",
+"commit_link": "https://github.com/getsentry/sentry/commit/4b6658430e1c21d9ba5687c82f40aaba6c9bcbf3",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/sentry/models/test_groupassignee.py", "tests/sentry/receivers/test_releases.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

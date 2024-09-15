@@ -1,7 +1,0 @@
-"commit_hash": "363eea9f2d735d3afe7e36e7926471ce5aa1c010",
-"commit_link": "https://github.com/streamlit/streamlit/commit/363eea9f2d735d3afe7e36e7926471ce5aa1c010",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["lib/tests/streamlit/delta_generator_singletons_test.py", "lib/tests/streamlit/delta_generator_test.py", "lib/tests/streamlit/form_utils_test.py", "lib/tests/streamlit/runtime/fragment_test.py", "lib/tests/streamlit/runtime/scriptrunner/script_runner_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

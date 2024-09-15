@@ -1,7 +1,0 @@
-"commit_hash": "42950d0c26f00c8b65aea4c3345979eb3a247010",
-"commit_link": "https://github.com/ray-project/ray/commit/42950d0c26f00c8b65aea4c3345979eb3a247010",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["ci/pipeline/determine_tests_to_run.py", "python/ray/train/tests/test_torch_trainer.py", "python/ray/tune/tests/test_tuner.py", "python/ray/tune/tests/test_tuner_restore.py"],
-"type": ["assert"],
-"numberOfMigration": ""

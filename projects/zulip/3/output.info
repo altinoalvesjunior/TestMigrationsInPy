@@ -1,7 +1,0 @@
-"commit_hash": "9e3e2c56ceb517fc7020449d2cb1be0afc73f02d",
-"commit_link": "https://github.com/zulip/zulip/commit/9e3e2c56ceb517fc7020449d2cb1be0afc73f02d",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["api/bots/giphy/test_giphy.py", "api/bots_api/bots_test_lib.py"],
-"type": ["assert"],
-"numberOfMigration": ""

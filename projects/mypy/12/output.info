@@ -1,7 +1,0 @@
-"commit_hash": "5db3e1a024a98af4184d6864c71d6abbf00dc3b3",
-"commit_link": "https://github.com/python/mypy/commit/5db3e1a024a98af4184d6864c71d6abbf00dc3b3",
-"testFilesChanged": 18,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["mypyc/test-data/analysis.test", "mypyc/test-data/exceptions.test", "mypyc/test-data/irbuild-any.test", "mypyc/test-data/irbuild-basic.test", "mypyc/test-data/irbuild-classes.test", "mypyc/test-data/irbuild-dict.test", "mypyc/test-data/irbuild-int.test", "mypyc/test-data/irbuild-lists.test", "mypyc/test-data/irbuild-nested.test", "mypyc/test-data/irbuild-optional.test", "mypyc/test-data/irbuild-set.test", "mypyc/test-data/irbuild-statements.test", "mypyc/test-data/irbuild-str.test", "mypyc/test-data/irbuild-try.test", "mypyc/test-data/irbuild-tuple.test", "mypyc/test-data/refcount.test", "mypyc/test/test_emitfunc.py", "mypyc/test/test_subtype.py"],
-"type": ["assert"],
-"numberOfMigration": ""

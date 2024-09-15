@@ -1,7 +1,0 @@
-"commit_hash": "d026632894fe1930aee603e316f8effc05037943",
-"commit_link": "https://github.com/wagtail/wagtail/commit/d026632894fe1930aee603e316f8effc05037943",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["wagtail/contrib/simple_translation/tests/test_views.py"],
-"type": ["assert"],
-"numberOfMigration": ""

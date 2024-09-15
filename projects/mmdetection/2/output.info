@@ -1,7 +1,7 @@
-"commit_hash": "583a2b313fd8bf72808507e91d4ee5dd5319ae5b",
-"commit_link": "https://github.com/open-mmlab/mmdetection/commit/583a2b313fd8bf72808507e91d4ee5dd5319ae5b",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_core/test_bbox/test_assigners/test_simota_assigner.py", "tests/test_datasets/test_pipelines/test_transforms.py", "tests/test_models/test_dense_heads/test_yolox_head.py", "tests/test_models/test_detectors/test_single_stage.py", "tests/test_models/test_detectors/test_yolox.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "687cd7826523e933c96de46d60dfc8a1b5af5a39",
+"commit_link": "https://github.com/open-mmlab/mmdetection/commit/687cd7826523e933c96de46d60dfc8a1b5af5a39",
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/test_models/test_detectors/test_two_stage.py", "tests/test_models/test_roi_heads/test_bbox_heads/test_bbox_head.py", "tests/test_models/test_roi_heads/test_cascade_roi_head.py", "tests/test_models/test_utils/test_misc.py"],
+"type": ["assert", "testcase"],
+"numberOfMigration": 

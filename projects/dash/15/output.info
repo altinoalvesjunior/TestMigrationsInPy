@@ -1,7 +1,7 @@
-"commit_hash": "c0c581b57081fc238f5cd7e465e94c08031199f6",
-"commit_link": "https://github.com/plotly/dash/commit/c0c581b57081fc238f5cd7e465e94c08031199f6",
+"commit_hash": "399373a4dfeb1908a5e744ddd28a803d7f0f26b0",
+"commit_link": "https://github.com/plotly/dash/commit/399373a4dfeb1908a5e744ddd28a803d7f0f26b0",
 "testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/unit/dash/development/metadata_test.py", "tests/unit/dash/development/test_base_component.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/integration/renderer/test_race_conditions.py", "tests/integration/test_race_conditions.py"],
+"type": ["assert", "add Param"],
+"numberOfMigration": 

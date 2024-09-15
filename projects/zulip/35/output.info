@@ -1,7 +1,0 @@
-"commit_hash": "f91d2874471c8760bdacb4cd049b80084f6d74ec",
-"commit_link": "https://github.com/zulip/zulip/commit/f91d2874471c8760bdacb4cd049b80084f6d74ec",
-"testFilesChanged": 10,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tools/test-backend", "tools/tests/test_capitalization_checker.py", "zerver/lib/test_fixtures.py", "zerver/lib/test_runner.py", "zerver/tests/test_auth_backends.py", "zerver/tests/test_email_mirror.py", "zerver/tests/test_retention.py", "zerver/tests/test_slack_message_conversion.py", "zerver/tests/test_subs.py", "zerver/webhooks/gitlab/tests.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "ec1c4d07deca7b9b8a49504a28f0a00a0feb59ab",
-"commit_link": "https://github.com/getredash/redash/commit/ec1c4d07deca7b9b8a49504a28f0a00a0feb59ab",
-"testFilesChanged": 21,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/factories.py", "tests/handlers/test_dashboards.py", "tests/handlers/test_query_results.py", "tests/models/test_alerts.py", "tests/models/test_dashboards.py", "tests/models/test_queries.py", "tests/models/test_query_results.py", "tests/query_runner/test_clickhouse.py", "tests/query_runner/test_e6data.py", "tests/query_runner/test_influx_db.py", "tests/query_runner/test_influx_db_v2.py", "tests/query_runner/test_prometheus.py", "tests/query_runner/test_python.py", "tests/query_runner/test_query_results.py", "tests/query_runner/test_tinybird.py", "tests/query_runner/test_trino.py", "tests/query_runner/test_yandex_disk.py", "tests/query_runner/test_yandex_metrica.py", "tests/serializers/test_query_results.py", "tests/tasks/test_queries.py", "tests/test_models.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

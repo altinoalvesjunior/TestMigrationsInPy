@@ -1,7 +1,0 @@
-"commit_hash": "ee19a9c2749b167fa7cdc8ab9f59d91c8594fc05",
-"commit_link": "https://github.com/zulip/zulip/commit/ee19a9c2749b167fa7cdc8ab9f59d91c8594fc05",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["corporate/tests/test_stripe.py"],
-"type": ["assert"],
-"numberOfMigration": ""

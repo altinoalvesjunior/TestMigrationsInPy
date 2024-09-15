@@ -1,7 +1,0 @@
-"commit_hash": "a2feff2e54e9f432579a57c719fa065ec6b4839b",
-"commit_link": "https://github.com/google/jax/commit/a2feff2e54e9f432579a57c719fa065ec6b4839b",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/array_interoperability_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

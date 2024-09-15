@@ -1,7 +1,0 @@
-"commit_hash": "59b12592f478a82bfb0cbf6822263fce769dcbd0",
-"commit_link": "https://github.com/getsentry/sentry/commit/59b12592f478a82bfb0cbf6822263fce769dcbd0",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/incidents/test_subscription_processor.py", "tests/snuba/incidents/test_tasks.py"],
-"type": ["assert"],
-"numberOfMigration": ""

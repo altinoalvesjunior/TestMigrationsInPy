@@ -1,7 +1,0 @@
-"commit_hash": "61fca0d3ad66327e9ccc239a2e9ad61516846509",
-"commit_link": "https://github.com/google/jax/commit/61fca0d3ad66327e9ccc239a2e9ad61516846509",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/lax_numpy_indexing_test.py", "tests/lax_numpy_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,7 @@
-"commit_hash": "75bb54948449915dd5b66458755761f57975431b",
-"commit_link": "https://github.com/streamlit/streamlit/commit/75bb54948449915dd5b66458755761f57975431b",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["lib/tests/streamlit/map_test.py"],
+"commit_hash": "8a2f26f4376aaf9bccc84409811e9cda78c20181",
+"commit_link": "https://github.com/streamlit/streamlit/commit/8a2f26f4376aaf9bccc84409811e9cda78c20181",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["lib/tests/streamlit/caching_test.py", "lib/tests/streamlit/help_test.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

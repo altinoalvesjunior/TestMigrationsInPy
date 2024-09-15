@@ -1,7 +1,0 @@
-"commit_hash": "73c8e7df0be8b254e3727890b51ca0f76308e6b5",
-"commit_link": "https://github.com/apache/airflow/commit/73c8e7df0be8b254e3727890b51ca0f76308e6b5",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/operators/test_bash.py", "tests/operators/test_datetime.py", "tests/operators/test_email.py", "tests/operators/test_generic_transfer.py", "tests/operators/test_weekday.py"],
-"type": ["assert", "testcase", "add Param"],
-"numberOfMigration": ""

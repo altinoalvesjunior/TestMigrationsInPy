@@ -1,7 +1,7 @@
 "commit_hash": "97de031fb67d691b10a15b8c176823b01c1299fe",
 "commit_link": "https://github.com/andymccurdy/redis-py/commit/97de031fb67d691b10a15b8c176823b01c1299fe",
 "testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
+"testFilesChangedWithMigrations": ,
 "filesWithMigration": ["tests/pipeline.py", "tests/test_pipeline.py"],
 "type": ["assert", "import", "testcase"],
-"numberOfMigration": ""
+"numberOfMigration": 

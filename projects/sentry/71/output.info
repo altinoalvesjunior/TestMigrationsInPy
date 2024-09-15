@@ -1,7 +1,7 @@
-"commit_hash": "db1b2e568583f663c8fb39e0a1a4cea5bb4b5ee5",
-"commit_link": "https://github.com/getsentry/sentry/commit/db1b2e568583f663c8fb39e0a1a4cea5bb4b5ee5",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/plugins/mail/tests.py"],
+"commit_hash": "0df33b7a26d5248f449acbe9ba66ff4d8702abb3",
+"commit_link": "https://github.com/getsentry/sentry/commit/0df33b7a26d5248f449acbe9ba66ff4d8702abb3",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/sentry/search/events/builder/test_metrics.py", "tests/sentry/snuba/metrics/test_mqb_query_transformer.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

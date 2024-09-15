@@ -1,7 +1,7 @@
-"commit_hash": "fb1aed61435bbd04b26d12377fdfdc5b027b6e08",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/fb1aed61435bbd04b26d12377fdfdc5b027b6e08",
-"testFilesChanged": 8,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/computation/tests/test_eval.py", "pandas/io/tests/test_pickle.py", "pandas/io/tests/test_pytables.py", "pandas/sparse/tests/test_sparse.py", "pandas/tests/test_frame.py", "pandas/tests/test_internals.py", "pandas/tests/test_multilevel.py", "pandas/tools/tests/test_merge.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "6f789e15cdd91cc02af2005405026355e6fae69e",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/6f789e15cdd91cc02af2005405026355e6fae69e",
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["pandas/tests/frame/test_replace.py", "pandas/tests/series/test_replace.py", "pandas/tests/types/test_cast.py"],
+"type": ["assert", "add Param"],
+"numberOfMigration": 

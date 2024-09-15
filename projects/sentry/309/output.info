@@ -1,7 +1,0 @@
-"commit_hash": "46eb06ea385fcb0522f31ce50a70827674c50102",
-"commit_link": "https://github.com/getsentry/sentry/commit/46eb06ea385fcb0522f31ce50a70827674c50102",
-"testFilesChanged": 7,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/api/endpoints/test_project_rules.py", "tests/sentry/deletions/test_organization.py", "tests/sentry/event_manager/test_event_manager.py", "tests/sentry/integrations/test_issues.py", "tests/sentry/manager/test_organization_manager.py", "tests/sentry/manager/test_project_manager.py", "tests/sentry/models/test_user.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

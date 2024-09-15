@@ -1,7 +1,0 @@
-"commit_hash": "66d6ce6d9edad9ea0bc03b0c62d93fa50793b990",
-"commit_link": "https://github.com/ray-project/ray/commit/66d6ce6d9edad9ea0bc03b0c62d93fa50793b990",
-"testFilesChanged": 12,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["rllib/core/rl_trainer/tests/test_rl_trainer.py", "rllib/core/rl_trainer/tests/test_trainer_runner.py", "rllib/core/rl_trainer/tests/test_trainer_runner_config.py", "rllib/core/rl_trainer/tests/test_trainer_runner_local.py", "rllib/core/rl_trainer/torch/tests/__init__.py", "rllib/core/rl_trainer/torch/tests/test_torch_rl_trainer.py", "rllib/core/testing/__init__.py", "rllib/core/testing/testing_trainer.py", "rllib/core/testing/tf/bc_rl_trainer.py", "rllib/core/testing/torch/bc_module.py", "rllib/core/testing/torch/bc_rl_trainer.py", "rllib/core/testing/utils.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "fbdae968f131f218395bd6dede55985c3f726ce0",
-"commit_link": "https://github.com/open-mmlab/mmdetection/commit/fbdae968f131f218395bd6dede55985c3f726ce0",
-"testFilesChanged": 7,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["mmdet/testing/_utils.py", "tests/test_apis/test_inference.py", "tests/test_datasets/test_transforms/test_loading.py", "tests/test_datasets/test_transforms/test_transforms.py", "tests/test_models/test_detectors/test_glip.py", "tests/test_models/test_detectors/test_single_stage.py", "tests/test_models/test_detectors/test_single_stage_instance_seg.py"],
-"type": ["assert"],
-"numberOfMigration": ""

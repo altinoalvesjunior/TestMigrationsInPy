@@ -1,7 +1,0 @@
-"commit_hash": "3aad5e2a97998f56d4fd936f6d6269960426720d",
-"commit_link": "https://github.com/streamlit/streamlit/commit/3aad5e2a97998f56d4fd936f6d6269960426720d",
-"testFilesChanged": 15,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["lib/streamlit/testing/v1/element_tree.py", "lib/tests/streamlit/data_mocks.py", "lib/tests/streamlit/dataframe_coercion_test.py", "lib/tests/streamlit/dataframe_util_test.py", "lib/tests/streamlit/elements/arrow_add_rows_test.py", "lib/tests/streamlit/elements/arrow_dataframe_test.py", "lib/tests/streamlit/elements/arrow_table_test.py", "lib/tests/streamlit/elements/checkbox_test.py", "lib/tests/streamlit/elements/data_editor_test.py", "lib/tests/streamlit/elements/element_utils_test.py", "lib/tests/streamlit/elements/lib/column_config_utils_test.py", "lib/tests/streamlit/elements/map_test.py", "lib/tests/streamlit/elements/metric_test.py", "lib/tests/streamlit/elements/vega_charts_test.py", "lib/tests/streamlit/type_util_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

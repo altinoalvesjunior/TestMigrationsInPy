@@ -1,7 +1,0 @@
-"commit_hash": "b1f0652c47ddbe63148bae9fa7dd1b2eb278390f",
-"commit_link": "https://github.com/getsentry/sentry/commit/b1f0652c47ddbe63148bae9fa7dd1b2eb278390f",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/integrations/github/test_client.py", "tests/sentry/integrations/github/test_integration.py", "tests/sentry/integrations/github_enterprise/test_integration.py", "tests/sentry/integrations/gitlab/test_integration.py", "tests/sentry/tasks/test_commit_context.py", "tests/sentry/tasks/test_post_process.py"],
-"type": ["assert"],
-"numberOfMigration": ""

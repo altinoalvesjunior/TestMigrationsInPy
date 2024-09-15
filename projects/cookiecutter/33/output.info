@@ -1,7 +1,7 @@
-"commit_hash": "4d97beb05d169d33ddf364b0eae0dc56a8897e51",
-"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/4d97beb05d169d33ddf364b0eae0dc56a8897e51",
+"commit_hash": "eeca6778165d0b19291d75627d82fea5a4bab414",
+"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/eeca6778165d0b19291d75627d82fea5a4bab414",
 "testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_config.py", "tests/test_get_user_config.py"],
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/test_vcs.py", "tests/test_vcs_prompt.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

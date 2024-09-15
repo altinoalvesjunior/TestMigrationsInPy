@@ -1,7 +1,7 @@
-"commit_hash": "4e8f9cc8d02b29c325b8a5a76b4837671bdf5f68",
-"commit_link": "https://github.com/apache/airflow/commit/4e8f9cc8d02b29c325b8a5a76b4837671bdf5f68",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["airflow/example_dags/example_latest_only.py", "airflow/example_dags/example_latest_only_with_trigger.py", "airflow/example_dags/example_passing_params_via_test_command.py"],
-"type": ["assert", "skip", "add Param"],
-"numberOfMigration": ""
+"commit_hash": "66c342d033bd3cb959b4dc4e7e4b8aad597aab63",
+"commit_link": "https://github.com/apache/airflow/commit/66c342d033bd3cb959b4dc4e7e4b8aad597aab63",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/cli/commands/test_db_command.py", "tests/utils/test_db.py"],
+"type": ["import", "testcase", "add Param"],
+"numberOfMigration": 

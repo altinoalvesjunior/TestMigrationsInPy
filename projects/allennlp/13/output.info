@@ -1,7 +1,0 @@
-"commit_hash": "1691cb3a61740fbbc8305d52d4e830c79302a666",
-"commit_link": "https://github.com/allenai/allennlp/commit/1691cb3a61740fbbc8305d52d4e830c79302a666",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["allennlp/tests/data/dataset_readers/semantic_parsing/wikitables_test.py", "allennlp/tests/fixtures/data/corenlp_processed_tables/TEST-11.table", "allennlp/tests/semparse/action_space_walker_test.py", "allennlp/tests/semparse/contexts/table_question_context_test.py", "allennlp/tests/semparse/executors/wikitables_variable_free_executor_test.py", "allennlp/tests/semparse/worlds/wikitables_variable_free_world_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

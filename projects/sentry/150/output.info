@@ -1,7 +1,0 @@
-"commit_hash": "65b8c65d282b147aa77ff69b761411d75b0db58a",
-"commit_link": "https://github.com/getsentry/sentry/commit/65b8c65d282b147aa77ff69b761411d75b0db58a",
-"testFilesChanged": 21,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/api/endpoints/test_group_notes.py", "tests/sentry/api/endpoints/test_organization_dashboard_widget_details.py", "tests/sentry/api/endpoints/test_organization_dashboard_widgets.py", "tests/sentry/api/endpoints/test_organization_release_details.py", "tests/sentry/api/endpoints/test_organization_releases.py", "tests/sentry/api/endpoints/test_organization_repository_details.py", "tests/sentry/api/endpoints/test_organization_searches.py", "tests/sentry/api/endpoints/test_project_details.py", "tests/sentry/api/endpoints/test_project_key_details.py", "tests/sentry/api/endpoints/test_project_ownership.py", "tests/sentry/api/endpoints/test_project_release_details.py", "tests/sentry/api/endpoints/test_project_releases.py", "tests/sentry/api/serializers/rest_framework/test_json.py", "tests/sentry/api/serializers/rest_framework/test_list.py", "tests/sentry/api/serializers/test_fields.py", "tests/sentry/api/serializers/test_release.py", "tests/sentry/integrations/bitbucket/test_search.py", "tests/snuba/api/endpoints/test_group_events.py", "tests/snuba/api/endpoints/test_organization_events.py", "tests/snuba/api/endpoints/test_organization_group_index.py", "tests/snuba/api/endpoints/test_project_group_index.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

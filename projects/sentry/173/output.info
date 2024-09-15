@@ -1,7 +1,0 @@
-"commit_hash": "1ac39b738b11be0e5d068e99a06277215d166b5e",
-"commit_link": "https://github.com/getsentry/sentry/commit/1ac39b738b11be0e5d068e99a06277215d166b5e",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/event_manager/test_event_manager.py", "tests/sentry/quotas/redis/tests.py"],
-"type": ["assert"],
-"numberOfMigration": ""

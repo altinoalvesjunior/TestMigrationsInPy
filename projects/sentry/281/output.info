@@ -1,7 +1,0 @@
-"commit_hash": "abbb1026b1e98ae4d9ee5aed1d54f67b08c08611",
-"commit_link": "https://github.com/getsentry/sentry/commit/abbb1026b1e98ae4d9ee5aed1d54f67b08c08611",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/sentry_metrics/limiters/test_cardinality_limiter.py"],
-"type": ["assert"],
-"numberOfMigration": ""

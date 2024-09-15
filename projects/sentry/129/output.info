@@ -1,7 +1,0 @@
-"commit_hash": "cae03775ec725544e2f49989eda756591a3e3b14",
-"commit_link": "https://github.com/getsentry/sentry/commit/cae03775ec725544e2f49989eda756591a3e3b14",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/api/endpoints/test_organization_releases.py"],
-"type": ["assert"],
-"numberOfMigration": ""

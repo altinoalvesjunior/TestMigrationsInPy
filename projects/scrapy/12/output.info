@@ -1,7 +1,0 @@
-"commit_hash": "f2edbd05deda6d22649bdc753e9dd48995ee6aba",
-"commit_link": "https://github.com/scrapy/scrapy/commit/f2edbd05deda6d22649bdc753e9dd48995ee6aba",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/py3-ignores.txt", "tests/test_link.py", "tests/test_linkextractors.py", "tests/test_linkextractors_deprecated.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

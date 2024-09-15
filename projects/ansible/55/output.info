@@ -1,7 +1,0 @@
-"commit_hash": "9295bb5b5d12b7d1ac9f24c7adc1e96d5e5893b5",
-"commit_link": "https://github.com/ansible/ansible/commit/9295bb5b5d12b7d1ac9f24c7adc1e96d5e5893b5",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test/sanity/ignore.txt", "test/units/module_utils/basic/test_exit_json.py", "test/units/module_utils/basic/test_get_available_hash_algorithms.py", "test/units/module_utils/basic/test_imports.py", "test/units/utils/collection_loader/fixtures/collections/ansible_collections/testns/testcoll/plugins/module_utils/my_util.py", "test/units/utils/collection_loader/test_collection_loader.py"],
-"type": ["assert"],
-"numberOfMigration": ""

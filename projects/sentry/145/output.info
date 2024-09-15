@@ -1,7 +1,0 @@
-"commit_hash": "a866b0c867effbf931d2a1d8b745f3d6292c6caf",
-"commit_link": "https://github.com/getsentry/sentry/commit/a866b0c867effbf931d2a1d8b745f3d6292c6caf",
-"testFilesChanged": 25,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/testutils/asserts.py", "src/sentry/testutils/cases.py", "src/sentry/testutils/factories.py", "src/sentry/testutils/helpers/query.py", "src/sentry/utils/pytest/sentry.py", "tests/integration/tests.py", "tests/sentry/api/endpoints/test_organization_recent_searches.py", "tests/sentry/api/endpoints/test_organization_searches.py", "tests/sentry/api/endpoints/test_project_group_index.py", "tests/sentry/api/endpoints/test_sentry_app_authorizations.py", "tests/sentry/api/serializers/test_group.py", "tests/sentry/api/serializers/test_team.py", "tests/sentry/api/test_paginator.py", "tests/sentry/buffer/base/tests.py", "tests/sentry/db/test_parse_query.py", "tests/sentry/event_manager/test_event_manager.py", "tests/sentry/receivers/test_featureadoption.py", "tests/sentry/receivers/test_onboarding.py", "tests/sentry/tagstore/v2/test_backend.py", "tests/sentry/tasks/test_check_auth.py", "tests/sentry/tasks/test_unmerge.py", "tests/sentry/utils/db/tests.py", "tests/sentry/web/frontend/test_group_tag_export.py", "tests/snuba/api/endpoints/test_organization_group_index.py", "tests/snuba/api/serializers/test_group.py"],
-"type": ["assert"],
-"numberOfMigration": ""

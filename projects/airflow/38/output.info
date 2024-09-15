@@ -1,7 +1,7 @@
-"commit_hash": "00642a46d019870c4decb3d0e47c01d6a25cb88c",
-"commit_link": "https://github.com/apache/airflow/commit/00642a46d019870c4decb3d0e47c01d6a25cb88c",
-"testFilesChanged": 20,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/providers/amazon/aws/hooks/test_batch_client.py", "tests/providers/amazon/aws/hooks/test_batch_waiters.py", "tests/providers/amazon/aws/operators/test_google_api_to_s3_transfer.py", "tests/providers/amazon/aws/operators/test_redshift_to_s3.py", "tests/providers/amazon/aws/operators/test_s3_to_redshift.py", "tests/providers/apache/druid/operators/test_hive_to_druid.py", "tests/providers/apache/hdfs/sensors/test_hdfs.py", "tests/providers/apache/hive/operators/test_hive_to_mysql.py", "tests/providers/apache/hive/operators/test_mssql_to_hive.py", "tests/providers/apache/hive/operators/test_mysql_to_hive.py", "tests/providers/apache/hive/operators/test_s3_to_hive.py", "tests/providers/google/cloud/operators/test_gcs_to_gcs.py", "tests/providers/google/suite/operators/test_sheets.py", "tests/providers/microsoft/azure/operators/test_oracle_to_azure_data_lake_transfer.py", "tests/providers/mysql/operators/test_presto_to_mysql.py", "tests/providers/mysql/operators/test_s3_to_mysql.py", "tests/providers/mysql/operators/test_vertica_to_mysql.py", "tests/providers/oracle/operators/test_oracle_to_oracle_transfer.py", "tests/providers/snowflake/operators/test_s3_to_snowflake.py", "tests/test_core_to_contrib.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "ef1b1242a8907c1f526bb354945cd5eefa3a85e7",
+"commit_link": "https://github.com/apache/airflow/commit/ef1b1242a8907c1f526bb354945cd5eefa3a85e7",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/conftest.py", "tests/models/test_taskinstance.py"],
+"type": ["fixture", "testcase", "add Param"],
+"numberOfMigration": 

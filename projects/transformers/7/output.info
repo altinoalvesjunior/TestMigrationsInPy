@@ -1,7 +1,7 @@
-"commit_hash": "292186a3e7e1a819aa591901591673639c752157",
-"commit_link": "https://github.com/huggingface/transformers/commit/292186a3e7e1a819aa591901591673639c752157",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_modeling_tf_common.py", "tests/test_modeling_tf_transfo_xl.py", "tests/test_modeling_transfo_xl.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "3a40cdf58d8b7233e561d1bf9e76f2ed02d9c4b7",
+"commit_link": "https://github.com/huggingface/transformers/commit/3a40cdf58d8b7233e561d1bf9e76f2ed02d9c4b7",
+"testFilesChanged": 20,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["src/transformers/testing_utils.py", "tests/conftest.py", "tests/test_modeling_tf_bart.py", "tests/test_modeling_tf_common.py", "tests/test_modeling_tf_pytorch.py", "tests/test_pipelines.py", "tests/test_pipelines_common.py", "tests/test_pipelines_conversational.py", "tests/test_pipelines_dialog.py", "tests/test_pipelines_feature_extraction.py", "tests/test_pipelines_fill_mask.py", "tests/test_pipelines_ner.py", "tests/test_pipelines_question_answering.py", "tests/test_pipelines_sentiment_analysis.py", "tests/test_pipelines_summarization.py", "tests/test_pipelines_text2text_generation.py", "tests/test_pipelines_text_generation.py", "tests/test_pipelines_translation.py", "tests/test_pipelines_zero_shot.py", "tests/test_tokenization_common.py"],
+"type": ["import", "testcase"],
+"numberOfMigration": 

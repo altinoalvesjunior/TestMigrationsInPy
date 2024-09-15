@@ -1,7 +1,0 @@
-"commit_hash": "1a8d284ede021113bcc523b8de0e7d3b540ff908",
-"commit_link": "https://github.com/getsentry/sentry/commit/1a8d284ede021113bcc523b8de0e7d3b540ff908",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/web/frontend/test_setup_wizard.py"],
-"type": ["assert"],
-"numberOfMigration": ""

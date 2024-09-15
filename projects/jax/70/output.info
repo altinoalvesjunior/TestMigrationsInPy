@@ -1,7 +1,0 @@
-"commit_hash": "6ed94ef8767d8329685c99be5e19267ab48de39b",
-"commit_link": "https://github.com/google/jax/commit/6ed94ef8767d8329685c99be5e19267ab48de39b",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/pjit_test.py", "tests/pmap_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

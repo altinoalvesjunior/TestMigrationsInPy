@@ -1,7 +1,0 @@
-"commit_hash": "54aa3e3596facd7531acbfb24f5af0a0553bb3b6",
-"commit_link": "https://github.com/getsentry/sentry/commit/54aa3e3596facd7531acbfb24f5af0a0553bb3b6",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/issues/test_escalating.py", "tests/sentry/tasks/test_post_process.py"],
-"type": ["assert"],
-"numberOfMigration": ""

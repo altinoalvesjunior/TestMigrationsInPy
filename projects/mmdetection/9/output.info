@@ -1,7 +1,0 @@
-"commit_hash": "595e99503ef3a2b39a1a54f723d2acf93f8cbdd6",
-"commit_link": "https://github.com/open-mmlab/mmdetection/commit/595e99503ef3a2b39a1a54f723d2acf93f8cbdd6",
-"testFilesChanged": 13,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_datasets/test_cityscapes.py", "tests/test_datasets/test_coco.py", "tests/test_datasets/test_coco_panoptic.py", "tests/test_datasets/test_crowdhuman.py", "tests/test_datasets/test_lvis.py", "tests/test_datasets/test_openimages.py", "tests/test_engine/test_hooks/test_num_class_check_hook.py", "tests/test_evaluation/test_metrics/test_cityscapes_metric.py", "tests/test_evaluation/test_metrics/test_coco_metric.py", "tests/test_evaluation/test_metrics/test_coco_panoptic_metric.py", "tests/test_evaluation/test_metrics/test_lvis_metric.py", "tests/test_visualization/test_local_visualizer.py", "tests/test_visualization/test_palette.py"],
-"type": ["assert"],
-"numberOfMigration": ""

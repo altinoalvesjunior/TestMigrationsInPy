@@ -1,7 +1,7 @@
-"commit_hash": "7ab62100af8a59694721e06b213a933869c6a1ed",
-"commit_link": "https://github.com/apache/airflow/commit/7ab62100af8a59694721e06b213a933869c6a1ed",
-"testFilesChanged": 13,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/api_connexion/endpoints/test_dag_endpoint.py", "tests/api_connexion/endpoints/test_dag_run_endpoint.py", "tests/api_connexion/endpoints/test_extra_link_endpoint.py", "tests/api_connexion/endpoints/test_log_endpoint.py", "tests/api_connexion/endpoints/test_task_endpoint.py", "tests/api_connexion/endpoints/test_task_instance_endpoint.py", "tests/api_connexion/endpoints/test_xcom_endpoint.py", "tests/cli/commands/test_sync_perm_command.py", "tests/models/test_dag.py", "tests/serialization/test_dag_serialization.py", "tests/test_utils/fab_utils.py", "tests/www/test_security.py", "tests/www/test_views.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "506efb6fa3999ac21a8539e863d81dc684abe52a",
+"commit_link": "https://github.com/apache/airflow/commit/506efb6fa3999ac21a8539e863d81dc684abe52a",
+"testFilesChanged": 8,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/always/test_deprecations.py", "tests/providers/amazon/aws/hooks/test_batch_waiters.py", "tests/providers/amazon/aws/log/test_cloudwatch_task_handler.py", "tests/providers/google/cloud/operators/test_bigtable.py", "tests/providers/google/cloud/sensors/test_bigtable.py", "tests/providers/tableau/operators/test_tableau_refresh_workbook.py", "tests/www/api/experimental/test_dag_runs_endpoint.py", "tests/www/views/test_views.py"],
+"type": ["fixture", "testcase", "add Param"],
+"numberOfMigration": 

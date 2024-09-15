@@ -1,7 +1,0 @@
-"commit_hash": "6ed45eccb986ae596911b3a1ffa3086df49b2c9a",
-"commit_link": "https://github.com/celery/celery/commit/6ed45eccb986ae596911b3a1ffa3086df49b2c9a",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["t/unit/tasks/test_canvas.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "1797e817cf19c81c599e08dcbb62ca3d75462f77",
-"commit_link": "https://github.com/ray-project/ray/commit/1797e817cf19c81c599e08dcbb62ca3d75462f77",
-"testFilesChanged": 15,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["python/ray/tune/tests/_test_trial_runner_3.py", "python/ray/tune/tests/_test_trial_runner_callbacks.py", "python/ray/tune/tests/execution/test_controller_checkpointing_integration.py", "python/ray/tune/tests/execution/utils.py", "python/ray/tune/tests/output/test_output.py", "python/ray/tune/tests/test_cluster.py", "python/ray/tune/tests/test_logger.py", "python/ray/tune/tests/test_progress_reporter.py", "python/ray/tune/tests/test_result_grid.py", "python/ray/tune/tests/test_syncer_callback.py", "python/ray/tune/tests/test_trial_relative_logdir.py", "python/ray/tune/tests/test_trial_scheduler.py", "python/ray/tune/tests/test_trial_scheduler_resource_changing.py", "python/ray/tune/tests/test_tune_restore.py", "release/tune_tests/cloud_tests/workloads/run_cloud_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

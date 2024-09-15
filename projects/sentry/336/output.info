@@ -1,7 +1,0 @@
-"commit_hash": "1759f2fc65a3bf22d0052abd5b6a241bfdea17f3",
-"commit_link": "https://github.com/getsentry/sentry/commit/1759f2fc65a3bf22d0052abd5b6a241bfdea17f3",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/issues/test_priority.py"],
-"type": ["assert"],
-"numberOfMigration": ""

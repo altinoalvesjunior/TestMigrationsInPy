@@ -1,7 +1,0 @@
-"commit_hash": "6fa2b03d78a8a6e94de66a01852a01a5574af2a9",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/6fa2b03d78a8a6e94de66a01852a01a5574af2a9",
-"testFilesChanged": 10,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/api/tests/test_api.py", "pandas/tests/indexes/common.py", "pandas/tests/indexes/test_base.py", "pandas/tests/indexes/test_datetimelike.py", "pandas/tests/test_categorical.py", "pandas/tests/types/test_cast.py", "pandas/tests/types/test_common.py", "pandas/tests/types/test_dtypes.py", "pandas/tseries/tests/test_base.py", "pandas/tseries/tests/test_period.py"],
-"type": ["assert"],
-"numberOfMigration": ""

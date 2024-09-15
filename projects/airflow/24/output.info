@@ -1,7 +1,7 @@
-"commit_hash": "f85cb8709b4e27f24ccee24e90cfdc779192186d",
-"commit_link": "https://github.com/apache/airflow/commit/f85cb8709b4e27f24ccee24e90cfdc779192186d",
-"testFilesChanged": 13,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["airflow/example_dags/example_passing_params_via_test_command.py", "tests/bin/__init__.py", "tests/bin/test_cli.py", "tests/cli/commands/test_celery_command.py", "tests/cli/commands/test_connection_command.py", "tests/cli/commands/test_dag_command.py", "tests/cli/commands/test_only_use_long_option.py", "tests/cli/commands/test_task_command.py", "tests/cli/commands/test_user_command.py", "tests/cli/commands/test_variable_command.py", "tests/cli/commands/test_webserver_command.py", "tests/jobs/test_backfill_job.py", "tests/models/test_taskinstance.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "ee2d6c5c0fa9fdce8fd5163f6d5bf40f46fa4c3f",
+"commit_link": "https://github.com/apache/airflow/commit/ee2d6c5c0fa9fdce8fd5163f6d5bf40f46fa4c3f",
+"testFilesChanged": 11,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/api_connexion/schemas/test_role_and_permission_schema.py", "tests/api_connexion/test_error_handling.py", "tests/cli/commands/test_role_command.py", "tests/cli/commands/test_user_command.py", "tests/cli/conftest.py", "tests/conftest.py", "tests/plugins/test_plugins_manager.py", "tests/providers/google/common/auth_backend/test_google_openid.py", "tests/www/api/experimental/conftest.py", "tests/www/api/experimental/test_dag_runs_endpoint.py", "tests/www/api/experimental/test_endpoints.py"],
+"type": ["fixture", "import", "testcase"],
+"numberOfMigration": 

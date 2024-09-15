@@ -1,7 +1,0 @@
-"commit_hash": "de02fcab52cf8c5275621b8895bf6436f974ac4f",
-"commit_link": "https://github.com/plotly/plotly.py/commit/de02fcab52cf8c5275621b8895bf6436f974ac4f",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["packages/python/plotly/_plotly_utils/tests/validators/test_colorscale_validator.py", "packages/python/plotly/plotly/tests/test_core/test_graph_objs/test_properties_validated.py", "packages/python/plotly/plotly/tests/test_optional/test_figure_factory/test_figure_factory.py", "packages/python/plotly/plotly/tests/test_optional/test_tools/test_figure_factory.py"],
-"type": ["assert"],
-"numberOfMigration": ""

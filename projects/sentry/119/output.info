@@ -1,7 +1,0 @@
-"commit_hash": "db1fb15e9864a27857b91cd040f6d8e2ae600ffb",
-"commit_link": "https://github.com/getsentry/sentry/commit/db1fb15e9864a27857b91cd040f6d8e2ae600ffb",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/loader/__init__.py", "tests/sentry/loader/test_browsersdkversion.py", "tests/sentry/web/frontend/test_js_sdk_loader.py"],
-"type": ["assert"],
-"numberOfMigration": ""

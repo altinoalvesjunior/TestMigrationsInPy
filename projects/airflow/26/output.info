@@ -1,7 +1,7 @@
-"commit_hash": "759ce2a80c95832fe4773c9f4fde23e1b03cbc6f",
-"commit_link": "https://github.com/apache/airflow/commit/759ce2a80c95832fe4773c9f4fde23e1b03cbc6f",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/providers/google/cloud/hooks/test_pubsub.py", "tests/providers/google/cloud/operators/test_pubsub.py", "tests/providers/google/cloud/operators/test_pubsub_system.py", "tests/providers/google/cloud/sensors/test_pubsub.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "54edbaa65db38f1b858efc461e411d880e778c1e",
+"commit_link": "https://github.com/apache/airflow/commit/54edbaa65db38f1b858efc461e411d880e778c1e",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/api/auth/backend/test_kerberos_auth.py"],
+"type": ["fixture", "testcase"],
+"numberOfMigration": 

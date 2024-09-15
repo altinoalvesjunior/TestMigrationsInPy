@@ -1,7 +1,7 @@
 "commit_hash": "246eca1121fad13fcb873de7d7c4e83345e41059",
 "commit_link": "https://github.com/getredash/redash/commit/246eca1121fad13fcb873de7d7c4e83345e41059",
 "testFilesChanged": 27,
-"testFilesChangedWithMigrations": "",
+"testFilesChangedWithMigrations": ,
 "filesWithMigration": ["tests/__init__.py", "tests/factories.py", "tests/handlers/test_dashboards.py", "tests/handlers/test_data_sources.py", "tests/handlers/test_destinations.py", "tests/handlers/test_embed.py", "tests/handlers/test_queries.py", "tests/handlers/test_query_results.py", "tests/handlers/test_users.py", "tests/handlers/test_visualizations.py", "tests/handlers/test_widgets.py", "tests/models/test_dashboards.py", "tests/models/test_parameterized_query.py", "tests/models/test_queries.py", "tests/models/test_query_results.py", "tests/models/test_users.py", "tests/query_runner/test_drill.py", "tests/query_runner/test_google_spreadsheets.py", "tests/query_runner/test_http.py", "tests/query_runner/test_query_results.py", "tests/query_runner/test_utils.py", "tests/serializers/test_query_results.py", "tests/test_authentication.py", "tests/test_cli.py", "tests/test_handlers.py", "tests/test_models.py", "tests/test_utils.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

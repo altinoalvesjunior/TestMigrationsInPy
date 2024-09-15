@@ -1,7 +1,7 @@
-"commit_hash": "cba51d49eea6a0563044191c8111978836d697ef",
-"commit_link": "https://github.com/apache/airflow/commit/cba51d49eea6a0563044191c8111978836d697ef",
-"testFilesChanged": 10,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["kubernetes_tests/test_kubernetes_pod_operator.py", "tests/executors/test_kubernetes_executor.py", "tests/kubernetes/models/test_pod.py", "tests/kubernetes/models/test_secret.py", "tests/kubernetes/pod_generator_base.yaml", "tests/kubernetes/pod_generator_base_with_secrets.yaml", "tests/kubernetes/test_pod_generator.py", "tests/kubernetes/test_worker_configuration.py", "tests/providers/cncf/kubernetes/operators/test_kubernetes_pod.py", "tests/test_config_templates.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "302efad167a54f05642ff163c1319b40d2196970",
+"commit_link": "https://github.com/apache/airflow/commit/302efad167a54f05642ff163c1319b40d2196970",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/utils/test_task_handler_with_custom_formatter.py", "tests/www/views/test_views_log.py"],
+"type": ["fixture", "import", "testcase"],
+"numberOfMigration": 

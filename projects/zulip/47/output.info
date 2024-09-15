@@ -1,7 +1,0 @@
-"commit_hash": "b7b1ec0aebbf75c2f66a4c81a42bf4da0ac7c9e1",
-"commit_link": "https://github.com/zulip/zulip/commit/b7b1ec0aebbf75c2f66a4c81a42bf4da0ac7c9e1",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["zerver/tests/test_outgoing_webhook_interfaces.py", "zerver/tests/test_outgoing_webhook_system.py"],
-"type": ["assert"],
-"numberOfMigration": ""

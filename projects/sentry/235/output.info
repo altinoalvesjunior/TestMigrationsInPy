@@ -1,7 +1,0 @@
-"commit_hash": "3e418cca1bde423fc813575dda050cabaa5f4afc",
-"commit_link": "https://github.com/getsentry/sentry/commit/3e418cca1bde423fc813575dda050cabaa5f4afc",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/auth/test_superuser.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "c4ec89820b79ce6c8018a716afccc3a67c85f4a6",
-"commit_link": "https://github.com/ray-project/ray/commit/c4ec89820b79ce6c8018a716afccc3a67c85f4a6",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["rllib/core/testing/tf/bc_module.py", "rllib/core/testing/torch/bc_module.py", "rllib/models/specs/tests/test_check_specs.py", "rllib/models/specs/tests/test_model_spec.py", "rllib/models/specs/tests/test_spec_dict.py", "rllib/models/torch/encoders/tests/test_torch_vector_encoder.py"],
-"type": ["import", "testcase"],
-"numberOfMigration": ""

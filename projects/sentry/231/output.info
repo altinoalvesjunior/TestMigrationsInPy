@@ -1,7 +1,0 @@
-"commit_hash": "146fba432a32568be7d0b884dae0c39a6c33a11f",
-"commit_link": "https://github.com/getsentry/sentry/commit/146fba432a32568be7d0b884dae0c39a6c33a11f",
-"testFilesChanged": 8,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/incidents/test_action_handlers.py", "tests/sentry/incidents/test_models.py", "tests/sentry/incidents/test_subscription_processor.py", "tests/sentry/incidents/test_tasks.py", "tests/sentry/integrations/slack/test_message_builder.py", "tests/sentry/integrations/slack/test_unfurl.py", "tests/sentry/integrations/test_metric_alerts.py", "tests/snuba/incidents/test_tasks.py"],
-"type": ["assert"],
-"numberOfMigration": ""

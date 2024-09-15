@@ -1,7 +1,7 @@
-"commit_hash": "e764ea5811ab10f4c9c068a945674da24c119da7",
-"commit_link": "https://github.com/apache/airflow/commit/e764ea5811ab10f4c9c068a945674da24c119da7",
-"testFilesChanged": 15,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/api_connexion/endpoints/test_connection_endpoint.py", "tests/api_connexion/endpoints/test_dag_endpoint.py", "tests/api_connexion/endpoints/test_pool_endpoint.py", "tests/api_connexion/endpoints/test_variable_endpoint.py", "tests/api_connexion/schemas/test_common_schema.py", "tests/api_connexion/schemas/test_config_schema.py", "tests/api_connexion/schemas/test_connection_schema.py", "tests/api_connexion/schemas/test_dag_run_schema.py", "tests/api_connexion/schemas/test_dag_schema.py", "tests/api_connexion/schemas/test_error_schema.py", "tests/api_connexion/schemas/test_event_log_schema.py", "tests/api_connexion/schemas/test_pool_schemas.py", "tests/api_connexion/schemas/test_task_schema.py", "tests/api_connexion/schemas/test_version_schema.py", "tests/api_connexion/schemas/test_xcom_schema.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "eb12bb2f0418120be31cbcd8e8722528af9eb344",
+"commit_link": "https://github.com/apache/airflow/commit/eb12bb2f0418120be31cbcd8e8722528af9eb344",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/executors/test_kubernetes_executor.py"],
+"type": ["skip", "testcase", "add Param"],
+"numberOfMigration": 

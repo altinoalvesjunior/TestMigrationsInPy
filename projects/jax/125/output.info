@@ -1,7 +1,0 @@
-"commit_hash": "4c4bcde723c5272a05dad5ec476e25b78766c224",
-"commit_link": "https://github.com/google/jax/commit/4c4bcde723c5272a05dad5ec476e25b78766c224",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/lax_metal_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

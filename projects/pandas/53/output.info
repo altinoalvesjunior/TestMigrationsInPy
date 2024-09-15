@@ -1,7 +1,0 @@
-"commit_hash": "73bc6cfb35a886b18955b1f0a07f7647f1f1d409",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/73bc6cfb35a886b18955b1f0a07f7647f1f1d409",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/tests/groupby/test_aggregate.py", "pandas/tests/groupby/test_categorical.py", "pandas/tests/groupby/test_filters.py", "pandas/tests/groupby/test_groupby.py"],
-"type": ["assert"],
-"numberOfMigration": ""

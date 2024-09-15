@@ -1,7 +1,0 @@
-"commit_hash": "748425d47d450482f1a99738cda2b8576f0c755d",
-"commit_link": "https://github.com/huggingface/transformers/commit/748425d47d450482f1a99738cda2b8576f0c755d",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["examples/seq2seq/test_make_student.py", "tests/test_modeling_t5.py"],
-"type": ["assert"],
-"numberOfMigration": ""

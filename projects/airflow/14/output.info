@@ -1,7 +1,7 @@
-"commit_hash": "d51b1104f2d4f0412669fc465e31d11776f2c605",
-"commit_link": "https://github.com/apache/airflow/commit/d51b1104f2d4f0412669fc465e31d11776f2c605",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/gcp/hooks/test_bigquery.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "4e8f9cc8d02b29c325b8a5a76b4837671bdf5f68",
+"commit_link": "https://github.com/apache/airflow/commit/4e8f9cc8d02b29c325b8a5a76b4837671bdf5f68",
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["airflow/example_dags/example_latest_only.py", "airflow/example_dags/example_latest_only_with_trigger.py", "airflow/example_dags/example_passing_params_via_test_command.py"],
+"type": ["assert", "skip", "add Param"],
+"numberOfMigration": 

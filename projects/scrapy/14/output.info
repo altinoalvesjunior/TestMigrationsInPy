@@ -1,7 +1,0 @@
-"commit_hash": "0b9336418ef40ca95052ebbaa02f12953e165115",
-"commit_link": "https://github.com/scrapy/scrapy/commit/0b9336418ef40ca95052ebbaa02f12953e165115",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/py3-ignores.txt", "tests/test_downloadermiddleware_httpcompression.py"],
-"type": ["assert"],
-"numberOfMigration": ""

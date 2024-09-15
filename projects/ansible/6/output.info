@@ -1,7 +1,7 @@
-"commit_hash": "45a9f967749ec68e2077fe1d1d32dd37660ab376",
-"commit_link": "https://github.com/ansible/ansible/commit/45a9f967749ec68e2077fe1d1d32dd37660ab376",
-"testFilesChanged": 17,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test/integration/inventory", "test/integration/targets/facts_d/tasks/main.yml", "test/integration/targets/gathering_facts/test_gathering_facts.yml", "test/sanity/pep8/legacy-files.txt", "test/units/module_utils/facts/base.py", "test/units/module_utils/facts/fixtures/findmount_output.txt", "test/units/module_utils/facts/other/__init__.py", "test/units/module_utils/facts/other/test_facter.py", "test/units/module_utils/facts/other/test_ohai.py", "test/units/module_utils/facts/system/__init__.py", "test/units/module_utils/facts/system/test_lsb.py", "test/units/module_utils/facts/test_collector.py", "test/units/module_utils/facts/test_collectors.py", "test/units/module_utils/facts/test_facts.py", "test/units/module_utils/facts/test_timeout.py", "test/units/module_utils/test_distribution_version.py", "test/units/modules/system/test_setup.py"],
-"type": ["assert", "import"],
-"numberOfMigration": ""
+"commit_hash": "47f26ee11c84b28e3eac0379c9c3e3112de1b32d",
+"commit_link": "https://github.com/ansible/ansible/commit/47f26ee11c84b28e3eac0379c9c3e3112de1b32d",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["test/units/module_utils/basic/test__symbolic_mode_to_octal.py", "test/units/module_utils/test_basic.py"],
+"type": ["assert", "add Param"],
+"numberOfMigration": 

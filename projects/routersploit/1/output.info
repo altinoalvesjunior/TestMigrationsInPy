@@ -1,7 +1,7 @@
 "commit_hash": "9380c04707da979f3081e6b3678c00f7f612bd95",
 "commit_link": "https://github.com/threat9/routersploit/commit/9380c04707da979f3081e6b3678c00f7f612bd95",
 "testFilesChanged": 0,
-"testFilesChangedWithMigrations": "",
+"testFilesChangedWithMigrations": ,
 "filesWithMigration": [],
 "type": ["assert", "fixture", "import", "testcase"],
-"numberOfMigration": ""
+"numberOfMigration": 

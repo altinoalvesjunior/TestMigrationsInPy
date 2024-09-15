@@ -1,7 +1,7 @@
-"commit_hash": "c9cd53aa45ea541ffb8757ccd566921dcc112dc7",
-"commit_link": "https://github.com/microsoft/nni/commit/c9cd53aa45ea541ffb8757ccd566921dcc112dc7",
+"commit_hash": "a36dc07e8d39ec4438fd660c98f6f4551ff5f4a6",
+"commit_link": "https://github.com/microsoft/nni/commit/a36dc07e8d39ec4438fd660c98f6f4551ff5f4a6",
 "testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test/ut/sdk/test_compressor_torch.py"],
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["test/ut/retiarii/test_highlevel_apis.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

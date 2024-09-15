@@ -1,7 +1,0 @@
-"commit_hash": "342d62436f9e54bfc4934cce54005548ff9a3459",
-"commit_link": "https://github.com/google/jax/commit/342d62436f9e54bfc4934cce54005548ff9a3459",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/host_callback_test.py", "tests/pjit_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "75833f69cea56d4d0f7c7dbde6b8026b1110376f",
-"commit_link": "https://github.com/getsentry/sentry/commit/75833f69cea56d4d0f7c7dbde6b8026b1110376f",
-"testFilesChanged": 12,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/testutils/factories.py", "src/sentry/testutils/region.py", "tests/acceptance/test_accept_organization_invite.py", "tests/sentry/api/endpoints/test_accept_organization_invite.py", "tests/sentry/api/endpoints/test_organization_member_details.py", "tests/sentry/api/endpoints/test_scim_user_index.py", "tests/sentry/hybrid_cloud/test_organizationmembermapping.py", "tests/sentry/hybrid_cloud/test_rpc.py", "tests/sentry/integrations/slack/webhooks/actions/test_status.py", "tests/sentry/models/test_organization.py", "tests/sentry/models/test_organizationmember.py", "tests/sentry/models/test_outbox.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "68763aecddbb4edad90e7ed896db08ef9acbdfd5",
-"commit_link": "https://github.com/python/mypy/commit/68763aecddbb4edad90e7ed896db08ef9acbdfd5",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["mypyc/test-data/irbuild-basic.test", "mypyc/test-data/irbuild-lists.test", "mypyc/test-data/irbuild-statements.test", "mypyc/test/test_emitfunc.py", "mypyc/test/test_struct.py"],
-"type": ["assert"],
-"numberOfMigration": ""

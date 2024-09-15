@@ -1,7 +1,0 @@
-"commit_hash": "3c99f126ce3f5c0b6d3fadf96525b0f831b7c524",
-"commit_link": "https://github.com/python/mypy/commit/3c99f126ce3f5c0b6d3fadf96525b0f831b7c524",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["mypyc/test-data/analysis.test", "mypyc/test/test_emitfunc.py", "mypyc/test/test_pprint.py"],
-"type": ["assert"],
-"numberOfMigration": ""

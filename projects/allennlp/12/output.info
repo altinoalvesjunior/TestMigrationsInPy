@@ -1,7 +1,0 @@
-"commit_hash": "53b166ec49b3ba6d621915406f21cb61e4937d48",
-"commit_link": "https://github.com/allenai/allennlp/commit/53b166ec49b3ba6d621915406f21cb61e4937d48",
-"testFilesChanged": 11,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["allennlp/tests/fixtures/data/wikitables/sample_table_with_date.tsv", "allennlp/tests/fixtures/semantic_parsing/nlvr_coverage_semantic_parser/serialization/best.th", "allennlp/tests/fixtures/semantic_parsing/nlvr_coverage_semantic_parser/serialization/model.tar.gz", "allennlp/tests/fixtures/semantic_parsing/nlvr_coverage_semantic_parser/serialization/vocabulary/non_padded_namespaces.txt", "allennlp/tests/fixtures/semantic_parsing/nlvr_direct_semantic_parser/serialization/best.th", "allennlp/tests/fixtures/semantic_parsing/nlvr_direct_semantic_parser/serialization/model.tar.gz", "allennlp/tests/fixtures/semantic_parsing/nlvr_direct_semantic_parser/serialization/vocabulary/non_padded_namespaces.txt", "allennlp/tests/semparse/executors/nlvr_executor_test.py", "allennlp/tests/semparse/executors/wikitables_variable_free_executor_test.py", "allennlp/tests/semparse/worlds/nlvr_world_test.py", "allennlp/tests/semparse/worlds/wikitables_variable_free_world_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

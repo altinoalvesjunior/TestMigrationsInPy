@@ -1,7 +1,0 @@
-"commit_hash": "95892a5ed3e8db4e92a4f5403ff69a7db09ae349",
-"commit_link": "https://github.com/zulip/zulip/commit/95892a5ed3e8db4e92a4f5403ff69a7db09ae349",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["zerver/tests/images/animated_large_img.png", "zerver/tests/test_upload.py"],
-"type": ["assert"],
-"numberOfMigration": ""

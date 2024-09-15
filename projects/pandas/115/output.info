@@ -1,7 +1,0 @@
-"commit_hash": "cf5852bf71c171e52fd188efc9e0679c977a2b69",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/cf5852bf71c171e52fd188efc9e0679c977a2b69",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/tests/extension/base/reshaping.py", "pandas/tests/extension/test_datetime.py"],
-"type": ["assert"],
-"numberOfMigration": ""

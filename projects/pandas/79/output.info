@@ -1,7 +1,0 @@
-"commit_hash": "4e383968f7164f7e372f76afd2193ace57cd24c3",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/4e383968f7164f7e372f76afd2193ace57cd24c3",
-"testFilesChanged": 8,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/tests/frame/test_repr_info.py", "pandas/tests/io/parser/common.py", "pandas/tests/io/parser/python_parser_only.py", "pandas/tests/io/parser/test_textreader.py", "pandas/tests/io/test_sql.py", "pandas/tests/plotting/test_frame.py", "pandas/tests/series/test_repr.py", "pandas/util/testing.py"],
-"type": ["assert"],
-"numberOfMigration": ""

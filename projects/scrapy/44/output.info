@@ -1,7 +1,0 @@
-"commit_hash": "40d9ca3bdd6fd50438295f91cff275fcac57e0fa",
-"commit_link": "https://github.com/scrapy/scrapy/commit/40d9ca3bdd6fd50438295f91cff275fcac57e0fa",
-"testFilesChanged": 32,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["conftest.py", "docs/conftest.py", "scrapy/utils/test.py", "tests/__init__.py", "tests/keys/__init__.py", "tests/mockserver.py", "tests/test_cmdline/__init__.py", "tests/test_cmdline_crawl_with_pipeline/__init__.py", "tests/test_command_check.py", "tests/test_command_parse.py", "tests/test_command_shell.py", "tests/test_commands.py", "tests/test_crawler.py", "tests/test_dependencies.py", "tests/test_downloader_handlers.py", "tests/test_downloadermiddleware_httpcompression.py", "tests/test_dupefilters.py", "tests/test_engine.py", "tests/test_feedexport.py", "tests/test_http2_client_protocol.py", "tests/test_pipeline_crawl.py", "tests/test_pipeline_files.py", "tests/test_proxy_connect.py", "tests/test_spiderloader/__init__.py", "tests/test_spiderstate.py", "tests/test_utils_gz.py", "tests/test_utils_iterators.py", "tests/test_utils_misc/__init__.py", "tests/test_utils_project.py", "tests/test_utils_response.py", "tests/test_utils_template.py", "tests/test_webclient.py"],
-"type": ["assert"],
-"numberOfMigration": ""

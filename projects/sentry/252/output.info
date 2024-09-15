@@ -1,7 +1,0 @@
-"commit_hash": "4e8d4066077aa3b52a3024fb64056106c07e4ad5",
-"commit_link": "https://github.com/getsentry/sentry/commit/4e8d4066077aa3b52a3024fb64056106c07e4ad5",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/sentry_metrics/limiters/test_cardinality_limiter.py", "tests/sentry/sentry_metrics/test_multiprocess_steps.py"],
-"type": ["assert"],
-"numberOfMigration": ""

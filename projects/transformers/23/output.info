@@ -1,7 +1,0 @@
-"commit_hash": "9aeacb58bab321bc21c24bbdf7a24efdccb1d426",
-"commit_link": "https://github.com/huggingface/transformers/commit/9aeacb58bab321bc21c24bbdf7a24efdccb1d426",
-"testFilesChanged": 24,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_tokenization_albert.py", "tests/test_tokenization_bart.py", "tests/test_tokenization_bert.py", "tests/test_tokenization_bert_japanese.py", "tests/test_tokenization_camembert.py", "tests/test_tokenization_common.py", "tests/test_tokenization_ctrl.py", "tests/test_tokenization_distilbert.py", "tests/test_tokenization_dpr.py", "tests/test_tokenization_fast.py", "tests/test_tokenization_funnel.py", "tests/test_tokenization_gpt2.py", "tests/test_tokenization_lxmert.py", "tests/test_tokenization_marian.py", "tests/test_tokenization_mbart.py", "tests/test_tokenization_openai.py", "tests/test_tokenization_pegasus.py", "tests/test_tokenization_reformer.py", "tests/test_tokenization_roberta.py", "tests/test_tokenization_t5.py", "tests/test_tokenization_transfo_xl.py", "tests/test_tokenization_xlm.py", "tests/test_tokenization_xlm_roberta.py", "tests/test_tokenization_xlnet.py"],
-"type": ["assert"],
-"numberOfMigration": ""

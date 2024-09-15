@@ -1,7 +1,7 @@
-"commit_hash": "da78c211608d70d7a231eed46da523399592c8db",
-"commit_link": "https://github.com/getsentry/sentry/commit/da78c211608d70d7a231eed46da523399592c8db",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/testutils.py", "tests/sentry/web/frontend/accounts/tests.py", "tests/sentry/web/frontend/projects/tests.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "0b9e124b702183a70002635ffd252e27d11fbe97",
+"commit_link": "https://github.com/getsentry/sentry/commit/0b9e124b702183a70002635ffd252e27d11fbe97",
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["src/sentry/testutils/cases.py", "tests/integration/fixtures/csp/chrome_blocked_asset_input.json", "tests/integration/fixtures/csp/chrome_blocked_asset_output.json", "tests/sentry/api/endpoints/test_project_details.py", "tests/sentry/interfaces/test_csp.py", "tests/sentry/utils/test_csp.py", "tests/sentry/web/api/tests.py"],
+"type": ["assert", "add Param"],
+"numberOfMigration": 

@@ -1,7 +1,7 @@
-"commit_hash": "40457bcebbb3b0316ef1de7056f1d8ffc1b6141e",
-"commit_link": "https://github.com/huggingface/transformers/commit/40457bcebbb3b0316ef1de7056f1d8ffc1b6141e",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["examples/seq2seq/bertabs/test_utils_summarization.py", "examples/seq2seq/test_seq2seq_examples.py", "examples/summarization/test_summarization_examples.py", "examples/translation/t5/test_t5_examples.py"],
-"type": ["assert", "import", "testcase", "add Param"],
-"numberOfMigration": ""
+"commit_hash": "af3de8d87c717c4bb090f037d0d89413c195a42f",
+"commit_link": "https://github.com/huggingface/transformers/commit/af3de8d87c717c4bb090f037d0d89413c195a42f",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/models/whisper/test_modeling_whisper.py", "tests/test_modeling_common.py"],
+"type": ["assert"],
+"numberOfMigration": 

@@ -1,7 +1,0 @@
-"commit_hash": "557046ce9b45e43612bbaeef66cf9f18bf339117",
-"commit_link": "https://github.com/google/jax/commit/557046ce9b45e43612bbaeef66cf9f18bf339117",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["jax/experimental/jax2tf/tests/primitive_harness.py", "jax/experimental/jax2tf/tests/primitives_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

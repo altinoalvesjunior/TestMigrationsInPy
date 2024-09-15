@@ -1,7 +1,7 @@
-"commit_hash": "40525079c6f6af873ca68faec8ee2743de3c1c2e",
-"commit_link": "https://github.com/plotly/dash/commit/40525079c6f6af873ca68faec8ee2743de3c1c2e",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/integration/test_integration.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "32dee5019b75bd85295cf6b49ac24b8fe307cb0f",
+"commit_link": "https://github.com/plotly/dash/commit/32dee5019b75bd85295cf6b49ac24b8fe307cb0f",
+"testFilesChanged": 9,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/integration/IntegrationTests.py", "tests/integration/callbacks/test_basic_callback.py", "tests/integration/callbacks/test_missing_outputs.py", "tests/integration/callbacks/test_multiple_callbacks.py", "tests/integration/devtools/test_devtools_ui.py", "tests/integration/renderer/test_due_diligence.py", "tests/integration/renderer/test_race_conditions.py", "tests/integration/test_integration.py", "tests/integration/test_render.py"],
+"type": ["assert", "import", "testcase", "add Param"],
+"numberOfMigration": 

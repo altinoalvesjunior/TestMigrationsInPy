@@ -1,7 +1,7 @@
-"commit_hash": "6fbe68cdf0c00ecb7e5685a8c35521498d9f991b",
-"commit_link": "https://github.com/python/mypy/commit/6fbe68cdf0c00ecb7e5685a8c35521498d9f991b",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["lib-typing/2.7/test_typing.py", "lib-typing/3.2/test_typing.py"],
+"commit_hash": "bbb192d9aab3803cb172ce4674c026e20606fcb0",
+"commit_link": "https://github.com/python/mypy/commit/bbb192d9aab3803cb172ce4674c026e20606fcb0",
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["mypy/test/teststubgen.py", "test-data/unit/check-classes.test", "test-data/unit/stubgen.test"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

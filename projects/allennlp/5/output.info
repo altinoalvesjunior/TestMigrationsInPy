@@ -1,7 +1,7 @@
-"commit_hash": "0b5a2ed6a226a70865d5e1ce045c91b46cf5b1b5",
-"commit_link": "https://github.com/allenai/allennlp/commit/0b5a2ed6a226a70865d5e1ce045c91b46cf5b1b5",
-"testFilesChanged": 7,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/common/registrable_test.py", "tests/data/dataset_readers/reading_comprehension/__init__.py", "tests/data/dataset_readers/reading_comprehension/squad_test.py", "tests/data/dataset_readers/reading_comprehension/util_test.py", "tests/data/dataset_readers/squad_reader_test.py", "tests/data/dataset_readers/squad_sentence_selection_reader_test.py", "tests/models/reading_comprehension/bidaf_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "3dda5ac9fcf390d8b83eb855249360711707c11c",
+"commit_link": "https://github.com/allenai/allennlp/commit/3dda5ac9fcf390d8b83eb855249360711707c11c",
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["allennlp/commands/test_install.py", "allennlp/common/testing/model_test_case.py", "allennlp/common/testing/test_case.py"],
+"type": ["assert", "add Param"],
+"numberOfMigration": 

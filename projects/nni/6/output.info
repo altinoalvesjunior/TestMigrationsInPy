@@ -1,7 +1,7 @@
-"commit_hash": "a911b856172741802083ab1ce2f92f09e9ec279f",
-"commit_link": "https://github.com/microsoft/nni/commit/a911b856172741802083ab1ce2f92f09e9ec279f",
-"testFilesChanged": 0,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": [],
+"commit_hash": "74f13f31a45c05db5c6a23a6fa30fcb43b2bda23",
+"commit_link": "https://github.com/microsoft/nni/commit/74f13f31a45c05db5c6a23a6fa30fcb43b2bda23",
+"testFilesChanged": 17,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["pipelines/full-test-nas.yml", "test/algo/nas/graph_converter/convert_mixin.py", "test/algo/nas/graph_converter/inject_nn.py", "test/algo/nas/graph_converter/test_convert.py", "test/algo/nas/graph_converter/test_convert_basic.py", "test/algo/nas/graph_converter/test_convert_models.py", "test/algo/nas/graph_converter/test_convert_operators.py", "test/algo/nas/graph_converter/test_convert_pytorch.py", "test/algo/nas/graph_converter/test_convert_shape.py", "test/pytest.ini", "test/ut/nas/space/mnist_tensorflow.json", "test/ut/nas/space/test_executable_space.py", "test/ut/nas/space/test_graph.py", "test/ut/nas/space/test_mutator.py", "test/ut/sdk/imported/_test_serializer_main.py", "test/ut/sdk/test_serializer.py", "test/vso_tools/trigger_import.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

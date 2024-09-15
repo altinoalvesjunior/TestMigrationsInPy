@@ -1,7 +1,7 @@
-"commit_hash": "a6126783787c80c7426c6d3e44f0f2b926397576",
-"commit_link": "https://github.com/getsentry/sentry/commit/a6126783787c80c7426c6d3e44f0f2b926397576",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/buffer/base/tests.py", "tests/sentry/buffer/redis/tests.py", "tests/sentry/tasks/check_alerts/tests.py", "tests/sentry/tasks/store/tests.py", "tests/sentry/utils/queue/__init__.py", "tests/sentry/utils/queue/tests.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "82d6202466b334eff76b899d2c02e57d957b3f05",
+"commit_link": "https://github.com/getsentry/sentry/commit/82d6202466b334eff76b899d2c02e57d957b3f05",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/sentry/integrations/vsts/test_integration.py"],
+"type": ["assert"],
+"numberOfMigration": 

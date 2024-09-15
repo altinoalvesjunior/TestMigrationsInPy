@@ -1,7 +1,0 @@
-"commit_hash": "eb4260ce0154d2804f1e552db5be1d607a21d87d",
-"commit_link": "https://github.com/rusty1s/pytorch_geometric/commit/eb4260ce0154d2804f1e552db5be1d607a21d87d",
-"testFilesChanged": 12,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["requirements_test.txt", "test/test_voxel_grid.py", "test/test_voxel_grid_pool.py", "torch_geometric/nn/functional/pool/coalesce_test.py", "torch_geometric/nn/functional/pool/pool_test.py", "torch_geometric/nn/functional/pool/voxel_pool_test.py", "torch_geometric/nn/functional/spline_conv/edgewise_spline_weighting_gpu_test.py", "torch_geometric/nn/functional/spline_conv/spline_conv_test.py", "torch_geometric/nn/functional/spline_conv/spline_cubic_gpu_test.py", "torch_geometric/nn/functional/spline_conv/spline_linear_gpu_test.py", "torch_geometric/nn/functional/spline_conv/spline_quadratic_gpu_test.py", "torch_geometric/nn/modules/spline_conv_test.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

@@ -1,7 +1,7 @@
-"commit_hash": "0ebd6428e6b484790bfbbe1b8687ef4e6cae10e9",
-"commit_link": "https://github.com/apache/airflow/commit/0ebd6428e6b484790bfbbe1b8687ef4e6cae10e9",
-"testFilesChanged": 9,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/api_connexion/endpoints/test_xcom_endpoint.py", "tests/api_connexion/schemas/test_xcom_schema.py", "tests/models/test_param.py", "tests/models/test_xcom.py", "tests/operators/test_latest_only_operator.py", "tests/operators/test_sql.py", "tests/operators/test_weekday.py", "tests/providers/cncf/kubernetes/operators/test_kubernetes_pod.py", "tests/serialization/test_dag_serialization.py"],
-"type": ["fixture", "import", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "f902dbe91f2b8c8675a4599719a0adb4f31346d8",
+"commit_link": "https://github.com/apache/airflow/commit/f902dbe91f2b8c8675a4599719a0adb4f31346d8",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/cli/commands/test_task_command.py", "tests/providers/amazon/aws/hooks/test_s3.py"],
+"type": ["skip"],
+"numberOfMigration": 

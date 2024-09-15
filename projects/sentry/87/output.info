@@ -1,7 +1,0 @@
-"commit_hash": "042f8569b2ade76dc93fd449fcf95661fda9ecab",
-"commit_link": "https://github.com/getsentry/sentry/commit/042f8569b2ade76dc93fd449fcf95661fda9ecab",
-"testFilesChanged": 7,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/acceptance/test_create_organization.py", "tests/acceptance/test_create_organization_member.py", "tests/js/spec/views/__snapshots__/organizationCreate.spec.jsx.snap", "tests/js/spec/views/organizationCreate.spec.jsx", "tests/sentry/web/frontend/test_auth_login.py", "tests/sentry/web/frontend/test_create_organization.py", "tests/sentry/web/frontend/test_home.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

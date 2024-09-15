@@ -1,7 +1,0 @@
-"commit_hash": "ad3d743ca95596a056031a021e84419e2392f5d8",
-"commit_link": "https://github.com/google/jax/commit/ad3d743ca95596a056031a021e84419e2392f5d8",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/lax_numpy_vectorize_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

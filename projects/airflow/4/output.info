@@ -1,7 +1,7 @@
-"commit_hash": "6d27ced85a0574a72c376891ec027cd0e49a57ee",
-"commit_link": "https://github.com/apache/airflow/commit/6d27ced85a0574a72c376891ec027cd0e49a57ee",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/contrib/hooks/test_imap_hook.py", "tests/contrib/operators/test_imap_attachment_to_s3_operator.py", "tests/contrib/sensors/test_imap_attachment_sensor.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "58c3542ed25061320ce61dbe0adf451a44c738dd",
+"commit_link": "https://github.com/apache/airflow/commit/58c3542ed25061320ce61dbe0adf451a44c738dd",
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/hooks/test_s3_hook.py", "tests/providers/amazon/aws/hooks/conftest.py", "tests/providers/amazon/aws/hooks/test_s3.py", "tests/test_project_structure.py"],
+"type": ["assert", "fixture", "import", "skip", "testcase"],
+"numberOfMigration": 

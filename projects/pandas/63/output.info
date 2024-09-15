@@ -1,7 +1,0 @@
-"commit_hash": "e351ed0fd211a204f960b9116bc13f75ed1f97c4",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/e351ed0fd211a204f960b9116bc13f75ed1f97c4",
-"testFilesChanged": 8,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/tests/frame/test_mutate_columns.py", "pandas/tests/frame/test_repr_info.py", "pandas/tests/groupby/test_groupby.py", "pandas/tests/indexes/test_multi.py", "pandas/tests/indexing/test_multiindex.py", "pandas/tests/test_multilevel.py", "pandas/tests/tools/test_hashing.py", "pandas/tests/tools/test_join.py"],
-"type": ["assert"],
-"numberOfMigration": ""

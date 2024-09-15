@@ -1,7 +1,0 @@
-"commit_hash": "62a4d6d163120230d38b3662c4e0ee4737bdb943",
-"commit_link": "https://github.com/getsentry/sentry/commit/62a4d6d163120230d38b3662c4e0ee4737bdb943",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/models/test_projectkey.py", "tests/sentry/web/frontend/test_js_sdk_dynamic_loader.py", "tests/sentry/web/frontend/test_js_sdk_loader.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

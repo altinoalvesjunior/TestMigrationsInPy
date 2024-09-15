@@ -1,7 +1,7 @@
-"commit_hash": "f51235aef9bbb50632b569d9e0c104816e5e31a0",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/f51235aef9bbb50632b569d9e0c104816e5e31a0",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/computation/tests/test_eval.py", "pandas/tests/test_frame.py", "pandas/tests/test_indexing.py", "pandas/tests/test_internals.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "34c6bd0fb7ad58b579ba940d4248ebab0aa758bf",
+"commit_link": "https://github.com/pandas-dev/pandas/commit/34c6bd0fb7ad58b579ba940d4248ebab0aa758bf",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["pandas/tests/io/json/test_normalize.py"],
+"type": ["assert", "fixture"],
+"numberOfMigration": 

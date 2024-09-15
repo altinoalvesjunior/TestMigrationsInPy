@@ -1,7 +1,0 @@
-"commit_hash": "8fb7d12cd39500157eeef488e580bfbd426b7f32",
-"commit_link": "https://github.com/getsentry/sentry/commit/8fb7d12cd39500157eeef488e580bfbd426b7f32",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/acceptance/test_link_team.py", "tests/sentry/integrations/slack/test_link_team.py", "tests/sentry/integrations/slack/webhooks/commands/test_link_team.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "00c877b9b8737d547f845bac5d5c69a86d6177e7",
-"commit_link": "https://github.com/allenai/allennlp/commit/00c877b9b8737d547f845bac5d5c69a86d6177e7",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["allennlp/tests/training/trainer_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "8ec38c3a97ed6ac03c3cd4617595e9cb2159880c",
-"commit_link": "https://github.com/getsentry/sentry/commit/8ec38c3a97ed6ac03c3cd4617595e9cb2159880c",
-"testFilesChanged": 14,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/coreapi/__init__.py", "tests/sentry/coreapi/test_auth_from_request.py", "tests/sentry/coreapi/test_coreapi.py", "tests/sentry/coreapi/tests.py", "tests/sentry/event_manager/test_ensure_has_ip.py", "tests/sentry/event_manager/test_event_manager.py", "tests/sentry/event_manager/test_generate_culprit.py", "tests/sentry/event_manager/test_get_hashes_from_fingerprint.py", "tests/sentry/event_manager/test_normalization.py", "tests/sentry/event_manager/test_process_timestamp.py", "tests/sentry/event_manager/test_validate_csp.py", "tests/sentry/event_manager/test_validate_data.py", "tests/sentry/test_coreapi.py", "tests/sentry/web/api/tests.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

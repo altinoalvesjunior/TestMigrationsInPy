@@ -1,7 +1,7 @@
-"commit_hash": "ff2217251f99e325b36f7ee6ee59d17e0f2d4cd4",
-"commit_link": "https://github.com/ray-project/ray/commit/ff2217251f99e325b36f7ee6ee59d17e0f2d4cd4",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["python/ray/common/redis_module/runtest.py", "python/ray/global_scheduler/test/test.py", "test/failure_test.py", "test/runtest.py"],
+"commit_hash": "52e5c9b22d93ec5b73567f1ac88b9b0152eb5fbf",
+"commit_link": "https://github.com/ray-project/ray/commit/52e5c9b22d93ec5b73567f1ac88b9b0152eb5fbf",
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["python/ray/tune/tests/test_cluster.py", "python/ray/tune/tests/test_ray_trial_executor.py", "python/ray/tune/tests/test_trial_runner.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

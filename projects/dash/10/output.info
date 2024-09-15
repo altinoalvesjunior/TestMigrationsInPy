@@ -1,7 +1,7 @@
-"commit_hash": "79f4804e9c33404199f63d887df0fb443b24b45b",
-"commit_link": "https://github.com/plotly/dash/commit/79f4804e9c33404199f63d887df0fb443b24b45b",
+"commit_hash": "bfe4e9f6f16da07990fe31a6be5956162b3b0fae",
+"commit_link": "https://github.com/plotly/dash/commit/bfe4e9f6f16da07990fe31a6be5956162b3b0fae",
 "testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_resources.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/unit/test_configs.py"],
+"type": ["assert", "fixture", "testcase", "add Param"],
+"numberOfMigration": 

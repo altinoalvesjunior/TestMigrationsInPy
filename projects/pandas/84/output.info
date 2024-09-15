@@ -1,7 +1,0 @@
-"commit_hash": "9991579c812e5a7c977e69f03b390adf7974445f",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/9991579c812e5a7c977e69f03b390adf7974445f",
-"testFilesChanged": 22,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/tests/api/test_api.py", "pandas/tests/api/test_types.py", "pandas/tests/frame/test_alter_axes.py", "pandas/tests/frame/test_sorting.py", "pandas/tests/groupby/test_categorical.py", "pandas/tests/groupby/test_groupby.py", "pandas/tests/indexes/common.py", "pandas/tests/indexes/test_base.py", "pandas/tests/indexes/test_category.py", "pandas/tests/indexes/test_interval.py", "pandas/tests/indexing/test_interval.py", "pandas/tests/scalar/test_interval.py", "pandas/tests/series/test_constructors.py", "pandas/tests/series/test_missing.py", "pandas/tests/series/test_sorting.py", "pandas/tests/test_algos.py", "pandas/tests/test_base.py", "pandas/tests/test_categorical.py", "pandas/tests/tools/test_tile.py", "pandas/tests/types/test_dtypes.py", "pandas/tests/types/test_missing.py", "pandas/util/testing.py"],
-"type": ["assert"],
-"numberOfMigration": ""

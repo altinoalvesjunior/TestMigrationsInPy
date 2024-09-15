@@ -1,7 +1,7 @@
-"commit_hash": "568150342f09611b443c3033713f10ff48bba4de",
-"commit_link": "https://github.com/plotly/dash/commit/568150342f09611b443c3033713f10ff48bba4de",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["packages/dash-core-components/tests/integration/graph/test_graph_basics.py", "packages/dash-core-components/tests/test_dash_import.py", "packages/dash-core-components/tests/test_integration_2.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "c456592e8875d0b152e44dd59eaade94c76c4f18",
+"commit_link": "https://github.com/plotly/dash/commit/c456592e8875d0b152e44dd59eaade94c76c4f18",
+"testFilesChanged": 8,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["packages/dash-core-components/tests/integration/graph/test_graph_basics.py", "packages/dash-core-components/tests/integration/graph/test_graph_purge.py", "packages/dash-core-components/tests/integration/graph/test_graph_varia.py", "packages/dash-core-components/tests/integration/misc/test_platter.py", "packages/dash-core-components/tests/integration/tab/test_tabs_with_graphs.py", "packages/dash-core-components/tests/test_integration_1.py", "packages/dash-core-components/tests/test_integration_2.py", "packages/dash-core-components/tests/unit/Tabs.test.js"],
+"type": ["assert", "add Param"],
+"numberOfMigration": 

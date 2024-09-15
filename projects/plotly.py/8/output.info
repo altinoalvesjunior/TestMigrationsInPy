@@ -1,7 +1,7 @@
-"commit_hash": "bb5c998a5e08efd0d2badb604e79ff08aab2b659",
-"commit_link": "https://github.com/plotly/plotly.py/commit/bb5c998a5e08efd0d2badb604e79ff08aab2b659",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["plotly/tests/test_core/test_offline/test_offline.py", "plotly/tests/test_io/test_renderers.py", "plotly/tests/test_optional/test_offline/test_offline.py", "plotly/tests/test_orca/test_image_renderers.py"],
-"type": ["assert", "add Param"],
-"numberOfMigration": ""
+"commit_hash": "7fcb95ce94652a48b744a06460d17c50a932c8a2",
+"commit_link": "https://github.com/plotly/plotly.py/commit/7fcb95ce94652a48b744a06460d17c50a932c8a2",
+"testFilesChanged": 0,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": [],
+"type": ["assert"],
+"numberOfMigration": 

@@ -1,7 +1,7 @@
-"commit_hash": "b6791e6ae3891951fc38518fdb52d53219987498",
-"commit_link": "https://github.com/ansible/ansible/commit/b6791e6ae3891951fc38518fdb52d53219987498",
-"testFilesChanged": 22,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["lib/ansible/galaxy/data/default/role/tests/inventory", "lib/ansible/galaxy/data/default/role/tests/test.yml.j2", "test/integration/targets/ansible-galaxy/aliases", "test/integration/targets/ansible-galaxy/runme.sh", "test/units/cli/test_data/collection_skeleton/README.md", "test/units/cli/test_data/collection_skeleton/docs/My Collection.md", "test/units/cli/test_data/collection_skeleton/galaxy.yml.j2", "test/units/cli/test_data/collection_skeleton/playbooks/main.yml", "test/units/cli/test_data/collection_skeleton/playbooks/templates/subfolder/test.conf.j2", "test/units/cli/test_data/collection_skeleton/playbooks/templates/test.conf.j2", "test/units/cli/test_data/collection_skeleton/plugins/action/.git_keep", "test/units/cli/test_data/collection_skeleton/plugins/filter/.git_keep", "test/units/cli/test_data/collection_skeleton/plugins/inventory/.git_keep", "test/units/cli/test_data/collection_skeleton/plugins/lookup/.git_keep", "test/units/cli/test_data/collection_skeleton/plugins/module_utils/.git_keep", "test/units/cli/test_data/collection_skeleton/plugins/modules/.git_keep", "test/units/cli/test_data/collection_skeleton/roles/common/tasks/main.yml.j2", "test/units/cli/test_data/collection_skeleton/roles/common/templates/subfolder/test.conf.j2", "test/units/cli/test_data/collection_skeleton/roles/common/templates/test.conf.j2", "test/units/cli/test_galaxy.py", "test/units/galaxy/test_collection.py", "test/units/galaxy/test_collection_install.py"],
-"type": ["fixture", "add Param"],
-"numberOfMigration": ""
+"commit_hash": "ecea15c508f0e081525be036cf76bbb56dbcdd9d",
+"commit_link": "https://github.com/ansible/ansible/commit/ecea15c508f0e081525be036cf76bbb56dbcdd9d",
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["test/integration/targets/ansible-galaxy-collection/tasks/download.yml", "test/integration/targets/ansible-galaxy-collection/tasks/install.yml", "test/units/cli/test_galaxy.py", "test/units/galaxy/test_collection.py"],
+"type": ["assert", "add Param"],
+"numberOfMigration": 

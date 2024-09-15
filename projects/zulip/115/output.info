@@ -1,7 +1,0 @@
-"commit_hash": "5135acd9e34ee3ec49e07547b5b9720f6f19cf3e",
-"commit_link": "https://github.com/zulip/zulip/commit/5135acd9e34ee3ec49e07547b5b9720f6f19cf3e",
-"testFilesChanged": 10,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["analytics/tests/test_support_views.py", "corporate/tests/stripe_fixtures/downgrade_realm_and_void_open_invoices--Customer.create.1.json", "corporate/tests/stripe_fixtures/downgrade_realm_and_void_open_invoices--Event.list.1.json", "corporate/tests/stripe_fixtures/downgrade_realm_and_void_open_invoices--Invoice.create.1.json", "corporate/tests/stripe_fixtures/downgrade_realm_and_void_open_invoices--Invoice.finalize_invoice.1.json", "corporate/tests/stripe_fixtures/downgrade_realm_and_void_open_invoices--Invoice.list.1.json", "corporate/tests/stripe_fixtures/downgrade_realm_and_void_open_invoices--Invoice.list.2.json", "corporate/tests/stripe_fixtures/downgrade_realm_and_void_open_invoices--Invoice.void_invoice.1.json", "corporate/tests/stripe_fixtures/downgrade_realm_and_void_open_invoices--InvoiceItem.create.1.json", "corporate/tests/test_stripe.py"],
-"type": ["assert"],
-"numberOfMigration": ""

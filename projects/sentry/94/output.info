@@ -1,7 +1,0 @@
-"commit_hash": "4dee22dac0250f02f0ea3f20e0b24d233d751b57",
-"commit_link": "https://github.com/getsentry/sentry/commit/4dee22dac0250f02f0ea3f20e0b24d233d751b57",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/similarity/backends/__init__.py", "tests/sentry/similarity/backends/base.py", "tests/sentry/similarity/backends/test_redis.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

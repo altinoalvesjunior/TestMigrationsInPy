@@ -1,7 +1,0 @@
-"commit_hash": "814a7ff3636522ed4d64fb44dee7851e5fbf1483",
-"commit_link": "https://github.com/getsentry/sentry/commit/814a7ff3636522ed4d64fb44dee7851e5fbf1483",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/utils/pytest/sentry.py", "tests/sentry/integrations/slack/test_action_endpoint.py", "tests/sentry/integrations/slack/test_event_endpoint.py", "tests/sentry/integrations/slack/test_integration.py", "tests/sentry/integrations/slack/test_requests.py"],
-"type": ["assert"],
-"numberOfMigration": ""

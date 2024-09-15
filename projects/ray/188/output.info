@@ -1,7 +1,0 @@
-"commit_hash": "9df091ac065781bd4596c211c4078601bb1f0839",
-"commit_link": "https://github.com/ray-project/ray/commit/9df091ac065781bd4596c211c4078601bb1f0839",
-"testFilesChanged": 7,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["rllib/algorithms/bc/tests/test_bc.py", "rllib/algorithms/bc/tests/test_bc_old_api_stack.py", "rllib/algorithms/bc/tests/test_bc_old_stack.py", "rllib/algorithms/marwil/tests/test_marwil.py", "rllib/algorithms/marwil/tests/test_marwil_old_api_stack.py", "rllib/algorithms/marwil/tests/test_marwil_rl_module.py", "rllib/offline/tests/test_offline_data.py"],
-"type": ["import", "testcase"],
-"numberOfMigration": ""

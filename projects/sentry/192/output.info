@@ -1,7 +1,0 @@
-"commit_hash": "8c10aba03da257afb0ea52b79302b327eb0dd4c9",
-"commit_link": "https://github.com/getsentry/sentry/commit/8c10aba03da257afb0ea52b79302b327eb0dd4c9",
-"testFilesChanged": 19,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/utils/pytest/selenium.py", "tests/acceptance/test_organization_releases.py", "tests/fixtures/integrations/mock_service.py", "tests/sentry/api/endpoints/test_group_external_issue_details.py", "tests/sentry/api/endpoints/test_organization_index.py", "tests/sentry/api/endpoints/test_sentry_app_installation_external_requests.py", "tests/sentry/api/test_event_search.py", "tests/sentry/api/test_handlers.py", "tests/sentry/eventstream/kafka/test_consumer.py", "tests/sentry/ingest/ingest_consumer/test_ingest_consumer_kafka.py", "tests/sentry/integrations/bitbucket/test_integration.py", "tests/sentry/snuba/test_discover.py", "tests/sentry/tasks/test_reprocessing2.py", "tests/sentry/utils/test_ratelimits.py", "tests/sentry/web/frontend/test_error_page_embed.py", "tests/snuba/api/endpoints/test_discover_saved_queries.py", "tests/snuba/api/endpoints/test_organization_events_v2.py", "tests/snuba/search/test_backend.py", "tests/snuba/tsdb/test_tsdb_backend.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "b081f18a2f232a1bfd04c829ae6894cac93a89a1",
-"commit_link": "https://github.com/scrapy/scrapy/commit/b081f18a2f232a1bfd04c829ae6894cac93a89a1",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_downloadermiddleware_httpauth.py"],
-"type": ["assert"],
-"numberOfMigration": ""

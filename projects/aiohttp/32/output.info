@@ -1,7 +1,7 @@
-"commit_hash": "e3c01dc0b938ee7a58ff922fbba0bd1e7710d79b",
-"commit_link": "https://github.com/aio-libs/aiohttp/commit/e3c01dc0b938ee7a58ff922fbba0bd1e7710d79b",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_parsers.py", "tests/test_stream_protocol.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "ffab2fd28a9ead2f1146562182c9804a7f65808a",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/ffab2fd28a9ead2f1146562182c9804a7f65808a",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/test_worker.py"],
+"type": ["skip"],
+"numberOfMigration": 

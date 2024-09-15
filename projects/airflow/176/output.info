@@ -1,7 +1,0 @@
-"commit_hash": "0ef3225b1dc10f8706b9461d8669b768d462eb72",
-"commit_link": "https://github.com/apache/airflow/commit/0ef3225b1dc10f8706b9461d8669b768d462eb72",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["airflow/providers/daskexecutor/.latest-doc-only-change.txt", "dev/breeze/tests/test_packages.py", "tests/always/test_project_structure.py", "tests/providers/daskexecutor/__init__.py", "tests/providers/daskexecutor/test_dask_executor.py"],
-"type": ["assert"],
-"numberOfMigration": ""

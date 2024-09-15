@@ -1,7 +1,0 @@
-"commit_hash": "b84ab363ec45b51eadb80fc1e2ba1d1b8c50fbca",
-"commit_link": "https://github.com/ray-project/ray/commit/b84ab363ec45b51eadb80fc1e2ba1d1b8c50fbca",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["python/ray/tests/kuberay/test_autoscaling_config.py", "python/ray/tests/test_autoscaler.py", "python/ray/tests/test_autoscaler_yaml.py", "python/ray/tests/test_resource_demand_scheduler.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "6a940f92ab2ff1ae1fa91b10f8ff130355c6bc7f",
-"commit_link": "https://github.com/allenai/allennlp/commit/6a940f92ab2ff1ae1fa91b10f8ff130355c6bc7f",
-"testFilesChanged": 13,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["allennlp/tests/data/dataset_readers/ccgbank_test.py", "allennlp/tests/data/dataset_readers/conll2000_dataset_reader_test.py", "allennlp/tests/data/dataset_readers/conll2003_dataset_reader_test.py", "allennlp/tests/data/dataset_readers/interleaving_dataset_reader_test.py", "allennlp/tests/fixtures/crf_tagger/experiment.json", "allennlp/tests/fixtures/crf_tagger/experiment_albert.json", "allennlp/tests/fixtures/crf_tagger/experiment_ccgbank.json", "allennlp/tests/fixtures/crf_tagger/experiment_conll2000.json", "allennlp/tests/fixtures/data/ccgbank.txt", "allennlp/tests/fixtures/data/conll2000.txt", "allennlp/tests/fixtures/elmo/config/characters_token_embedder.json", "allennlp/tests/models/crf_tagger_test.py", "allennlp/tests/modules/token_embedders/elmo_token_embedder_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

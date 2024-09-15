@@ -1,7 +1,0 @@
-"commit_hash": "bb15c93a2bbd7daaee4a02d2d6f6b52cea4b3313",
-"commit_link": "https://github.com/scrapy/scrapy/commit/bb15c93a2bbd7daaee4a02d2d6f6b52cea4b3313",
-"testFilesChanged": 25,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["scrapy/utils/test.py", "tests/spiders.py", "tests/test_addons.py", "tests/test_command_shell.py", "tests/test_commands.py", "tests/test_crawler.py", "tests/test_downloadermiddleware.py", "tests/test_downloadermiddleware_httpcache.py", "tests/test_downloadermiddleware_httpcompression.py", "tests/test_downloadermiddleware_retry.py", "tests/test_downloadermiddleware_stats.py", "tests/test_dupefilters.py", "tests/test_engine.py", "tests/test_extension_periodic_log.py", "tests/test_extension_telnet.py", "tests/test_feedexport.py", "tests/test_pipeline_files.py", "tests/test_pipeline_media.py", "tests/test_scheduler.py", "tests/test_spider.py", "tests/test_spidermiddleware_httperror.py", "tests/test_spidermiddleware_offsite.py", "tests/test_spidermiddleware_urllength.py", "tests/test_utils_log.py", "tests/test_utils_request.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

@@ -1,7 +1,7 @@
-"commit_hash": "416334e2ecd21d8a532af6102f1cfa9ac921a97a",
-"commit_link": "https://github.com/apache/airflow/commit/416334e2ecd21d8a532af6102f1cfa9ac921a97a",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/deprecated_classes.py", "tests/models/test_baseoperator.py", "tests/test_core_to_contrib.py", "tests/test_utils/mock_operators.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "ca45bba1478720522fc6b59792d0d0a87f51e2c9",
+"commit_link": "https://github.com/apache/airflow/commit/ca45bba1478720522fc6b59792d0d0a87f51e2c9",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["chart/tests/test_airflow_common.py", "chart/tests/test_migrate_database_job.py"],
+"type": ["import", "testcase", "add Param"],
+"numberOfMigration": 

@@ -1,7 +1,0 @@
-"commit_hash": "38496a00b7d2bcfa9d435551409e2c44007d168d",
-"commit_link": "https://github.com/scrapy/scrapy/commit/38496a00b7d2bcfa9d435551409e2c44007d168d",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/requirements-py3.txt", "tests/test_loader.py", "tests/test_loader_deprecated.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

@@ -1,7 +1,0 @@
-"commit_hash": "c3044ec2f3416bdec19ea66504b7911549bd3b16",
-"commit_link": "https://github.com/huggingface/transformers/commit/c3044ec2f3416bdec19ea66504b7911549bd3b16",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_configuration_utils.py", "tests/utils/test_hub_utils.py", "tests/utils/test_offline.py"],
-"type": ["assert"],
-"numberOfMigration": ""

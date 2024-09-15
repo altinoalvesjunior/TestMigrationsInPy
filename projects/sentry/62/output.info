@@ -1,7 +1,7 @@
-"commit_hash": "8fef91acd6ca45576f723e2ce102dc059fbf0d69",
-"commit_link": "https://github.com/getsentry/sentry/commit/8fef91acd6ca45576f723e2ce102dc059fbf0d69",
+"commit_hash": "1d9609ac0d57fbe0048bd81c640f106283bb87e7",
+"commit_link": "https://github.com/getsentry/sentry/commit/1d9609ac0d57fbe0048bd81c640f106283bb87e7",
 "testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/digests/backends/test_redis.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/sentry/profiles/test_task.py"],
+"type": ["fixture", "testcase"],
+"numberOfMigration": 

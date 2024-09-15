@@ -1,7 +1,0 @@
-"commit_hash": "e7124a9a59ee7c9d99a80f18a9d6fb03001bf21c",
-"commit_link": "https://github.com/getsentry/sentry/commit/e7124a9a59ee7c9d99a80f18a9d6fb03001bf21c",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/acceptance/test_organization_rate_limits.py", "tests/sentry/quotas/redis/tests.py", "tests/sentry/quotas/test_base.py", "tests/sentry/web/forms/projects/__init__.py", "tests/sentry/web/forms/projects/tests.py", "tests/sentry/web/frontend/test_project_quotas.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

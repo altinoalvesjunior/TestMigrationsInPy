@@ -1,7 +1,0 @@
-"commit_hash": "2e692859d374d9bb97ad62c9e79005b149b2235b",
-"commit_link": "https://github.com/ray-project/ray/commit/2e692859d374d9bb97ad62c9e79005b149b2235b",
-"testFilesChanged": 7,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["rllib/core/models/specs/tests/test_check_specs.py", "rllib/core/models/tests/test_base_models.py", "rllib/core/testing/tf/bc_learner.py", "rllib/core/testing/torch/bc_learner.py", "rllib/core/testing/torch/bc_module.py", "rllib/utils/test_utils.py", "rllib/utils/tests/test_nested_dict.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

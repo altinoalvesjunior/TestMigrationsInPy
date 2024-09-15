@@ -1,7 +1,0 @@
-"commit_hash": "e93b669d841828b5f912edf40f255299b1833521",
-"commit_link": "https://github.com/apache/airflow/commit/e93b669d841828b5f912edf40f255299b1833521",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sensors/test_date_time.py", "tests/sensors/test_external_task_sensor.py", "tests/sensors/test_time_sensor.py", "tests/task/__init__.py", "tests/task/task_runner/conftest.py"],
-"type": ["assert", "fixture", "import", "testcase", "add Param"],
-"numberOfMigration": ""

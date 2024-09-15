@@ -1,7 +1,7 @@
 "commit_hash": "02fbaa32ad0c2e64b8dd8be9cf833d9780009a32",
 "commit_link": "https://github.com/cookiecutter/cookiecutter/commit/02fbaa32ad0c2e64b8dd8be9cf833d9780009a32",
 "testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
+"testFilesChangedWithMigrations": ,
 "filesWithMigration": ["tests/test_generate.py", "tests/test_generate_context.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

@@ -1,7 +1,7 @@
-"commit_hash": "cbfd7d10530e84290d86ee91e38c83c46f697e33",
-"commit_link": "https://github.com/joke2k/faker/commit/cbfd7d10530e84290d86ee91e38c83c46f697e33",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/providers/test_address.py", "tests/providers/test_automotive.py", "tests/providers/test_bank.py", "tests/providers/test_job.py", "tests/providers/test_lorem.py", "tests/test_factory.py"],
-"type": ["assert", "import", "testcase", "add Param"],
-"numberOfMigration": ""
+"commit_hash": "0946c374eac5190191470ea9eb742e75e36599f9",
+"commit_link": "https://github.com/joke2k/faker/commit/0946c374eac5190191470ea9eb742e75e36599f9",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/providers/test_date_time.py"],
+"type": ["assert"],
+"numberOfMigration": 

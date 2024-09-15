@@ -1,7 +1,0 @@
-"commit_hash": "9648256c3cf51e56d68a687db1ffd45af07f4de5",
-"commit_link": "https://github.com/zulip/zulip/commit/9648256c3cf51e56d68a687db1ffd45af07f4de5",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["corporate/tests/test_support_views.py"],
-"type": ["assert"],
-"numberOfMigration": ""

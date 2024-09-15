@@ -1,7 +1,0 @@
-"commit_hash": "2c25e488c4bc1bd72c592354967497b93ce57e49",
-"commit_link": "https://github.com/getpelican/pelican/commit/2c25e488c4bc1bd72c592354967497b93ce57e49",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pelican/tests/content/article_with_multiple_authors.rst", "pelican/tests/test_contents.py", "pelican/tests/test_generators.py", "pelican/tests/test_importer.py", "pelican/tests/test_pelican.py", "pelican/tests/test_readers.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": ""

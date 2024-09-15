@@ -1,7 +1,0 @@
-"commit_hash": "fdb8c28271e8b22d458330598a524067ca37026e",
-"commit_link": "https://github.com/beetbox/beets/commit/fdb8c28271e8b22d458330598a524067ca37026e",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test/plugins/test_web.py"],
-"type": ["assert"],
-"numberOfMigration": ""

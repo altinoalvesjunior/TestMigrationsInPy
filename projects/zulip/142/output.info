@@ -1,7 +1,0 @@
-"commit_hash": "d21ee6fa23ed26fef7793ab7a7c5a8d364aff47a",
-"commit_link": "https://github.com/zulip/zulip/commit/d21ee6fa23ed26fef7793ab7a7c5a8d364aff47a",
-"testFilesChanged": 9,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["web/tests/upload.test.js", "zerver/tests/test_delete_unclaimed_attachments.py", "zerver/tests/test_events.py", "zerver/tests/test_scheduled_messages.py", "zerver/tests/test_subs.py", "zerver/tests/test_thumbnail.py", "zerver/tests/test_upload.py", "zerver/tests/test_upload_local.py", "zerver/tests/test_upload_s3.py"],
-"type": ["assert"],
-"numberOfMigration": ""

@@ -1,7 +1,7 @@
-"commit_hash": "ad587ea792d4f401abc69d010b350dcafe84eab6",
-"commit_link": "https://github.com/scrapy/scrapy/commit/ad587ea792d4f401abc69d010b350dcafe84eab6",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_crawler.py", "tests/test_spiderloader/__init__.py"],
+"commit_hash": "9655b0b8eb4bbc66b0fe540a19265b6342cf371b",
+"commit_link": "https://github.com/scrapy/scrapy/commit/9655b0b8eb4bbc66b0fe540a19265b6342cf371b",
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": [".github/workflows/tests-ubuntu.yml", "pytest.ini", "tests/test_utils_response.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

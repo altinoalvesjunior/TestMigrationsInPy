@@ -1,7 +1,0 @@
-"commit_hash": "d26024763340a53f82aec420aedec1622ffa95b2",
-"commit_link": "https://github.com/getsentry/sentry/commit/d26024763340a53f82aec420aedec1622ffa95b2",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/integrations/slack/test_notifications.py", "tests/sentry/mail/test_adapter.py", "tests/sentry/models/test_project.py"],
-"type": ["assert"],
-"numberOfMigration": ""

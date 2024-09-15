@@ -1,7 +1,0 @@
-"commit_hash": "4f9187547e79ca942f06dcfe0aca7569273b382a",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/4f9187547e79ca942f06dcfe0aca7569273b382a",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["pandas/tests/dtypes/test_concat.py", "pandas/tests/extension/base/dim2.py"],
-"type": ["assert"],
-"numberOfMigration": ""

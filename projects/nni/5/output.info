@@ -1,7 +1,7 @@
-"commit_hash": "ba771871d044f2b682133484d48f5f4c97925bb7",
-"commit_link": "https://github.com/microsoft/nni/commit/ba771871d044f2b682133484d48f5f4c97925bb7",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test/ut/retiarii/test_highlevel_apis.py"],
+"commit_hash": "7f1495c8b338c547005770cb83f2f7f4b88798f3",
+"commit_link": "https://github.com/microsoft/nni/commit/7f1495c8b338c547005770cb83f2f7f4b88798f3",
+"testFilesChanged": 9,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["nni/runtime/platform/test.py", "test/algo/nas/test_cgo_engine.py", "test/algo/nas/test_lightning_trainer.py", "test/algo/nas/test_space_hub.py", "test/ut/__init__.py", "test/ut/sdk/__init__.py", "test/ut/sdk/helper/trial_command_channel.py", "test/ut/sdk/test_trial.py", "test/ut/sdk/test_trial_command_channel.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

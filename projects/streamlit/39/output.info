@@ -1,7 +1,0 @@
-"commit_hash": "962f6931b549c3c77719da2636b4b3a1549d2fa7",
-"commit_link": "https://github.com/streamlit/streamlit/commit/962f6931b549c3c77719da2636b4b3a1549d2fa7",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["lib/tests/streamlit/elements/chat_test.py", "lib/tests/streamlit/elements/element_utils_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

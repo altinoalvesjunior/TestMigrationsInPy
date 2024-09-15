@@ -1,7 +1,0 @@
-"commit_hash": "43c5cbcaef34aeb0141b8ad24027496bf6ec2acd",
-"commit_link": "https://github.com/ansible/ansible/commit/43c5cbcaef34aeb0141b8ad24027496bf6ec2acd",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["test/units/cli/test_galaxy.py"],
-"type": ["assert"],
-"numberOfMigration": ""

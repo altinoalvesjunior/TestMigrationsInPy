@@ -1,7 +1,0 @@
-"commit_hash": "bc7e5fb787b5c9e1dd4b83e8cfb9a41ea1216d0d",
-"commit_link": "https://github.com/aio-libs/aiohttp/commit/bc7e5fb787b5c9e1dd4b83e8cfb9a41ea1216d0d",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/test_flowcontrol_streams.py", "tests/test_server.py", "tests/test_streams.py"],
-"type": ["assert"],
-"numberOfMigration": ""

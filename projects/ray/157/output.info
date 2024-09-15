@@ -1,7 +1,0 @@
-"commit_hash": "2f1721990aa898b9217c3c985abe4dfab99ec362",
-"commit_link": "https://github.com/ray-project/ray/commit/2f1721990aa898b9217c3c985abe4dfab99ec362",
-"testFilesChanged": 7,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["python/ray/tests/lightgbm/simple_tune.py", "python/ray/tests/xgboost/simple_tune.py", "python/ray/train/tests/test_new_persistence.py", "python/ray/train/tests/test_tune.py", "python/ray/tune/tests/test_experiment_analysis.py", "python/ray/tune/tests/test_experiment_analysis_mem.py", "python/ray/tune/tests/test_result_grid.py"],
-"type": ["assert", "fixture", "import", "testcase", "add Param"],
-"numberOfMigration": ""

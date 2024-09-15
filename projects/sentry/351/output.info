@@ -1,7 +1,0 @@
-"commit_hash": "fd16dae6c69db263d5acff51d5ff78e231c4ef4e",
-"commit_link": "https://github.com/getsentry/sentry/commit/fd16dae6c69db263d5acff51d5ff78e231c4ef4e",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/testutils/helpers/redis.py", "tests/sentry/rules/processing/test_delayed_processing.py", "tests/sentry/rules/processing/test_processor.py", "tests/sentry/tasks/test_post_process.py"],
-"type": ["assert"],
-"numberOfMigration": ""

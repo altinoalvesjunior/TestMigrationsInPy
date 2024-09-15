@@ -1,7 +1,0 @@
-"commit_hash": "c9a9c1629c6361d011b60fb4403d8ea9721e9f34",
-"commit_link": "https://github.com/getsentry/sentry/commit/c9a9c1629c6361d011b60fb4403d8ea9721e9f34",
-"testFilesChanged": 12,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["src/sentry/testutils/cases.py", "tests/sentry/api/endpoints/test_organization_metric_details.py", "tests/sentry/incidents/test_subscription_processor.py", "tests/sentry/search/events/test_builder.py", "tests/sentry/sentry_metrics/test_indexer.py", "tests/sentry/sentry_metrics/test_multiprocess_steps.py", "tests/sentry/sentry_metrics/test_postgres_indexer.py", "tests/sentry/snuba/metrics/test_fields.py", "tests/sentry/snuba/metrics/test_query_builder.py", "tests/sentry/snuba/metrics/test_snql.py", "tests/sentry/snuba/test_entity_subscriptions.py", "tests/sentry/snuba/test_tasks.py"],
-"type": ["assert"],
-"numberOfMigration": ""

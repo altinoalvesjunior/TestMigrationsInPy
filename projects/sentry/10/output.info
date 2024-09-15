@@ -1,7 +1,7 @@
-"commit_hash": "8d1d66ccf06851d76e2754c238b75b387a965be5",
-"commit_link": "https://github.com/getsentry/sentry/commit/8d1d66ccf06851d76e2754c238b75b387a965be5",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/web/frontend/projects/tests.py", "tests/sentry/web/frontend/users/tests.py"],
+"commit_hash": "a1112dc2f13e1bf71b6182ed8ea7353d95d3f152",
+"commit_link": "https://github.com/getsentry/sentry/commit/a1112dc2f13e1bf71b6182ed8ea7353d95d3f152",
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/sentry/coreapi/tests.py", "tests/sentry/interfaces/test_csp.py", "tests/sentry/test_event_manager.py"],
 "type": ["assert"],
-"numberOfMigration": ""
+"numberOfMigration": 

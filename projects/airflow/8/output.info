@@ -1,7 +1,7 @@
-"commit_hash": "2f8c9dacc1fadea5c07c1eb73fcea7182b04ffa3",
-"commit_link": "https://github.com/apache/airflow/commit/2f8c9dacc1fadea5c07c1eb73fcea7182b04ffa3",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/contrib/sensors/test_celery_queue_sensor.py", "tests/contrib/sensors/test_emr_base_sensor.py", "tests/core.py", "tests/operators/test_slack_operator.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"commit_hash": "c3af681edf5988d9f9b2aa58c3eb7c97b2f91ca3",
+"commit_link": "https://github.com/apache/airflow/commit/c3af681edf5988d9f9b2aa58c3eb7c97b2f91ca3",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/jobs/test_base_job.py"],
+"type": ["assert", "testcase"],
+"numberOfMigration": 

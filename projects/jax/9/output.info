@@ -1,7 +1,0 @@
-"commit_hash": "7e480fa923097826febec8ac6b74222dca6189a3",
-"commit_link": "https://github.com/google/jax/commit/7e480fa923097826febec8ac6b74222dca6189a3",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["examples/control_test.py", "tests/api_test.py"],
-"type": ["assert"],
-"numberOfMigration": ""

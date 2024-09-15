@@ -1,7 +1,0 @@
-"commit_hash": "8affbc7be6fdce169264b8db5b0276dbcc719f6d",
-"commit_link": "https://github.com/ray-project/ray/commit/8affbc7be6fdce169264b8db5b0276dbcc719f6d",
-"testFilesChanged": 12,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["python/ray/train/tests/test_tune.py", "python/ray/tune/tests/ext_pytorch.py", "python/ray/tune/tests/test_checkpoint_manager.py", "python/ray/tune/tests/test_cluster.py", "python/ray/tune/tests/test_experiment_analysis.py", "python/ray/tune/tests/test_function_api.py", "python/ray/tune/tests/test_ray_trial_executor.py", "python/ray/tune/tests/test_trial_runner_2.py", "python/ray/tune/tests/test_trial_runner_callbacks.py", "python/ray/tune/tests/test_trial_scheduler.py", "python/ray/tune/tests/test_trial_scheduler_pbt.py", "python/ray/tune/tests/test_trial_scheduler_resource_changing.py"],
-"type": ["assert"],
-"numberOfMigration": ""

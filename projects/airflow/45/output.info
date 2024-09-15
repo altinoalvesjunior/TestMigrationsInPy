@@ -1,7 +1,7 @@
-"commit_hash": "22fbd0f32d840c576d123561e68808ad52106582",
-"commit_link": "https://github.com/apache/airflow/commit/22fbd0f32d840c576d123561e68808ad52106582",
+"commit_hash": "2f44f0b023eb8d322fef9b53b609e390e57c7d45",
+"commit_link": "https://github.com/apache/airflow/commit/2f44f0b023eb8d322fef9b53b609e390e57c7d45",
 "testFilesChanged": 2,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/api_connexion/endpoints/test_pool_endpoint.py", "tests/api_connexion/schemas/test_pool_schemas.py"],
-"type": ["assert"],
-"numberOfMigration": ""
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["chart/tests/test_airflow_common.py", "chart/tests/test_annotations.py"],
+"type": ["assert", "import", "testcase", "add Param"],
+"numberOfMigration": 

@@ -1,7 +1,0 @@
-"commit_hash": "d9467206c9c3b04cd89bbd87ac8bede2de3a8a34",
-"commit_link": "https://github.com/getsentry/sentry/commit/d9467206c9c3b04cd89bbd87ac8bede2de3a8a34",
-"testFilesChanged": 21,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/sentry/api/endpoints/test_project_details.py", "tests/sentry/api/validators/sentry_apps/util.py", "tests/sentry/buffer/redis/tests.py", "tests/sentry/event_manager/test_validate_data.py", "tests/sentry/eventstore/test_models.py", "tests/sentry/incidents/endpoints/test_organization_alert_rule_index.py", "tests/sentry/integrations/gitlab/test_client.py", "tests/sentry/mediators/test_mediator.py", "tests/sentry/models/test_organizationmember.py", "tests/sentry/options/test_manager.py", "tests/sentry/options/test_store.py", "tests/sentry/search/events/test_filter.py", "tests/sentry/similarity/test_signatures.py", "tests/sentry/tagstore/test_types.py", "tests/sentry/tasks/test_reports.py", "tests/sentry/test_canonical.py", "tests/sentry/utils/hashlib/tests.py", "tests/sentry/utils/test_metrics.py", "tests/sentry/web/frontend/generic/test_static_media.py", "tests/snuba/api/endpoints/test_organization_events_stats.py", "tests/snuba/api/endpoints/test_organization_events_v2.py"],
-"type": ["assert"],
-"numberOfMigration": ""

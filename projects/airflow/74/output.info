@@ -1,7 +1,7 @@
-"commit_hash": "ee2d6c5c0fa9fdce8fd5163f6d5bf40f46fa4c3f",
-"commit_link": "https://github.com/apache/airflow/commit/ee2d6c5c0fa9fdce8fd5163f6d5bf40f46fa4c3f",
-"testFilesChanged": 11,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["tests/api_connexion/schemas/test_role_and_permission_schema.py", "tests/api_connexion/test_error_handling.py", "tests/cli/commands/test_role_command.py", "tests/cli/commands/test_user_command.py", "tests/cli/conftest.py", "tests/conftest.py", "tests/plugins/test_plugins_manager.py", "tests/providers/google/common/auth_backend/test_google_openid.py", "tests/www/api/experimental/conftest.py", "tests/www/api/experimental/test_dag_runs_endpoint.py", "tests/www/api/experimental/test_endpoints.py"],
-"type": ["fixture", "import", "testcase"],
-"numberOfMigration": ""
+"commit_hash": "f3ad164aefb4915ce8c7725a43ddbcd61c830aa5",
+"commit_link": "https://github.com/apache/airflow/commit/f3ad164aefb4915ce8c7725a43ddbcd61c830aa5",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": ,
+"filesWithMigration": ["tests/providers/amazon/aws/hooks/test_emr.py"],
+"type": ["import", "skip", "testcase", "add Param"],
+"numberOfMigration": 

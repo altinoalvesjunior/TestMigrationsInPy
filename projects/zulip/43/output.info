@@ -1,7 +1,0 @@
-"commit_hash": "6e4c3e41dc78951c6e66e20e68011665b59847c5",
-"commit_link": "https://github.com/zulip/zulip/commit/6e4c3e41dc78951c6e66e20e68011665b59847c5",
-"testFilesChanged": 29,
-"testFilesChangedWithMigrations": "",
-"filesWithMigration": ["analytics/tests/test_counts.py", "analytics/tests/test_views.py", "corporate/tests/test_stripe.py", "tools/create-test-api-docs", "tools/lib/test_script.py", "tools/lib/test_server.py", "tools/setup/emoji/test-emoji-name-scripts", "tools/test-api", "tools/test-backend", "tools/test-help-documentation", "tools/test-js-with-node", "tools/test-js-with-puppeteer", "tools/test-locked-requirements", "tools/test-queue-worker-reload", "tools/test-run-dev", "tools/test-tools", "tools/tests/test_capitalization_checker.py", "tools/tests/test_check_rabbitmq_queue.py", "tools/tests/test_hash_reqs.py", "tools/tests/test_html_branches.py", "tools/tests/test_pretty_print.py", "tools/tests/test_template_parser.py", "tools/tests/test_zulint_custom_rules.py", "zerver/lib/generate_test_data.py", "zerver/lib/test_classes.py", "zerver/lib/test_console_output.py", "zerver/lib/test_fixtures.py", "zerver/lib/test_helpers.py", "zerver/lib/test_runner.py"],
-"type": ["assert"],
-"numberOfMigration": ""
