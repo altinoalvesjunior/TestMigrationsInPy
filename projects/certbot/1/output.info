@@ -1,5 +1,7 @@
 "commit_hash": "5025b4ea9614f87b8e3f8d01c90066fdde664df3",
 "commit_link": "https://github.com/certbot/certbot/commit/5025b4ea9614f87b8e3f8d01c90066fdde664df3",
-"files": ["certbot-postfix/certbot_postfix/installer.py", "certbot-postfix/certbot_postfix/installer_test.py", "certbot-postfix/certbot_postfix/postconf.py", "certbot-postfix/certbot_postfix/util.py", "certbot-postfix/certbot_postfix/util_test.py", "tools/venv.sh", "tools/venv3.sh", "tox.cover.sh", "tox.ini", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["certbot-postfix/certbot_postfix/installer_test.py", "certbot-postfix/certbot_postfix/util_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

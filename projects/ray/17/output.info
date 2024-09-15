@@ -1,5 +1,7 @@
 "commit_hash": "1c5008249862ce16ea4b71679c42651fda12d42b",
 "commit_link": "https://github.com/ray-project/ray/commit/1c5008249862ce16ea4b71679c42651fda12d42b",
-"files": ["test/monitor_test.py", ]
-"type": "import, skip, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/monitor_test.py"],
+"type": ["import", "skip", "testcase"],
 "numberOfMigration": ""

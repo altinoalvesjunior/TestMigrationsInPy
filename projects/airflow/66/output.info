@@ -1,5 +1,7 @@
 "commit_hash": "85a3ce1a47e0b84bac518e87481e92d266edea31",
 "commit_link": "https://github.com/apache/airflow/commit/85a3ce1a47e0b84bac518e87481e92d266edea31",
-"files": ["airflow/providers/snowflake/transfers/s3_to_snowflake.py", "tests/providers/snowflake/transfers/test_s3_to_snowflake.py", ]
-"type": "import, testcase, add Param"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/snowflake/transfers/test_s3_to_snowflake.py"],
+"type": ["import", "testcase", "add Param"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "61b1daa65f2e1978fac127aa11f7b0831d4ff243",
 "commit_link": "https://github.com/ansible/ansible/commit/61b1daa65f2e1978fac127aa11f7b0831d4ff243",
-"files": ["changelogs/fragments/platform-dist-to-nir0s-distro.yaml", "hacking/tests/gen_distribution_version_testcase.py", "lib/ansible/module_utils/common/sys_info.py", "lib/ansible/module_utils/facts/system/distribution.py", "lib/ansible/modules/cloud/misc/xenserver_facts.py", "lib/ansible/modules/system/user.py", "test/units/executor/module_common/test_recursive_finder.py", "test/units/module_utils/basic/test_platform_distribution.py", "test/units/module_utils/test_distribution_version.py", "test/units/module_utils/test_distro.py", ]
-"type": "assert"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["hacking/tests/gen_distribution_version_testcase.py", "test/units/executor/module_common/test_recursive_finder.py", "test/units/module_utils/basic/test_platform_distribution.py", "test/units/module_utils/test_distribution_version.py", "test/units/module_utils/test_distro.py"],
+"type": ["assert"],
 "numberOfMigration": ""

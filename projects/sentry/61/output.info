@@ -1,5 +1,7 @@
 "commit_hash": "756a285275647ccbfd040c4f15fe677ba42a58db",
 "commit_link": "https://github.com/getsentry/sentry/commit/756a285275647ccbfd040c4f15fe677ba42a58db",
-"files": ["src/sentry/web/frontend/team_settings.py", "tests/sentry/web/frontend/test_team_settings.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/web/frontend/test_team_settings.py"],
+"type": ["assert"],
 "numberOfMigration": ""

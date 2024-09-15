@@ -1,5 +1,7 @@
 "commit_hash": "7f1495c8b338c547005770cb83f2f7f4b88798f3",
 "commit_link": "https://github.com/microsoft/nni/commit/7f1495c8b338c547005770cb83f2f7f4b88798f3",
-"files": ["examples/trials/sklearn/regression/main.py", "nni/runtime/platform/__init__.py", "nni/runtime/platform/local.py", "nni/runtime/platform/standalone.py", "nni/runtime/platform/test.py", "nni/runtime/trial_command_channel/__init__.py", "nni/runtime/trial_command_channel/base.py", "nni/runtime/trial_command_channel/local_legacy.py", "nni/runtime/trial_command_channel/standalone.py", "nni/trial.py", "nni/typehint.py", "test/algo/nas/test_cgo_engine.py", "test/algo/nas/test_lightning_trainer.py", "test/algo/nas/test_space_hub.py", "test/ut/__init__.py", "test/ut/sdk/__init__.py", "test/ut/sdk/helper/trial_command_channel.py", "test/ut/sdk/test_trial.py", "test/ut/sdk/test_trial_command_channel.py", ]
-"type": "assert"
+"testFilesChanged": 9,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["nni/runtime/platform/test.py", "test/algo/nas/test_cgo_engine.py", "test/algo/nas/test_lightning_trainer.py", "test/algo/nas/test_space_hub.py", "test/ut/__init__.py", "test/ut/sdk/__init__.py", "test/ut/sdk/helper/trial_command_channel.py", "test/ut/sdk/test_trial.py", "test/ut/sdk/test_trial_command_channel.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "327ff9ea0f5e4712a34d767fee55a549cc1d3f39",
 "commit_link": "https://github.com/zulip/zulip/commit/327ff9ea0f5e4712a34d767fee55a549cc1d3f39",
-"files": ["zerver/lib/markdown/__init__.py", "zerver/lib/url_preview/oembed.py", "zerver/lib/url_preview/parsers/base.py", "zerver/lib/url_preview/parsers/generic.py", "zerver/lib/url_preview/parsers/open_graph.py", "zerver/lib/url_preview/preview.py", "zerver/lib/url_preview/types.py", "zerver/tests/test_link_embed.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/tests/test_link_embed.py"],
+"type": ["assert"],
 "numberOfMigration": ""

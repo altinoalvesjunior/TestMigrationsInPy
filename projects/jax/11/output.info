@@ -1,5 +1,7 @@
 "commit_hash": "b543652332a98e5c15db04651417404513aa4d1a",
 "commit_link": "https://github.com/google/jax/commit/b543652332a98e5c15db04651417404513aa4d1a",
-"files": ["tests/api_test.py", "tests/batching_test.py", "tests/callback_test.py", "tests/generated_fun_test.py", "tests/jax_to_hlo_test.py", "tests/jet_test.py", "tests/lax_control_flow_test.py", "tests/lax_numpy_einsum_test.py", "tests/multi_device_test.py", "tests/nn_test.py", "tests/ode_test.py", "tests/optimizers_test.py", "tests/parallel_test.py", "tests/pmap_test.py", "tests/util_test.py", ]
-"type": "assert"
+"testFilesChanged": 15,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/api_test.py", "tests/batching_test.py", "tests/callback_test.py", "tests/generated_fun_test.py", "tests/jax_to_hlo_test.py", "tests/jet_test.py", "tests/lax_control_flow_test.py", "tests/lax_numpy_einsum_test.py", "tests/multi_device_test.py", "tests/nn_test.py", "tests/ode_test.py", "tests/optimizers_test.py", "tests/parallel_test.py", "tests/pmap_test.py", "tests/util_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

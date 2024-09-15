@@ -1,5 +1,7 @@
 "commit_hash": "7199ef064507a9545684efded687b0a5e43d9c52",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/7199ef064507a9545684efded687b0a5e43d9c52",
-"files": ["pandas/io/tests/test_packers.py", "pandas/io/tests/test_parsers.py", "pandas/io/tests/test_pytables.py", "pandas/io/tests/test_stata.py", "pandas/sparse/tests/test_sparse.py", "pandas/tests/test_compat.py", "pandas/tests/test_frame.py", "pandas/tests/test_graphics.py", "pandas/tests/test_index.py", "pandas/tests/test_internals.py", "pandas/tests/test_multilevel.py", "pandas/tests/test_series.py", "pandas/tseries/tests/test_offsets.py", "pandas/tseries/tests/test_timeseries.py", "pandas/util/testing.py", ]
-"type": "assert"
+"testFilesChanged": 15,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/io/tests/test_packers.py", "pandas/io/tests/test_parsers.py", "pandas/io/tests/test_pytables.py", "pandas/io/tests/test_stata.py", "pandas/sparse/tests/test_sparse.py", "pandas/tests/test_compat.py", "pandas/tests/test_frame.py", "pandas/tests/test_graphics.py", "pandas/tests/test_index.py", "pandas/tests/test_internals.py", "pandas/tests/test_multilevel.py", "pandas/tests/test_series.py", "pandas/tseries/tests/test_offsets.py", "pandas/tseries/tests/test_timeseries.py", "pandas/util/testing.py"],
+"type": ["assert"],
 "numberOfMigration": ""

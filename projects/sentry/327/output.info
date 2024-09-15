@@ -1,5 +1,7 @@
 "commit_hash": "0c866b85e31350c170a4c9886f6ab7f63d30ac9f",
 "commit_link": "https://github.com/getsentry/sentry/commit/0c866b85e31350c170a4c9886f6ab7f63d30ac9f",
-"files": ["src/sentry/rules/conditions/event_frequency.py", "tests/snuba/rules/conditions/test_event_frequency.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/snuba/rules/conditions/test_event_frequency.py"],
+"type": ["assert"],
 "numberOfMigration": ""

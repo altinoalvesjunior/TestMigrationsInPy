@@ -1,5 +1,7 @@
 "commit_hash": "0a41f9799a47c8130d179590478c58b6fd64781d",
 "commit_link": "https://github.com/getsentry/sentry/commit/0a41f9799a47c8130d179590478c58b6fd64781d",
-"files": ["src/sentry/plugins/bases/notify.py", "src/sentry/plugins/sentry_mail/models.py", "src/sentry/rules/actions/notify_event.py", "src/sentry/rules/base.py", "src/sentry/tasks/post_process.py", "src/sentry/templates/sentry/emails/error.html", "tests/sentry/plugins/mail/tests.py", "tests/sentry/rules/actions/test_notify_event.py", "tests/sentry/tasks/post_process/tests.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/plugins/mail/tests.py", "tests/sentry/rules/actions/test_notify_event.py", "tests/sentry/tasks/post_process/tests.py"],
+"type": ["assert"],
 "numberOfMigration": ""

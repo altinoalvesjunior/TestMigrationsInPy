@@ -1,5 +1,7 @@
 "commit_hash": "a447cbbb2d41dda06bcd60cb4f366b4ad9944a70",
 "commit_link": "https://github.com/ray-project/ray/commit/a447cbbb2d41dda06bcd60cb4f366b4ad9944a70",
-"files": ["rllib/BUILD", "rllib/algorithms/algorithm.py", "rllib/algorithms/algorithm_config.py", "rllib/algorithms/ppo/ppo.py", "rllib/algorithms/ppo/tests/test_ppo_rl_trainer.py", "rllib/algorithms/tests/test_algorithm_config.py", "rllib/core/rl_module/marl_module.py", "rllib/core/rl_module/rl_module.py", "rllib/core/rl_module/tests/test_rl_module_specs.py", "rllib/core/rl_trainer/tests/test_trainer_runner_config.py", "rllib/core/rl_trainer/trainer_runner.py", "rllib/core/testing/bc_algorithm.py", "rllib/core/testing/tests/test_bc_algorithm.py", "rllib/core/testing/tf/bc_module.py", "rllib/core/testing/torch/bc_module.py", "rllib/evaluation/rollout_worker.py", "rllib/policy/policy.py", "rllib/utils/policy.py", ]
-"type": "assert"
+"testFilesChanged": 8,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["rllib/algorithms/ppo/tests/test_ppo_rl_trainer.py", "rllib/algorithms/tests/test_algorithm_config.py", "rllib/core/rl_module/tests/test_rl_module_specs.py", "rllib/core/rl_trainer/tests/test_trainer_runner_config.py", "rllib/core/testing/bc_algorithm.py", "rllib/core/testing/tests/test_bc_algorithm.py", "rllib/core/testing/tf/bc_module.py", "rllib/core/testing/torch/bc_module.py"],
+"type": ["assert"],
 "numberOfMigration": ""

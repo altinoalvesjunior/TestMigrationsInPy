@@ -1,5 +1,7 @@
 "commit_hash": "eda6ebb87ddef8f34e7ea6ef7fbf2ab8dc0c9ed2",
 "commit_link": "https://github.com/ray-project/ray/commit/eda6ebb87ddef8f34e7ea6ef7fbf2ab8dc0c9ed2",
-"files": ["python/ray/global_scheduler/test/test.py", "test/actor_test.py", "test/array_test.py", "test/component_failures_test.py", "test/credis_test.py", "test/failure_test.py", "test/microbenchmarks.py", "test/multi_node_test.py", "test/runtest.py", "test/tensorflow_test.py", ]
-"type": "fixture, import, skip, testcase"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/global_scheduler/test/test.py", "test/actor_test.py", "test/array_test.py", "test/component_failures_test.py", "test/credis_test.py", "test/failure_test.py", "test/microbenchmarks.py", "test/multi_node_test.py", "test/runtest.py", "test/tensorflow_test.py"],
+"type": ["fixture", "import", "skip", "testcase"],
 "numberOfMigration": ""

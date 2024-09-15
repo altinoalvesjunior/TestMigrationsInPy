@@ -1,5 +1,7 @@
 "commit_hash": "3dc82eed5757b095c747d8b180da63d52d39a85d",
 "commit_link": "https://github.com/zulip/zulip/commit/3dc82eed5757b095c747d8b180da63d52d39a85d",
-"files": ["zerver/lib/user_groups.py", "zerver/tests/test_event_system.py", "zerver/tests/test_home.py", "zerver/tests/test_user_groups.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/tests/test_event_system.py", "zerver/tests/test_home.py", "zerver/tests/test_user_groups.py"],
+"type": ["assert"],
 "numberOfMigration": ""

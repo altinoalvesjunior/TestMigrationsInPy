@@ -1,5 +1,7 @@
 "commit_hash": "4204ff55fcf9ffbfee1789218f56ebcb62717356",
 "commit_link": "https://github.com/getsentry/sentry/commit/4204ff55fcf9ffbfee1789218f56ebcb62717356",
-"files": ["src/sentry/api/serializers/models/event.py", "src/sentry/conf/server.py", "src/sentry/coreapi.py", "src/sentry/db/models/fields/node.py", "src/sentry/event_manager.py", "src/sentry/eventstream/kafka.py", "src/sentry/eventstream/snuba.py", "src/sentry/interfaces/base.py", "src/sentry/models/event.py", "src/sentry/models/rawevent.py", "src/sentry/tasks/store.py", "src/sentry/testutils/fixtures.py", "src/sentry/utils/canonical.py", "src/sentry/utils/safe.py", "src/sentry/utils/samples.py", "tests/integration/tests.py", "tests/sentry/models/test_event.py", "tests/sentry/test_canonical.py", "tests/sentry/test_event_manager.py", "tests/sentry/utils/test_safe.py", ]
-"type": "assert"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["src/sentry/testutils/fixtures.py", "tests/integration/tests.py", "tests/sentry/models/test_event.py", "tests/sentry/test_canonical.py", "tests/sentry/test_event_manager.py", "tests/sentry/utils/test_safe.py"],
+"type": ["assert"],
 "numberOfMigration": ""

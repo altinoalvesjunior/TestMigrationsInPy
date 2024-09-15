@@ -1,5 +1,7 @@
 "commit_hash": "c380356ff09539305f8c886440523cc566da5755",
 "commit_link": "https://github.com/google/jax/commit/c380356ff09539305f8c886440523cc566da5755",
-"files": ["jax/experimental/jax2tf/tests/control_flow_ops_test.py", "jax/experimental/jax2tf/tests/jax2tf_test.py", "jax/experimental/jax2tf/tests/primitive_harness.py", "jax/experimental/jax2tf/tests/primitives_test.py", "jax/experimental/jax2tf/tests/tf_test_util.py", ]
-"type": "assert"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["jax/experimental/jax2tf/tests/control_flow_ops_test.py", "jax/experimental/jax2tf/tests/jax2tf_test.py", "jax/experimental/jax2tf/tests/primitive_harness.py", "jax/experimental/jax2tf/tests/primitives_test.py", "jax/experimental/jax2tf/tests/tf_test_util.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "bb5c998a5e08efd0d2badb604e79ff08aab2b659",
 "commit_link": "https://github.com/plotly/plotly.py/commit/bb5c998a5e08efd0d2badb604e79ff08aab2b659",
-"files": [".circleci/create_conda_optional_env.sh", "_plotly_future_/__init__.py", "_plotly_future_/renderer_defaults.py", "_plotly_future_/template_defaults.py", "_plotly_future_/v4.py", "plotly/__init__.py", "plotly/basedatatypes.py", "plotly/io/__init__.py", "plotly/io/_base_renderers.py", "plotly/io/_html.py", "plotly/io/_renderers.py", "plotly/io/base_renderers.py", "plotly/offline/offline.py", "plotly/tests/test_core/test_offline/test_offline.py", "plotly/tests/test_io/test_renderers.py", "plotly/tests/test_optional/test_offline/test_offline.py", "plotly/tests/test_orca/test_image_renderers.py", "setup.py", ]
-"type": "assert, add Param"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["plotly/tests/test_core/test_offline/test_offline.py", "plotly/tests/test_io/test_renderers.py", "plotly/tests/test_optional/test_offline/test_offline.py", "plotly/tests/test_orca/test_image_renderers.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

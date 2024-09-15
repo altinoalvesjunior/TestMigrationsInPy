@@ -1,5 +1,7 @@
 "commit_hash": "632fd4286299b7cd82de2a21f03081223cb0f9a0",
 "commit_link": "https://github.com/plotly/dash/commit/632fd4286299b7cd82de2a21f03081223cb0f9a0",
-"files": ["packages/dash-core-components/.circleci/config.yml", "packages/dash-core-components/src/components/DatePickerRange.react.js", "packages/dash-core-components/tests/integration/calendar/test_calendar_props.py", "packages/dash-core-components/tests/test_integration.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["packages/dash-core-components/tests/integration/calendar/test_calendar_props.py", "packages/dash-core-components/tests/test_integration.py"],
+"type": ["assert"],
 "numberOfMigration": ""

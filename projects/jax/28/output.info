@@ -1,5 +1,7 @@
 "commit_hash": "c1e25953a34de2fce7148ab193cea54ef4c27da7",
 "commit_link": "https://github.com/google/jax/commit/c1e25953a34de2fce7148ab193cea54ef4c27da7",
-"files": ["jax/api.py", "tests/api_test.py", "tests/debug_nans_test.py", "tests/jax_jit_test.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/api_test.py", "tests/debug_nans_test.py", "tests/jax_jit_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

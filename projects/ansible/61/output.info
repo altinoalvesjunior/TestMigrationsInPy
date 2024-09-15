@@ -1,5 +1,7 @@
 "commit_hash": "c6d5be5cac0f5cd6aec0b9066bc38a5d8ce848ee",
 "commit_link": "https://github.com/ansible/ansible/commit/c6d5be5cac0f5cd6aec0b9066bc38a5d8ce848ee",
-"files": ["test/units/cli/test_galaxy.py", "test/units/module_utils/basic/test_filesystem.py", "test/units/module_utils/facts/test_collector.py", "test/units/module_utils/urls/test_fetch_url.py", "test/units/template/test_templar.py", "test/units/utils/test_helpers.py", "test/units/utils/test_vars.py", ]
-"type": "assert, import, testcase, add Param"
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/units/cli/test_galaxy.py", "test/units/module_utils/basic/test_filesystem.py", "test/units/module_utils/facts/test_collector.py", "test/units/module_utils/urls/test_fetch_url.py", "test/units/template/test_templar.py", "test/units/utils/test_helpers.py", "test/units/utils/test_vars.py"],
+"type": ["assert", "import", "testcase", "add Param"],
 "numberOfMigration": ""

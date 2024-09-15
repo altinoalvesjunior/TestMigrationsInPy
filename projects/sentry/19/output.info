@@ -1,5 +1,7 @@
 "commit_hash": "da6a4739bf992612c96803f19af4100479b77463",
 "commit_link": "https://github.com/getsentry/sentry/commit/da6a4739bf992612c96803f19af4100479b77463",
-"files": ["src/sentry/manager.py", "src/sentry/services/udp.py", "src/sentry/tasks/fetch_source.py", "src/sentry/tasks/store.py", "src/sentry/web/api.py", "tests/sentry/coreapi/tests.py", "tests/sentry/manager/tests.py", "tests/sentry/tasks/fetch_source/tests.py", "tests/sentry/tasks/store/tests.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/coreapi/tests.py", "tests/sentry/manager/tests.py", "tests/sentry/tasks/fetch_source/tests.py", "tests/sentry/tasks/store/tests.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

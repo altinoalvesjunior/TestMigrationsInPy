@@ -1,5 +1,7 @@
 "commit_hash": "63cb84dc304b036004dc6fc6f8adcc0ea113cba6",
 "commit_link": "https://github.com/joke2k/faker/commit/63cb84dc304b036004dc6fc6f8adcc0ea113cba6",
-"files": ["faker/decode/__init__.py", "faker/decode/codes.py", "faker/providers/internet/__init__.py", "faker/providers/python/__init__.py", "setup.py", "tests/providers/test_date_time.py", "tests/providers/test_python.py", "tests/test_decode.py", "tests/test_factory.py", ]
-"type": "assert, add Param"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/test_date_time.py", "tests/providers/test_python.py", "tests/test_decode.py", "tests/test_factory.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

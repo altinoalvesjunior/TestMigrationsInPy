@@ -1,5 +1,7 @@
 "commit_hash": "67a61e1d9415edf7eb18636c42d8f72228fdf418",
 "commit_link": "https://github.com/microsoft/nni/commit/67a61e1d9415edf7eb18636c42d8f72228fdf418",
-"files": ["nni/nas/execution/cgo/__init__.py", "nni/nas/execution/cgo/evaluator.py", "nni/nas/execution/cgo/logical_optimizer/__init__.py", "nni/nas/execution/cgo/logical_optimizer/interface.py", "nni/nas/execution/cgo/logical_optimizer/logical_plan.py", "nni/nas/execution/cgo/logical_optimizer/opt_dedup_input.py", "nni/nas/execution/cgo/middleware.py", "nni/nas/execution/pytorch/cgo/engine.py", "test/algo/nas/cgo/__init__.py", "test/algo/nas/cgo/mnist_pytorch.json", "test/algo/nas/cgo/test_cgo_engine.py", "test/algo/nas/test_cgo_engine.py", ]
-"type": "assert, fixture, import, skip, testcase"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/algo/nas/cgo/__init__.py", "test/algo/nas/cgo/mnist_pytorch.json", "test/algo/nas/cgo/test_cgo_engine.py", "test/algo/nas/test_cgo_engine.py"],
+"type": ["assert", "fixture", "import", "skip", "testcase"],
 "numberOfMigration": ""

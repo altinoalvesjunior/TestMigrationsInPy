@@ -1,5 +1,7 @@
 "commit_hash": "d302553a3724e0142b2a4420649e228a0632d36e",
 "commit_link": "https://github.com/streamlit/streamlit/commit/d302553a3724e0142b2a4420649e228a0632d36e",
-"files": ["frontend/app/src/App.tsx", "lib/streamlit/runtime/app_session.py", "lib/streamlit/runtime/forward_msg_queue.py", "lib/tests/streamlit/runtime/app_session_test.py", "lib/tests/streamlit/runtime/forward_msg_queue_test.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["lib/tests/streamlit/runtime/app_session_test.py", "lib/tests/streamlit/runtime/forward_msg_queue_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

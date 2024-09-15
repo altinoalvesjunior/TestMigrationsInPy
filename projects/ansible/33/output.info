@@ -1,5 +1,7 @@
 "commit_hash": "aba4bed803fc783ea920798356eee196f7b56129",
 "commit_link": "https://github.com/ansible/ansible/commit/aba4bed803fc783ea920798356eee196f7b56129",
-"files": ["lib/ansible/module_utils/basic.py", "lib/ansible/module_utils/common/parameters.py", "lib/ansible/module_utils/network/aireos/aireos.py", "lib/ansible/module_utils/network/aruba/aruba.py", "lib/ansible/module_utils/network/asa/asa.py", "lib/ansible/module_utils/network/cnos/cnos.py", "lib/ansible/module_utils/network/dellos10/dellos10.py", "lib/ansible/module_utils/network/dellos6/dellos6.py", "lib/ansible/module_utils/network/dellos9/dellos9.py", "lib/ansible/module_utils/network/enos/enos.py", "lib/ansible/module_utils/network/eos/eos.py", "lib/ansible/module_utils/network/exos/exos.py", "lib/ansible/module_utils/network/ironware/ironware.py", "lib/ansible/module_utils/network/junos/junos.py", "lib/ansible/module_utils/network/nxos/nxos.py", "lib/ansible/module_utils/network/routeros/routeros.py", "lib/ansible/module_utils/network/sros/sros.py", "lib/ansible/module_utils/network/vyos/vyos.py", "test/units/executor/module_common/test_recursive_finder.py", "test/units/module_utils/basic/test_no_log.py", "test/units/module_utils/common/parameters/test_list_deprecations.py", "test/units/module_utils/common/parameters/test_list_no_log_values.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/units/executor/module_common/test_recursive_finder.py", "test/units/module_utils/basic/test_no_log.py", "test/units/module_utils/common/parameters/test_list_deprecations.py", "test/units/module_utils/common/parameters/test_list_no_log_values.py"],
+"type": ["assert"],
 "numberOfMigration": ""

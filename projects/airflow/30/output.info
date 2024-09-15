@@ -1,5 +1,7 @@
 "commit_hash": "11454cb759d3d58464586e50cbfbbefb1c39133c",
 "commit_link": "https://github.com/apache/airflow/commit/11454cb759d3d58464586e50cbfbbefb1c39133c",
-"files": ["tests/providers/google/cloud/hooks/test_bigquery.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/google/cloud/hooks/test_bigquery.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

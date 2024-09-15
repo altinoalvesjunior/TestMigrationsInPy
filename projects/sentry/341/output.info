@@ -1,5 +1,7 @@
 "commit_hash": "963102bdd7c3237fd673b13bc479b6462a4e3feb",
 "commit_link": "https://github.com/getsentry/sentry/commit/963102bdd7c3237fd673b13bc479b6462a4e3feb",
-"files": ["src/sentry/conf/server.py", "src/sentry/monitors/clock_dispatch.py", "src/sentry/monitors/consumers/monitor_consumer.py", "src/sentry/monitors/tasks.py", "src/sentry/monitors/tasks/__init__.py", "src/sentry/monitors/tasks/check_missed.py", "src/sentry/monitors/tasks/check_timeout.py", "src/sentry/monitors/tasks/clock_pulse.py", "src/sentry/monitors/tasks/detect_broken_monitor_envs.py", "src/sentry/monitors/testutils.py", "tests/sentry/monitors/tasks/test_check_missed.py", "tests/sentry/monitors/tasks/test_check_timeout.py", "tests/sentry/monitors/tasks/test_clock_pulse.py", "tests/sentry/monitors/tasks/test_detect_broken_monitor_envs.py", "tests/sentry/monitors/test_clock_dispatch.py", "tests/sentry/monitors/test_tasks.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["src/sentry/monitors/testutils.py", "tests/sentry/monitors/tasks/test_check_missed.py", "tests/sentry/monitors/tasks/test_check_timeout.py", "tests/sentry/monitors/tasks/test_clock_pulse.py", "tests/sentry/monitors/tasks/test_detect_broken_monitor_envs.py", "tests/sentry/monitors/test_clock_dispatch.py", "tests/sentry/monitors/test_tasks.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "5f190395adfe63b68a5fdf7cbba7837c7e968e9f",
 "commit_link": "https://github.com/quantopian/zipline/commit/5f190395adfe63b68a5fdf7cbba7837c7e968e9f",
-"files": ["setup.py", "tests/pipeline/test_adjusted_array.py", "tests/pipeline/test_classifier.py", "tests/pipeline/test_column.py", "tests/pipeline/test_term.py", "tests/test_labelarray.py", "zipline/algorithm.py", "zipline/data/us_equity_loader.py", "zipline/lib/_factorize.pyx", "zipline/lib/_float64window.pyx", "zipline/lib/_int64window.pyx", "zipline/lib/_labelwindow.pyx", "zipline/lib/_uint8window.pyx", "zipline/lib/_windowtemplate.pxi", "zipline/lib/adjusted_array.py", "zipline/lib/adjustment.pyx", "zipline/lib/labelarray.py", "zipline/pipeline/api_utils.py", "zipline/pipeline/classifiers/classifier.py", "zipline/pipeline/data/dataset.py", "zipline/pipeline/data/testing.py", "zipline/pipeline/engine.py", "zipline/pipeline/factors/factor.py", "zipline/pipeline/loaders/synthetic.py", "zipline/pipeline/mixins.py", "zipline/pipeline/term.py", "zipline/testing/__init__.py", "zipline/testing/core.py", "zipline/utils/compat.py", "zipline/utils/functional.py", "zipline/utils/input_validation.py", "zipline/utils/numpy_utils.py", ]
-"type": "assert"
+"testFilesChanged": 8,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/pipeline/test_adjusted_array.py", "tests/pipeline/test_classifier.py", "tests/pipeline/test_column.py", "tests/pipeline/test_term.py", "tests/test_labelarray.py", "zipline/pipeline/data/testing.py", "zipline/testing/__init__.py", "zipline/testing/core.py"],
+"type": ["assert"],
 "numberOfMigration": ""

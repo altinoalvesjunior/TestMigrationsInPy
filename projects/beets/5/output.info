@@ -1,5 +1,7 @@
 "commit_hash": "11e948121cde969f9ea27caa545a6508145572fb",
 "commit_link": "https://github.com/beetbox/beets/commit/11e948121cde969f9ea27caa545a6508145572fb",
-"files": ["test/plugins/test_art.py", "test/plugins/test_bareasc.py", "test/plugins/test_discogs.py", "test/plugins/test_edit.py", "test/plugins/test_export.py", "test/plugins/test_hook.py", "test/plugins/test_importfeeds.py", "test/plugins/test_info.py", "test/plugins/test_lyrics.py", "test/plugins/test_mbsubmit.py", "test/plugins/test_mbsync.py", "test/plugins/test_mpdstats.py", "test/plugins/test_player.py", "test/plugins/test_plugin_mediafield.py", "test/plugins/test_spotify.py", "test/plugins/test_types_plugin.py", "test/test_autotag.py", "test/test_config_command.py", "test/test_dbcore.py", "test/test_files.py", "test/test_importer.py", "test/test_library.py", "test/test_logging.py", "test/test_metasync.py", "test/test_plugins.py", "test/test_query.py", "test/test_ui.py", ]
-"type": "assert"
+"testFilesChanged": 27,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/plugins/test_art.py", "test/plugins/test_bareasc.py", "test/plugins/test_discogs.py", "test/plugins/test_edit.py", "test/plugins/test_export.py", "test/plugins/test_hook.py", "test/plugins/test_importfeeds.py", "test/plugins/test_info.py", "test/plugins/test_lyrics.py", "test/plugins/test_mbsubmit.py", "test/plugins/test_mbsync.py", "test/plugins/test_mpdstats.py", "test/plugins/test_player.py", "test/plugins/test_plugin_mediafield.py", "test/plugins/test_spotify.py", "test/plugins/test_types_plugin.py", "test/test_autotag.py", "test/test_config_command.py", "test/test_dbcore.py", "test/test_files.py", "test/test_importer.py", "test/test_library.py", "test/test_logging.py", "test/test_metasync.py", "test/test_plugins.py", "test/test_query.py", "test/test_ui.py"],
+"type": ["assert"],
 "numberOfMigration": ""

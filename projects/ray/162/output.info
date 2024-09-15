@@ -1,5 +1,7 @@
 "commit_hash": "af12c2f496da0e9eb5c4a7a5b5bab61fd0f59847",
 "commit_link": "https://github.com/ray-project/ray/commit/af12c2f496da0e9eb5c4a7a5b5bab61fd0f59847",
-"files": ["python/ray/train/tests/util.py", "python/ray/tune/BUILD", "python/ray/tune/execution/tune_controller.py", "python/ray/tune/tests/_test_trial_runner_3.py", "python/ray/tune/tests/execution/test_controller_checkpointing_integration.py", "python/ray/tune/tests/execution/test_controller_resume_integration.py", "python/ray/tune/tests/test_searcher_utils.py", ]
-"type": "assert, fixture, import, testcase, add Param"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/train/tests/util.py", "python/ray/tune/tests/_test_trial_runner_3.py", "python/ray/tune/tests/execution/test_controller_checkpointing_integration.py", "python/ray/tune/tests/execution/test_controller_resume_integration.py", "python/ray/tune/tests/test_searcher_utils.py"],
+"type": ["assert", "fixture", "import", "testcase", "add Param"],
 "numberOfMigration": ""

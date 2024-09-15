@@ -1,5 +1,7 @@
 "commit_hash": "302efad167a54f05642ff163c1319b40d2196970",
 "commit_link": "https://github.com/apache/airflow/commit/302efad167a54f05642ff163c1319b40d2196970",
-"files": ["UPDATING.md", "airflow/migrations/versions/f9da662e7089_add_task_log_filename_template_model.py", "airflow/models/dagrun.py", "airflow/models/tasklog.py", "airflow/utils/cli.py", "airflow/utils/db.py", "airflow/utils/helpers.py", "airflow/utils/log/task_handler_with_custom_formatter.py", "docs/apache-airflow/migrations-ref.rst", "tests/utils/test_task_handler_with_custom_formatter.py", "tests/www/views/test_views_log.py", ]
-"type": "fixture, import, testcase"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/utils/test_task_handler_with_custom_formatter.py", "tests/www/views/test_views_log.py"],
+"type": ["fixture", "import", "testcase"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "d970be64cc47c382bd615cd547e7e94c17e27b48",
 "commit_link": "https://github.com/scrapy/scrapy/commit/d970be64cc47c382bd615cd547e7e94c17e27b48",
-"files": ["tests/test_scheduler.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_scheduler.py"],
+"type": ["assert"],
 "numberOfMigration": ""

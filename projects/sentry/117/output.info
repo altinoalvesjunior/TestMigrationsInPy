@@ -1,5 +1,7 @@
 "commit_hash": "10162e0e32483ce4726721b605162ef8cc6f4391",
 "commit_link": "https://github.com/getsentry/sentry/commit/10162e0e32483ce4726721b605162ef8cc6f4391",
-"files": ["src/sentry/integrations/vsts/client.py", "src/sentry/integrations/vsts/integration.py", "tests/sentry/integrations/vsts/test_client.py", "tests/sentry/integrations/vsts/test_integration.py", "tests/sentry/integrations/vsts/testutils.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/integrations/vsts/test_client.py", "tests/sentry/integrations/vsts/test_integration.py", "tests/sentry/integrations/vsts/testutils.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

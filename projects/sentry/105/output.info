@@ -1,5 +1,7 @@
 "commit_hash": "c339f0e8fbf498dd75fcf5af8f7bed12b0b9dbcf",
 "commit_link": "https://github.com/getsentry/sentry/commit/c339f0e8fbf498dd75fcf5af8f7bed12b0b9dbcf",
-"files": ["src/sentry/api/endpoints/organization_details.py", "src/sentry/models/organization.py", "src/sentry/templates/sentry/emails/setup_2fa.html", "src/sentry/templates/sentry/emails/setup_2fa.txt", "src/sentry/web/debug_urls.py", "src/sentry/web/frontend/debug/debug_setup_2fa_email.py", "tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/models/test_organization.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/models/test_organization.py"],
+"type": ["assert"],
 "numberOfMigration": ""

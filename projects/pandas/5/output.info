@@ -1,5 +1,7 @@
 "commit_hash": "be80898920eab8f740cf61019327621a75d73947",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/be80898920eab8f740cf61019327621a75d73947",
-"files": ["doc/source/dsintro.rst", "doc/source/v0.13.0.txt", "pandas/core/config_init.py", "pandas/core/format.py", "pandas/core/frame.py", "pandas/tests/test_format.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/test_format.py"],
+"type": ["assert"],
 "numberOfMigration": ""

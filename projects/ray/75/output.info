@@ -1,5 +1,7 @@
 "commit_hash": "16ddab49f576e7d8354ec3f35a0031bd1b57af97",
 "commit_link": "https://github.com/ray-project/ray/commit/16ddab49f576e7d8354ec3f35a0031bd1b57af97",
-"files": ["rllib/BUILD", "rllib/agents/dqn/tests/test_dqn.py", "rllib/agents/trainer.py", "rllib/agents/trainer_template.py", "rllib/env/base_env.py", "rllib/env/multi_agent_env.py", "rllib/evaluation/tests/test_evaluation.py", "rllib/rollout.py", "rllib/tests/test_evaluators.py", ]
-"type": "assert, import, testcase"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["rllib/agents/dqn/tests/test_dqn.py", "rllib/evaluation/tests/test_evaluation.py", "rllib/tests/test_evaluators.py"],
+"type": ["assert", "import", "testcase"],
 "numberOfMigration": ""

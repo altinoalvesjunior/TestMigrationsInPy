@@ -1,5 +1,7 @@
 "commit_hash": "a6126783787c80c7426c6d3e44f0f2b926397576",
 "commit_link": "https://github.com/getsentry/sentry/commit/a6126783787c80c7426c6d3e44f0f2b926397576",
-"files": ["src/sentry/app.py", "src/sentry/buffer/base.py", "src/sentry/conf/defaults.py", "src/sentry/coreapi.py", "src/sentry/manager.py", "src/sentry/processors/base.py", "src/sentry/tasks/check_alerts.py", "src/sentry/tasks/post_process.py", "src/sentry/tasks/store.py", "src/sentry/utils/queue.py", "tests/sentry/buffer/base/tests.py", "tests/sentry/buffer/redis/tests.py", "tests/sentry/tasks/check_alerts/tests.py", "tests/sentry/tasks/store/tests.py", "tests/sentry/utils/queue/__init__.py", "tests/sentry/utils/queue/tests.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/buffer/base/tests.py", "tests/sentry/buffer/redis/tests.py", "tests/sentry/tasks/check_alerts/tests.py", "tests/sentry/tasks/store/tests.py", "tests/sentry/utils/queue/__init__.py", "tests/sentry/utils/queue/tests.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "ecc2d4db9722507c2fd54fc348108b7fe8559b40",
 "commit_link": "https://github.com/joke2k/faker/commit/ecc2d4db9722507c2fd54fc348108b7fe8559b40",
-"files": ["faker/generator.py", "faker/providers/misc/__init__.py", "tests/providers/test_misc.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/test_misc.py"],
+"type": ["assert"],
 "numberOfMigration": ""

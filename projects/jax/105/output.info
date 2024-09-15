@@ -1,5 +1,7 @@
 "commit_hash": "3b28d4e180f3ccf3112dc9bda444a28bab846b13",
 "commit_link": "https://github.com/google/jax/commit/3b28d4e180f3ccf3112dc9bda444a28bab846b13",
-"files": ["jax/BUILD", "jax/_src/cache_key.py", "jax/_src/compilation_cache.py", "tests/BUILD", "tests/cache_key_test.py", "tests/compilation_cache_test.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/BUILD", "tests/cache_key_test.py", "tests/compilation_cache_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

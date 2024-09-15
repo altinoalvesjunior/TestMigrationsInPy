@@ -1,5 +1,7 @@
 "commit_hash": "1a8d284ede021113bcc523b8de0e7d3b540ff908",
 "commit_link": "https://github.com/getsentry/sentry/commit/1a8d284ede021113bcc523b8de0e7d3b540ff908",
-"files": ["src/sentry/conf/server.py", "src/sentry/features/__init__.py", "src/sentry/web/frontend/setup_wizard.py", "static/app/views/settings/organization/navigationConfiguration.tsx", "static/app/views/settings/settingsIndex.tsx", "tests/sentry/web/frontend/test_setup_wizard.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/web/frontend/test_setup_wizard.py"],
+"type": ["assert"],
 "numberOfMigration": ""

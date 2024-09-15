@@ -1,5 +1,7 @@
 "commit_hash": "85a68761196b6e9b0db0fdf87bc7fb750f4163fe",
 "commit_link": "https://github.com/ray-project/ray/commit/85a68761196b6e9b0db0fdf87bc7fb750f4163fe",
-"files": ["python/ray/autoscaler/autoscaler.py", "python/ray/autoscaler/aws/config.py", "python/ray/autoscaler/aws/node_provider.py", "python/ray/autoscaler/azure/node_provider.py", "python/ray/autoscaler/commands.py", "python/ray/autoscaler/local/node_provider.py", "python/ray/autoscaler/node_launcher.py", "python/ray/autoscaler/node_provider.py", "python/ray/autoscaler/resource_demand_scheduler.py", "python/ray/autoscaler/tags.py", "python/ray/tests/test_autoscaler.py", "python/ray/tests/test_coordinator_server.py", "python/ray/tests/test_resource_demand_scheduler.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/tests/test_autoscaler.py", "python/ray/tests/test_coordinator_server.py", "python/ray/tests/test_resource_demand_scheduler.py"],
+"type": ["assert"],
 "numberOfMigration": ""

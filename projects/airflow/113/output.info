@@ -1,5 +1,7 @@
 "commit_hash": "da485da29a06ecdda720a7ba75f04a2680aac0a2",
 "commit_link": "https://github.com/apache/airflow/commit/da485da29a06ecdda720a7ba75f04a2680aac0a2",
-"files": ["airflow/providers/apache/beam/example_dags/example_beam.py", "airflow/providers/apache/beam/hooks/beam.py", "airflow/providers/apache/beam/operators/beam.py", "airflow/providers/google/cloud/hooks/dataflow.py", "airflow/providers/google/cloud/hooks/gcs.py", "airflow/providers/google/cloud/operators/dataflow.py", "airflow/providers/google/go_module_utils.py", "airflow/utils/process_utils.py", "docs/apache-airflow-providers-apache-beam/operators.rst", "docs/spelling_wordlist.txt", "setup.py", "tests/providers/apache/beam/hooks/test_beam.py", "tests/providers/apache/beam/operators/test_beam.py", "tests/providers/apache/beam/operators/test_beam_system.py", "tests/providers/google/cloud/hooks/test_gcs.py", "tests/providers/google/test_go_module.py", "tests/utils/test_process_utils.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/apache/beam/hooks/test_beam.py", "tests/providers/apache/beam/operators/test_beam.py", "tests/providers/apache/beam/operators/test_beam_system.py", "tests/providers/google/cloud/hooks/test_gcs.py", "tests/providers/google/test_go_module.py", "tests/utils/test_process_utils.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

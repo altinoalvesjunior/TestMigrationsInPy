@@ -1,5 +1,7 @@
 "commit_hash": "f0919f272d9614058b5ebb5e0664d1ac6f23540f",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/f0919f272d9614058b5ebb5e0664d1ac6f23540f",
-"files": ["doc/source/whatsnew/v0.25.0.rst", "pandas/_libs/tslibs/c_timestamp.pyx", "pandas/tests/scalar/timestamp/test_arithmetic.py", "pandas/tests/scalar/timestamp/test_comparisons.py", "pandas/tests/scalar/timestamp/test_timestamp.py", ]
-"type": "assert, add Param"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/scalar/timestamp/test_arithmetic.py", "pandas/tests/scalar/timestamp/test_comparisons.py", "pandas/tests/scalar/timestamp/test_timestamp.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "3b0da2f1ce8a7515d7c8b2396a626e41e6cad0e2",
 "commit_link": "https://github.com/apache/airflow/commit/3b0da2f1ce8a7515d7c8b2396a626e41e6cad0e2",
-"files": ["tests/core.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/core.py"],
+"type": ["assert"],
 "numberOfMigration": ""

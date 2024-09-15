@@ -1,5 +1,7 @@
 "commit_hash": "330d1385d97c3f3729f06e109be9e0f37fbd877a",
 "commit_link": "https://github.com/zulip/zulip/commit/330d1385d97c3f3729f06e109be9e0f37fbd877a",
-"files": ["zerver/tests/test_signup.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/tests/test_signup.py"],
+"type": ["assert"],
 "numberOfMigration": ""

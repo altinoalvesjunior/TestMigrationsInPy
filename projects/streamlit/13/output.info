@@ -1,5 +1,7 @@
 "commit_hash": "b214edebc0e97518cad18eb4766258d412751fe9",
 "commit_link": "https://github.com/streamlit/streamlit/commit/b214edebc0e97518cad18eb4766258d412751fe9",
-"files": ["lib/streamlit/elements/exception.py", "lib/streamlit/error_util.py", "lib/streamlit/errors.py", "lib/tests/streamlit/caching_test.py", "lib/tests/streamlit/error_util_test.py", "lib/tests/streamlit/exception_test.py", "lib/tests/streamlit/scriptrunner/script_runner_test.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["lib/tests/streamlit/caching_test.py", "lib/tests/streamlit/error_util_test.py", "lib/tests/streamlit/exception_test.py", "lib/tests/streamlit/scriptrunner/script_runner_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

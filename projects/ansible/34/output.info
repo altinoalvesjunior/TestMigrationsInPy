@@ -1,5 +1,7 @@
 "commit_hash": "43a44e6f3533170557cb971df6b3272e8bb7fa6b",
 "commit_link": "https://github.com/ansible/ansible/commit/43a44e6f3533170557cb971df6b3272e8bb7fa6b",
-"files": ["lib/ansible/module_utils/basic.py", "lib/ansible/module_utils/common/validation.py", "test/integration/targets/cs_ip_address/tasks/main.yml", "test/integration/targets/cs_role_permission/tasks/main.yml", "test/integration/targets/cs_vlan_ip_range/tasks/main.yml", "test/integration/targets/docker_network/tasks/tests/ipam.yml", "test/integration/targets/git_config/tasks/exclusion_state_list-all.yml", "test/units/executor/module_common/test_recursive_finder.py", "test/units/module_utils/basic/test_argument_spec.py", "test/units/module_utils/common/validation/test_check_mutually_exclusive.py", "test/units/module_utils/common/validation/test_count_terms.py", "test/units/modules/network/nxos/test_nxos_bgp_af.py", ]
-"type": "assert, add Param"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/integration/targets/cs_ip_address/tasks/main.yml", "test/integration/targets/cs_role_permission/tasks/main.yml", "test/integration/targets/cs_vlan_ip_range/tasks/main.yml", "test/integration/targets/docker_network/tasks/tests/ipam.yml", "test/integration/targets/git_config/tasks/exclusion_state_list-all.yml", "test/units/executor/module_common/test_recursive_finder.py", "test/units/module_utils/basic/test_argument_spec.py", "test/units/module_utils/common/validation/test_check_mutually_exclusive.py", "test/units/module_utils/common/validation/test_count_terms.py", "test/units/modules/network/nxos/test_nxos_bgp_af.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

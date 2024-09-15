@@ -1,5 +1,7 @@
 "commit_hash": "e59a0506feb4fdf71b0423c6c34cb19ef616674c",
 "commit_link": "https://github.com/google/jax/commit/e59a0506feb4fdf71b0423c6c34cb19ef616674c",
-"files": ["CHANGELOG.md", "benchmarks/api_benchmark.py", "jax/__init__.py", "jax/experimental/array_serialization/serialization.py", "jax/experimental/custom_partitioning.py", "jax/experimental/jax2tf/tests/models_test_main.py", "jax/experimental/multihost_utils.py", "tests/api_test.py", "tests/lax_numpy_ufuncs_test.py", "tests/pjit_test.py", "tests/shard_map_test.py", ]
-"type": "assert"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["jax/experimental/jax2tf/tests/models_test_main.py", "tests/api_test.py", "tests/lax_numpy_ufuncs_test.py", "tests/pjit_test.py", "tests/shard_map_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

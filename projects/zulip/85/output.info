@@ -1,5 +1,7 @@
 "commit_hash": "7ad06473b6d90c61a4bf83aefd915cfee6da9ed1",
 "commit_link": "https://github.com/zulip/zulip/commit/7ad06473b6d90c61a4bf83aefd915cfee6da9ed1",
-"files": ["zerver/lib/export.py", "zerver/lib/import_realm.py", "zerver/lib/test_helpers.py", "zerver/lib/test_runner.py", "zerver/lib/transfer.py", "zerver/lib/upload/local.py", "zerver/migrations/0149_realm_emoji_drop_unique_constraint.py", "zerver/tests/test_import_export.py", "zerver/tests/test_upload.py", "zproject/computed_settings.py", "zproject/default_settings.py", "zproject/dev_urls.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/lib/test_helpers.py", "zerver/lib/test_runner.py", "zerver/tests/test_import_export.py", "zerver/tests/test_upload.py"],
+"type": ["assert"],
 "numberOfMigration": ""

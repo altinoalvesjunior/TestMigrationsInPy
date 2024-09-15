@@ -1,5 +1,7 @@
 "commit_hash": "c3044ec2f3416bdec19ea66504b7911549bd3b16",
 "commit_link": "https://github.com/huggingface/transformers/commit/c3044ec2f3416bdec19ea66504b7911549bd3b16",
-"files": ["docs/source/de/installation.md", "docs/source/en/installation.md", "docs/source/es/installation.md", "docs/source/fr/installation.md", "docs/source/it/installation.md", "docs/source/ja/installation.md", "docs/source/ko/installation.md", "docs/source/pt/installation.md", "docs/source/zh/installation.md", "src/transformers/modeling_flax_utils.py", "src/transformers/modeling_tf_utils.py", "src/transformers/modeling_utils.py", "src/transformers/utils/hub.py", "tests/test_configuration_utils.py", "tests/utils/test_hub_utils.py", "tests/utils/test_offline.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_configuration_utils.py", "tests/utils/test_hub_utils.py", "tests/utils/test_offline.py"],
+"type": ["assert"],
 "numberOfMigration": ""

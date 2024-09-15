@@ -1,5 +1,7 @@
 "commit_hash": "2f44f0b023eb8d322fef9b53b609e390e57c7d45",
 "commit_link": "https://github.com/apache/airflow/commit/2f44f0b023eb8d322fef9b53b609e390e57c7d45",
-"files": ["chart/templates/flower/flower-deployment.yaml", "chart/templates/scheduler/scheduler-deployment.yaml", "chart/templates/triggerer/triggerer-deployment.yaml", "chart/templates/webserver/webserver-deployment.yaml", "chart/templates/workers/worker-deployment.yaml", "chart/tests/test_airflow_common.py", "chart/tests/test_annotations.py", "chart/values.schema.json", "chart/values.yaml", ]
-"type": "assert, import, testcase, add Param"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["chart/tests/test_airflow_common.py", "chart/tests/test_annotations.py"],
+"type": ["assert", "import", "testcase", "add Param"],
 "numberOfMigration": ""

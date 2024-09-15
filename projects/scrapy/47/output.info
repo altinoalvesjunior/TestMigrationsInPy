@@ -1,5 +1,7 @@
 "commit_hash": "303f0a70fcf8067adf0a909c2096a5009162383a",
 "commit_link": "https://github.com/scrapy/scrapy/commit/303f0a70fcf8067adf0a909c2096a5009162383a",
-"files": ["scrapy/pipelines/images.py", "scrapy/shell.py", "setup.py", "tests/test_command_shell.py", "tests/test_http_response.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_command_shell.py", "tests/test_http_response.py"],
+"type": ["assert"],
 "numberOfMigration": ""

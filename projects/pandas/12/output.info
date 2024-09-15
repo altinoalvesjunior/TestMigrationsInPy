@@ -1,5 +1,7 @@
 "commit_hash": "525e83555df2e60bb46f0770549622d61eb5be90",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/525e83555df2e60bb46f0770549622d61eb5be90",
-"files": ["pandas/tseries/tests/test_offsets.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tseries/tests/test_offsets.py"],
+"type": ["assert"],
 "numberOfMigration": ""

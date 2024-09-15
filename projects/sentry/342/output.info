@@ -1,5 +1,7 @@
 "commit_hash": "7d5ee4bd3ff81f313b72087c3cabc8c3db3c2645",
 "commit_link": "https://github.com/getsentry/sentry/commit/7d5ee4bd3ff81f313b72087c3cabc8c3db3c2645",
-"files": ["src/sentry/replays/tasks.py", "tests/sentry/replays/scripts/test_delete_replays.py", "tests/sentry/replays/test_project_replay_details.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/replays/scripts/test_delete_replays.py", "tests/sentry/replays/test_project_replay_details.py"],
+"type": ["assert"],
 "numberOfMigration": ""

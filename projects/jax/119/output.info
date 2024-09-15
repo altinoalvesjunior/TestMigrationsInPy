@@ -1,5 +1,7 @@
 "commit_hash": "ec7d28c0b2fa44618beca0fbc7c19f9d8196a7cc",
 "commit_link": "https://github.com/google/jax/commit/ec7d28c0b2fa44618beca0fbc7c19f9d8196a7cc",
-"files": ["jax/_src/core.py", "jax/_src/interpreters/ad.py", "jax/_src/lax/control_flow/conditionals.py", "jax/_src/lax/control_flow/loops.py", "jax/_src/prng.py", "jax/experimental/host_callback.py", "jax/experimental/jax2tf/call_tf.py", "jax/interpreters/ad.py", "tests/random_test.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/random_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

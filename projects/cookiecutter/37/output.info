@@ -1,5 +1,7 @@
 "commit_hash": "a550efa3a56b2523765badbc1203aaffd06e0e8b",
 "commit_link": "https://github.com/cookiecutter/cookiecutter/commit/a550efa3a56b2523765badbc1203aaffd06e0e8b",
-"files": ["HISTORY.rst", "tests/test_arg_parsing.py", "tests/test_prompt.py", ]
-"type": "assert, import, testcase"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_arg_parsing.py", "tests/test_prompt.py"],
+"type": ["assert", "import", "testcase"],
 "numberOfMigration": ""

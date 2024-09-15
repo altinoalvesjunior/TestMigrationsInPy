@@ -1,5 +1,7 @@
 "commit_hash": "24bc299b7e8a566aca52375caae5673efe7b264a",
 "commit_link": "https://github.com/flairNLP/flair/commit/24bc299b7e8a566aca52375caae5673efe7b264a",
-"files": ["flair/__init__.py", "flair/visual/activations.py", "tests/resources/visual/loss.tsv", "tests/resources/visual/snippet.txt", "tests/resources/visual/weights.txt", "tests/test_visual.py", ]
-"type": "import, testcase"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/resources/visual/loss.tsv", "tests/resources/visual/snippet.txt", "tests/resources/visual/weights.txt", "tests/test_visual.py"],
+"type": ["import", "testcase"],
 "numberOfMigration": ""

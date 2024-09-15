@@ -1,5 +1,7 @@
 "commit_hash": "6fbe68cdf0c00ecb7e5685a8c35521498d9f991b",
 "commit_link": "https://github.com/python/mypy/commit/6fbe68cdf0c00ecb7e5685a8c35521498d9f991b",
-"files": ["lib-typing/2.7/test_typing.py", "lib-typing/3.2/test_typing.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["lib-typing/2.7/test_typing.py", "lib-typing/3.2/test_typing.py"],
+"type": ["assert"],
 "numberOfMigration": ""

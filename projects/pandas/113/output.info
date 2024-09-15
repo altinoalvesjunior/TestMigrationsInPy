@@ -1,5 +1,7 @@
 "commit_hash": "fc266a85d913c326461e90453f6c3338eae31652",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/fc266a85d913c326461e90453f6c3338eae31652",
-"files": ["pandas/_testing/__init__.py", "pandas/_testing/compat.py", "pandas/tests/extension/base/ops.py", "pandas/tests/extension/json/test_json.py", "pandas/tests/extension/test_floating.py", "pandas/tests/extension/test_integer.py", "pandas/tests/extension/test_sparse.py", ]
-"type": "assert"
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/_testing/__init__.py", "pandas/_testing/compat.py", "pandas/tests/extension/base/ops.py", "pandas/tests/extension/json/test_json.py", "pandas/tests/extension/test_floating.py", "pandas/tests/extension/test_integer.py", "pandas/tests/extension/test_sparse.py"],
+"type": ["assert"],
 "numberOfMigration": ""

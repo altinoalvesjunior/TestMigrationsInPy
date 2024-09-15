@@ -1,5 +1,7 @@
 "commit_hash": "70ded2c2892ad9815f72663f33b151f65095b107",
 "commit_link": "https://github.com/getsentry/sentry/commit/70ded2c2892ad9815f72663f33b151f65095b107",
-"files": ["src/sentry/api/serializers/models/project.py", "src/sentry/testutils/fixtures.py", "tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/api/serializers/test_project.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["src/sentry/testutils/fixtures.py", "tests/sentry/api/endpoints/test_organization_details.py", "tests/sentry/api/serializers/test_project.py"],
+"type": ["assert"],
 "numberOfMigration": ""

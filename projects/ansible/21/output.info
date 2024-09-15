@@ -1,5 +1,7 @@
 "commit_hash": "7871027c9daa534517821509dfa0501b6df4dbc2",
 "commit_link": "https://github.com/ansible/ansible/commit/7871027c9daa534517821509dfa0501b6df4dbc2",
-"files": ["changelogs/fragments/hashing-changes.yaml", "docs/docsite/rst/porting_guides/porting_guide_2.7.rst", "docs/docsite/rst/user_guide/playbooks_filters.rst", "docs/docsite/rst/user_guide/playbooks_prompts.rst", "lib/ansible/plugins/filter/core.py", "lib/ansible/plugins/lookup/password.py", "lib/ansible/utils/encrypt.py", "test/integration/targets/vars_prompt/test-vars_prompt.py", "test/units/plugins/lookup/test_password.py", "test/units/utils/test_encrypt.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/integration/targets/vars_prompt/test-vars_prompt.py", "test/units/plugins/lookup/test_password.py", "test/units/utils/test_encrypt.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

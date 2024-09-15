@@ -1,5 +1,7 @@
 "commit_hash": "cdb79b0e3a17f83ba90fe0a0c081d7135e4d1b44",
 "commit_link": "https://github.com/ansible/ansible/commit/cdb79b0e3a17f83ba90fe0a0c081d7135e4d1b44",
-"files": ["lib/ansible/playbook/included_file.py", "test/units/playbook/test_included_file.py", ]
-"type": "assert, import, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/units/playbook/test_included_file.py"],
+"type": ["assert", "import", "testcase"],
 "numberOfMigration": ""

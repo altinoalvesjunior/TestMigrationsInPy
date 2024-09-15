@@ -1,5 +1,7 @@
 "commit_hash": "0ccd08270ded05407298e680e88ad83d48ffa638",
 "commit_link": "https://github.com/plotly/plotly.py/commit/0ccd08270ded05407298e680e88ad83d48ffa638",
-"files": ["packages/python/plotly/_plotly_utils/basevalidators.py", "packages/python/plotly/plotly/basedatatypes.py", "packages/python/plotly/plotly/io/_templates.py", "packages/python/plotly/plotly/tests/test_core/test_graph_objs/test_template.py", "packages/python/plotly/plotly/tests/test_core/test_px/test_px.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["packages/python/plotly/plotly/tests/test_core/test_graph_objs/test_template.py", "packages/python/plotly/plotly/tests/test_core/test_px/test_px.py"],
+"type": ["assert"],
 "numberOfMigration": ""

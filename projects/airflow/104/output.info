@@ -1,5 +1,7 @@
 "commit_hash": "1baa648e2af124032c2f2752dc0f587ee253a3a9",
 "commit_link": "https://github.com/apache/airflow/commit/1baa648e2af124032c2f2752dc0f587ee253a3a9",
-"files": ["airflow/providers/amazon/aws/hooks/glue.py", "airflow/providers/amazon/aws/hooks/glue_catalog.py", "airflow/providers/amazon/aws/hooks/glue_crawler.py", "airflow/providers/amazon/aws/operators/glue.py", "airflow/providers/amazon/aws/operators/glue_crawler.py", "airflow/providers/amazon/aws/sensors/glue.py", "airflow/providers/amazon/aws/sensors/glue_catalog_partition.py", "airflow/providers/amazon/aws/sensors/glue_crawler.py", "tests/providers/amazon/aws/hooks/test_glue.py", "tests/providers/amazon/aws/hooks/test_glue_catalog.py", "tests/providers/amazon/aws/hooks/test_glue_crawler.py", "tests/providers/amazon/aws/operators/test_glue.py", "tests/providers/amazon/aws/operators/test_glue_crawler.py", "tests/providers/amazon/aws/sensors/test_glue.py", "tests/providers/amazon/aws/sensors/test_glue_catalog_partition.py", "tests/providers/amazon/aws/sensors/test_glue_crawler.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 8,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/amazon/aws/hooks/test_glue.py", "tests/providers/amazon/aws/hooks/test_glue_catalog.py", "tests/providers/amazon/aws/hooks/test_glue_crawler.py", "tests/providers/amazon/aws/operators/test_glue.py", "tests/providers/amazon/aws/operators/test_glue_crawler.py", "tests/providers/amazon/aws/sensors/test_glue.py", "tests/providers/amazon/aws/sensors/test_glue_catalog_partition.py", "tests/providers/amazon/aws/sensors/test_glue_crawler.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

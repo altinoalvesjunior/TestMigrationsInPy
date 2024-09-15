@@ -1,5 +1,7 @@
 "commit_hash": "91fa8b792ea1707e77f0deee9500778cfa45a993",
 "commit_link": "https://github.com/getsentry/sentry/commit/91fa8b792ea1707e77f0deee9500778cfa45a993",
-"files": ["migrations_lockfile.txt", "src/sentry/db/models/fields/node.py", "src/sentry/deletions/defaults/group.py", "src/sentry/event_manager.py", "src/sentry/nodestore/base.py", "src/sentry/nodestore/bigtable/backend.py", "src/sentry/nodestore/django/backend.py", "src/sentry/nodestore/django/models.py", "src/sentry/nodestore/migrations/0002_nodestore_no_dictfield.py", "src/sentry/reprocessing2.py", "src/sentry/tasks/reprocessing2.py", "tests/sentry/nodestore/bigtable/backend/tests.py", "tests/sentry/nodestore/django/backend/tests.py", "tests/sentry/nodestore/test_base.py", "tests/sentry/nodestore/test_common.py", ]
-"type": "fixture, testcase, add Param"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/nodestore/bigtable/backend/tests.py", "tests/sentry/nodestore/django/backend/tests.py", "tests/sentry/nodestore/test_base.py", "tests/sentry/nodestore/test_common.py"],
+"type": ["fixture", "testcase", "add Param"],
 "numberOfMigration": ""

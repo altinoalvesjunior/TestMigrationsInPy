@@ -1,5 +1,7 @@
 "commit_hash": "f3b322c181ba2ebc0c96d035b413843aad724c11",
 "commit_link": "https://github.com/getsentry/sentry/commit/f3b322c181ba2ebc0c96d035b413843aad724c11",
-"files": ["setup.py", "src/sentry/buffer/redis.py", "src/sentry/cache/redis.py", "src/sentry/quotas/redis.py", "src/sentry/ratelimits/redis.py", "src/sentry/tsdb/redis.py", "tests/sentry/buffer/redis/tests.py", "tests/sentry/quotas/redis/tests.py", "tests/sentry/tsdb/test_redis.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/buffer/redis/tests.py", "tests/sentry/quotas/redis/tests.py", "tests/sentry/tsdb/test_redis.py"],
+"type": ["assert"],
 "numberOfMigration": ""

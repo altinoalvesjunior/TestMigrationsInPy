@@ -1,5 +1,7 @@
 "commit_hash": "5fbce490c0f8c9e8d1e668f3025a0848ee42f4e9",
 "commit_link": "https://github.com/getsentry/sentry/commit/5fbce490c0f8c9e8d1e668f3025a0848ee42f4e9",
-"files": ["src/sentry/api/event_search.py", "static/app/components/searchSyntax/grammar.pegjs", "tests/sentry/api/test_event_search.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/api/test_event_search.py"],
+"type": ["assert"],
 "numberOfMigration": ""

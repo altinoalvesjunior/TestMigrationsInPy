@@ -1,5 +1,7 @@
 "commit_hash": "3e4a85fde1b0b3a5be973b9bd0c2fbacb0275427",
 "commit_link": "https://github.com/getsentry/sentry/commit/3e4a85fde1b0b3a5be973b9bd0c2fbacb0275427",
-"files": ["src/sentry/search/events/builder/discover.py", "src/sentry/search/events/datasets/discover.py", "src/sentry/snuba/discover.py", "src/sentry/snuba/transactions.py", "src/sentry/snuba/utils.py", "tests/sentry/snuba/test_discover_query.py", "tests/sentry/snuba/test_discover_timeseries_query.py", "tests/sentry/snuba/test_transactions.py", "tests/sentry/snuba/test_transactions_timeseries_query.py", "tests/snuba/api/endpoints/test_organization_events.py", "tests/snuba/api/endpoints/test_organization_events_stats.py", ]
-"type": "assert"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/snuba/test_discover_query.py", "tests/sentry/snuba/test_discover_timeseries_query.py", "tests/sentry/snuba/test_transactions.py", "tests/sentry/snuba/test_transactions_timeseries_query.py", "tests/snuba/api/endpoints/test_organization_events.py", "tests/snuba/api/endpoints/test_organization_events_stats.py"],
+"type": ["assert"],
 "numberOfMigration": ""

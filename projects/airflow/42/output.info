@@ -1,5 +1,7 @@
 "commit_hash": "431ea3291c9bf236bccdf8446d753c630ada2b25",
 "commit_link": "https://github.com/apache/airflow/commit/431ea3291c9bf236bccdf8446d753c630ada2b25",
-"files": ["airflow/example_dags/example_xcomargs.py", "airflow/models/baseoperator.py", "airflow/models/taskinstance.py", "airflow/providers/google/cloud/operators/sql_to_gcs.py", "airflow/serialization/serialized_objects.py", "tests/models/test_baseoperator.py", "tests/serialization/test_dag_serialization.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/models/test_baseoperator.py", "tests/serialization/test_dag_serialization.py"],
+"type": ["assert"],
 "numberOfMigration": ""

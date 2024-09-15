@@ -1,5 +1,7 @@
 "commit_hash": "1699dca5b6e927e5753daff46ce85d53dd8bba58",
 "commit_link": "https://github.com/getsentry/sentry/commit/1699dca5b6e927e5753daff46ce85d53dd8bba58",
-"files": ["src/sentry/api/endpoints/accept_organization_invite.py", "src/sentry/api/endpoints/user_authenticator_enroll.py", "src/sentry/api/invite_helper.py", "src/sentry/api/urls.py", "src/sentry/static/sentry/app/routes.jsx", "src/sentry/static/sentry/app/views/acceptOrganizationInvite.tsx", "src/sentry/static/sentry/app/views/app.jsx", "src/sentry/templates/sentry/accept-organization-invite.html", "src/sentry/web/urls.py", "tests/acceptance/test_accept_organization_invite.py", "tests/js/spec/views/acceptOrganizationInvite.spec.jsx", "tests/sentry/api/endpoints/test_accept_organization_invite.py", "tests/sentry/api/endpoints/test_user_authenticator_enroll.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/acceptance/test_accept_organization_invite.py", "tests/js/spec/views/acceptOrganizationInvite.spec.jsx", "tests/sentry/api/endpoints/test_accept_organization_invite.py", "tests/sentry/api/endpoints/test_user_authenticator_enroll.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "6988622fe88038d428daea3c3f56f6f9ef52c9fe",
 "commit_link": "https://github.com/zulip/zulip/commit/6988622fe88038d428daea3c3f56f6f9ef52c9fe",
-"files": ["analytics/views/installation_activity.py", "pyproject.toml", "tools/lib/pretty_print.py", "tools/lib/template_parser.py", "zerver/lib/subscription_info.py", "zerver/management/commands/check_redis.py", "zerver/tests/test_events.py", "zerver/tests/test_invite.py", "zerver/tests/test_upload.py", "zerver/tornado/django_api.py", "zilencer/management/commands/queue_rate.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/tests/test_events.py", "zerver/tests/test_invite.py", "zerver/tests/test_upload.py"],
+"type": ["assert"],
 "numberOfMigration": ""

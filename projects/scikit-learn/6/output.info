@@ -1,5 +1,7 @@
 "commit_hash": "cd622dfb4215d093925f4c4bd2241b4f0201e90e",
 "commit_link": "https://github.com/scikit-learn/scikit-learn/commit/cd622dfb4215d093925f4c4bd2241b4f0201e90e",
-"files": ["build_tools/travis/test_script.sh", "sklearn/datasets/tests/conftest.py", "sklearn/datasets/tests/test_20news.py", "sklearn/datasets/tests/test_california_housing.py", "sklearn/datasets/tests/test_covtype.py", "sklearn/datasets/tests/test_kddcup99.py", "sklearn/datasets/tests/test_olivetti_faces.py", "sklearn/datasets/tests/test_rcv1.py", ]
-"type": "skip"
+"testFilesChanged": 8,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["build_tools/travis/test_script.sh", "sklearn/datasets/tests/conftest.py", "sklearn/datasets/tests/test_20news.py", "sklearn/datasets/tests/test_california_housing.py", "sklearn/datasets/tests/test_covtype.py", "sklearn/datasets/tests/test_kddcup99.py", "sklearn/datasets/tests/test_olivetti_faces.py", "sklearn/datasets/tests/test_rcv1.py"],
+"type": ["skip"],
 "numberOfMigration": ""

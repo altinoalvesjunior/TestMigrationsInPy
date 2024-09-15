@@ -1,5 +1,7 @@
 "commit_hash": "5779ee764db18f3bb3fa6d60540b3ad9f8f776bb",
 "commit_link": "https://github.com/ray-project/ray/commit/5779ee764db18f3bb3fa6d60540b3ad9f8f776bb",
-"files": ["doc/source/rllib/rllib-offline.rst", "rllib/offline/estimators/direct_method.py", "rllib/offline/estimators/doubly_robust.py", "rllib/offline/estimators/importance_sampling.py", "rllib/offline/estimators/tests/test_ope.py", "rllib/offline/estimators/weighted_importance_sampling.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["rllib/offline/estimators/tests/test_ope.py"],
+"type": ["assert"],
 "numberOfMigration": ""

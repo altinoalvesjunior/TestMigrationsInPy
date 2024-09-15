@@ -1,5 +1,7 @@
 "commit_hash": "e6810d1ee295889a1324b1af3c8191b40261ed51",
 "commit_link": "https://github.com/apache/airflow/commit/e6810d1ee295889a1324b1af3c8191b40261ed51",
-"files": ["tests/providers/amazon/aws/transfers/test_dynamodb_to_s3.py", ]
-"type": "assert, add Param"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/amazon/aws/transfers/test_dynamodb_to_s3.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

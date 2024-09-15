@@ -1,5 +1,7 @@
 "commit_hash": "1a266ee5809990244f1fe6daeb717878d06cf783",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/1a266ee5809990244f1fe6daeb717878d06cf783",
-"files": ["doc/source/whatsnew/v0.20.0.txt", "pandas/tests/indexes/datetimes/test_misc.py", "pandas/tests/indexes/period/test_construction.py", "pandas/tests/indexes/period/test_period.py", "pandas/tests/indexes/timedeltas/test_timedelta.py", "pandas/tests/scalar/test_timestamp.py", "pandas/tests/tools/test_pivot.py", "pandas/tests/tools/test_util.py", "pandas/tests/tseries/test_timezones.py", "pandas/tseries/common.py", "pandas/tseries/converter.py", "pandas/tseries/index.py", "pandas/tseries/period.py", "pandas/tseries/tdi.py", "pandas/tseries/util.py", ]
-"type": "assert"
+"testFilesChanged": 8,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/indexes/datetimes/test_misc.py", "pandas/tests/indexes/period/test_construction.py", "pandas/tests/indexes/period/test_period.py", "pandas/tests/indexes/timedeltas/test_timedelta.py", "pandas/tests/scalar/test_timestamp.py", "pandas/tests/tools/test_pivot.py", "pandas/tests/tools/test_util.py", "pandas/tests/tseries/test_timezones.py"],
+"type": ["assert"],
 "numberOfMigration": ""

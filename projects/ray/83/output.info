@@ -1,5 +1,7 @@
 "commit_hash": "e41109a5e72fa6774a44c7fc80955eaef6cd3a0a",
 "commit_link": "https://github.com/ray-project/ray/commit/e41109a5e72fa6774a44c7fc80955eaef6cd3a0a",
-"files": ["python/ray/_raylet.pxd", "python/ray/includes/object_ref.pxi", "python/ray/includes/unique_ids.pxi", "python/ray/tests/test_asyncio.py", "python/ray/tests/test_client.py", "python/ray/tests/test_client_terminate.py", "python/ray/tests/test_client_warnings.py", "python/ray/tests/test_dataclient_disconnect.py", "python/ray/tests/test_placement_group_2.py", "python/ray/util/client/api.py", "python/ray/util/client/client_pickler.py", "python/ray/util/client/common.py", "python/ray/util/client/dataclient.py", "python/ray/util/client/options.py", "python/ray/util/client/server/dataservicer.py", "python/ray/util/client/worker.py", "src/ray/protobuf/ray_client.proto", ]
-"type": "assert"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/tests/test_asyncio.py", "python/ray/tests/test_client.py", "python/ray/tests/test_client_terminate.py", "python/ray/tests/test_client_warnings.py", "python/ray/tests/test_dataclient_disconnect.py", "python/ray/tests/test_placement_group_2.py"],
+"type": ["assert"],
 "numberOfMigration": ""

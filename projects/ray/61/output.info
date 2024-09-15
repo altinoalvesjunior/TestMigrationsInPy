@@ -1,5 +1,7 @@
 "commit_hash": "9f5986ee5850493bc64ccecdf9cdf188bec423b8",
 "commit_link": "https://github.com/ray-project/ray/commit/9f5986ee5850493bc64ccecdf9cdf188bec423b8",
-"files": ["doc/source/tune/_tutorials/tune-wandb.rst", "doc/source/tune/api_docs/integration.rst", "doc/source/tune/api_docs/logging.rst", "python/ray/tune/examples/logging_example.py", "python/ray/tune/examples/wandb_example.py", "python/ray/tune/experiment.py", "python/ray/tune/integration/wandb.py", "python/ray/tune/logger.py", "python/ray/tune/tests/test_integration_wandb.py", "python/ray/tune/tests/test_logger.py", "python/ray/tune/tests/test_run_experiment.py", "python/ray/tune/tests/test_trial_runner_callbacks.py", "python/ray/tune/tune.py", "python/ray/tune/utils/callback.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/tune/tests/test_integration_wandb.py", "python/ray/tune/tests/test_logger.py", "python/ray/tune/tests/test_run_experiment.py", "python/ray/tune/tests/test_trial_runner_callbacks.py"],
+"type": ["assert"],
 "numberOfMigration": ""

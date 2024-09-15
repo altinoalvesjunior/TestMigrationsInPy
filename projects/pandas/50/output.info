@@ -1,5 +1,7 @@
 "commit_hash": "da7d4734e3851130af773c81b80c55151e65195e",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/da7d4734e3851130af773c81b80c55151e65195e",
-"files": ["doc/source/visualization.rst", "doc/source/whatsnew/v0.19.0.txt", "pandas/tests/plotting/common.py", "pandas/tests/plotting/test_boxplot_method.py", "pandas/tests/plotting/test_frame.py", "pandas/tools/plotting.py", "pandas/util/testing.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/plotting/common.py", "pandas/tests/plotting/test_boxplot_method.py", "pandas/tests/plotting/test_frame.py", "pandas/util/testing.py"],
+"type": ["assert"],
 "numberOfMigration": ""

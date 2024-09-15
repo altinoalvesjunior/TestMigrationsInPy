@@ -1,5 +1,7 @@
 "commit_hash": "512742c121eb33ae649005c7bc7fbe1aa9a312c2",
 "commit_link": "https://github.com/streamlit/streamlit/commit/512742c121eb33ae649005c7bc7fbe1aa9a312c2",
-"files": ["e2e_playwright/fast_rerun_safety.py", "e2e_playwright/fast_rerun_safety_test.py", "lib/streamlit/runtime/scriptrunner/script_runner.py", "lib/streamlit/runtime/state/safe_session_state.py", "lib/streamlit/runtime/state/session_state_proxy.py", "lib/tests/delta_generator_test_case.py", "lib/tests/exception_capturing_thread.py", "lib/tests/streamlit/runtime/caching/common_cache_test.py", "lib/tests/streamlit/runtime/scriptrunner/script_runner_test.py", "lib/tests/streamlit/runtime/state/safe_session_state_test.py", "lib/tests/streamlit/runtime/state/session_state_proxy_test.py", "lib/tests/streamlit/script_run_context_test.py", "lib/tests/streamlit/user_info_test.py", "lib/tests/testutil.py", ]
-"type": "assert"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["e2e_playwright/fast_rerun_safety_test.py", "lib/tests/delta_generator_test_case.py", "lib/tests/exception_capturing_thread.py", "lib/tests/streamlit/runtime/caching/common_cache_test.py", "lib/tests/streamlit/runtime/scriptrunner/script_runner_test.py", "lib/tests/streamlit/runtime/state/safe_session_state_test.py", "lib/tests/streamlit/runtime/state/session_state_proxy_test.py", "lib/tests/streamlit/script_run_context_test.py", "lib/tests/streamlit/user_info_test.py", "lib/tests/testutil.py"],
+"type": ["assert"],
 "numberOfMigration": ""

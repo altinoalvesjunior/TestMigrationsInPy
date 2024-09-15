@@ -1,5 +1,7 @@
 "commit_hash": "2a819b11fb8dfba7b3c9b500d07467b455724506",
 "commit_link": "https://github.com/apache/airflow/commit/2a819b11fb8dfba7b3c9b500d07467b455724506",
-"files": ["Dockerfile", "airflow/hooks/mssql_hook.py", "airflow/models/connection.py", "airflow/operators/mssql_operator.py", "airflow/providers/odbc/__init__.py", "airflow/providers/odbc/hooks/__init__.py", "airflow/providers/odbc/hooks/odbc.py", "airflow/sensors/sql_sensor.py", "airflow/utils/helpers.py", "airflow/utils/log/json_formatter.py", "docs/autoapi_templates/index.rst", "docs/conf.py", "docs/howto/connection/odbc.rst", "docs/installation.rst", "docs/operators-and-hooks-ref.rst", "setup.py", "tests/operators/test_mssql_operator.py", "tests/providers/odbc/hooks/test_odbc.py", "tests/utils/log/test_json_formatter.py", "tests/utils/test_helpers.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/operators/test_mssql_operator.py", "tests/providers/odbc/hooks/test_odbc.py", "tests/utils/log/test_json_formatter.py", "tests/utils/test_helpers.py"],
+"type": ["assert"],
 "numberOfMigration": ""

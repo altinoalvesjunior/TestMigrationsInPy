@@ -1,5 +1,7 @@
 "commit_hash": "c00e9a2a5235cfd796aeb271bfd52dd2c25ef44d",
 "commit_link": "https://github.com/google/jax/commit/c00e9a2a5235cfd796aeb271bfd52dd2c25ef44d",
-"files": ["jax/api.py", "jax/interpreters/masking.py", "jax/interpreters/xla.py", "jax/lax/lax.py", "jax/lax/lax_control_flow.py", "jax/numpy/lax_numpy.py", "jax/random.py", "tests/masking_test.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/masking_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

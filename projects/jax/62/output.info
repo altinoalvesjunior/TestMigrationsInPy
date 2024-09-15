@@ -1,5 +1,7 @@
 "commit_hash": "22dce0f4833913ec232c21b92ebc0d14095b1bd9",
 "commit_link": "https://github.com/google/jax/commit/22dce0f4833913ec232c21b92ebc0d14095b1bd9",
-"files": ["WORKSPACE", "jax/_src/test_util.py", "jax/experimental/maps.py", "jax/experimental/pjit.py", "jax/interpreters/ad.py", "jax/interpreters/partial_eval.py", "jax/interpreters/pxla.py", "tests/pjit_test.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["jax/_src/test_util.py", "tests/pjit_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

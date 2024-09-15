@@ -1,5 +1,7 @@
 "commit_hash": "e19a0ffeb5d64dbfb05262435f27c80f10bc582d",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/e19a0ffeb5d64dbfb05262435f27c80f10bc582d",
-"files": ["pandas/tests/frame/test_repr_info.py", "pandas/tests/io/formats/test_style.py", "pandas/tests/test_nanops.py", "pandas/tests/test_panel4d.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/frame/test_repr_info.py", "pandas/tests/io/formats/test_style.py", "pandas/tests/test_nanops.py", "pandas/tests/test_panel4d.py"],
+"type": ["assert"],
 "numberOfMigration": ""

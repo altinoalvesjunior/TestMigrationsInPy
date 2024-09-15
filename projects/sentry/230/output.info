@@ -1,5 +1,7 @@
 "commit_hash": "59eca9bd2655d1f1a9cfff9a3f2438c91dfefba7",
 "commit_link": "https://github.com/getsentry/sentry/commit/59eca9bd2655d1f1a9cfff9a3f2438c91dfefba7",
-"files": ["src/sentry/auth/helper.py", "src/sentry/conf/server.py", "src/sentry/features/__init__.py", "tests/sentry/auth/test_helper.py", "tests/sentry/web/frontend/test_auth_organization_login.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/auth/test_helper.py", "tests/sentry/web/frontend/test_auth_organization_login.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "e0f63ea063b9abc04a4e3dd784ff96950d38af81",
 "commit_link": "https://github.com/getsentry/sentry/commit/e0f63ea063b9abc04a4e3dd784ff96950d38af81",
-"files": ["src/sentry/api/endpoints/group_details.py", "src/sentry/api/endpoints/group_participants.py", "src/sentry/models/groupsubscription.py", "src/sentry/notifications/helpers.py", "tests/sentry/api/endpoints/test_group_participants.py", "tests/sentry/notifications/test_utils.py", "tests/sentry/notifications/utils/test_should_be_notified.py", "tests/sentry/notifications/utils/test_should_be_participating.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/api/endpoints/test_group_participants.py", "tests/sentry/notifications/test_utils.py", "tests/sentry/notifications/utils/test_should_be_notified.py", "tests/sentry/notifications/utils/test_should_be_participating.py"],
+"type": ["assert"],
 "numberOfMigration": ""

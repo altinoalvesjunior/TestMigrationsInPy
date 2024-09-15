@@ -1,5 +1,7 @@
 "commit_hash": "ab1d94726fbc6deadc87e49a84fc9c79e685931f",
 "commit_link": "https://github.com/getsentry/sentry/commit/ab1d94726fbc6deadc87e49a84fc9c79e685931f",
-"files": ["src/sentry/issues/grouptype.py", "tests/sentry/api/test_issue_search.py", "tests/sentry/issues/test_grouptype.py", "tests/snuba/search/test_backend.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/api/test_issue_search.py", "tests/sentry/issues/test_grouptype.py", "tests/snuba/search/test_backend.py"],
+"type": ["assert"],
 "numberOfMigration": ""

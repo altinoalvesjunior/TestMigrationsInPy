@@ -1,5 +1,7 @@
 "commit_hash": "3bb73861497371ee3a4fa8faf61ffe4a65ae99c3",
 "commit_link": "https://github.com/google/jax/commit/3bb73861497371ee3a4fa8faf61ffe4a65ae99c3",
-"files": ["build/build_wheel.py", "examples/jax_cpp/BUILD", "jax/BUILD", "jax/_src/compilation_cache.py", "jax/_src/config.py", "jax/_src/dispatch.py", "jax/_src/lib/BUILD", "jax/_src/lib/mlir/__init__.py", "jax/_src/lib/mlir/jax.py", "jax/experimental/jax2tf/BUILD", "jax/experimental/jax2tf/g3doc/BUILD", "jax/experimental/jax2tf/tests/back_compat_testdata/BUILD", "jax/experimental/jax2tf/tests/flax_models/BUILD", "jax/tools/BUILD", "jaxlib/BUILD", "jaxlib/cpu/BUILD", "jaxlib/cuda/BUILD", "jaxlib/gpu/BUILD", "jaxlib/mlir/BUILD.bazel", "jaxlib/mlir/_mlir_libs/BUILD.bazel", "jaxlib/mlir/_mlir_libs/passes/BUILD", "jaxlib/mlir/_mlir_libs/passes/capi_jax_passes.cc", "jaxlib/mlir/_mlir_libs/passes/capi_jax_passes.h", "jaxlib/mlir/_mlir_libs/passes/jax_passes.h", "jaxlib/mlir/_mlir_libs/passes/jax_passes.td", "jaxlib/mlir/_mlir_libs/passes/jax_strip_locations_pass.cc", "jaxlib/mlir/_mlir_libs/py_jax_passes.cc", "jaxlib/mlir/jax.py", "tests/BUILD", "tests/compilation_cache_test.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["jax/experimental/jax2tf/tests/back_compat_testdata/BUILD", "jax/experimental/jax2tf/tests/flax_models/BUILD", "tests/BUILD", "tests/compilation_cache_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

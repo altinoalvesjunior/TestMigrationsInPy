@@ -1,5 +1,7 @@
 "commit_hash": "f9766d0b4f427506a350a66a0080bc42823b09c8",
 "commit_link": "https://github.com/getsentry/sentry/commit/f9766d0b4f427506a350a66a0080bc42823b09c8",
-"files": ["src/sentry/incidents/endpoints/serializers.py", "tests/sentry/incidents/endpoints/test_serializers.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/incidents/endpoints/test_serializers.py"],
+"type": ["assert"],
 "numberOfMigration": ""

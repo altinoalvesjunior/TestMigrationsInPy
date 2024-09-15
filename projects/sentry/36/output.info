@@ -1,5 +1,7 @@
 "commit_hash": "c9aced14f994de3db7e696bae91bac9f8d256b49",
 "commit_link": "https://github.com/getsentry/sentry/commit/c9aced14f994de3db7e696bae91bac9f8d256b49",
-"files": ["src/sentry/api/endpoints/group_markseen.py", "src/sentry/api/endpoints/organization_teams.py", "src/sentry/api/endpoints/team_project_index.py", "src/sentry/api/endpoints/team_stats.py", "src/sentry/api/endpoints/user_details.py", "src/sentry/api/permissions.py", "src/sentry/api/serializers/models/project.py", "src/sentry/api/serializers/models/team.py", "src/sentry/manager.py", "src/sentry/models/organizationmember.py", "src/sentry/models/team.py", "src/sentry/permissions.py", "src/sentry/tasks/email.py", "src/sentry/templatetags/sentry_helpers.py", "src/sentry/templatetags/sentry_permissions.py", "src/sentry/web/api.py", "src/sentry/web/decorators.py", "src/sentry/web/forms/projects.py", "src/sentry/web/frontend/accounts.py", "src/sentry/web/frontend/base.py", "src/sentry/web/frontend/groups.py", "src/sentry/web/frontend/organization_home.py", "src/sentry/web/frontend/organization_members.py", "src/sentry/web/frontend/organization_teams.py", "src/sentry/web/frontend/projects/settings.py", "src/sentry/web/helpers.py", "tests/sentry/manager/tests.py", "tests/sentry/permissions/tests.py", "tests/sentry/web/frontend/teams/tests.py", "tests/sentry/web/helpers/tests.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/manager/tests.py", "tests/sentry/permissions/tests.py", "tests/sentry/web/frontend/teams/tests.py", "tests/sentry/web/helpers/tests.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

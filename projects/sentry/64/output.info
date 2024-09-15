@@ -1,5 +1,7 @@
 "commit_hash": "7acf9dbfb2b5de7e302a195a51ce7b4aa285d25f",
 "commit_link": "https://github.com/getsentry/sentry/commit/7acf9dbfb2b5de7e302a195a51ce7b4aa285d25f",
-"files": ["src/sentry/plugins/sentry_mail/models.py", "src/sentry/static/sentry/app/components/events/interfaces/requestActions.jsx", "src/sentry/static/sentry/app/components/group/tagDistributionMeter.jsx", "src/sentry/static/sentry/app/components/stream/group.jsx", "src/sentry/static/sentry/app/routes.jsx", "src/sentry/static/sentry/app/views/groupDetails/eventToolbar.jsx", "src/sentry/static/sentry/app/views/groupDetails/header.jsx", "src/sentry/static/sentry/app/views/groupEvents.jsx", "src/sentry/static/sentry/app/views/groupTags.jsx", "src/sentry/static/sentry/app/views/projectDashboard/eventNode.jsx", "src/sentry/static/sentry/app/views/stream.jsx", "src/sentry/templates/sentry/projects/manage.html", "src/sentry/templatetags/sentry_helpers.py", "src/sentry/utils/pytest.py", "src/sentry/web/frontend/create_project.py", "src/sentry/web/frontend/debug/debug_new_release_email.py", "src/sentry/web/urls.py", "tests/sentry/api/endpoints/test_legacy_project_redirect.py", "tests/sentry/web/frontend/groups/__init__.py", "tests/sentry/web/frontend/groups/tests.py", "tests/sentry/web/frontend/test_create_project.py", "tests/sentry/web/frontend/test_group_event_json.py", "tests/sentry/web/frontend/test_replay_event.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["src/sentry/utils/pytest.py", "tests/sentry/api/endpoints/test_legacy_project_redirect.py", "tests/sentry/web/frontend/groups/__init__.py", "tests/sentry/web/frontend/groups/tests.py", "tests/sentry/web/frontend/test_create_project.py", "tests/sentry/web/frontend/test_group_event_json.py", "tests/sentry/web/frontend/test_replay_event.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

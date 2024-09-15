@@ -1,5 +1,7 @@
 "commit_hash": "2916ff0a1a2482caad387767eb1bded85bb77714",
 "commit_link": "https://github.com/ansible/ansible/commit/2916ff0a1a2482caad387767eb1bded85bb77714",
-"files": ["lib/ansible/modules/network/f5/bigip_command.py", "test/units/modules/network/f5/test_bigip_command.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/units/modules/network/f5/test_bigip_command.py"],
+"type": ["assert"],
 "numberOfMigration": ""

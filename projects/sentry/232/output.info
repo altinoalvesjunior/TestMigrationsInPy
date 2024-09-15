@@ -1,5 +1,7 @@
 "commit_hash": "5e1cb0e215c061e13ec1262a814450a33d49a398",
 "commit_link": "https://github.com/getsentry/sentry/commit/5e1cb0e215c061e13ec1262a814450a33d49a398",
-"files": ["src/sentry/search/events/builder.py", "src/sentry/search/events/datasets/metrics.py", "tests/sentry/search/events/test_builder.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/search/events/test_builder.py"],
+"type": ["assert"],
 "numberOfMigration": ""

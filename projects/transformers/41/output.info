@@ -1,5 +1,7 @@
 "commit_hash": "476ba679dd21c25aa6c7b57e6849835b9700db0c",
 "commit_link": "https://github.com/huggingface/transformers/commit/476ba679dd21c25aa6c7b57e6849835b9700db0c",
-"files": ["src/transformers/models/auto/tokenization_auto.py", "src/transformers/tokenization_utils_base.py", "src/transformers/tokenization_utils_fast.py", "tests/test_tokenization_auto.py", "tests/test_tokenization_bert_generation.py", "tests/test_tokenization_bert_japanese.py", "tests/test_tokenization_bertweet.py", "tests/test_tokenization_clip.py", "tests/test_tokenization_common.py", "tests/test_tokenization_fast.py", "tests/test_tokenization_fsmt.py", "tests/test_tokenization_luke.py", "tests/test_tokenization_phobert.py", "tests/test_tokenization_small_blenderbot.py", ]
-"type": "assert"
+"testFilesChanged": 11,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_tokenization_auto.py", "tests/test_tokenization_bert_generation.py", "tests/test_tokenization_bert_japanese.py", "tests/test_tokenization_bertweet.py", "tests/test_tokenization_clip.py", "tests/test_tokenization_common.py", "tests/test_tokenization_fast.py", "tests/test_tokenization_fsmt.py", "tests/test_tokenization_luke.py", "tests/test_tokenization_phobert.py", "tests/test_tokenization_small_blenderbot.py"],
+"type": ["assert"],
 "numberOfMigration": ""

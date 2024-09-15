@@ -1,5 +1,7 @@
 "commit_hash": "e70fe59dc3e403081df960d342938d7ddd2b1b92",
 "commit_link": "https://github.com/getsentry/sentry/commit/e70fe59dc3e403081df960d342938d7ddd2b1b92",
-"files": ["src/sentry/management/commands/cleanup.py", "src/sentry/tasks/cleanup.py", "src/sentry/utils/query.py", "tests/fixtures/cleanup.json", "tests/sentry/tasks/cleanup/tests.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/fixtures/cleanup.json", "tests/sentry/tasks/cleanup/tests.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "54edbaa65db38f1b858efc461e411d880e778c1e",
 "commit_link": "https://github.com/apache/airflow/commit/54edbaa65db38f1b858efc461e411d880e778c1e",
-"files": ["tests/api/auth/backend/test_kerberos_auth.py", ]
-"type": "fixture, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/api/auth/backend/test_kerberos_auth.py"],
+"type": ["fixture", "testcase"],
 "numberOfMigration": ""

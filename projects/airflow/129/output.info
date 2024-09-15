@@ -1,5 +1,7 @@
 "commit_hash": "214873cc60200ff6f070bacd31b1b21012703c3e",
 "commit_link": "https://github.com/apache/airflow/commit/214873cc60200ff6f070bacd31b1b21012703c3e",
-"files": ["airflow/providers/slack/hooks/slack.py", "airflow/providers/slack/hooks/slack_webhook.py", "airflow/providers/slack/operators/slack.py", "airflow/providers/slack/provider.yaml", "airflow/providers/slack/utils/__init__.py", "docs/apache-airflow-providers-slack/connections/index.rst", "docs/apache-airflow-providers-slack/connections/slack.rst", "docs/apache-airflow-providers-slack/index.rst", "tests/providers/slack/hooks/test_slack.py", "tests/providers/slack/utils/__init__.py", "tests/providers/slack/utils/test_utils.py", ]
-"type": "import, testcase, add Param"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/slack/hooks/test_slack.py", "tests/providers/slack/utils/__init__.py", "tests/providers/slack/utils/test_utils.py"],
+"type": ["import", "testcase", "add Param"],
 "numberOfMigration": ""

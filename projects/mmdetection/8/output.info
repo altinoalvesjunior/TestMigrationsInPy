@@ -1,5 +1,7 @@
 "commit_hash": "af063a6f25ddae4de90646f86b2db824f3d00138",
 "commit_link": "https://github.com/open-mmlab/mmdetection/commit/af063a6f25ddae4de90646f86b2db824f3d00138",
-"files": ["mmdet/datasets/transforms/augment_wrappers.py", "mmdet/datasets/transforms/formatting.py", "mmdet/datasets/transforms/geometric.py", "mmdet/datasets/transforms/loading.py", "mmdet/datasets/transforms/transforms.py", "mmdet/models/data_preprocessors/data_preprocessor.py", "mmdet/models/utils/__init__.py", "mmdet/models/utils/misc.py", "mmdet/structures/bbox/__init__.py", "mmdet/structures/bbox/base_boxes.py", "mmdet/structures/bbox/box_type.py", "mmdet/structures/mask/structures.py", "mmdet/testing/_utils.py", "tests/test_datasets/test_transforms/test_geometric.py", "tests/test_datasets/test_transforms/test_loading.py", "tests/test_datasets/test_transforms/test_transforms.py", "tests/test_datasets/test_transforms/utils.py", "tests/test_models/test_data_preprocessors/test_data_preprocessor.py", "tests/test_structures/test_bbox/test_base_boxes.py", "tools/analysis_tools/browse_dataset.py", ]
-"type": "assert"
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["mmdet/testing/_utils.py", "tests/test_datasets/test_transforms/test_geometric.py", "tests/test_datasets/test_transforms/test_loading.py", "tests/test_datasets/test_transforms/test_transforms.py", "tests/test_datasets/test_transforms/utils.py", "tests/test_models/test_data_preprocessors/test_data_preprocessor.py", "tests/test_structures/test_bbox/test_base_boxes.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "1385a827c2dbcb52dc8708d7cfc83a709151dc57",
 "commit_link": "https://github.com/zulip/zulip/commit/1385a827c2dbcb52dc8708d7cfc83a709151dc57",
-"files": ["zerver/decorator.py", "zerver/lib/create_user.py", "zerver/lib/import_realm.py", "zerver/lib/logging_util.py", "zerver/lib/request.py", "zerver/lib/test_helpers.py", "zerver/lib/transfer.py", "zerver/lib/webhooks/common.py", "zerver/management/commands/makemessages.py", "zerver/middleware.py", "zerver/models.py", "zerver/tests/test_link_embed.py", "zerver/tests/test_logging_handlers.py", "zerver/tests/test_markdown.py", "zerver/tests/test_openapi.py", "zerver/tests/test_signup.py", "zilencer/management/commands/mark_all_messages_unread.py", ]
-"type": "assert"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/lib/test_helpers.py", "zerver/tests/test_link_embed.py", "zerver/tests/test_logging_handlers.py", "zerver/tests/test_markdown.py", "zerver/tests/test_openapi.py", "zerver/tests/test_signup.py"],
+"type": ["assert"],
 "numberOfMigration": ""

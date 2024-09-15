@@ -1,5 +1,7 @@
 "commit_hash": "5034414208f85a8be61fe51d6a3091936fe402ba",
 "commit_link": "https://github.com/apache/airflow/commit/5034414208f85a8be61fe51d6a3091936fe402ba",
-"files": ["airflow/api/common/experimental/mark_tasks.py", "airflow/cli/commands/dag_command.py", "airflow/compat/functools.pyi", "airflow/exceptions.py", "airflow/jobs/backfill_job.py", "airflow/models/baseoperator.py", "airflow/models/dag.py", "airflow/models/dagbag.py", "airflow/models/dagrun.py", "airflow/models/taskinstance.py", "airflow/ti_deps/deps/prev_dagrun_dep.py", "airflow/timetables/__init__.py", "airflow/timetables/base.py", "airflow/timetables/interval.py", "airflow/timetables/schedules.py", "airflow/timetables/simple.py", "airflow/utils/dates.py", "airflow/utils/timezone.py", "airflow/www/views.py", "tests/cli/commands/test_dag_command.py", "tests/jobs/test_backfill_job.py", "tests/jobs/test_scheduler_job.py", "tests/models/test_dag.py", "tests/models/test_dagrun.py", "tests/models/test_taskinstance.py", "tests/sensors/test_base.py", "tests/serialization/test_dag_serialization.py", "tests/test_utils/perf/scheduler_dag_execution_timing.py", "tests/test_utils/timetables.py", "tests/ti_deps/deps/test_prev_dagrun_dep.py", "tests/timetables/test_time_table_iter_ranges.py", ]
-"type": "import, testcase, add Param"
+"testFilesChanged": 12,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/cli/commands/test_dag_command.py", "tests/jobs/test_backfill_job.py", "tests/jobs/test_scheduler_job.py", "tests/models/test_dag.py", "tests/models/test_dagrun.py", "tests/models/test_taskinstance.py", "tests/sensors/test_base.py", "tests/serialization/test_dag_serialization.py", "tests/test_utils/perf/scheduler_dag_execution_timing.py", "tests/test_utils/timetables.py", "tests/ti_deps/deps/test_prev_dagrun_dep.py", "tests/timetables/test_time_table_iter_ranges.py"],
+"type": ["import", "testcase", "add Param"],
 "numberOfMigration": ""

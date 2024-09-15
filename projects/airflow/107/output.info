@@ -1,5 +1,7 @@
 "commit_hash": "0ebd55e0f8fc7eb26a2b35b779106201ffe88f55",
 "commit_link": "https://github.com/apache/airflow/commit/0ebd55e0f8fc7eb26a2b35b779106201ffe88f55",
-"files": ["airflow/providers/amazon/aws/hooks/batch_client.py", "airflow/providers/amazon/aws/hooks/batch_waiters.py", "airflow/providers/amazon/aws/operators/batch.py", "airflow/providers/amazon/aws/sensors/batch.py", "tests/deprecated_classes.py", "tests/providers/amazon/aws/hooks/test_batch_client.py", "tests/providers/amazon/aws/hooks/test_batch_waiters.py", "tests/providers/amazon/aws/operators/test_batch.py", "tests/providers/amazon/aws/sensors/test_batch.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/deprecated_classes.py", "tests/providers/amazon/aws/hooks/test_batch_client.py", "tests/providers/amazon/aws/hooks/test_batch_waiters.py", "tests/providers/amazon/aws/operators/test_batch.py", "tests/providers/amazon/aws/sensors/test_batch.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

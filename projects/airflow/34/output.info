@@ -1,5 +1,7 @@
 "commit_hash": "a715aa692e88160cb8e9df4effda2440e4778c17",
 "commit_link": "https://github.com/apache/airflow/commit/a715aa692e88160cb8e9df4effda2440e4778c17",
-"files": ["airflow/serialization/serialized_objects.py", "tests/serialization/test_dag_serialization.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/serialization/test_dag_serialization.py"],
+"type": ["assert"],
 "numberOfMigration": ""

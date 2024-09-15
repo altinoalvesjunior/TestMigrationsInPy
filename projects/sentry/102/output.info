@@ -1,5 +1,7 @@
 "commit_hash": "a1112dc2f13e1bf71b6182ed8ea7353d95d3f152",
 "commit_link": "https://github.com/getsentry/sentry/commit/a1112dc2f13e1bf71b6182ed8ea7353d95d3f152",
-"files": ["requirements-base.txt", "src/sentry/coreapi.py", "src/sentry/event_manager.py", "src/sentry/interfaces/csp.py", "src/sentry/interfaces/device.py", "src/sentry/interfaces/exception.py", "src/sentry/interfaces/http.py", "src/sentry/interfaces/query.py", "src/sentry/interfaces/schemas.py", "src/sentry/interfaces/stacktrace.py", "src/sentry/models/eventerror.py", "src/sentry/utils/json.py", "src/sentry/web/api.py", "src/sentry/web/urls.py", "tests/sentry/coreapi/tests.py", "tests/sentry/interfaces/test_csp.py", "tests/sentry/test_event_manager.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/coreapi/tests.py", "tests/sentry/interfaces/test_csp.py", "tests/sentry/test_event_manager.py"],
+"type": ["assert"],
 "numberOfMigration": ""

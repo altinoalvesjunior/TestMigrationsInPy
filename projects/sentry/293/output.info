@@ -1,5 +1,7 @@
 "commit_hash": "9edcbeabd8f58382cfcfe3894a22813944618019",
 "commit_link": "https://github.com/getsentry/sentry/commit/9edcbeabd8f58382cfcfe3894a22813944618019",
-"files": ["src/sentry/api/endpoints/organization_events_stats.py", "src/sentry/search/events/builder/discover.py", "src/sentry/search/events/builder/metrics.py", "src/sentry/snuba/discover.py", "src/sentry/snuba/entity_subscription.py", "src/sentry/snuba/functions.py", "src/sentry/snuba/issue_platform.py", "src/sentry/snuba/metrics/extraction.py", "src/sentry/snuba/metrics_enhanced_performance.py", "src/sentry/snuba/metrics_performance.py", "src/sentry/snuba/profiles.py", "src/sentry/snuba/spans_indexed.py", "src/sentry/snuba/spans_metrics.py", "tests/sentry/search/events/builder/test_metrics.py", "tests/sentry/snuba/test_extraction.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/search/events/builder/test_metrics.py", "tests/sentry/snuba/test_extraction.py"],
+"type": ["assert"],
 "numberOfMigration": ""

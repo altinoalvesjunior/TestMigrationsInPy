@@ -1,5 +1,7 @@
 "commit_hash": "4fd8977eafd658056c92ffa6294027e77cdc46c0",
 "commit_link": "https://github.com/ray-project/ray/commit/4fd8977eafd658056c92ffa6294027e77cdc46c0",
-"files": ["python/ray/experimental/tf_utils.py", "rllib/BUILD", "rllib/agents/a3c/a3c_tf_policy.py", "rllib/agents/ddpg/ddpg.py", "rllib/agents/ddpg/ddpg_tf_policy.py", "rllib/agents/ddpg/ddpg_torch_policy.py", "rllib/agents/dqn/distributional_q_tf_model.py", "rllib/agents/dqn/dqn_tf_policy.py", "rllib/agents/dqn/simple_q_torch_policy.py", "rllib/agents/dyna/dyna_torch_model.py", "rllib/agents/impala/vtrace_tf_policy.py", "rllib/agents/marwil/marwil_tf_policy.py", "rllib/agents/ppo/appo_tf_policy.py", "rllib/agents/ppo/ppo_tf_policy.py", "rllib/agents/qmix/tests/test_qmix.py", "rllib/agents/sac/sac.py", "rllib/agents/sac/sac_tf_policy.py", "rllib/agents/sac/sac_torch_policy.py", "rllib/agents/sac/tests/test_sac.py", "rllib/agents/trainer.py", "rllib/agents/trainer_template.py", "rllib/examples/models/autoregressive_action_dist.py", "rllib/examples/models/parametric_actions_model.py", "rllib/models/catalog.py", "rllib/models/tf/__init__.py", "rllib/models/tf/layers/__init__.py", "rllib/models/tf/layers/noisy_layer.py", "rllib/models/tf/tf_action_dist.py", "rllib/policy/eager_tf_policy.py", "rllib/policy/tf_policy_template.py", "rllib/policy/torch_policy_template.py", "rllib/tests/test_dependency.py", "rllib/tests/test_execution.py", "rllib/tests/test_rollout_worker.py", "rllib/utils/exploration/parameter_noise.py", "rllib/utils/tf_ops.py", "rllib/utils/types.py", ]
-"type": "assert"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["rllib/agents/qmix/tests/test_qmix.py", "rllib/agents/sac/tests/test_sac.py", "rllib/tests/test_dependency.py", "rllib/tests/test_execution.py", "rllib/tests/test_rollout_worker.py"],
+"type": ["assert"],
 "numberOfMigration": ""

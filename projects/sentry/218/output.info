@@ -1,5 +1,7 @@
 "commit_hash": "00fa206b9b6b7eff5af73cfe62e822fcda8dfc59",
 "commit_link": "https://github.com/getsentry/sentry/commit/00fa206b9b6b7eff5af73cfe62e822fcda8dfc59",
-"files": ["src/sentry/api/serializers/models/alert_rule.py", "src/sentry/api/serializers/models/alert_rule_trigger.py", "src/sentry/incidents/endpoints/serializers.py", "src/sentry/incidents/endpoints/utils.py", "tests/sentry/api/serializers/test_alert_rule.py", "tests/sentry/api/serializers/test_alert_rule_trigger.py", "tests/sentry/incidents/endpoints/test_serializers.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/api/serializers/test_alert_rule.py", "tests/sentry/api/serializers/test_alert_rule_trigger.py", "tests/sentry/incidents/endpoints/test_serializers.py"],
+"type": ["assert"],
 "numberOfMigration": ""

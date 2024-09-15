@@ -1,5 +1,7 @@
 "commit_hash": "ed9fc3e1bbd4d0f24e224c22525406054e787067",
 "commit_link": "https://github.com/kivy/kivy/commit/ed9fc3e1bbd4d0f24e224c22525406054e787067",
-"files": ["kivy/tests/test_lang.py", "kivy/tests/test_lang_pre_process_and_post_process.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["kivy/tests/test_lang.py", "kivy/tests/test_lang_pre_process_and_post_process.py"],
+"type": ["assert"],
 "numberOfMigration": ""

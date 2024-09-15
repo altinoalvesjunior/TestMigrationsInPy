@@ -1,5 +1,7 @@
 "commit_hash": "fc0f126375344e3a1560745ab540bedf38940f81",
 "commit_link": "https://github.com/streamlit/streamlit/commit/fc0f126375344e3a1560745ab540bedf38940f81",
-"files": ["lib/streamlit/app_session.py", "lib/streamlit/script_runner.py", "lib/streamlit/server/server.py", "lib/tests/streamlit/app_session_test.py", "lib/tests/streamlit/scriptrunner/script_runner_test.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["lib/tests/streamlit/app_session_test.py", "lib/tests/streamlit/scriptrunner/script_runner_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

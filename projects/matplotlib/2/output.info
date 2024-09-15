@@ -1,5 +1,7 @@
 "commit_hash": "f24330d848f73e48fd52766a742165571098b945",
 "commit_link": "https://github.com/matplotlib/matplotlib/commit/f24330d848f73e48fd52766a742165571098b945",
-"files": [".mailmap", ".travis.yml", "lib/matplotlib/__init__.py", "lib/matplotlib/axis.py", "lib/matplotlib/category.py", "lib/matplotlib/tests/test_category.py", "tox.ini", ]
-"type": "assert, fixture, import, testcase, add Param"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["lib/matplotlib/tests/test_category.py"],
+"type": ["assert", "fixture", "import", "testcase", "add Param"],
 "numberOfMigration": ""

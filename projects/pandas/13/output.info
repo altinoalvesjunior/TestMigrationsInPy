@@ -1,5 +1,7 @@
 "commit_hash": "843aa600c8ed359f828c5a25d5e7130d6df1e08a",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/843aa600c8ed359f828c5a25d5e7130d6df1e08a",
-"files": ["doc/source/basics.rst", "doc/source/release.rst", "doc/source/v0.14.0.txt", "pandas/core/frame.py", "pandas/core/generic.py", "pandas/core/series.py", "pandas/tests/test_frame.py", "pandas/tests/test_generic.py", "pandas/tests/test_series.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/test_frame.py", "pandas/tests/test_generic.py", "pandas/tests/test_series.py"],
+"type": ["assert"],
 "numberOfMigration": ""

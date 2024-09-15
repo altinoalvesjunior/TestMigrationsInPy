@@ -1,5 +1,7 @@
 "commit_hash": "f91d2874471c8760bdacb4cd049b80084f6d74ec",
 "commit_link": "https://github.com/zulip/zulip/commit/f91d2874471c8760bdacb4cd049b80084f6d74ec",
-"files": ["confirmation/models.py", "scripts/nagios/check-rabbitmq-consumers", "scripts/setup/restore-backup", "tools/documentation_crawler/documentation_crawler/spiders/common/spiders.py", "tools/lib/capitalization.py", "tools/lib/gitlint-rules.py", "tools/test-backend", "tools/tests/test_capitalization_checker.py", "zerver/data_import/import_util.py", "zerver/lib/actions.py", "zerver/lib/hotspots.py", "zerver/lib/markdown/fenced_code.py", "zerver/lib/name_restrictions.py", "zerver/lib/test_fixtures.py", "zerver/lib/test_runner.py", "zerver/lib/upload.py", "zerver/lib/utils.py", "zerver/management/commands/email_mirror.py", "zerver/management/commands/send_to_email_mirror.py", "zerver/middleware.py", "zerver/models.py", "zerver/tests/test_auth_backends.py", "zerver/tests/test_email_mirror.py", "zerver/tests/test_retention.py", "zerver/tests/test_slack_message_conversion.py", "zerver/tests/test_subs.py", "zerver/tornado/event_queue.py", "zerver/views/auth.py", "zerver/views/video_calls.py", "zerver/webhooks/bitbucket3/view.py", "zerver/webhooks/gitlab/tests.py", "zproject/backends.py", "zproject/computed_settings.py", ]
-"type": "assert"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tools/test-backend", "tools/tests/test_capitalization_checker.py", "zerver/lib/test_fixtures.py", "zerver/lib/test_runner.py", "zerver/tests/test_auth_backends.py", "zerver/tests/test_email_mirror.py", "zerver/tests/test_retention.py", "zerver/tests/test_slack_message_conversion.py", "zerver/tests/test_subs.py", "zerver/webhooks/gitlab/tests.py"],
+"type": ["assert"],
 "numberOfMigration": ""

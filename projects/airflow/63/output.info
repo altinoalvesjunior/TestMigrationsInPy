@@ -1,5 +1,7 @@
 "commit_hash": "4d3300c1dc1d40aa82e5c5a80a455b8862196dfa",
 "commit_link": "https://github.com/apache/airflow/commit/4d3300c1dc1d40aa82e5c5a80a455b8862196dfa",
-"files": ["airflow/cli/cli_parser.py", "airflow/cli/commands/plugins_command.py", "airflow/cli/simple_table.py", "tests/cli/commands/test_plugins_command.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/cli/commands/test_plugins_command.py"],
+"type": ["assert"],
 "numberOfMigration": ""

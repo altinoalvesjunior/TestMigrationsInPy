@@ -1,5 +1,7 @@
 "commit_hash": "358a334bd4118ceabfb8b64e0f7bdf258eab5363",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/358a334bd4118ceabfb8b64e0f7bdf258eab5363",
-"files": ["doc/source/whatsnew/v0.18.0.txt", "pandas/core/common.py", "pandas/tests/test_common.py", "pandas/tseries/tests/test_tslib.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/test_common.py", "pandas/tseries/tests/test_tslib.py"],
+"type": ["assert"],
 "numberOfMigration": ""

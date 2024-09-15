@@ -1,5 +1,7 @@
 "commit_hash": "9336086ab5d232cccd9512333518cf4299528882",
 "commit_link": "https://github.com/huggingface/transformers/commit/9336086ab5d232cccd9512333518cf4299528882",
-"files": ["examples/seq2seq/README.md", "examples/seq2seq/distillation.py", "examples/seq2seq/finetune.py", "examples/seq2seq/run_eval.py", "examples/seq2seq/test_seq2seq_examples.py", "examples/seq2seq/utils.py", "src/transformers/modeling_bart.py", "src/transformers/modeling_t5.py", "src/transformers/tokenization_bart.py", "src/transformers/tokenization_marian.py", "src/transformers/tokenization_mbart.py", "src/transformers/tokenization_pegasus.py", "src/transformers/tokenization_t5.py", "tests/test_modeling_bart.py", "tests/test_tokenization_bart.py", "tests/test_tokenization_common.py", "tests/test_tokenization_mbart.py", "tests/test_tokenization_pegasus.py", "tests/test_tokenization_roberta.py", "tests/test_tokenization_t5.py", ]
-"type": "assert, add Param"
+"testFilesChanged": 8,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["examples/seq2seq/test_seq2seq_examples.py", "tests/test_modeling_bart.py", "tests/test_tokenization_bart.py", "tests/test_tokenization_common.py", "tests/test_tokenization_mbart.py", "tests/test_tokenization_pegasus.py", "tests/test_tokenization_roberta.py", "tests/test_tokenization_t5.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

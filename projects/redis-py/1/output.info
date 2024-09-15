@@ -1,5 +1,7 @@
 "commit_hash": "e1233ff4545de043b5b33b7d50f17d260f1e02ce",
 "commit_link": "https://github.com/andymccurdy/redis-py/commit/e1233ff4545de043b5b33b7d50f17d260f1e02ce",
-"files": ["redis/client.py", "run_tests", "setup.py", "tests/__init__.py", "tests/server_commands.py", "tests/test_commands.py", ]
-"type": "assert, import, testcase"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["run_tests", "tests/__init__.py", "tests/server_commands.py", "tests/test_commands.py"],
+"type": ["assert", "import", "testcase"],
 "numberOfMigration": ""

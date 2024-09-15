@@ -1,5 +1,7 @@
 "commit_hash": "884fca8d114ce8e0c982747937a1014f3b5e7491",
 "commit_link": "https://github.com/apache/airflow/commit/884fca8d114ce8e0c982747937a1014f3b5e7491",
-"files": ["tests/conftest.py", "tests/decorators/test_python.py", "tests/decorators/test_python_virtualenv.py", "tests/operators/test_python.py", "tests/sensors/test_python.py", ]
-"type": "assert, fixture, testcase, add Param"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/conftest.py", "tests/decorators/test_python.py", "tests/decorators/test_python_virtualenv.py", "tests/operators/test_python.py", "tests/sensors/test_python.py"],
+"type": ["assert", "fixture", "testcase", "add Param"],
 "numberOfMigration": ""

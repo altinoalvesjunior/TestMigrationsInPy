@@ -1,5 +1,7 @@
 "commit_hash": "44f320c05a05d9989a87f3a5eb2fa336af15b8c1",
 "commit_link": "https://github.com/streamlit/streamlit/commit/44f320c05a05d9989a87f3a5eb2fa336af15b8c1",
-"files": ["lib/streamlit/delta_generator.py", "lib/streamlit/elements/button.py", "lib/streamlit/elements/image.py", "lib/streamlit/elements/media.py", "lib/streamlit/runtime/app_session.py", "lib/streamlit/runtime/media_file_manager.py", "lib/streamlit/runtime/runtime.py", "lib/streamlit/runtime/scriptrunner/script_runner.py", "lib/streamlit/web/server/routes.py", "lib/tests/streamlit/elements/audio_test.py", "lib/tests/streamlit/elements/image_test.py", "lib/tests/streamlit/elements/video_test.py", "lib/tests/streamlit/runtime/media_file_manager_test.py", "lib/tests/streamlit/streamlit_test.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["lib/tests/streamlit/elements/audio_test.py", "lib/tests/streamlit/elements/image_test.py", "lib/tests/streamlit/elements/video_test.py", "lib/tests/streamlit/runtime/media_file_manager_test.py", "lib/tests/streamlit/streamlit_test.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "cd24fa95f1781b14d35eac4953bab02691fd9d04",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/cd24fa95f1781b14d35eac4953bab02691fd9d04",
-"files": ["doc/source/timeseries.rst", "doc/source/whatsnew/v0.20.0.txt", "pandas/_libs/tslib.pyx", "pandas/tests/indexes/datetimes/test_tools.py", "pandas/tests/indexes/timedeltas/test_ops.py", "pandas/tests/scalar/test_timedelta.py", "pandas/tseries/tdi.py", "pandas/tseries/tools.py", ]
-"type": "assert, add Param"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/indexes/datetimes/test_tools.py", "pandas/tests/indexes/timedeltas/test_ops.py", "pandas/tests/scalar/test_timedelta.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

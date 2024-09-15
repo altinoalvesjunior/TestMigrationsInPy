@@ -1,5 +1,7 @@
 "commit_hash": "ebc0c0986fc01dfc937d493786d6fdbcd1c7eddd",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/ebc0c0986fc01dfc937d493786d6fdbcd1c7eddd",
-"files": ["doc/source/whatsnew/v0.20.0.txt", "pandas/tests/series/test_constructors.py", "pandas/tests/series/test_dtypes.py", "pandas/types/cast.py", ]
-"type": "assert, add Param"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/series/test_constructors.py", "pandas/tests/series/test_dtypes.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

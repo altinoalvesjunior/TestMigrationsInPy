@@ -1,5 +1,7 @@
 "commit_hash": "db6cc603528c5d1c15acf89e092f99f5d24ca848",
 "commit_link": "https://github.com/ansible/ansible/commit/db6cc603528c5d1c15acf89e092f99f5d24ca848",
-"files": ["bin/ansible", "changelogs/fragments/argparse.yaml", "docs/bin/generate_man.py", "docs/docsite/rst/installation_guide/intro_installation.rst", "docs/docsite/rst/user_guide/playbooks_vault.rst", "docs/docsite/rst/user_guide/vault.rst", "docs/templates/cli_rst.j2", "lib/ansible/cli/__init__.py", "lib/ansible/cli/adhoc.py", "lib/ansible/cli/arguments/option_helpers.py", "lib/ansible/cli/arguments/optparse_helpers.py", "lib/ansible/cli/config.py", "lib/ansible/cli/console.py", "lib/ansible/cli/doc.py", "lib/ansible/cli/galaxy.py", "lib/ansible/cli/inventory.py", "lib/ansible/cli/playbook.py", "lib/ansible/cli/pull.py", "lib/ansible/cli/vault.py", "lib/ansible/parsing/vault/__init__.py", "test/integration/targets/ansible/runme.sh", "test/integration/targets/lookup_inventory_hostnames/runme.sh", "test/integration/targets/vault/runme.sh", "test/units/cli/arguments/test_optparse_helpers.py", "test/units/cli/test_adhoc.py", "test/units/cli/test_galaxy.py", "test/units/cli/test_vault.py", "test/units/playbook/test_play_context.py", ]
-"type": "assert"
+"testFilesChanged": 8,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/integration/targets/ansible/runme.sh", "test/integration/targets/lookup_inventory_hostnames/runme.sh", "test/integration/targets/vault/runme.sh", "test/units/cli/arguments/test_optparse_helpers.py", "test/units/cli/test_adhoc.py", "test/units/cli/test_galaxy.py", "test/units/cli/test_vault.py", "test/units/playbook/test_play_context.py"],
+"type": ["assert"],
 "numberOfMigration": ""

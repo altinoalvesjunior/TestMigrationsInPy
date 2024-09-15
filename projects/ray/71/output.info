@@ -1,5 +1,7 @@
 "commit_hash": "898243d538c38c41c34eb28e930585585408ef8a",
 "commit_link": "https://github.com/ray-project/ray/commit/898243d538c38c41c34eb28e930585585408ef8a",
-"files": ["doc/source/tune/user-guide.rst", "python/ray/tune/BUILD", "python/ray/tune/ray_trial_executor.py", "python/ray/tune/stopper.py", "python/ray/tune/suggest/ax.py", "python/ray/tune/suggest/dragonfly.py", "python/ray/tune/suggest/nevergrad.py", "python/ray/tune/tests/test_cluster.py", "python/ray/tune/tests/test_convergence.py", "python/ray/tune/tests/test_convergence_gaussian_process.py", "python/ray/tune/tests/test_trial_runner.py", "python/ray/tune/tests/test_trial_runner_3.py", "python/ray/tune/tests/test_trial_runner_pg.py", "python/ray/tune/tests/test_tune_restore.py", "python/ray/tune/trial_executor.py", "python/ray/tune/trial_runner.py", "python/ray/tune/utils/placement_groups.py", ]
-"type": "import, testcase"
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/tune/tests/test_cluster.py", "python/ray/tune/tests/test_convergence.py", "python/ray/tune/tests/test_convergence_gaussian_process.py", "python/ray/tune/tests/test_trial_runner.py", "python/ray/tune/tests/test_trial_runner_3.py", "python/ray/tune/tests/test_trial_runner_pg.py", "python/ray/tune/tests/test_tune_restore.py"],
+"type": ["import", "testcase"],
 "numberOfMigration": ""

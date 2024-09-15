@@ -1,5 +1,7 @@
 "commit_hash": "0561fb3c9b94c19c3b24764624dbadd4cd71bc09",
 "commit_link": "https://github.com/getsentry/sentry/commit/0561fb3c9b94c19c3b24764624dbadd4cd71bc09",
-"files": ["src/sentry/testutils/outbox.py", "tests/sentry/middleware/integrations/parsers/test_github.py", "tests/sentry/middleware/integrations/parsers/test_github_enterprise.py", "tests/sentry/middleware/integrations/parsers/test_gitlab.py", "tests/sentry/middleware/integrations/parsers/test_jira.py", "tests/sentry/middleware/integrations/parsers/test_jira_server.py", ]
-"type": "assert"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["src/sentry/testutils/outbox.py", "tests/sentry/middleware/integrations/parsers/test_github.py", "tests/sentry/middleware/integrations/parsers/test_github_enterprise.py", "tests/sentry/middleware/integrations/parsers/test_gitlab.py", "tests/sentry/middleware/integrations/parsers/test_jira.py", "tests/sentry/middleware/integrations/parsers/test_jira_server.py"],
+"type": ["assert"],
 "numberOfMigration": ""

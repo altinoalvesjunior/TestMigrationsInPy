@@ -1,5 +1,7 @@
 "commit_hash": "196bfece300cf2afdae650cbb248abd9be19524b",
 "commit_link": "https://github.com/getredash/redash/commit/196bfece300cf2afdae650cbb248abd9be19524b",
-"files": ["tests/handlers/test_queries.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/handlers/test_queries.py"],
+"type": ["assert"],
 "numberOfMigration": ""

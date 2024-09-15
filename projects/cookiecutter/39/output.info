@@ -1,5 +1,7 @@
 "commit_hash": "73a5d78cdd556c4d7039c3c0f4b2740c59dcbb75",
 "commit_link": "https://github.com/cookiecutter/cookiecutter/commit/73a5d78cdd556c4d7039c3c0f4b2740c59dcbb75",
-"files": ["tests/test_hooks.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_hooks.py"],
+"type": ["assert"],
 "numberOfMigration": ""

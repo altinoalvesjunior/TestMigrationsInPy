@@ -1,5 +1,7 @@
 "commit_hash": "a03e7b95d3adf029f91aa48b7903f765b6cb936f",
 "commit_link": "https://github.com/certbot/certbot/commit/a03e7b95d3adf029f91aa48b7903f765b6cb936f",
-"files": ["CHANGELOG.md", "acme/acme/__init__.py", "acme/acme/challenges.py", "acme/acme/challenges_test.py", "acme/acme/crypto_util.py", "acme/acme/messages.py", "acme/acme/standalone.py", "acme/acme/standalone_test.py", "acme/acme/test_util.py", "pytest.ini", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["acme/acme/challenges_test.py", "acme/acme/standalone_test.py", "acme/acme/test_util.py", "pytest.ini"],
+"type": ["assert"],
 "numberOfMigration": ""

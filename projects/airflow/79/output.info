@@ -1,5 +1,7 @@
 "commit_hash": "cbc3cb8d724497628959978af3ba21a7783b8279",
 "commit_link": "https://github.com/apache/airflow/commit/cbc3cb8d724497628959978af3ba21a7783b8279",
-"files": ["TESTING.rst", "kubernetes_tests/test_base.py", "kubernetes_tests/test_kubernetes_executor.py", "kubernetes_tests/test_other_executors.py", ]
-"type": "import, testcase"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["kubernetes_tests/test_base.py", "kubernetes_tests/test_kubernetes_executor.py", "kubernetes_tests/test_other_executors.py"],
+"type": ["import", "testcase"],
 "numberOfMigration": ""

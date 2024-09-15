@@ -1,5 +1,7 @@
 "commit_hash": "b14a33c65989f511a7752df008bc4d1069d22557",
 "commit_link": "https://github.com/zulip/zulip/commit/b14a33c65989f511a7752df008bc4d1069d22557",
-"files": ["zerver/actions/realm_emoji.py", "zerver/lib/emoji.py", "zerver/lib/thumbnail.py", "zerver/lib/upload/__init__.py", "zerver/tests/images/animated_large_img.png", "zerver/tests/test_transfer.py", "zerver/tests/test_upload.py", "zilencer/management/commands/populate_db.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/tests/images/animated_large_img.png", "zerver/tests/test_transfer.py", "zerver/tests/test_upload.py"],
+"type": ["assert"],
 "numberOfMigration": ""

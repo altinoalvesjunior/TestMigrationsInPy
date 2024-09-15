@@ -1,5 +1,7 @@
 "commit_hash": "ed7a29d05df5d015ebc1ceed9b577633c9936319",
 "commit_link": "https://github.com/getsentry/sentry/commit/ed7a29d05df5d015ebc1ceed9b577633c9936319",
-"files": ["src/sentry/web/frontend/remove_project.py", "tests/sentry/web/frontend/projects/tests.py", "tests/sentry/web/frontend/test_remove_project.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/web/frontend/projects/tests.py", "tests/sentry/web/frontend/test_remove_project.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

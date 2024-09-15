@@ -1,5 +1,7 @@
 "commit_hash": "6c3da7f0dc67727590b9bdccd40a56e10fc58341",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/6c3da7f0dc67727590b9bdccd40a56e10fc58341",
-"files": ["doc/source/whatsnew/v0.17.0.txt", "pandas/io/packers.py", "pandas/io/tests/test_packers.py", "pandas/msgpack.pyx", "pandas/msgpack/__init__.py", "pandas/msgpack/_packer.pyx", "pandas/msgpack/_unpacker.pyx", "pandas/msgpack/_version.py", "pandas/msgpack/exceptions.py", "pandas/src/msgpack/pack.h", "pandas/src/msgpack/pack_template.h", "pandas/src/msgpack/sysdep.h", "pandas/src/msgpack/unpack.h", "pandas/src/msgpack/unpack_define.h", "pandas/src/msgpack/unpack_template.h", "pandas/tests/test_msgpack/test_buffer.py", "pandas/tests/test_msgpack/test_case.py", "pandas/tests/test_msgpack/test_extension.py", "pandas/tests/test_msgpack/test_format.py", "pandas/tests/test_msgpack/test_limits.py", "pandas/tests/test_msgpack/test_newspec.py", "pandas/tests/test_msgpack/test_obj.py", "pandas/tests/test_msgpack/test_read_size.py", "pandas/tests/test_msgpack/test_seq.py", "pandas/tests/test_msgpack/test_sequnpack.py", "pandas/tests/test_msgpack/test_unpack.py", "pandas/tests/test_msgpack/test_unpack_raw.py", "setup.py", ]
-"type": "assert"
+"testFilesChanged": 13,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/io/tests/test_packers.py", "pandas/tests/test_msgpack/test_buffer.py", "pandas/tests/test_msgpack/test_case.py", "pandas/tests/test_msgpack/test_extension.py", "pandas/tests/test_msgpack/test_format.py", "pandas/tests/test_msgpack/test_limits.py", "pandas/tests/test_msgpack/test_newspec.py", "pandas/tests/test_msgpack/test_obj.py", "pandas/tests/test_msgpack/test_read_size.py", "pandas/tests/test_msgpack/test_seq.py", "pandas/tests/test_msgpack/test_sequnpack.py", "pandas/tests/test_msgpack/test_unpack.py", "pandas/tests/test_msgpack/test_unpack_raw.py"],
+"type": ["assert"],
 "numberOfMigration": ""

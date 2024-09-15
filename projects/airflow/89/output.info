@@ -1,5 +1,7 @@
 "commit_hash": "fe74f461c72b7f146596fc7c0cb3c6857f574ba0",
 "commit_link": "https://github.com/apache/airflow/commit/fe74f461c72b7f146596fc7c0cb3c6857f574ba0",
-"files": ["tests/dag_processing/test_manager.py", "tests/dag_processing/test_processor.py", "tests/jobs/test_scheduler_job.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/dag_processing/test_manager.py", "tests/dag_processing/test_processor.py", "tests/jobs/test_scheduler_job.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

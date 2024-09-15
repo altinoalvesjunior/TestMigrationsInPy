@@ -1,5 +1,7 @@
 "commit_hash": "ad587ea792d4f401abc69d010b350dcafe84eab6",
 "commit_link": "https://github.com/scrapy/scrapy/commit/ad587ea792d4f401abc69d010b350dcafe84eab6",
-"files": ["scrapy/commands/check.py", "scrapy/commands/edit.py", "scrapy/commands/fetch.py", "scrapy/commands/genspider.py", "scrapy/commands/list.py", "scrapy/commands/parse.py", "scrapy/commands/shell.py", "scrapy/crawler.py", "scrapy/spiderloader.py", "scrapy/utils/spider.py", "tests/test_crawler.py", "tests/test_spiderloader/__init__.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_crawler.py", "tests/test_spiderloader/__init__.py"],
+"type": ["assert"],
 "numberOfMigration": ""

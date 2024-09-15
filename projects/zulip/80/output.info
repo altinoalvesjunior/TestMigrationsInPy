@@ -1,5 +1,7 @@
 "commit_hash": "63fa2a933878b4e6a4abfdf95df488fd43ed9e27",
 "commit_link": "https://github.com/zulip/zulip/commit/63fa2a933878b4e6a4abfdf95df488fd43ed9e27",
-"files": ["zerver/tests/test_realm.py", "zerver/views/realm.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/tests/test_realm.py"],
+"type": ["assert"],
 "numberOfMigration": ""

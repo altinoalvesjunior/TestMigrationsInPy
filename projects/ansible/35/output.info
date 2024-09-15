@@ -1,5 +1,7 @@
 "commit_hash": "f5f4948480334b567a968fb37c97b0110b3edb69",
 "commit_link": "https://github.com/ansible/ansible/commit/f5f4948480334b567a968fb37c97b0110b3edb69",
-"files": ["docs/docsite/rst/community/documentation_contributions.rst", "test/runner/requirements/units.txt", "test/sanity/validate-modules/test_validate_modules_regex.py", "test/units/modules/network/f5/test_bigip_gtm_facts.py", "test/units/modules/network/f5/test_bigip_security_address_list.py", "test/units/modules/network/f5/test_bigip_security_port_list.py", ]
-"type": "import, skip"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/runner/requirements/units.txt", "test/sanity/validate-modules/test_validate_modules_regex.py", "test/units/modules/network/f5/test_bigip_gtm_facts.py", "test/units/modules/network/f5/test_bigip_security_address_list.py", "test/units/modules/network/f5/test_bigip_security_port_list.py"],
+"type": ["import", "skip"],
 "numberOfMigration": ""

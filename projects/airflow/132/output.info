@@ -1,5 +1,7 @@
 "commit_hash": "fd27584b3dc355eaf0c0cd7a4cd65e0e580fcf6d",
 "commit_link": "https://github.com/apache/airflow/commit/fd27584b3dc355eaf0c0cd7a4cd65e0e580fcf6d",
-"files": ["airflow/providers/slack/operators/slack_webhook.py", "airflow/providers/slack/provider.yaml", "dev/breeze/tests/test_selective_checks.py", "generated/provider_dependencies.json", "tests/providers/slack/operators/test_slack_webhook.py", ]
-"type": "import, testcase, add Param"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["dev/breeze/tests/test_selective_checks.py", "tests/providers/slack/operators/test_slack_webhook.py"],
+"type": ["import", "testcase", "add Param"],
 "numberOfMigration": ""

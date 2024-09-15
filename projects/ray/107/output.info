@@ -1,5 +1,7 @@
 "commit_hash": "51d16b8ff9db326b9dbb16f3eb357a7ae30018a5",
 "commit_link": "https://github.com/ray-project/ray/commit/51d16b8ff9db326b9dbb16f3eb357a7ae30018a5",
-"files": ["rllib/BUILD", "rllib/tests/test_node_failure.py", "rllib/tests/test_worker_failures.py", ]
-"type": "import"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["rllib/tests/test_node_failure.py", "rllib/tests/test_worker_failures.py"],
+"type": ["import"],
 "numberOfMigration": ""

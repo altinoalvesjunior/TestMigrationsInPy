@@ -1,5 +1,7 @@
 "commit_hash": "687cd7826523e933c96de46d60dfc8a1b5af5a39",
 "commit_link": "https://github.com/open-mmlab/mmdetection/commit/687cd7826523e933c96de46d60dfc8a1b5af5a39",
-"files": ["configs/_base_/models/cascade_mask_rcnn_r50_fpn.py", "configs/_base_/models/cascade_rcnn_r50_fpn.py", "configs/cascade_rcnn/cascade_mask_rcnn_r50_caffe_fpn_1x_coco.py", "configs/cascade_rcnn/cascade_mask_rcnn_r50_caffe_fpn_mstrain_3x_coco.py", "configs/cascade_rcnn/cascade_mask_rcnn_x101_32x8d_fpn_mstrain_3x_coco.py", "configs/cascade_rcnn/cascade_rcnn_r50_caffe_fpn_1x_coco.py", "mmdet/models/dense_heads/base_mask_head.py", "mmdet/models/detectors/cascade_rcnn.py", "mmdet/models/detectors/lad.py", "mmdet/models/detectors/two_stage.py", "mmdet/models/roi_heads/base_roi_head.py", "mmdet/models/roi_heads/bbox_heads/bbox_head.py", "mmdet/models/roi_heads/cascade_roi_head.py", "mmdet/models/roi_heads/mask_heads/fcn_mask_head.py", "mmdet/models/roi_heads/standard_roi_head.py", "mmdet/models/utils/__init__.py", "mmdet/models/utils/misc.py", "tests/test_models/test_detectors/test_two_stage.py", "tests/test_models/test_roi_heads/test_bbox_heads/test_bbox_head.py", "tests/test_models/test_roi_heads/test_cascade_roi_head.py", "tests/test_models/test_utils/test_misc.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_models/test_detectors/test_two_stage.py", "tests/test_models/test_roi_heads/test_bbox_heads/test_bbox_head.py", "tests/test_models/test_roi_heads/test_cascade_roi_head.py", "tests/test_models/test_utils/test_misc.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

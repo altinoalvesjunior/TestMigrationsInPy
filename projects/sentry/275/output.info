@@ -1,5 +1,7 @@
 "commit_hash": "1542475a294312c2722c69fd8c37dd310041aa30",
 "commit_link": "https://github.com/getsentry/sentry/commit/1542475a294312c2722c69fd8c37dd310041aa30",
-"files": ["src/sentry/receivers/outbox/region.py", "src/sentry/services/hybrid_cloud/organizationmember_mapping/__init__.py", "src/sentry/services/hybrid_cloud/organizationmember_mapping/impl.py", "src/sentry/testutils/factories.py", "tests/sentry/api/endpoints/test_accept_organization_invite.py", "tests/sentry/auth/test_helper.py", "tests/sentry/deletions/test_organization.py", "tests/sentry/hybrid_cloud/test_organizationmembermapping.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["src/sentry/testutils/factories.py", "tests/sentry/api/endpoints/test_accept_organization_invite.py", "tests/sentry/auth/test_helper.py", "tests/sentry/deletions/test_organization.py", "tests/sentry/hybrid_cloud/test_organizationmembermapping.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

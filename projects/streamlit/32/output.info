@@ -1,5 +1,7 @@
 "commit_hash": "bb0639c9f57a6a244698af042128f3b68b36356c",
 "commit_link": "https://github.com/streamlit/streamlit/commit/bb0639c9f57a6a244698af042128f3b68b36356c",
-"files": ["lib/streamlit/testing/element_tree.py", "lib/streamlit/testing/local_script_runner.py", "lib/streamlit/testing/script_interactions.py", "lib/tests/streamlit/script_interactions_test.py", "lib/tests/streamlit/testing/app_test_test.py", "lib/tests/streamlit/testing/test_runner_test.py", ]
-"type": "import, testcase"
+"testFilesChanged": 6,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["lib/streamlit/testing/element_tree.py", "lib/streamlit/testing/local_script_runner.py", "lib/streamlit/testing/script_interactions.py", "lib/tests/streamlit/script_interactions_test.py", "lib/tests/streamlit/testing/app_test_test.py", "lib/tests/streamlit/testing/test_runner_test.py"],
+"type": ["import", "testcase"],
 "numberOfMigration": ""

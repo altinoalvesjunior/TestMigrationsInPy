@@ -1,5 +1,7 @@
 "commit_hash": "14ee831c7ad767e31a3aeccf3edbc519b3b8c923",
 "commit_link": "https://github.com/apache/airflow/commit/14ee831c7ad767e31a3aeccf3edbc519b3b8c923",
-"files": ["airflow/config_templates/config.yml", "airflow/config_templates/default_airflow.cfg", "airflow/executors/celery_executor.py", "tests/executors/test_celery_executor.py", ]
-"type": "assert, testcase, add Param"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/executors/test_celery_executor.py"],
+"type": ["assert", "testcase", "add Param"],
 "numberOfMigration": ""

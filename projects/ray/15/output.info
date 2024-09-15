@@ -1,5 +1,7 @@
 "commit_hash": "d8ba667175290e182dee0e309c4a65445249b80d",
 "commit_link": "https://github.com/ray-project/ray/commit/d8ba667175290e182dee0e309c4a65445249b80d",
-"files": ["test/actor_test.py", "test/array_test.py", "test/autoscaler_test.py", "test/component_failures_test.py", "test/cython_test.py", "test/failure_test.py", "test/monitor_test.py", "test/multi_node_test.py", "test/runtest.py", "test/tensorflow_test.py", ]
-"type": "assert"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/actor_test.py", "test/array_test.py", "test/autoscaler_test.py", "test/component_failures_test.py", "test/cython_test.py", "test/failure_test.py", "test/monitor_test.py", "test/multi_node_test.py", "test/runtest.py", "test/tensorflow_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

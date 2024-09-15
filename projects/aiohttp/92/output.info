@@ -1,5 +1,7 @@
 "commit_hash": "53c3687335ba4aaba4d41e19a2331153f7fc1097",
 "commit_link": "https://github.com/aio-libs/aiohttp/commit/53c3687335ba4aaba4d41e19a2331153f7fc1097",
-"files": ["CHANGES.rst", "aiohttp/web_urldispatcher.py", "docs/web.rst", "docs/web_reference.rst", "tests/test_urldispatch.py", "tests/test_web_sendfile_functional.py", "tests/test_web_urldispatcher.py", ]
-"type": "assert, fixture, import, skip, testcase"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_urldispatch.py", "tests/test_web_sendfile_functional.py", "tests/test_web_urldispatcher.py"],
+"type": ["assert", "fixture", "import", "skip", "testcase"],
 "numberOfMigration": ""

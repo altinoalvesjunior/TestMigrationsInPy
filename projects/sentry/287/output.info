@@ -1,5 +1,7 @@
 "commit_hash": "4286faf6bcf27e0e354d2951644e9a4a54ac2fbc",
 "commit_link": "https://github.com/getsentry/sentry/commit/4286faf6bcf27e0e354d2951644e9a4a54ac2fbc",
-"files": ["src/sentry/incidents/logic.py", "src/sentry/relay/config/metric_extraction.py", "src/sentry/search/events/builder/metrics.py", "src/sentry/snuba/metrics/extraction.py", "tests/sentry/search/events/builder/test_metrics.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/search/events/builder/test_metrics.py"],
+"type": ["assert"],
 "numberOfMigration": ""

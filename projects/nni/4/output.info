@@ -1,5 +1,7 @@
 "commit_hash": "a36dc07e8d39ec4438fd660c98f6f4551ff5f4a6",
 "commit_link": "https://github.com/microsoft/nni/commit/a36dc07e8d39ec4438fd660c98f6f4551ff5f4a6",
-"files": ["docs/source/NAS/MutationPrimitives.rst", "nni/retiarii/converter/graph_gen.py", "nni/retiarii/graph.py", "nni/retiarii/nn/pytorch/api.py", "nni/retiarii/nn/pytorch/mutator.py", "test/ut/retiarii/test_highlevel_apis.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/ut/retiarii/test_highlevel_apis.py"],
+"type": ["assert"],
 "numberOfMigration": ""

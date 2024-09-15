@@ -1,5 +1,7 @@
 "commit_hash": "d9f1874e3489edc915228dcfdae64d5294034464",
 "commit_link": "https://github.com/ray-project/ray/commit/d9f1874e3489edc915228dcfdae64d5294034464",
-"files": ["python/ray/cloudpickle/cloudpickle_fast.py", "rllib/agents/dqn/dqn_torch_model.py", "rllib/agents/dqn/dqn_torch_policy.py", "rllib/agents/impala/tests/test_impala.py", "rllib/agents/impala/vtrace_tf_policy.py", "rllib/agents/impala/vtrace_torch_policy.py", "rllib/agents/pg/tests/test_pg.py", "rllib/agents/ppo/appo_tf_policy.py", "rllib/agents/ppo/appo_torch_policy.py", "rllib/agents/ppo/tests/test_appo.py", "rllib/agents/qmix/qmix_policy.py", "rllib/agents/sac/tests/test_sac.py", "rllib/contrib/maddpg/maddpg.py", "rllib/contrib/maddpg/maddpg_policy.py", "rllib/evaluation/collectors/simple_list_collector.py", "rllib/models/catalog.py", "rllib/models/modelv2.py", "rllib/models/torch/modules/noisy_layer.py", "rllib/models/torch/torch_action_dist.py", "rllib/policy/tf_policy.py", "rllib/tests/data/cartpole/large.json", "rllib/tests/test_local.py", "rllib/tests/test_multi_agent_pendulum.py", "rllib/tests/test_rollout.py", "rllib/tests/test_rollout_worker.py", "rllib/utils/test_utils.py", ]
-"type": "assert"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["rllib/agents/impala/tests/test_impala.py", "rllib/agents/pg/tests/test_pg.py", "rllib/agents/ppo/tests/test_appo.py", "rllib/agents/sac/tests/test_sac.py", "rllib/tests/data/cartpole/large.json", "rllib/tests/test_local.py", "rllib/tests/test_multi_agent_pendulum.py", "rllib/tests/test_rollout.py", "rllib/tests/test_rollout_worker.py", "rllib/utils/test_utils.py"],
+"type": ["assert"],
 "numberOfMigration": ""

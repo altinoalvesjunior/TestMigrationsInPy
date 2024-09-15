@@ -1,5 +1,7 @@
 "commit_hash": "105e46f3795e4c5267c2d31bf559c141955dce7e",
 "commit_link": "https://github.com/google/jax/commit/105e46f3795e4c5267c2d31bf559c141955dce7e",
-"files": ["README.md", "examples/mnist_vae.py", "jax/lax.py", "jax/lax_control_flow.py", "jax/lax_linalg.py", "jax/numpy/lax_numpy.py", "jax/random.py", "notebooks/Common_Gotchas_in_JAX.ipynb", "tests/batching_test.py", "tests/lax_control_flow_test.py", "tests/lax_test.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/batching_test.py", "tests/lax_control_flow_test.py", "tests/lax_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

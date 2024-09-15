@@ -1,5 +1,7 @@
 "commit_hash": "e7bcc3b33219afc4084ef4b163df9279aa40e8b6",
 "commit_link": "https://github.com/psf/requests/commit/e7bcc3b33219afc4084ef4b163df9279aa40e8b6",
-"files": ["requests/auth.py", "requests/compat.py", "requests/models.py", "requests/packages/urllib3/connectionpool.py", "requests/utils.py", "test_requests.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test_requests.py"],
+"type": ["assert"],
 "numberOfMigration": ""

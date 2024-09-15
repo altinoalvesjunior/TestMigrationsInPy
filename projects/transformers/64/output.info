@@ -1,5 +1,7 @@
 "commit_hash": "a9701953ffefcf8f10ec5a94dc2c55633648ba28",
 "commit_link": "https://github.com/huggingface/transformers/commit/a9701953ffefcf8f10ec5a94dc2c55633648ba28",
-"files": ["docs/source/en/internal/generation_utils.md", "docs/source/en/model_doc/whisper.md", "src/transformers/__init__.py", "src/transformers/cache_utils.py", "src/transformers/generation/utils.py", "src/transformers/models/whisper/configuration_whisper.py", "src/transformers/models/whisper/modeling_whisper.py", "src/transformers/utils/dummy_pt_objects.py", "tests/generation/test_utils.py", "tests/models/whisper/test_modeling_whisper.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/generation/test_utils.py", "tests/models/whisper/test_modeling_whisper.py"],
+"type": ["assert"],
 "numberOfMigration": ""

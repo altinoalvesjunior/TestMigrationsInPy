@@ -1,5 +1,7 @@
 "commit_hash": "1d2c2799c5ea8cdd12e30398c12f7dfe8fd83bf5",
 "commit_link": "https://github.com/streamlit/streamlit/commit/1d2c2799c5ea8cdd12e30398c12f7dfe8fd83bf5",
-"files": ["lib/streamlit/config_util.py", "lib/tests/streamlit/config_util_test.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["lib/tests/streamlit/config_util_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

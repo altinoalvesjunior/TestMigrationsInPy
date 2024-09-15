@@ -1,5 +1,7 @@
 "commit_hash": "4b5ed34cbf177dde9e6d2b75f9eb329f097a96f0",
 "commit_link": "https://github.com/google/jax/commit/4b5ed34cbf177dde9e6d2b75f9eb329f097a96f0",
-"files": ["jax/_src/interpreters/mlir.py", "jax/_src/interpreters/pxla.py", "tests/export_test.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/export_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "512ed18d5ad6473920376e6d2d75377b11ef891a",
 "commit_link": "https://github.com/google/jax/commit/512ed18d5ad6473920376e6d2d75377b11ef891a",
-"files": ["tests/infeed_test.py", "tests/lax_autodiff_test.py", "tests/lax_numpy_indexing_test.py", "tests/lax_scipy_test.py", "tests/lax_test.py", "tests/lax_vmap_test.py", "tests/linalg_test.py", "tests/scipy_ndimage_test.py", "tests/scipy_signal_test.py", "tests/scipy_stats_test.py", ]
-"type": "assert"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/infeed_test.py", "tests/lax_autodiff_test.py", "tests/lax_numpy_indexing_test.py", "tests/lax_scipy_test.py", "tests/lax_test.py", "tests/lax_vmap_test.py", "tests/linalg_test.py", "tests/scipy_ndimage_test.py", "tests/scipy_signal_test.py", "tests/scipy_stats_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

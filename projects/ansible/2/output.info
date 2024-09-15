@@ -1,5 +1,7 @@
 "commit_hash": "1609afbd12abb68d1434ee5ce56fe09e12a53fdb",
 "commit_link": "https://github.com/ansible/ansible/commit/1609afbd12abb68d1434ee5ce56fe09e12a53fdb",
-"files": ["test/runner/requirements/units.txt", "test/units/executor/module_common/test_module_common.py", "test/units/module_utils/basic/test_run_command.py", ]
-"type": "fixture"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/runner/requirements/units.txt", "test/units/executor/module_common/test_module_common.py", "test/units/module_utils/basic/test_run_command.py"],
+"type": ["fixture"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "98a07fe37e97c49ac9203883ff9e3aaec80abb63",
 "commit_link": "https://github.com/ray-project/ray/commit/98a07fe37e97c49ac9203883ff9e3aaec80abb63",
-"files": ["python/ray/function_manager.py", "python/ray/tune/checkpoint_manager.py", "python/ray/tune/ray_trial_executor.py", "python/ray/tune/tests/test_cluster.py", "python/ray/tune/tests/test_ray_trial_executor.py", "python/ray/tune/tests/test_trial_runner_2.py", "python/ray/tune/tests/test_trial_runner_3.py", "python/ray/tune/trial.py", "python/ray/tune/trial_executor.py", "python/ray/tune/trial_runner.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/tune/tests/test_cluster.py", "python/ray/tune/tests/test_ray_trial_executor.py", "python/ray/tune/tests/test_trial_runner_2.py", "python/ray/tune/tests/test_trial_runner_3.py"],
+"type": ["assert"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "57db4640ca4ff8b8124ea20c77195a78620c765a",
 "commit_link": "https://github.com/ray-project/ray/commit/57db4640ca4ff8b8124ea20c77195a78620c765a",
-"files": [".buildkite/pipeline.ml.yml", "ci/travis/determine_tests_to_run.py", "doc/examples/datasets_train/datasets_train.py", "doc/source/train/api.rst", "doc/source/train/examples.rst", "doc/source/train/user_guide.rst", "python/ray/train/BUILD", "python/ray/train/callbacks/__init__.py", "python/ray/train/callbacks/callback.py", "python/ray/train/callbacks/logging.py", "python/ray/train/checkpoint.py", "python/ray/train/constants.py", "python/ray/train/examples/mlflow_fashion_mnist_example.py", "python/ray/train/examples/mlflow_simple_example.py", "python/ray/train/tests/test_callbacks.py", "python/ray/train/trainer.py", "python/ray/tune/integration/mlflow.py", "python/ray/tune/tests/test_integration_mlflow.py", "python/ray/util/ml_utils/BUILD", "python/ray/util/ml_utils/mlflow.py", "python/ray/util/ml_utils/tests/__init__.py", "python/ray/util/ml_utils/tests/test_mlflow.py", "python/requirements/ml/requirements_train.txt", ]
-"type": "assert"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["ci/travis/determine_tests_to_run.py", "python/ray/train/tests/test_callbacks.py", "python/ray/tune/tests/test_integration_mlflow.py", "python/ray/util/ml_utils/tests/__init__.py", "python/ray/util/ml_utils/tests/test_mlflow.py"],
+"type": ["assert"],
 "numberOfMigration": ""

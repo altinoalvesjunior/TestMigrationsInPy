@@ -1,5 +1,7 @@
 "commit_hash": "65ac62867e2a09a406ca443a6ac44f9b667fbc55",
 "commit_link": "https://github.com/apache/airflow/commit/65ac62867e2a09a406ca443a6ac44f9b667fbc55",
-"files": ["airflow/providers/amazon/aws/hooks/base_aws.py", "airflow/providers/amazon/aws/hooks/glue.py", "airflow/providers/amazon/aws/hooks/s3.py", "tests/providers/amazon/aws/hooks/test_base_aws.py", "tests/providers/amazon/aws/hooks/test_glue.py", ]
-"type": "assert, fixture, import, skip, testcase, add Param"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/amazon/aws/hooks/test_base_aws.py", "tests/providers/amazon/aws/hooks/test_glue.py"],
+"type": ["assert", "fixture", "import", "skip", "testcase", "add Param"],
 "numberOfMigration": ""

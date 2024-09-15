@@ -1,5 +1,7 @@
 "commit_hash": "5d8a93517e883b4978cfad0b3eb7dac7bbc7faad",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/5d8a93517e883b4978cfad0b3eb7dac7bbc7faad",
-"files": ["doc/source/whatsnew/v0.18.1.txt", "pandas/sparse/array.py", "pandas/sparse/series.py", "pandas/sparse/tests/test_array.py", "pandas/sparse/tests/test_libsparse.py", "pandas/sparse/tests/test_series.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/sparse/tests/test_array.py", "pandas/sparse/tests/test_libsparse.py", "pandas/sparse/tests/test_series.py"],
+"type": ["assert"],
 "numberOfMigration": ""

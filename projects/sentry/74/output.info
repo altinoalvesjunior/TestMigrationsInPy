@@ -1,5 +1,7 @@
 "commit_hash": "e8626c2f1257d8177a758f9b3f66be068f23ad83",
 "commit_link": "https://github.com/getsentry/sentry/commit/e8626c2f1257d8177a758f9b3f66be068f23ad83",
-"files": ["src/sentry/models/lostpasswordhash.py", "src/sentry/models/user.py", "src/sentry/templates/sentry/account/confirm_email/failure.html", "src/sentry/templates/sentry/account/confirm_email/send.html", "src/sentry/templates/sentry/account/confirm_email/success.html", "src/sentry/templates/sentry/emails/confirm_email.html", "src/sentry/templates/sentry/emails/confirm_email.txt", "src/sentry/templates/sentry/emails/recover_account.html", "src/sentry/web/frontend/accounts.py", "src/sentry/web/frontend/debug/mail.py", "src/sentry/web/urls.py", "tests/sentry/web/frontend/accounts/tests.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/web/frontend/accounts/tests.py"],
+"type": ["assert"],
 "numberOfMigration": ""

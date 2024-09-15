@@ -1,5 +1,7 @@
 "commit_hash": "c5a47d1845f058d6e6ef6d78dcbbc5653d1233f0",
 "commit_link": "https://github.com/google/jax/commit/c5a47d1845f058d6e6ef6d78dcbbc5653d1233f0",
-"files": ["jax/experimental/jax2tf/tests/back_compat_test.py", "jax/experimental/jax2tf/tests/back_compat_test_util.py", "jax/experimental/jax2tf/tests/back_compat_tf_test.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["jax/experimental/jax2tf/tests/back_compat_test.py", "jax/experimental/jax2tf/tests/back_compat_test_util.py", "jax/experimental/jax2tf/tests/back_compat_tf_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

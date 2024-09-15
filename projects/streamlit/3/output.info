@@ -1,5 +1,7 @@
 "commit_hash": "3871668d195c457d1283f6b7a459bf5cda6cb912",
 "commit_link": "https://github.com/streamlit/streamlit/commit/3871668d195c457d1283f6b7a459bf5cda6cb912",
-"files": ["docs/tutorial/tutorial_caching.md", "lib/streamlit/caching.py", "lib/streamlit/hashing.py", "lib/tests/streamlit/caching_test.py", "lib/tests/streamlit/hashing_test.py", ]
-"type": "import, testcase"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["lib/tests/streamlit/caching_test.py", "lib/tests/streamlit/hashing_test.py"],
+"type": ["import", "testcase"],
 "numberOfMigration": ""

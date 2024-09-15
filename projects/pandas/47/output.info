@@ -1,5 +1,7 @@
 "commit_hash": "9f94e6a04564e8269b43c5b4e83854d277ea30bd",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/9f94e6a04564e8269b43c5b4e83854d277ea30bd",
-"files": ["pandas/tests/plotting/__init__.py", "pandas/tests/plotting/common.py", "pandas/tests/plotting/test_boxplot_method.py", "pandas/tests/plotting/test_datetimelike.py", "pandas/tests/plotting/test_frame.py", "pandas/tests/plotting/test_groupby.py", "pandas/tests/plotting/test_hist_method.py", "pandas/tests/plotting/test_misc.py", "pandas/tests/plotting/test_series.py", "pandas/tests/test_graphics_others.py", "setup.py", ]
-"type": "assert"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/plotting/__init__.py", "pandas/tests/plotting/common.py", "pandas/tests/plotting/test_boxplot_method.py", "pandas/tests/plotting/test_datetimelike.py", "pandas/tests/plotting/test_frame.py", "pandas/tests/plotting/test_groupby.py", "pandas/tests/plotting/test_hist_method.py", "pandas/tests/plotting/test_misc.py", "pandas/tests/plotting/test_series.py", "pandas/tests/test_graphics_others.py"],
+"type": ["assert"],
 "numberOfMigration": ""

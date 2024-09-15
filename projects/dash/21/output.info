@@ -1,5 +1,7 @@
 "commit_hash": "e869f8a8e73732e27cd7dd741c7788af7507394f",
 "commit_link": "https://github.com/plotly/dash/commit/e869f8a8e73732e27cd7dd741c7788af7507394f",
-"files": ["tests/integration/clientside/assets/clientside.js", "tests/integration/clientside/assets/ramda-0.25.0.min.js", "tests/integration/clientside/test_clientside.py", "tests/integration/test_clientside.py", ]
-"type": "assert"
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/integration/clientside/assets/clientside.js", "tests/integration/clientside/assets/ramda-0.25.0.min.js", "tests/integration/clientside/test_clientside.py", "tests/integration/test_clientside.py"],
+"type": ["assert"],
 "numberOfMigration": ""

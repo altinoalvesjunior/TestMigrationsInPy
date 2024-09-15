@@ -1,5 +1,7 @@
 "commit_hash": "ce16a2e82feb475f09e069905da71933a3e90654",
 "commit_link": "https://github.com/ray-project/ray/commit/ce16a2e82feb475f09e069905da71933a3e90654",
-"files": ["python/ray/autoscaler/_private/node_launcher.py", "python/ray/autoscaler/v2/BUILD", "python/ray/autoscaler/v2/instance_manager/config.py", "python/ray/autoscaler/v2/instance_manager/node_provider.py", "python/ray/autoscaler/v2/tests/test_node_provider.py", "python/ray/tests/autoscaler_test_utils.py", "python/ray/tests/test_autoscaler.py", "python/ray/tests/test_command_runner.py", "python/ray/tests/test_resource_demand_scheduler.py", "src/ray/protobuf/experimental/instance_manager.proto", ]
-"type": "assert"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/autoscaler/v2/tests/test_node_provider.py", "python/ray/tests/autoscaler_test_utils.py", "python/ray/tests/test_autoscaler.py", "python/ray/tests/test_command_runner.py", "python/ray/tests/test_resource_demand_scheduler.py"],
+"type": ["assert"],
 "numberOfMigration": ""

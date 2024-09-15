@@ -1,5 +1,7 @@
 "commit_hash": "bd12252818e4376a52a28b8defa19ac090d927dd",
 "commit_link": "https://github.com/allenai/allennlp/commit/bd12252818e4376a52a28b8defa19ac090d927dd",
-"files": ["allennlp/commands/evaluate.py", "allennlp/commands/main.py", "allennlp/commands/predict.py", "allennlp/common/params.py", "allennlp/models/model.py", "allennlp/service/predictors/__init__.py", "allennlp/service/predictors/predictor.py", "allennlp/service/predictors/semantic_role_labeler.py", "allennlp/service/server_sanic.py", "doc/source/api/allennlp.commands.rst", "tests/commands/predict_test.py", "tests/common/params_test.py", "tests/fixtures/srl/serialization/best_cpu.th", "tests/models/bidaf_test.py", "tests/models/decomposable_attention_test.py", "tests/models/semantic_role_labeler_test.py", "tests/service/predictors/bidaf_test.py", "tests/service/predictors/decomposable_attention_test.py", "tests/service/predictors/srl_test.py", "tests/service/server_sanic_test.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/commands/predict_test.py", "tests/common/params_test.py", "tests/fixtures/srl/serialization/best_cpu.th", "tests/models/bidaf_test.py", "tests/models/decomposable_attention_test.py", "tests/models/semantic_role_labeler_test.py", "tests/service/predictors/bidaf_test.py", "tests/service/predictors/decomposable_attention_test.py", "tests/service/predictors/srl_test.py", "tests/service/server_sanic_test.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

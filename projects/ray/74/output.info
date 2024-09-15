@@ -1,5 +1,7 @@
 "commit_hash": "a54d69f535c35b7c171eaf3cb2c525276c492892",
 "commit_link": "https://github.com/ray-project/ray/commit/a54d69f535c35b7c171eaf3cb2c525276c492892",
-"files": ["python/ray/tests/BUILD", "python/ray/tests/test_runtime_env.py", "python/ray/tests/test_runtime_env_complicated.py", ]
-"type": "skip"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/tests/BUILD", "python/ray/tests/test_runtime_env.py", "python/ray/tests/test_runtime_env_complicated.py"],
+"type": ["skip"],
 "numberOfMigration": ""

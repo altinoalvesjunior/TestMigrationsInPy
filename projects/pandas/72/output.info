@@ -1,5 +1,7 @@
 "commit_hash": "71f621fe11b499a6e1420737faf375ba99bb619b",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/71f621fe11b499a6e1420737faf375ba99bb619b",
-"files": ["doc/source/whatsnew/v0.20.0.txt", "pandas/_libs/tslib.pyx", "pandas/tests/indexes/datetimes/test_misc.py", "pandas/tests/indexes/datetimes/test_ops.py", "pandas/tests/indexes/period/test_ops.py", "pandas/tests/indexes/period/test_period.py", "pandas/tests/indexes/timedeltas/test_ops.py", "pandas/tests/scalar/test_nat.py", "pandas/tests/scalar/test_period.py", "pandas/tests/scalar/test_timedelta.py", "pandas/tests/scalar/test_timestamp.py", "pandas/tests/series/test_datetime_values.py", "pandas/tests/test_base.py", "pandas/tests/test_categorical.py", "pandas/tseries/common.py", "pandas/tseries/index.py", "pandas/tseries/period.py", "pandas/tseries/tdi.py", ]
-"type": "assert, add Param"
+"testFilesChanged": 12,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/tests/indexes/datetimes/test_misc.py", "pandas/tests/indexes/datetimes/test_ops.py", "pandas/tests/indexes/period/test_ops.py", "pandas/tests/indexes/period/test_period.py", "pandas/tests/indexes/timedeltas/test_ops.py", "pandas/tests/scalar/test_nat.py", "pandas/tests/scalar/test_period.py", "pandas/tests/scalar/test_timedelta.py", "pandas/tests/scalar/test_timestamp.py", "pandas/tests/series/test_datetime_values.py", "pandas/tests/test_base.py", "pandas/tests/test_categorical.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

@@ -1,5 +1,7 @@
 "commit_hash": "311cc32e0688e5d184518dcbbc4842cb38b5d2a3",
 "commit_link": "https://github.com/streamlit/streamlit/commit/311cc32e0688e5d184518dcbbc4842cb38b5d2a3",
-"files": ["frontend/src/lib/SegmentMetricsManager.test.ts", "frontend/src/lib/SegmentMetricsManager.ts", "frontend/src/lib/SessionInfo.test.ts", "frontend/src/lib/SessionInfo.ts", "frontend/src/lib/mocks/mocks.ts", "lib/streamlit/runtime/credentials.py", "lib/tests/streamlit/runtime/credentials_test.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["frontend/src/lib/SegmentMetricsManager.test.ts", "frontend/src/lib/SessionInfo.test.ts", "lib/tests/streamlit/runtime/credentials_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

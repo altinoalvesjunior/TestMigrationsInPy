@@ -1,5 +1,7 @@
 "commit_hash": "8b89a7b94bc47a7ba79d7b145eef535aeff7f1b1",
 "commit_link": "https://github.com/ray-project/ray/commit/8b89a7b94bc47a7ba79d7b145eef535aeff7f1b1",
-"files": ["python/ray/tune/experiment/trial.py", "python/ray/tune/tests/test_api.py", "python/ray/tune/tests/test_trial.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["python/ray/tune/tests/test_api.py", "python/ray/tune/tests/test_trial.py"],
+"type": ["assert"],
 "numberOfMigration": ""

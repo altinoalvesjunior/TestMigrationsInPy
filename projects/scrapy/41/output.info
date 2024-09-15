@@ -1,5 +1,7 @@
 "commit_hash": "b103664bf45b079e5488b13a0737866de1b7dc50",
 "commit_link": "https://github.com/scrapy/scrapy/commit/b103664bf45b079e5488b13a0737866de1b7dc50",
-"files": ["pytest.ini", "tests/test_contracts.py", "tests/test_crawl.py", "tests/test_crawler.py", "tests/test_downloadermiddleware_httpauth.py", "tests/test_downloadermiddleware_httpproxy.py", "tests/test_downloadermiddleware_stats.py", "tests/test_dupefilters.py", "tests/test_engine.py", "tests/test_engine_stop_download_bytes.py", "tests/test_engine_stop_download_headers.py", "tests/test_feedexport.py", "tests/test_logformatter.py", "tests/test_pipeline_crawl.py", "tests/test_request_attribute_binding.py", "tests/test_request_cb_kwargs.py", "tests/test_scheduler.py", "tests/test_scheduler_base.py", "tests/test_spiderloader/__init__.py", "tests/test_utils_project.py", "tests/test_utils_request.py", "tests/test_utils_response.py", ]
-"type": "assert"
+"testFilesChanged": 22,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pytest.ini", "tests/test_contracts.py", "tests/test_crawl.py", "tests/test_crawler.py", "tests/test_downloadermiddleware_httpauth.py", "tests/test_downloadermiddleware_httpproxy.py", "tests/test_downloadermiddleware_stats.py", "tests/test_dupefilters.py", "tests/test_engine.py", "tests/test_engine_stop_download_bytes.py", "tests/test_engine_stop_download_headers.py", "tests/test_feedexport.py", "tests/test_logformatter.py", "tests/test_pipeline_crawl.py", "tests/test_request_attribute_binding.py", "tests/test_request_cb_kwargs.py", "tests/test_scheduler.py", "tests/test_scheduler_base.py", "tests/test_spiderloader/__init__.py", "tests/test_utils_project.py", "tests/test_utils_request.py", "tests/test_utils_response.py"],
+"type": ["assert"],
 "numberOfMigration": ""

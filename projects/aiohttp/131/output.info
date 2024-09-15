@@ -1,5 +1,7 @@
 "commit_hash": "8743741b03e4bbfa237ee939af1e21a9c0658905",
 "commit_link": "https://github.com/aio-libs/aiohttp/commit/8743741b03e4bbfa237ee939af1e21a9c0658905",
-"files": ["CHANGES/3374.removal", "aiohttp/client.py", "aiohttp/connector.py", "aiohttp/web_app.py", "aiohttp/web_fileresponse.py", "aiohttp/web_request.py", "aiohttp/web_ws.py", "tests/test_client_connection.py", "tests/test_client_session.py", "tests/test_loop.py", "tests/test_web_app.py", "tests/test_web_request.py", ]
-"type": "assert"
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/test_client_connection.py", "tests/test_client_session.py", "tests/test_loop.py", "tests/test_web_app.py", "tests/test_web_request.py"],
+"type": ["assert"],
 "numberOfMigration": ""

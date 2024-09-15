@@ -1,5 +1,7 @@
 "commit_hash": "42a5a6cf3dabecd28eb66df3f763e1fc8deaa0d1",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/42a5a6cf3dabecd28eb66df3f763e1fc8deaa0d1",
-"files": ["pandas/io/tests/test_pickle.py", "setup.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pandas/io/tests/test_pickle.py"],
+"type": ["assert"],
 "numberOfMigration": ""

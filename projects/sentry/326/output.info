@@ -1,5 +1,7 @@
 "commit_hash": "b0842867f391d98ae47201783ec9a39ce29870d5",
 "commit_link": "https://github.com/getsentry/sentry/commit/b0842867f391d98ae47201783ec9a39ce29870d5",
-"files": ["src/sentry/integrations/jira/integration.py", "src/sentry/integrations/jira_server/integration.py", "src/sentry/integrations/vsts/issues.py", "src/sentry/tasks/integrations/create_comment.py", "tests/sentry/integrations/jira/test_integration.py", "tests/sentry/integrations/jira_server/test_integration.py", "tests/sentry/integrations/vsts/test_integration.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/integrations/jira/test_integration.py", "tests/sentry/integrations/jira_server/test_integration.py", "tests/sentry/integrations/vsts/test_integration.py"],
+"type": ["assert"],
 "numberOfMigration": ""

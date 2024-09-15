@@ -1,5 +1,7 @@
 "commit_hash": "52888e4c6fe6bb9e1a364383060b1f4d58f459f9",
 "commit_link": "https://github.com/ray-project/ray/commit/52888e4c6fe6bb9e1a364383060b1f4d58f459f9",
-"files": ["python/ray/rllib/train.py", "python/ray/rllib/tuned_examples/cartpole-grid-search-example.yaml", "python/ray/rllib/tuned_examples/hopper-ppo.yaml", "python/ray/rllib/tuned_examples/humanoid-es.yaml", "python/ray/rllib/tuned_examples/humanoid-ppo-gae.yaml", "python/ray/rllib/tuned_examples/humanoid-ppo.yaml", "python/ray/rllib/tuned_examples/pong-a3c.yaml", "python/ray/rllib/tuned_examples/pong-dqn.yaml", "python/ray/rllib/tuned_examples/walker2d-ppo.yaml", "python/ray/tune/README.rst", "python/ray/tune/config_parser.py", "python/ray/tune/examples/tune_mnist_ray.py", "python/ray/tune/examples/tune_mnist_ray.yaml", "python/ray/tune/script_runner.py", "python/ray/tune/trial_runner.py", "python/ray/tune/tune.py", "python/ray/tune/variant_generator.py", "test/trial_runner_test.py", ]
-"type": "assert, testcase"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/trial_runner_test.py"],
+"type": ["assert", "testcase"],
 "numberOfMigration": ""

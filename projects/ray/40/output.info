@@ -1,5 +1,7 @@
 "commit_hash": "d192ef06119f3eccf569a844b30976db99cfa0f6",
 "commit_link": "https://github.com/ray-project/ray/commit/d192ef06119f3eccf569a844b30976db99cfa0f6",
-"files": ["ci/jenkins_tests/run_tune_tests.sh", "doc/source/raysgd/raysgd_pytorch.rst", "python/ray/autoscaler/updater.py", "python/ray/util/sgd/tests/test_torch.py", "python/ray/util/sgd/tests/test_torch_runner.py", "python/ray/util/sgd/torch/constants.py", "python/ray/util/sgd/torch/distributed_torch_runner.py", "python/ray/util/sgd/torch/examples/cifar_pytorch_example.py", "python/ray/util/sgd/torch/examples/dcgan.py", "python/ray/util/sgd/torch/examples/raysgd_torch_signatures.py", "python/ray/util/sgd/torch/examples/train_example.py", "python/ray/util/sgd/torch/examples/tune_example.py", "python/ray/util/sgd/torch/torch_runner.py", "python/ray/util/sgd/torch/torch_trainer.py", "python/ray/util/sgd/torch/training_operator.py", "python/ray/util/sgd/utils.py", ]
-"type": "assert, add Param"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["ci/jenkins_tests/run_tune_tests.sh", "python/ray/util/sgd/tests/test_torch.py", "python/ray/util/sgd/tests/test_torch_runner.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

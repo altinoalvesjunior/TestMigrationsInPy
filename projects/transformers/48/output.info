@@ -1,5 +1,7 @@
 "commit_hash": "06d488061f065f3a8e8f709bce43f3f00eb49052",
 "commit_link": "https://github.com/huggingface/transformers/commit/06d488061f065f3a8e8f709bce43f3f00eb49052",
-"files": ["docs/source/en/model_doc/whisper.mdx", "src/transformers/models/whisper/processing_whisper.py", "src/transformers/models/whisper/tokenization_whisper.py", "tests/models/whisper/test_tokenization_whisper.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/models/whisper/test_tokenization_whisper.py"],
+"type": ["assert"],
 "numberOfMigration": ""

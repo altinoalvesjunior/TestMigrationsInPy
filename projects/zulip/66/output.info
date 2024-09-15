@@ -1,5 +1,7 @@
 "commit_hash": "b4c089d3b8ed4eb882692c10c976933edaaeb3aa",
 "commit_link": "https://github.com/zulip/zulip/commit/b4c089d3b8ed4eb882692c10c976933edaaeb3aa",
-"files": ["zerver/tests/test_import_export.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["zerver/tests/test_import_export.py"],
+"type": ["assert"],
 "numberOfMigration": ""

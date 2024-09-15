@@ -1,5 +1,7 @@
 "commit_hash": "fdb5015909bfa6220430d477762ece5879b3297b",
 "commit_link": "https://github.com/google/jax/commit/fdb5015909bfa6220430d477762ece5879b3297b",
-"files": ["build/test-requirements.txt", "jax/_src/test_util.py", "tests/lax_test.py", ]
-"type": "assert"
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["build/test-requirements.txt", "jax/_src/test_util.py", "tests/lax_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

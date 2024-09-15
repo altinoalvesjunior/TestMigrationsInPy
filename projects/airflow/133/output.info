@@ -1,5 +1,7 @@
 "commit_hash": "f3ad164aefb4915ce8c7725a43ddbcd61c830aa5",
 "commit_link": "https://github.com/apache/airflow/commit/f3ad164aefb4915ce8c7725a43ddbcd61c830aa5",
-"files": ["airflow/providers/amazon/aws/hooks/emr.py", "airflow/providers/amazon/aws/operators/emr.py", "docs/apache-airflow-providers-amazon/connections/emr.rst", "tests/providers/amazon/aws/hooks/test_emr.py", ]
-"type": "import, skip, testcase, add Param"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/providers/amazon/aws/hooks/test_emr.py"],
+"type": ["import", "skip", "testcase", "add Param"],
 "numberOfMigration": ""

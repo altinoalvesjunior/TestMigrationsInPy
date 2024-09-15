@@ -1,5 +1,7 @@
 "commit_hash": "7e92ff823e2bf97ee33c1b7ff87bb8acecb5ae77",
 "commit_link": "https://github.com/ansible/ansible/commit/7e92ff823e2bf97ee33c1b7ff87bb8acecb5ae77",
-"files": ["lib/ansible/arguments/__init__.py", "lib/ansible/arguments/context_objects.py", "lib/ansible/arguments/optparse_helpers.py", "lib/ansible/cli/__init__.py", "lib/ansible/cli/adhoc.py", "lib/ansible/cli/config.py", "lib/ansible/cli/console.py", "lib/ansible/cli/doc.py", "lib/ansible/cli/galaxy.py", "lib/ansible/cli/inventory.py", "lib/ansible/cli/playbook.py", "lib/ansible/cli/pull.py", "lib/ansible/cli/vault.py", "lib/ansible/context.py", "test/units/arguments/test_context_objects.py", "test/units/arguments/test_optparse_helpers.py", "test/units/cli/test_cli.py", "test/units/cli/test_galaxy.py", "test/units/executor/test_playbook_executor.py", "test/units/executor/test_task_queue_manager_callbacks.py", "test/units/playbook/test_play_context.py", ]
-"type": "assert"
+"testFilesChanged": 7,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/units/arguments/test_context_objects.py", "test/units/arguments/test_optparse_helpers.py", "test/units/cli/test_cli.py", "test/units/cli/test_galaxy.py", "test/units/executor/test_playbook_executor.py", "test/units/executor/test_task_queue_manager_callbacks.py", "test/units/playbook/test_play_context.py"],
+"type": ["assert"],
 "numberOfMigration": ""

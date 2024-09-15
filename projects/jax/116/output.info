@@ -1,5 +1,7 @@
 "commit_hash": "97beb01c43b933cf9cd74bfa52d28c576e74b854",
 "commit_link": "https://github.com/google/jax/commit/97beb01c43b933cf9cd74bfa52d28c576e74b854",
-"files": ["CHANGELOG.md", "docs/faq.rst", "jax/_src/array.py", "jax/_src/interpreters/pxla.py", "tests/api_test.py", "tests/array_interoperability_test.py", "tests/array_test.py", "tests/multi_device_test.py", "tests/multibackend_test.py", "tests/notebooks/colab_cpu.ipynb", "tests/notebooks/colab_gpu.ipynb", "tests/pjit_test.py", "tests/pmap_test.py", "tests/random_test.py", ]
-"type": "assert"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/api_test.py", "tests/array_interoperability_test.py", "tests/array_test.py", "tests/multi_device_test.py", "tests/multibackend_test.py", "tests/notebooks/colab_cpu.ipynb", "tests/notebooks/colab_gpu.ipynb", "tests/pjit_test.py", "tests/pmap_test.py", "tests/random_test.py"],
+"type": ["assert"],
 "numberOfMigration": ""

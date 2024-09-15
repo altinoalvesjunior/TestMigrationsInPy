@@ -1,5 +1,7 @@
 "commit_hash": "8d1d66ccf06851d76e2754c238b75b387a965be5",
 "commit_link": "https://github.com/getsentry/sentry/commit/8d1d66ccf06851d76e2754c238b75b387a965be5",
-"files": ["src/sentry/templates/sentry/get_started.html", "src/sentry/templates/sentry/users/list.html", "src/sentry/web/frontend/projects.py", "src/sentry/web/frontend/users.py", "tests/sentry/web/frontend/projects/tests.py", "tests/sentry/web/frontend/users/tests.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/web/frontend/projects/tests.py", "tests/sentry/web/frontend/users/tests.py"],
+"type": ["assert"],
 "numberOfMigration": ""

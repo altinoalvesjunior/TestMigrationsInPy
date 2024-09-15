@@ -1,5 +1,7 @@
 "commit_hash": "baadbdf8d43a5171d65f24a793640b9f9523f260",
 "commit_link": "https://github.com/ray-project/ray/commit/baadbdf8d43a5171d65f24a793640b9f9523f260",
-"files": ["rllib/agents/ppo/ddppo.py", "rllib/agents/ppo/ppo.py", "rllib/agents/trainer.py", "rllib/agents/trainer_template.py", "rllib/evaluation/worker_set.py", "rllib/execution/common.py", "rllib/execution/rollout_ops.py", "rllib/execution/train_ops.py", "rllib/models/modelv2.py", "rllib/optimizers/tests/test_optimizers.py", "rllib/tests/test_execution.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["rllib/optimizers/tests/test_optimizers.py", "rllib/tests/test_execution.py"],
+"type": ["assert"],
 "numberOfMigration": ""

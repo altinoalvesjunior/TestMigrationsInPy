@@ -1,5 +1,7 @@
 "commit_hash": "0133f6806dbfb60b84b5bea4ce0daf073c246d52",
 "commit_link": "https://github.com/apache/airflow/commit/0133f6806dbfb60b84b5bea4ce0daf073c246d52",
-"files": ["airflow/executors/kubernetes_executor.py", "airflow/jobs/scheduler_job_runner.py", "tests/executors/test_kubernetes_executor.py", ]
-"type": "assert, add Param"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/executors/test_kubernetes_executor.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": ""

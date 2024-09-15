@@ -1,5 +1,7 @@
 "commit_hash": "df8a1d1c0108b15bebdad064d8b7bc61a894f062",
 "commit_link": "https://github.com/scrapy/scrapy/commit/df8a1d1c0108b15bebdad064d8b7bc61a894f062",
-"files": ["pytest.ini", "scrapy/shell.py", "scrapy/spiders/sitemap.py", "scrapy/utils/log.py", "tests/test_command_version.py", "tests/test_crawl.py", "tests/test_downloadermiddleware_cookies.py", "tests/test_dupefilters.py", "tests/test_pipeline_media.py", "tests/test_proxy_connect.py", "tests/test_squeues.py", "tests/test_utils_log.py", "tests/test_utils_misc/__init__.py", "tests/test_utils_signal.py", ]
-"type": "assert"
+"testFilesChanged": 11,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["pytest.ini", "tests/test_command_version.py", "tests/test_crawl.py", "tests/test_downloadermiddleware_cookies.py", "tests/test_dupefilters.py", "tests/test_pipeline_media.py", "tests/test_proxy_connect.py", "tests/test_squeues.py", "tests/test_utils_log.py", "tests/test_utils_misc/__init__.py", "tests/test_utils_signal.py"],
+"type": ["assert"],
 "numberOfMigration": ""

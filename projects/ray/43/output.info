@@ -1,5 +1,7 @@
 "commit_hash": "165a86f1ab91c86828e55b3ca62030569e1c2c61",
 "commit_link": "https://github.com/ray-project/ray/commit/165a86f1ab91c86828e55b3ca62030569e1c2c61",
-"files": ["doc/source/rllib-training.rst", "python/ray/util/sgd/torch/examples/mnist_cnn.pt", "rllib/models/tests/test_distributions.py", "rllib/models/tf/tf_action_dist.py", "rllib/models/torch/torch_action_dist.py", ]
-"type": "assert"
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["rllib/models/tests/test_distributions.py"],
+"type": ["assert"],
 "numberOfMigration": ""

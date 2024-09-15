@@ -1,5 +1,7 @@
 "commit_hash": "2176b53a557c9467732d20ebda2fb069b61d631c",
 "commit_link": "https://github.com/ansible/ansible/commit/2176b53a557c9467732d20ebda2fb069b61d631c",
-"files": ["lib/ansible/module_utils/network/ftd/common.py", "lib/ansible/module_utils/network/ftd/configuration.py", "lib/ansible/module_utils/network/ftd/fdm_swagger_client.py", "lib/ansible/modules/network/ftd/ftd_file_download.py", "lib/ansible/plugins/httpapi/ftd.py", "test/units/module_utils/network/ftd/test_common.py", "test/units/module_utils/network/ftd/test_configuration.py", "test/units/module_utils/network/ftd/test_data/ngfw_with_ex.json", "test/units/module_utils/network/ftd/test_fdm_swagger_parser.py", "test/units/module_utils/network/ftd/test_fdm_swagger_validator.py", "test/units/module_utils/network/ftd/test_fdm_swagger_with_real_data.py", "test/units/module_utils/network/ftd/test_upsert_functionality.py", "test/units/modules/network/ftd/test_ftd_configuration.py", "test/units/modules/network/ftd/test_ftd_file_upload.py", "test/units/plugins/httpapi/test_ftd.py", ]
-"type": "assert"
+"testFilesChanged": 10,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["test/units/module_utils/network/ftd/test_common.py", "test/units/module_utils/network/ftd/test_configuration.py", "test/units/module_utils/network/ftd/test_data/ngfw_with_ex.json", "test/units/module_utils/network/ftd/test_fdm_swagger_parser.py", "test/units/module_utils/network/ftd/test_fdm_swagger_validator.py", "test/units/module_utils/network/ftd/test_fdm_swagger_with_real_data.py", "test/units/module_utils/network/ftd/test_upsert_functionality.py", "test/units/modules/network/ftd/test_ftd_configuration.py", "test/units/modules/network/ftd/test_ftd_file_upload.py", "test/units/plugins/httpapi/test_ftd.py"],
+"type": ["assert"],
 "numberOfMigration": ""

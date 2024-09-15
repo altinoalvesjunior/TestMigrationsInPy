@@ -1,5 +1,7 @@
 "commit_hash": "4558d920fef7a0255b9ef84e156cf4c5ad1025f7",
 "commit_link": "https://github.com/getsentry/sentry/commit/4558d920fef7a0255b9ef84e156cf4c5ad1025f7",
-"files": ["src/sentry/models/projectownership.py", "src/sentry/notifications/utils/participants.py", "tests/sentry/mail/test_adapter.py", "tests/sentry/notifications/utils/test_participants.py", ]
-"type": "assert"
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": "",
+"filesWithMigration": ["tests/sentry/mail/test_adapter.py", "tests/sentry/notifications/utils/test_participants.py"],
+"type": ["assert"],
 "numberOfMigration": ""
