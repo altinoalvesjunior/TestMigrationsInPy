@@ -1,7 +1,0 @@
-"commit_hash": "f2f58dbb55ebca1dc400d2ecde2f7a1e0fb46459",
-"commit_link": "https://github.com/microsoft/nni/commit/f2f58dbb55ebca1dc400d2ecde2f7a1e0fb46459",
-"testFilesChanged": 11,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["test/retiarii_test/cgo/darts_model.py", "test/retiarii_test/cgo/ops.py", "test/retiarii_test/cgo/test.py", "test/retiarii_test/cgo_mnasnet/base_mnasnet.py", "test/retiarii_test/cgo_mnasnet/mutator.py", "test/retiarii_test/cgo_mnasnet/test.py", "test/retiarii_test/darts/test.py", "test/ut/retiarii/converted_mnist_pytorch.json", "test/ut/retiarii/test_cgo_engine.py", "test/ut/retiarii/test_dedup_input.py", "test/ut/retiarii/test_engine.py"],
-"type": ["assert", "import", "skip", "testcase"],
-"numberOfMigration": 

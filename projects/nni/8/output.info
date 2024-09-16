@@ -1,7 +1,0 @@
-"commit_hash": "67a61e1d9415edf7eb18636c42d8f72228fdf418",
-"commit_link": "https://github.com/microsoft/nni/commit/67a61e1d9415edf7eb18636c42d8f72228fdf418",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["test/algo/nas/cgo/__init__.py", "test/algo/nas/cgo/mnist_pytorch.json", "test/algo/nas/cgo/test_cgo_engine.py", "test/algo/nas/test_cgo_engine.py"],
-"type": ["assert", "fixture", "import", "skip", "testcase"],
-"numberOfMigration": 

@@ -1,7 +1,0 @@
-"commit_hash": "1c65070ace204462eb4db08588e65ed94d6451b3",
-"commit_link": "https://github.com/allenai/allennlp/commit/1c65070ace204462eb4db08588e65ed94d6451b3",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["allennlp/tests/data/dataset_readers/dataset_reader_test.py"],
-"type": ["fixture", "add Param"],
-"numberOfMigration": 
