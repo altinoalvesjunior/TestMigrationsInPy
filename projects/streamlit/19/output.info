@@ -1,7 +1,0 @@
-"commit_hash": "11484dfe8610e622e5d2d57dbd1b246627d6842d",
-"commit_link": "https://github.com/streamlit/streamlit/commit/11484dfe8610e622e5d2d57dbd1b246627d6842d",
-"testFilesChanged": 9,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["e2e_playwright/__snapshots__/linux/st_altair_chart_basic_select_test/st_altair_chart-scatter_interval_selection[chromium].png", "e2e_playwright/__snapshots__/linux/st_altair_chart_basic_select_test/st_altair_chart-scatter_interval_selection[firefox].png", "e2e_playwright/__snapshots__/linux/st_altair_chart_basic_select_test/st_altair_chart-scatter_interval_selection[webkit].png", "e2e_playwright/__snapshots__/linux/st_altair_chart_basic_select_test/st_altair_chart-scatter_shift_selection[chromium].png", "e2e_playwright/__snapshots__/linux/st_altair_chart_basic_select_test/st_altair_chart-scatter_shift_selection[firefox].png", "e2e_playwright/__snapshots__/linux/st_altair_chart_basic_select_test/st_altair_chart-scatter_shift_selection[webkit].png", "e2e_playwright/st_altair_chart_basic_select_test.py", "lib/test-requirements.txt", "lib/tests/streamlit/elements/vega_charts_test.py"],
-"type": ["assert"],
-"numberOfMigration": 

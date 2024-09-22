@@ -1,7 +1,0 @@
-"commit_hash": "84caa23301f2f25dfca0737198ff26c3d711ed63",
-"commit_link": "https://github.com/huggingface/transformers/commit/84caa23301f2f25dfca0737198ff26c3d711ed63",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/test_pipelines_common.py", "tests/test_pipelines_fill_mask.py", "tests/test_pipelines_zero_shot.py"],
-"type": ["import", "testcase"],
-"numberOfMigration": 

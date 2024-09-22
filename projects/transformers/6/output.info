@@ -1,7 +1,0 @@
-"commit_hash": "9f7b2b243230a0ff7e61f48f852e3a5b6f6d86fa",
-"commit_link": "https://github.com/huggingface/transformers/commit/9f7b2b243230a0ff7e61f48f852e3a5b6f6d86fa",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["examples/seq2seq/test_bash_script.py", "examples/seq2seq/test_data/wmt_en_ro/train.len", "examples/seq2seq/test_data/wmt_en_ro/val.len", "examples/seq2seq/test_datasets.py", "examples/seq2seq/test_finetune_trainer.py", "examples/seq2seq/test_seq2seq_examples.py"],
-"type": ["skip", "testcase"],
-"numberOfMigration": 
