@@ -1,7 +1,0 @@
-"commit_hash": "372f50030bd422309d7b859d730842d7755d3371",
-"commit_link": "https://github.com/huggingface/transformers/commit/372f50030bd422309d7b859d730842d7755d3371",
-"testFilesChanged": 14,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/test_configuration_common.py", "tests/test_configuration_utils.py", "tests/test_feature_extraction_common.py", "tests/test_feature_extraction_utils.py", "tests/test_image_processing_common.py", "tests/test_image_processing_utils.py", "tests/test_modeling_common.py", "tests/test_modeling_flax_common.py", "tests/test_modeling_flax_utils.py", "tests/test_modeling_tf_common.py", "tests/test_modeling_tf_utils.py", "tests/test_modeling_utils.py", "tests/test_tokenization_common.py", "tests/test_tokenization_utils.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": 

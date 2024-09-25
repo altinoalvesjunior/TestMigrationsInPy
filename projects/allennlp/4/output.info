@@ -1,7 +1,0 @@
-"commit_hash": "ae63a2ae2d564eb59af09e96cb550c475ae1af4c",
-"commit_link": "https://github.com/allenai/allennlp/commit/ae63a2ae2d564eb59af09e96cb550c475ae1af4c",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["allennlp/tests/semparse/domain_languages/wikitables_language_test.py", "allennlp/tests/semparse/executors/wikitables_variable_free_executor_test.py", "allennlp/tests/semparse/worlds/wikitables_variable_free_world_test.py"],
-"type": ["assert"],
-"numberOfMigration": 

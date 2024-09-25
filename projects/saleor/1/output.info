@@ -1,7 +1,7 @@
 "commit_hash": "d629135f843de17ba96dee176816ed6d76fd54ce",
 "commit_link": "https://github.com/mirumee/saleor/commit/d629135f843de17ba96dee176816ed6d76fd54ce",
 "testFilesChanged": 4,
-"testFilesChangedWithMigrations": ,
+"testFilesChangedWithMigrations": 3,
 "filesWithMigration": ["pytest.ini", "saleor/cart/test_cart.py", "saleor/checkout/test_checkout.py", "saleor/registration/test_registration.py"],
 "type": ["assert", "testcase"],
-"numberOfMigration": 
+"numberOfMigration": 3 
