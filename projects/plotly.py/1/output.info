@@ -1,7 +1,0 @@
-"commit_hash": "7ddd1c927ca145ee5a2ec0b3f9e6ec356fa7fb6a",
-"commit_link": "https://github.com/plotly/plotly.py/commit/7ddd1c927ca145ee5a2ec0b3f9e6ec356fa7fb6a",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["_plotly_utils/tests/validators/test_basetraces_validator.py", "_plotly_utils/tests/validators/test_compound_validator.py", "_plotly_utils/tests/validators/test_compoundarray_validator.py"],
-"type": ["assert"],
-"numberOfMigration": 
