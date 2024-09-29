@@ -1,7 +1,0 @@
-"commit_hash": "ea1236c360afef1bfc9a6686b0c87c4ef6a41245",
-"commit_link": "https://github.com/open-mmlab/mmdetection/commit/ea1236c360afef1bfc9a6686b0c87c4ef6a41245",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/test_datasets/test_transforms/test_loading.py", "tests/test_models/test_dense_heads/test_embedding_rpn_head.py", "tests/test_models/test_detectors/test_two_stage.py", "tests/test_models/test_roi_heads/test_mask_heads/test_grid_head.py", "tests/test_models/test_roi_heads/test_sparse_roi_head.py"],
-"type": ["assert"],
-"numberOfMigration": 
