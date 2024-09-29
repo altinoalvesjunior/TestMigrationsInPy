@@ -1,7 +1,0 @@
-"commit_hash": "9cc9c10092b0798e7e848450e0d0b58fd974f0d7",
-"commit_link": "https://github.com/getsentry/sentry/commit/9cc9c10092b0798e7e848450e0d0b58fd974f0d7",
-"testFilesChanged": 10,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["src/sentry/utils/pytest.py", "tests/sentry/buffer/redis/tests.py", "tests/sentry/cache/test_redis.py", "tests/sentry/digests/backends/test_redis.py", "tests/sentry/options/test_manager.py", "tests/sentry/options/test_store.py", "tests/sentry/quotas/redis/tests.py", "tests/sentry/ratelimits/test_redis.py", "tests/sentry/tsdb/test_redis.py", "tests/sentry/utils/test_redis.py"],
-"type": ["assert"],
-"numberOfMigration": 

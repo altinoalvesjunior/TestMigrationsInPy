@@ -1,7 +1,0 @@
-"commit_hash": "1190ac6e19a431a596980c766ec1a3405a7d554a",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/1190ac6e19a431a596980c766ec1a3405a7d554a",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["pandas/tests/indexes/datetimes/test_ops.py", "pandas/tests/io/test_clipboard.py", "pandas/tests/io/test_pytables.py", "pandas/tests/io/test_sql.py", "pandas/tests/test_window.py", "test_fast.sh"],
-"type": ["skip", "add Param"],
-"numberOfMigration": 

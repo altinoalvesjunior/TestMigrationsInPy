@@ -1,7 +1,0 @@
-"commit_hash": "07c4c6367af43380b4019202488f6370a4773df2",
-"commit_link": "https://github.com/ray-project/ray/commit/07c4c6367af43380b4019202488f6370a4773df2",
-"testFilesChanged": 9,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["python/ray/tests/test_actor.py", "python/ray/tests/test_basic.py", "python/ray/tests/test_failure.py", "python/ray/tests/test_memory_limits.py", "python/ray/tests/test_memory_scheduling.py", "python/ray/tests/test_object_manager.py", "python/ray/tests/test_signal.py", "src/ray/core_worker/test/core_worker_test.cc", "src/ray/core_worker/test/mock_worker.cc"],
-"type": ["assert"],
-"numberOfMigration": 

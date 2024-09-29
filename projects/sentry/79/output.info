@@ -1,7 +1,0 @@
-"commit_hash": "2950de8e9e43f5a2c3ca1aa201b62b7eed5c0462",
-"commit_link": "https://github.com/getsentry/sentry/commit/2950de8e9e43f5a2c3ca1aa201b62b7eed5c0462",
-"testFilesChanged": 11,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/sentry/api/endpoints/notifications/test_notification_actions_details.py", "tests/sentry/api/endpoints/notifications/test_notification_actions_index.py", "tests/sentry/incidents/action_handlers/test_slack.py", "tests/sentry/incidents/endpoints/test_organization_alert_rule_details.py", "tests/sentry/incidents/endpoints/test_organization_alert_rule_index.py", "tests/sentry/incidents/endpoints/test_serializers.py", "tests/sentry/incidents/test_logic.py", "tests/sentry/integrations/slack/test_notify_action.py", "tests/sentry/integrations/slack/test_tasks.py", "tests/sentry/integrations/slack/test_utils.py", "tests/sentry/integrations/slack/utils/test_mock_slack_response.py"],
-"type": ["assert", "fixture"],
-"numberOfMigration": 

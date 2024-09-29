@@ -1,7 +1,0 @@
-"commit_hash": "a61ffbcca02aa3fc13de540d8a6eaa95bfd890c2",
-"commit_link": "https://github.com/tqdm/tqdm/commit/a61ffbcca02aa3fc13de540d8a6eaa95bfd890c2",
-"testFilesChanged": 13,
-"testFilesChangedWithMigrations": 3,
-"filesWithMigration": ["tqdm/tests/tests_concurrent.py", "tqdm/tests/tests_perf.py", "tqdm/tests/tests_pandas.py"],
-"type": ["import", "testcase"],
-"numberOfMigration": 3

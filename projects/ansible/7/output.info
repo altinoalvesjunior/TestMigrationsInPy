@@ -1,7 +1,0 @@
-"commit_hash": "225fa5d09229bd673ea76f8b8bc8e7d8b50d2399",
-"commit_link": "https://github.com/ansible/ansible/commit/225fa5d09229bd673ea76f8b8bc8e7d8b50d2399",
-"testFilesChanged": 7,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["test/integration/cleanup_ec2.py", "test/integration/cleanup_gce.py", "test/integration/cleanup_rax.py", "test/integration/targets/module_utils/library/test.py", "test/sanity/code-smell/ansible-var-precedence-check.py", "test/sanity/pep8/legacy-files.txt", "test/units/playbook/test_play_context.py"],
-"type": ["assert", "fixture", "testcase"],
-"numberOfMigration": 

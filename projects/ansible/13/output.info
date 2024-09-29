@@ -1,7 +1,0 @@
-"commit_hash": "370a7ace4b3c8ffb6187900f37499990f1b976a2",
-"commit_link": "https://github.com/ansible/ansible/commit/370a7ace4b3c8ffb6187900f37499990f1b976a2",
-"testFilesChanged": 15,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["test/units/module_utils/basic/test__symbolic_mode_to_octal.py", "test/units/module_utils/basic/test_argument_spec.py", "test/units/module_utils/basic/test_atomic_move.py", "test/units/module_utils/basic/test_deprecate_warn.py", "test/units/module_utils/basic/test_dict_converters.py", "test/units/module_utils/basic/test_exit_json.py", "test/units/module_utils/basic/test_filesystem.py", "test/units/module_utils/basic/test_get_module_path.py", "test/units/module_utils/basic/test_heuristic_log_sanitize.py", "test/units/module_utils/basic/test_imports.py", "test/units/module_utils/basic/test_log.py", "test/units/module_utils/basic/test_no_log.py", "test/units/module_utils/basic/test_platform_distribution.py", "test/units/module_utils/basic/test_selinux.py", "test/units/module_utils/test_basic.py"],
-"type": ["assert", "import", "add Param"],
-"numberOfMigration": 

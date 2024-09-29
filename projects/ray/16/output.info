@@ -1,7 +1,0 @@
-"commit_hash": "ca651af1d7863657c7d8e3b925a699bf21d6ac28",
-"commit_link": "https://github.com/ray-project/ray/commit/ca651af1d7863657c7d8e3b925a699bf21d6ac28",
-"testFilesChanged": 9,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["python/ray/tune/tests/test_api.py", "python/ray/tune/tests/test_checkpoint_manager.py", "python/ray/tune/tests/test_cluster.py", "python/ray/tune/tests/test_experiment.py", "python/ray/tune/tests/test_ray_trial_executor.py", "python/ray/tune/tests/test_trainable_util.py", "python/ray/tune/tests/test_trial_runner.py", "python/ray/tune/tests/test_trial_runner_2.py", "python/ray/tune/tests/test_trial_scheduler.py"],
-"type": ["assert", "add Param"],
-"numberOfMigration": 

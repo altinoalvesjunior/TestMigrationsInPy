@@ -1,7 +1,0 @@
-"commit_hash": "224434ccd1d44606bac61c59eac80d83a36cd77a",
-"commit_link": "https://github.com/plotly/dash/commit/224434ccd1d44606bac61c59eac80d83a36cd77a",
-"testFilesChanged": 9,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/unit/development/__init__.py", "tests/unit/development/conftest.py", "tests/unit/development/test_base_component.py", "tests/unit/development/test_component_loader.py", "tests/unit/development/test_flow_metadata_conversions.py", "tests/unit/development/test_generate_class.py", "tests/unit/development/test_generate_class_file.py", "tests/unit/development/test_metadata_conversions.py", "tests/unit/test_configs.py"],
-"type": ["assert"],
-"numberOfMigration": 

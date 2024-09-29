@@ -1,7 +1,0 @@
-"commit_hash": "85197deece837a1f4ffdbbffb72af6028a9b6e32",
-"commit_link": "https://github.com/ray-project/ray/commit/85197deece837a1f4ffdbbffb72af6028a9b6e32",
-"testFilesChanged": 8,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["python/ray/tests/test_autoscaler.py", "python/ray/tests/test_cli_patterns/test_ray_attach.txt", "python/ray/tests/test_cli_patterns/test_ray_exec.txt", "python/ray/tests/test_cli_patterns/test_ray_submit.txt", "python/ray/tests/test_cli_patterns/test_ray_up.txt", "python/ray/tests/test_cli_patterns/test_ray_up_record.txt", "python/ray/tests/test_multi_node_2.py", "python/ray/tests/test_resource_demand_scheduler.py"],
-"type": ["assert"],
-"numberOfMigration": 

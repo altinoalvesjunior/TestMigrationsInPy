@@ -1,7 +1,0 @@
-"commit_hash": "1e576f12343b30c2a37ab3f4f62ee3aa30326e77",
-"commit_link": "https://github.com/apache/airflow/commit/1e576f12343b30c2a37ab3f4f62ee3aa30326e77",
-"testFilesChanged": 23,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/operators/test_gcs_to_s3.py", "tests/operators/test_generic_transfer.py", "tests/operators/test_python.py", "tests/operators/test_virtualenv_operator.py", "tests/providers/apache/cassandra/hooks/test_cassandra.py", "tests/providers/apache/cassandra/sensors/record.py", "tests/providers/apache/cassandra/sensors/table.py", "tests/providers/apache/hive/hooks/test_hive.py", "tests/providers/apache/hive/operators/test_hive.py", "tests/providers/apache/hive/operators/test_mysql_to_hive.py", "tests/providers/google/cloud/operators/test_gcs_to_gcs_operator_system.py", "tests/providers/google/cloud/operators/test_gcs_to_gcs_system_helper.py", "tests/providers/google/cloud/operators/test_gcs_to_sftp_system.py", "tests/providers/google/cloud/operators/test_gcs_to_sftp_system_helper.py", "tests/providers/google/cloud/operators/test_postgres_to_gcs_system.py", "tests/providers/microsoft/msqql/__init__.py", "tests/providers/microsoft/msqql/operators/test_mssql.py", "tests/providers/mysql/hooks/test_mysql.py", "tests/providers/mysql/operators/test_mysql.py", "tests/providers/mysql/operators/test_presto_to_mysql.py", "tests/providers/postgres/operators/__init__.py", "tests/providers/postgres/operators/test_postgres.py", "tests/test_core_to_contrib.py"],
-"type": ["assert", "import", "testcase"],
-"numberOfMigration": 
