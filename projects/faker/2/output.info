@@ -1,7 +1,0 @@
-"commit_hash": "b0abb79a706b28260b7cfa81c23e9d6929fdb944",
-"commit_link": "https://github.com/joke2k/faker/commit/b0abb79a706b28260b7cfa81c23e9d6929fdb944",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/providers/test_date_time.py"],
-"type": ["import"],
-"numberOfMigration": 

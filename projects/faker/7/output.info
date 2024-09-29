@@ -1,7 +1,0 @@
-"commit_hash": "40a50ac5d95cd8f25382af3df4be244850417e62",
-"commit_link": "https://github.com/joke2k/faker/commit/40a50ac5d95cd8f25382af3df4be244850417e62",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["faker/contrib/pytest/plugin.py"],
-"type": ["assert", "add Param"],
-"numberOfMigration": 

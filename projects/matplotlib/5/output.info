@@ -1,7 +1,0 @@
-"commit_hash": "9e3b260bfbb633c4c0a04626f60e8ea33093ab45",
-"commit_link": "https://github.com/matplotlib/matplotlib/commit/9e3b260bfbb633c4c0a04626f60e8ea33093ab45",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["lib/matplotlib/testing/determinism.py", "lib/matplotlib/tests/test_backend_svg.py"],
-"type": ["skip"],
-"numberOfMigration": 

@@ -1,7 +1,0 @@
-"commit_hash": "1cda8ed987347e4a0b21e969be221f9480ce3d6b",
-"commit_link": "https://github.com/scikit-learn/scikit-learn/commit/1cda8ed987347e4a0b21e969be221f9480ce3d6b",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["sklearn/datasets/tests/test_california_housing.py"],
-"type": ["skip"],
-"numberOfMigration": 

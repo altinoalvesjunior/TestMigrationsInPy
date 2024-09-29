@@ -1,7 +1,0 @@
-"commit_hash": "687cd7826523e933c96de46d60dfc8a1b5af5a39",
-"commit_link": "https://github.com/open-mmlab/mmdetection/commit/687cd7826523e933c96de46d60dfc8a1b5af5a39",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/test_models/test_detectors/test_two_stage.py", "tests/test_models/test_roi_heads/test_bbox_heads/test_bbox_head.py", "tests/test_models/test_roi_heads/test_cascade_roi_head.py", "tests/test_models/test_utils/test_misc.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": 
