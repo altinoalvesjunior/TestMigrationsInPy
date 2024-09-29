@@ -1,7 +1,0 @@
-"commit_hash": "95b268521540e5c7553fb1c36b9f3de91fcd6d6e",
-"commit_link": "https://github.com/apache/airflow/commit/95b268521540e5c7553fb1c36b9f3de91fcd6d6e",
-"testFilesChanged": 7,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/models/test_dagbag.py", "tests/models/test_dagparam.py", "tests/models/test_pool.py", "tests/models/test_renderedtifields.py", "tests/models/test_skipmixin.py", "tests/models/test_timestamp.py", "tests/models/test_xcom_arg.py"],
-"type": ["assert", "fixture", "import", "testcase", "add Param"],
-"numberOfMigration": 

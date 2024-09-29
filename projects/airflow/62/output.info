@@ -1,7 +1,0 @@
-"commit_hash": "3c7cd4731937652271fc1180a74e9a3af3dd211d",
-"commit_link": "https://github.com/apache/airflow/commit/3c7cd4731937652271fc1180a74e9a3af3dd211d",
-"testFilesChanged": 22,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["pytest.ini", "scripts/ci/pre_commit/pre_commit_check_system_tests.py", "tests/always/test_example_dags.py", "tests/always/test_project_structure.py", "tests/providers/google/cloud/operators/test_bigquery_system.py", "tests/system/README.md", "tests/system/conftest.py", "tests/system/providers/google/README.md", "tests/system/providers/google/bigquery/example_bigquery_dataset.py", "tests/system/providers/google/bigquery/example_bigquery_operations.py", "tests/system/providers/google/bigquery/example_bigquery_operations_location.py", "tests/system/providers/google/bigquery/example_bigquery_queries.py", "tests/system/providers/google/bigquery/example_bigquery_sensors.py", "tests/system/providers/google/bigquery/example_bigquery_tables.py", "tests/system/providers/google/bigquery/example_bigquery_to_bigquery.py", "tests/system/providers/google/bigquery/example_bigquery_to_gcs.py", "tests/system/providers/google/bigquery/resources/example_bigquery_query.sql", "tests/system/providers/google/bigquery/resources/update_table_schema.json", "tests/system/providers/google/bigquery/resources/us-states.csv", "tests/system/providers/google/conftest.py", "tests/system/utils/__init__.py", "tests/system/utils/watcher.py"],
-"type": ["fixture", "import", "testcase", "add Param"],
-"numberOfMigration": 

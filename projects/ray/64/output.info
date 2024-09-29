@@ -1,7 +1,0 @@
-"commit_hash": "1510fb2cd631b2776092fb45ee4082e5e65f16f8",
-"commit_link": "https://github.com/ray-project/ray/commit/1510fb2cd631b2776092fb45ee4082e5e65f16f8",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["python/ray/tune/tests/test_actor_reuse.py", "python/ray/tune/tests/test_ray_trial_executor.py", "python/ray/tune/tests/test_trial_runner.py", "python/ray/tune/tests/test_trial_runner_2.py", "python/ray/tune/tests/test_trial_runner_3.py", "python/ray/tune/tests/test_trial_runner_pg.py"],
-"type": ["assert", "fixture", "import", "testcase"],
-"numberOfMigration": 

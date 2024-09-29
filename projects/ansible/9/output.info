@@ -1,7 +1,0 @@
-"commit_hash": "e499bccbaa79a2e26d333c1cc0ccd66f73a80c6a",
-"commit_link": "https://github.com/ansible/ansible/commit/e499bccbaa79a2e26d333c1cc0ccd66f73a80c6a",
-"testFilesChanged": 7,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["test/units/module_utils/json_utils/test_filter_non_json_lines.py", "test/units/modules/cloud/amazon/test_api_gateway.py", "test/units/modules/cloud/amazon/test_data_pipeline.py", "test/units/modules/cloud/amazon/test_elb_application_lb.py", "test/units/modules/cloud/amazon/test_lambda_policy.py", "test/units/modules/cloud/amazon/test_s3.py", "test/units/plugins/filter/test_ipaddr.py"],
-"type": ["skip"],
-"numberOfMigration": 

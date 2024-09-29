@@ -1,7 +1,0 @@
-"commit_hash": "da01846d34ba564934d0164b47ba65b0c646506b",
-"commit_link": "https://github.com/certbot/certbot/commit/da01846d34ba564934d0164b47ba65b0c646506b",
-"testFilesChanged": 11,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["acme/tests/jose_test.py", "acme/tests/util_test.py", "certbot-apache/tests/entrypoint_test.py", "certbot-apache/tests/parsernode_test.py", "certbot-apache/tests/parsernode_util_test.py", "certbot-ci/windows_installer_integration_tests/test_main.py", "certbot/tests/compat/misc_test.py", "certbot/tests/compat/os_test.py", "certbot/tests/display/util_test.py", "certbot/tests/helpful_test.py", "certbot/tests/plugins/util_test.py"],
-"type": ["skip", "testcase"],
-"numberOfMigration": 

@@ -1,7 +1,0 @@
-"commit_hash": "2fbf550ec05c8501cbc9eca62e73526e717dcbdf",
-"commit_link": "https://github.com/getsentry/sentry/commit/2fbf550ec05c8501cbc9eca62e73526e717dcbdf",
-"testFilesChanged": 7,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/sentry/integrations/jira/test_client.py", "tests/sentry/integrations/jira/test_utils.py", "tests/sentry/integrations/jira_server/test_installation.py", "tests/sentry/integrations/jira_server/test_integration.py", "tests/sentry/integrations/jira_server/test_search.py", "tests/sentry/integrations/jira_server/test_utils.py", "tests/sentry/integrations/jira_server/test_webhooks.py"],
-"type": ["assert"],
-"numberOfMigration": 

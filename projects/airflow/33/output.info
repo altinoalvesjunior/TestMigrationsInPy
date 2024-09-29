@@ -1,7 +1,0 @@
-"commit_hash": "866a601b76e219b3c043e1dbbc8fb22300866351",
-"commit_link": "https://github.com/apache/airflow/commit/866a601b76e219b3c043e1dbbc8fb22300866351",
-"testFilesChanged": 0,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": [],
-"type": ["assert", "testcase"],
-"numberOfMigration": 

@@ -1,7 +1,0 @@
-"commit_hash": "04666c9fa1eb2f367cf3b1c9c6853828bdcb813f",
-"commit_link": "https://github.com/ansible/ansible/commit/04666c9fa1eb2f367cf3b1c9c6853828bdcb813f",
-"testFilesChanged": 17,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["test/sanity/ignore.txt", "test/units/inventory/test_group.py", "test/units/inventory/test_host.py", "test/units/module_utils/network/netscaler/test_netscaler.py", "test/units/modules/messaging/rabbitmq/test_rabbitmq_user.py", "test/units/modules/network/eric_eccli/test_eric_eccli_command.py", "test/units/modules/network/nxos/test_nxos_pim_interface.py", "test/units/modules/network/nxos/test_nxos_pim_interface_bfd.py", "test/units/modules/network/onyx/test_onyx_protocol.py", "test/units/modules/network/onyx/test_onyx_ptp_global.py", "test/units/modules/system/test_mount.py", "test/units/plugins/cache/test_cache.py", "test/units/plugins/cache/test_memcached.py", "test/units/plugins/cache/test_redis.py", "test/units/plugins/filter/test_core.py", "test/units/plugins/strategy/test_linear.py", "test/units/plugins/strategy/test_strategy.py"],
-"type": ["assert"],
-"numberOfMigration": 

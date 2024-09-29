@@ -1,7 +1,0 @@
-"commit_hash": "2d6bc4efc973245b17046bab4f441561adc20354",
-"commit_link": "https://github.com/joke2k/faker/commit/2d6bc4efc973245b17046bab4f441561adc20354",
-"testFilesChanged": 13,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/providers/test_address.py", "tests/providers/test_company.py", "tests/providers/test_currency.py", "tests/providers/test_date_time.py", "tests/providers/test_file.py", "tests/providers/test_internet.py", "tests/providers/test_isbn.py", "tests/providers/test_person.py", "tests/providers/test_ssn.py", "tests/test_base_provider.py", "tests/test_factory.py", "tests/test_generator.py", "tests/utils/test_utils.py"],
-"type": ["assert"],
-"numberOfMigration": 

@@ -1,7 +1,0 @@
-"commit_hash": "f02a7e9a8292909b369daae6d573f58deed04440",
-"commit_link": "https://github.com/apache/airflow/commit/f02a7e9a8292909b369daae6d573f58deed04440",
-"testFilesChanged": 16,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/providers/amazon/aws/hooks/test_athena.py", "tests/providers/amazon/aws/hooks/test_base_aws.py", "tests/providers/amazon/aws/hooks/test_batch_client.py", "tests/providers/amazon/aws/hooks/test_batch_waiters.py", "tests/providers/amazon/aws/hooks/test_datasync.py", "tests/providers/amazon/aws/hooks/test_dms_task.py", "tests/providers/amazon/aws/hooks/test_dynamodb.py", "tests/providers/amazon/aws/hooks/test_ecs.py", "tests/providers/amazon/aws/hooks/test_elasticache_replication_group.py", "tests/providers/amazon/aws/hooks/test_emr_containers.py", "tests/providers/amazon/aws/hooks/test_glacier.py", "tests/providers/amazon/aws/hooks/test_glue_crawler.py", "tests/providers/amazon/aws/hooks/test_redshift_sql.py", "tests/providers/amazon/aws/utils/test_emailer.py", "tests/providers/amazon/aws/utils/test_redshift.py", "tests/providers/amazon/aws/utils/test_utils.py"],
-"type": ["assert", "import", "testcase", "add Param"],
-"numberOfMigration": 

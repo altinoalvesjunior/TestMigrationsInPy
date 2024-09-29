@@ -1,7 +1,0 @@
-"commit_hash": "db6cc603528c5d1c15acf89e092f99f5d24ca848",
-"commit_link": "https://github.com/ansible/ansible/commit/db6cc603528c5d1c15acf89e092f99f5d24ca848",
-"testFilesChanged": 8,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["test/integration/targets/ansible/runme.sh", "test/integration/targets/lookup_inventory_hostnames/runme.sh", "test/integration/targets/vault/runme.sh", "test/units/cli/arguments/test_optparse_helpers.py", "test/units/cli/test_adhoc.py", "test/units/cli/test_galaxy.py", "test/units/cli/test_vault.py", "test/units/playbook/test_play_context.py"],
-"type": ["assert"],
-"numberOfMigration": 

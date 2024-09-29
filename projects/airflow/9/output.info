@@ -1,7 +1,0 @@
-"commit_hash": "ff5dcccbbd49e7a4632f93fa915565ac31730110",
-"commit_link": "https://github.com/apache/airflow/commit/ff5dcccbbd49e7a4632f93fa915565ac31730110",
-"testFilesChanged": 14,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["TESTING.rst", "kubernetes_tests/__init__.py", "kubernetes_tests/test_kubernetes_executor.py", "kubernetes_tests/test_kubernetes_pod_operator.py", "scripts/ci/ci_run_airflow_testing.sh", "scripts/ci/ci_run_kubernetes_tests.sh", "scripts/ci/in_container/run_ci_tests.sh", "scripts/ci/kubernetes/docker/airflow-test-env-init-dags.sh", "scripts/ci/kubernetes/docker/airflow-test-env-init-db.sh", "tests/conftest.py", "tests/providers/cncf/kubernetes/operators/test_kubernetes_pod.py", "tests/providers/cncf/kubernetes/operators/test_spark_kubernetes_system.py", "tests/runtime/kubernetes/__init__.py", "tests/test_project_structure.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": 

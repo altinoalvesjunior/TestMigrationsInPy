@@ -1,7 +1,0 @@
-"commit_hash": "0824e9b77de543a123073ffa8293850cf71be96b",
-"commit_link": "https://github.com/plotly/dash/commit/0824e9b77de543a123073ffa8293850cf71be96b",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["packages/dash-core-components/tests/integration/input/conftest.py", "packages/dash-core-components/tests/integration/input/test_input_and_state.py", "packages/dash-core-components/tests/integration/input/test_input_types.py", "packages/dash-core-components/tests/integration/input/test_number_input.py", "packages/dash-core-components/tests/test_integration.py", "packages/dash-core-components/tests/unit/Input.test.js"],
-"type": ["assert"],
-"numberOfMigration": 

@@ -1,7 +1,0 @@
-"commit_hash": "696a229ece4dfa7b10634873d485267b6749d1df",
-"commit_link": "https://github.com/ray-project/ray/commit/696a229ece4dfa7b10634873d485267b6749d1df",
-"testFilesChanged": 6,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["python/ray/test/test_functions.py", "test/actor_test.py", "test/failure_test.py", "test/microbenchmarks.py", "test/recursion_test.py", "test/runtest.py"],
-"type": ["assert", "fixture", "testcase"],
-"numberOfMigration": 

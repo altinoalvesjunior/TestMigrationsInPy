@@ -1,7 +1,0 @@
-"commit_hash": "ce44b628904e4f7480a2c208b5d5e087526408b6",
-"commit_link": "https://github.com/apache/airflow/commit/ce44b628904e4f7480a2c208b5d5e087526408b6",
-"testFilesChanged": 10,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/bats/breeze/test_breeze_complete.bats", "tests/plugins/test_plugins_manager.py", "tests/providers/apache/hive/hooks/test_hive.py", "tests/providers/apache/hive/transfers/test_hive_to_mysql.py", "tests/providers/apache/hive/transfers/test_hive_to_samba.py", "tests/providers/apache/hive/transfers/test_mssql_to_hive.py", "tests/providers/apache/hive/transfers/test_mysql_to_hive.py", "tests/providers/elasticsearch/log/elasticmock/fake_elasticsearch.py", "tests/sensors/test_base.py", "tests/sensors/test_smart_sensor_operator.py"],
-"type": ["skip"],
-"numberOfMigration": 

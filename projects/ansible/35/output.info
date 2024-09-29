@@ -1,7 +1,0 @@
-"commit_hash": "8acf71f78fce89d70a58fc45ee528003c4785e6b",
-"commit_link": "https://github.com/ansible/ansible/commit/8acf71f78fce89d70a58fc45ee528003c4785e6b",
-"testFilesChanged": 11,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["test/units/modules/cloud/cloudstack/test_cs_traffic_type.py", "test/units/modules/source_control/test_bitbucket_pipeline_known_host.py", "test/units/modules/source_control/test_gitlab_deploy_key.py", "test/units/modules/source_control/test_gitlab_group.py", "test/units/modules/source_control/test_gitlab_hook.py", "test/units/modules/source_control/test_gitlab_project.py", "test/units/modules/source_control/test_gitlab_runner.py", "test/units/modules/source_control/test_gitlab_user.py", "test/units/plugins/filter/test_network.py", "test/units/plugins/lookup/test_password.py", "test/units/utils/test_encrypt.py"],
-"type": ["assert", "skip", "testcase"],
-"numberOfMigration": 
