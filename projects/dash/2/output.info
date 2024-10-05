@@ -1,7 +1,7 @@
-"commit_hash": "9cba26729907545bac47aeffe43f25f3372f30e4",
-"commit_link": "https://github.com/plotly/dash/commit/9cba26729907545bac47aeffe43f25f3372f30e4",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["packages/dash-core-components/tests/integration/misc/conftest.py", "packages/dash-core-components/tests/integration/misc/test_platter.py", "packages/dash-core-components/tests/test_integration.py"],
-"type": ["assert"],
-"numberOfMigration": 
+"commit_hash": "b2c2fe0a0b6d843bdfef58901debec64ad934175",
+"commit_link": "https://github.com/plotly/dash/commit/b2c2fe0a0b6d843bdfef58901debec64ad934175",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": 1,
+"filesWithMigration": ["tests/unit/development/test_base_component.py"],
+"type": ["assert", "fixture", "import", "testcase"],
+"numberOfMigration": 42

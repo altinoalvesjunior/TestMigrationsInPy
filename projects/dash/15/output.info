@@ -1,7 +1,0 @@
-"commit_hash": "399373a4dfeb1908a5e744ddd28a803d7f0f26b0",
-"commit_link": "https://github.com/plotly/dash/commit/399373a4dfeb1908a5e744ddd28a803d7f0f26b0",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/integration/renderer/test_race_conditions.py", "tests/integration/test_race_conditions.py"],
-"type": ["assert", "add Param"],
-"numberOfMigration": 
