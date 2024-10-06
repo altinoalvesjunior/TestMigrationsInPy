@@ -1,7 +1,0 @@
-"commit_hash": "c773d2ae0eb58c7034e5ee2b5e335283389bb03a",
-"commit_link": "https://github.com/getsentry/sentry/commit/c773d2ae0eb58c7034e5ee2b5e335283389bb03a",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/minimetrics/__init__.py", "tests/minimetrics/test_core.py", "tests/minimetrics/test_transport.py", "tests/sentry/metrics/test_minimetrics.py"],
-"type": ["fixture", "testcase"],
-"numberOfMigration": 

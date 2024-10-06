@@ -1,7 +1,0 @@
-"commit_hash": "5462ee11ad11ebb9a50323befcd286816d7898c8",
-"commit_link": "https://github.com/getsentry/sentry/commit/5462ee11ad11ebb9a50323befcd286816d7898c8",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/sentry/api/endpoints/test_project_details.py"],
-"type": ["assert", "add Param"],
-"numberOfMigration": 

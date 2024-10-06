@@ -1,7 +1,0 @@
-"commit_hash": "3b75c9b7957caa2eea02443d117badf0015c2d06",
-"commit_link": "https://github.com/getsentry/sentry/commit/3b75c9b7957caa2eea02443d117badf0015c2d06",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/integration/tests.py", "tests/sentry/coreapi/tests.py", "tests/sentry/interfaces/test_security.py", "tests/sentry/utils/test_csp.py", "tests/sentry/web/api/tests.py"],
-"type": ["assert", "testcase", "add Param"],
-"numberOfMigration": 

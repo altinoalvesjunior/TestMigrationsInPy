@@ -1,7 +1,0 @@
-"commit_hash": "f9c7b1ff630b1a43aacf93d429f5de8652977040",
-"commit_link": "https://github.com/getsentry/sentry/commit/f9c7b1ff630b1a43aacf93d429f5de8652977040",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/sentry/snuba/metrics/test_snql.py", "tests/sentry/snuba/test_tasks.py", "tests/snuba/rules/conditions/test_event_frequency.py", "tests/snuba/sessions/test_sessions.py", "tests/snuba/tagstore/test_tagstore_backend.py"],
-"type": ["assert"],
-"numberOfMigration": 

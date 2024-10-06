@@ -1,7 +1,7 @@
 "commit_hash": "80c38620a17ffcf77d17b9fd13cc1e0de81cf7e9",
 "commit_link": "https://github.com/getsentry/sentry/commit/80c38620a17ffcf77d17b9fd13cc1e0de81cf7e9",
 "testFilesChanged": 3,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["conftest.py", "runtests.py", "tests/sentry/manager/tests.py"],
+"testFilesChangedWithMigrations": 1,
+"filesWithMigration": ["tests/sentry/manager/tests.py"],
 "type": ["skip"],
-"numberOfMigration": 
+"numberOfMigration": 1

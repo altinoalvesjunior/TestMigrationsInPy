@@ -1,7 +1,0 @@
-"commit_hash": "4b6658430e1c21d9ba5687c82f40aaba6c9bcbf3",
-"commit_link": "https://github.com/getsentry/sentry/commit/4b6658430e1c21d9ba5687c82f40aaba6c9bcbf3",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/sentry/models/test_groupassignee.py", "tests/sentry/receivers/test_releases.py"],
-"type": ["assert"],
-"numberOfMigration": 

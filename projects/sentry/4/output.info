@@ -1,0 +1,7 @@
+"commit_hash": "228a9b9410fc4db3b403433de690a2dec63fffc7",
+"commit_link": "https://github.com/getsentry/sentry/commit/228a9b9410fc4db3b403433de690a2dec63fffc7",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": 1,
+"filesWithMigration": ["tests/sentry/buffer/test_redis.py"],
+"type": ["fixture", "testcase"],
+"numberOfMigration": 1
