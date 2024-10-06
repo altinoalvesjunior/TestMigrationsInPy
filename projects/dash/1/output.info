@@ -1,7 +1,7 @@
-"commit_hash": "1837ce89a3e937a19bb5b0583af3bb10f6db1699",
-"commit_link": "https://github.com/plotly/dash/commit/1837ce89a3e937a19bb5b0583af3bb10f6db1699",
-"testFilesChanged": 5,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["packages/dash-core-components/tests/integration/store/conftest.py", "packages/dash-core-components/tests/integration/store/test_clear_data.py", "packages/dash-core-components/tests/integration/store/test_component_props.py", "packages/dash-core-components/tests/integration/store/test_store_data.py", "packages/dash-core-components/tests/test_integration.py"],
-"type": ["assert"],
-"numberOfMigration": 
+"commit_hash": "bfe4e9f6f16da07990fe31a6be5956162b3b0fae",
+"commit_link": "https://github.com/plotly/dash/commit/bfe4e9f6f16da07990fe31a6be5956162b3b0fae",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": 1,
+"filesWithMigration": ["tests/unit/test_configs.py"],
+"type": ["assert", "fixture", "testcase", "add Param"],
+"numberOfMigration": 9

@@ -1,7 +1,0 @@
-"commit_hash": "78d8fe6944b689b9b0af99255286e34e06eedec3",
-"commit_link": "https://github.com/apache/airflow/commit/78d8fe6944b689b9b0af99255286e34e06eedec3",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/providers/amazon/aws/hooks/test_batch_client.py", "tests/providers/amazon/aws/hooks/test_batch_waiters.py", "tests/providers/amazon/aws/operators/test_batch.py", "tests/test_core_to_contrib.py"],
-"type": ["assert"],
-"numberOfMigration": 

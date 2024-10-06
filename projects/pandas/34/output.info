@@ -1,7 +1,0 @@
-"commit_hash": "6703ace009a5a52c6be70c86e618cb3aee34a04a",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/6703ace009a5a52c6be70c86e618cb3aee34a04a",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["pandas/tests/extension/base/setitem.py", "pandas/tests/extension/conftest.py"],
-"type": ["assert"],
-"numberOfMigration": 
