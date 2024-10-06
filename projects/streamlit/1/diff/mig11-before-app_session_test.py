@@ -29,24 +29,31 @@ class AppSessionTest(unittest.TestCase):
     def tearDown(self) -> None:
         super().tearDown()
         Runtime._instance = None
-        
+    
     @patch(
         "streamlit.runtime.app_session.secrets_singleton.file_change_listener.disconnect"
     )
-    def test_shutdown(self, patched_disconnect):
-        """Test that AppSession.shutdown behaves sanely."""
+    def test_disconnect_file_watchers(self, patched_secrets_disconnect):
         session = _create_test_session()
 
-        mock_file_mgr = MagicMock(spec=UploadedFileManager)
-        session._uploaded_file_mgr = mock_file_mgr
+        with patch.object(
+            session._local_sources_watcher, "close"
+        ) as patched_close_local_sources_watcher, patch.object(
+            session, "_stop_config_listener"
+        ) as patched_stop_config_listener, patch.object(
+            session, "_stop_pages_listener"
+        ) as patched_stop_pages_listener:
+            session.disconnect_file_watchers()
 
-        session.shutdown()
-        self.assertEqual(AppSessionState.SHUTDOWN_REQUESTED, session._state)
-        mock_file_mgr.remove_session_files.assert_called_once_with(session.id)
-        patched_disconnect.assert_called_once_with(session._on_secrets_file_changed)
+            patched_close_local_sources_watcher.assert_called_once()
+            patched_stop_config_listener.assert_called_once()
+            patched_stop_pages_listener.assert_called_once()
+            patched_secrets_disconnect.assert_called_once_with(
+                session._on_secrets_file_changed
+            )
 
-        # A 2nd shutdown call should have no effect.
-        session.shutdown()
-        self.assertEqual(AppSessionState.SHUTDOWN_REQUESTED, session._state)
-
-        mock_file_mgr.remove_session_files.assert_called_once_with(session.id)
+            self.assertIsNone(session._local_sources_watcher)
+            self.assertIsNone(session._stop_config_listener)
+            self.assertIsNone(session._stop_pages_listener)
+        
+    

@@ -17,6 +17,19 @@ from streamlit.runtime.uploaded_file_manager import (
 )
 
 class AppSessionTest(unittest.TestCase):
+    def setUp(self) -> None:
+        super().setUp()
+        mock_runtime = MagicMock(spec=Runtime)
+        mock_runtime.media_file_mgr = MediaFileManager(
+            MemoryMediaFileStorage("/mock/media")
+        )
+        mock_runtime.cache_storage_manager = MemoryCacheStorageManager()
+        Runtime._instance = mock_runtime
+
+    def tearDown(self) -> None:
+        super().tearDown()
+        Runtime._instance = None
+        
     @patch(
         "streamlit.runtime.app_session.secrets_singleton.file_change_listener.disconnect"
     )

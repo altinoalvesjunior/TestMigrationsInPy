@@ -30,23 +30,13 @@ class AppSessionTest(unittest.TestCase):
         super().tearDown()
         Runtime._instance = None
         
-    @patch(
-        "streamlit.runtime.app_session.secrets_singleton.file_change_listener.disconnect"
-    )
-    def test_shutdown(self, patched_disconnect):
-        """Test that AppSession.shutdown behaves sanely."""
+    def test_tags_fwd_msgs_with_last_backmsg_id_if_set(self):
         session = _create_test_session()
+        session._debug_last_backmsg_id = "some backmsg id"
 
-        mock_file_mgr = MagicMock(spec=UploadedFileManager)
-        session._uploaded_file_mgr = mock_file_mgr
+        msg = ForwardMsg()
+        session._enqueue_forward_msg(msg)
 
-        session.shutdown()
-        self.assertEqual(AppSessionState.SHUTDOWN_REQUESTED, session._state)
-        mock_file_mgr.remove_session_files.assert_called_once_with(session.id)
-        patched_disconnect.assert_called_once_with(session._on_secrets_file_changed)
-
-        # A 2nd shutdown call should have no effect.
-        session.shutdown()
-        self.assertEqual(AppSessionState.SHUTDOWN_REQUESTED, session._state)
-
-        mock_file_mgr.remove_session_files.assert_called_once_with(session.id)
+        assert msg.debug_last_backmsg_id == "some backmsg id"
+    
+    

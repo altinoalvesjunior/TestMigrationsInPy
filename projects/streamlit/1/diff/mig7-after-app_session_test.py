@@ -29,24 +29,22 @@ class AppSessionTest(unittest.TestCase):
     def tearDown(self) -> None:
         super().tearDown()
         Runtime._instance = None
-        
-    @patch(
-        "streamlit.runtime.app_session.secrets_singleton.file_change_listener.disconnect"
-    )
-    def test_shutdown(self, patched_disconnect):
-        """Test that AppSession.shutdown behaves sanely."""
+    
+    @patch("streamlit.runtime.app_session.AppSession._enqueue_forward_msg", MagicMock())
+    def test_resets_debug_last_backmsg_id_on_script_finished(self):
         session = _create_test_session()
+        session._create_scriptrunner(initial_rerun_data=RerunData())
+        session._debug_last_backmsg_id = "some_backmsg_id"
 
-        mock_file_mgr = MagicMock(spec=UploadedFileManager)
-        session._uploaded_file_mgr = mock_file_mgr
+        with patch(
+            "streamlit.runtime.app_session.asyncio.get_running_loop",
+            return_value=session._event_loop,
+        ):
+            session._handle_scriptrunner_event_on_event_loop(
+                sender=session._scriptrunner,
+                event=ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS,
+                forward_msg=ForwardMsg(),
+            )
 
-        session.shutdown()
-        self.assertEqual(AppSessionState.SHUTDOWN_REQUESTED, session._state)
-        mock_file_mgr.remove_session_files.assert_called_once_with(session.id)
-        patched_disconnect.assert_called_once_with(session._on_secrets_file_changed)
-
-        # A 2nd shutdown call should have no effect.
-        session.shutdown()
-        self.assertEqual(AppSessionState.SHUTDOWN_REQUESTED, session._state)
-
-        mock_file_mgr.remove_session_files.assert_called_once_with(session.id)
+            assert session._debug_last_backmsg_id is None
+    

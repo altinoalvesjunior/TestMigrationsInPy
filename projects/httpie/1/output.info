@@ -4,4 +4,4 @@
 "testFilesChangedWithMigrations": 2,
 "filesWithMigration": ["tests/test_downloads.py", "tests/test_uploads.py"],
 "type": ["assert"],
-"numberOfMigration": 
+"numberOfMigration": 2

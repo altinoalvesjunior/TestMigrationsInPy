@@ -31,22 +31,18 @@ class AppSessionTest(unittest.TestCase):
         Runtime._instance = None
         
     @patch(
-        "streamlit.runtime.app_session.secrets_singleton.file_change_listener.disconnect"
+        "streamlit.runtime.app_session.AppSession._should_rerun_on_file_change",
+        MagicMock(return_value=False),
     )
-    def test_shutdown(self, patched_disconnect):
-        """Test that AppSession.shutdown behaves sanely."""
+    def test_does_not_rerun_if_not_current_page(self):
         session = _create_test_session()
+        session._run_on_save = True
+        session.request_rerun = MagicMock()
+        session._on_source_file_changed("/fake/script_path.py")
 
-        mock_file_mgr = MagicMock(spec=UploadedFileManager)
-        session._uploaded_file_mgr = mock_file_mgr
+        # Clearing the cache should still have been called
+        session._script_cache.clear.assert_called_once()
 
-        session.shutdown()
-        self.assertEqual(AppSessionState.SHUTDOWN_REQUESTED, session._state)
-        mock_file_mgr.remove_session_files.assert_called_once_with(session.id)
-        patched_disconnect.assert_called_once_with(session._on_secrets_file_changed)
-
-        # A 2nd shutdown call should have no effect.
-        session.shutdown()
-        self.assertEqual(AppSessionState.SHUTDOWN_REQUESTED, session._state)
-
-        mock_file_mgr.remove_session_files.assert_called_once_with(session.id)
+        assert not session.request_rerun.called
+    
+    

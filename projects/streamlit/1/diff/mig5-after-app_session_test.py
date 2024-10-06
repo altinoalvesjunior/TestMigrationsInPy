@@ -29,24 +29,9 @@ class AppSessionTest(unittest.TestCase):
     def tearDown(self) -> None:
         super().tearDown()
         Runtime._instance = None
-        
-    @patch(
-        "streamlit.runtime.app_session.secrets_singleton.file_change_listener.disconnect"
-    )
-    def test_shutdown(self, patched_disconnect):
-        """Test that AppSession.shutdown behaves sanely."""
+    
+    def test_clear_cache_resets_session_state(self):
         session = _create_test_session()
-
-        mock_file_mgr = MagicMock(spec=UploadedFileManager)
-        session._uploaded_file_mgr = mock_file_mgr
-
-        session.shutdown()
-        self.assertEqual(AppSessionState.SHUTDOWN_REQUESTED, session._state)
-        mock_file_mgr.remove_session_files.assert_called_once_with(session.id)
-        patched_disconnect.assert_called_once_with(session._on_secrets_file_changed)
-
-        # A 2nd shutdown call should have no effect.
-        session.shutdown()
-        self.assertEqual(AppSessionState.SHUTDOWN_REQUESTED, session._state)
-
-        mock_file_mgr.remove_session_files.assert_called_once_with(session.id)
+        session._session_state["foo"] = "bar"
+        session._handle_clear_cache_request()
+        assert "foo" not in session._session_state
