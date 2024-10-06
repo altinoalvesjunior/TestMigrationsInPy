@@ -1,7 +1,7 @@
 "commit_hash": "a207d76939b640634095a49c4790003839a0a669",
 "commit_link": "https://github.com/andymccurdy/redis-py/commit/a207d76939b640634095a49c4790003839a0a669",
 "testFilesChanged": 2,
-"testFilesChangedWithMigrations": ,
+"testFilesChangedWithMigrations": 2,
 "filesWithMigration": ["tests/lock.py", "tests/test_lock.py"],
 "type": ["assert", "import", "testcase"],
-"numberOfMigration": 
+"numberOfMigration": 7
