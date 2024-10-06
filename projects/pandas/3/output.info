@@ -4,4 +4,4 @@
 "testFilesChangedWithMigrations": ,
 "filesWithMigration": ["pandas/tests/io/json/test_normalize.py"],
 "type": ["assert", "fixture"],
-"numberOfMigration": 
+"numberOfMigration": 1
