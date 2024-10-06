@@ -42,17 +42,23 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_unicode_multipart_post(self):
+        r = requests.post(httpbin('post'),
+                          data={'stuff': u'ëlïxr'},
+                          files={'file': ('test_requests.py', open(__file__, 'rb'))})
+        assert r.status_code == 200
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
+        r = requests.post(httpbin('post'),
+                          data={'stuff': u'ëlïxr'.encode('utf-8')},
+                          files={'file': ('test_requests.py', open(__file__, 'rb'))})
+        assert r.status_code == 200
 
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        r = requests.post(httpbin('post'),
+                          data={'stuff': 'elixr'},
+                          files={'file': ('test_requests.py', open(__file__, 'rb'))})
+        assert r.status_code == 200
+
+        r = requests.post(httpbin('post'),
+                          data={'stuff': 'elixr'.encode('utf-8')},
+                          files={'file': ('test_requests.py', open(__file__, 'rb'))})
+        assert r.status_code == 200

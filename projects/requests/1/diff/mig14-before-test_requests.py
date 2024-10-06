@@ -42,17 +42,8 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
-
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+    def test_cookie_persists_via_api(self):
+        s = requests.session()
+        r = s.get(httpbin('redirect/1'), cookies={'foo':'bar'})
+        self.assertTrue('foo' in r.request.headers['Cookie'])
+        self.assertTrue('foo' in r.history[0].request.headers['Cookie'])

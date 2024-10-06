@@ -42,17 +42,13 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
-
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+    def test_unicode_multipart_post_fieldnames(self):
+        filename = os.path.splitext(__file__)[0] + '.py'
+        r = requests.Request(method='POST',
+                             url=httpbin('post'),
+                             data={'stuff'.encode('utf-8'): 'elixr'},
+                             files={'file': ('test_requests.py',
+                                             open(filename, 'rb'))})
+        prep = r.prepare()
+        self.assertTrue(b'name="stuff"' in prep.body)
+        self.assertFalse(b'name="b\'stuff\'"' in prep.body)

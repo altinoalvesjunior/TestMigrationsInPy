@@ -42,17 +42,12 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_header_keys_are_native(self):
+        headers = {u'unicode': 'blah', 'byte'.encode('ascii'): 'blah'}
+        r = requests.Request('GET', httpbin('get'), headers=headers)
+        p = r.prepare()
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        # This is testing that they are builtin strings. A bit weird, but there
+        # we go.
+        assert 'unicode' in p.headers.keys()
+        assert 'byte' in p.headers.keys()

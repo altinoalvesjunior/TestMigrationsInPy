@@ -30,29 +30,10 @@ def httpbin(*suffix):
     return urljoin(HTTPBIN, '/'.join(suffix))
 
 
-class RequestsTestCase(unittest.TestCase):
-
-    _multiprocess_can_split_ = True
-
-    def setUp(self):
-        """Create simple data set with headers."""
-        pass
-
-    def tearDown(self):
-        """Teardown."""
-        pass
-    
-    def test_entry_points(self):
-
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+class TestContentEncodingDetection(unittest.TestCase):
+    def test_xhtml_pragma(self):
+        """XHTML 1.x served with text/html MIME type"""
+        content = '<meta http-equiv="Content-type" content="text/html;charset=UTF-8" />'
+        encodings = requests.utils.get_encodings_from_content(content)
+        self.assertEqual(len(encodings), 1)
+        self.assertEqual(encodings[0], 'UTF-8')

@@ -42,17 +42,11 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_HTTP_200_OK_GET_ALTERNATIVE(self):
+        r = requests.Request('GET', httpbin('get'))
+        s = requests.Session()
+        s.proxies = getproxies()
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
+        r = s.send(r.prepare())
 
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        assert r.status_code == 200

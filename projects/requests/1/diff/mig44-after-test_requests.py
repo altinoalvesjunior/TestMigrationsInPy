@@ -42,17 +42,15 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
-
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+    def test_fixes_1329(self):
+        """
+        Ensure that header updates are done case-insensitively.
+        """
+        s = requests.Session()
+        s.headers.update({'ACCEPT': 'BOGUS'})
+        s.headers.update({'accept': 'application/json'})
+        r = s.get(httpbin('get'))
+        headers = r.request.headers
+        assert headers['accept'] == 'application/json'
+        assert headers['Accept'] == 'application/json'
+        assert headers['ACCEPT'] == 'application/json'

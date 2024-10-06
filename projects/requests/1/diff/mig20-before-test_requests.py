@@ -42,17 +42,17 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_BASICAUTH_TUPLE_HTTP_200_OK_GET(self):
+        auth = ('user', 'pass')
+        url = httpbin('basic-auth', 'user', 'pass')
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
+        r = requests.get(url, auth=auth)
+        self.assertEqual(r.status_code, 200)
 
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        r = requests.get(url)
+        self.assertEqual(r.status_code, 401)
+
+        s = requests.session()
+        s.auth = auth
+        r = s.get(url)
+        self.assertEqual(r.status_code, 200)

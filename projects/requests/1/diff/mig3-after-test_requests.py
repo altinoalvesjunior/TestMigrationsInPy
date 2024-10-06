@@ -42,17 +42,7 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_path_is_not_double_encoded(self):
+        request = requests.Request('GET', "http://0.0.0.0/get/test case").prepare()
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        assert request.path_url == '/get/test%20case'

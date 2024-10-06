@@ -30,29 +30,14 @@ def httpbin(*suffix):
     return urljoin(HTTPBIN, '/'.join(suffix))
 
 
-class RequestsTestCase(unittest.TestCase):
-
-    _multiprocess_can_split_ = True
-
-    def setUp(self):
-        """Create simple data set with headers."""
-        pass
-
-    def tearDown(self):
-        """Teardown."""
-        pass
-    
-    def test_entry_points(self):
-
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+class TestCaseInsensitiveDict(unittest.TestCase):
+    def test_fixes_649(self):
+        """__setitem__ should behave case-insensitively."""
+        cid = CaseInsensitiveDict()
+        cid['spam'] = 'oneval'
+        cid['Spam'] = 'twoval'
+        cid['sPAM'] = 'redval'
+        cid['SPAM'] = 'blueval'
+        self.assertEqual(cid['spam'], 'blueval')
+        self.assertEqual(cid['SPAM'], 'blueval')
+        self.assertEqual(list(cid.keys()), ['SPAM'])

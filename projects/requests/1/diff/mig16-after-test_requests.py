@@ -42,17 +42,18 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_user_agent_transfers(self):
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
+        heads = {
+            'User-agent': 'Mozilla/5.0 (github.com/kennethreitz/requests)'
+        }
 
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        r = requests.get(httpbin('user-agent'), headers=heads)
+        assert heads['User-agent'] in r.text
+
+        heads = {
+            'user-agent': 'Mozilla/5.0 (github.com/kennethreitz/requests)'
+        }
+
+        r = requests.get(httpbin('user-agent'), headers=heads)
+        assert heads['user-agent'] in r.text

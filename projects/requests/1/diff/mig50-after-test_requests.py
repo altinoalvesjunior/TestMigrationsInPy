@@ -42,17 +42,10 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_autoset_header_values_are_native(self):
+        data = 'this is a string'
+        length = '16'
+        req = requests.Request('POST', httpbin('post'), data=data)
+        p = req.prepare()
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        assert p.headers['Content-Length'] == length

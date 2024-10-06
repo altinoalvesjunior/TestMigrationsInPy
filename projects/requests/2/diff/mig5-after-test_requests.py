@@ -25,14 +25,14 @@ HTTPBIN = os.environ.get('HTTPBIN_URL', 'http://httpbin.org/')
 # Issue #1483: Make sure the URL always has a trailing slash
 HTTPBIN = HTTPBIN.rstrip('/') + '/'
 
-class TestMorselToCookieExpires(unittest.TestCase):
+class TestMorselToCookieMaxAge(unittest.TestCase):
 
-    """Tests for morsel_to_cookie when morsel contains expires."""
+    """Tests for morsel_to_cookie when morsel contains max-age."""
 
-    def test_expires_valid_str(self):
-        """Test case where we convert expires from string time."""
+    def test_max_age_valid_int(self):
+        """Test case where a valid max age in seconds is passed."""
 
         morsel = Morsel()
-        morsel['expires'] = 'Thu, 01-Jan-1970 00:00:01 GMT'
+        morsel['max-age'] = 60
         cookie = morsel_to_cookie(morsel)
-        assert cookie.expires == 1
+        assert isinstance(cookie.expires, int)

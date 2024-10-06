@@ -42,17 +42,12 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
-
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+    def test_http_error(self):
+        error = requests.exceptions.HTTPError()
+        self.assertEqual(error.response, None)
+        response = requests.Response()
+        error = requests.exceptions.HTTPError(response=response)
+        self.assertEqual(error.response, response)
+        error = requests.exceptions.HTTPError('message', response=response)
+        self.assertEqual(str(error), 'message')
+        self.assertEqual(error.response, response)

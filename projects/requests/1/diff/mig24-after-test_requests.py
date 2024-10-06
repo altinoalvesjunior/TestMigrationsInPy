@@ -42,17 +42,18 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_DIGESTAUTH_WRONG_HTTP_401_GET(self):
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
+        auth = HTTPDigestAuth('user', 'wrongpass')
+        url = httpbin('digest-auth', 'auth', 'user', 'pass')
 
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        r = requests.get(url, auth=auth)
+        assert r.status_code == 401
+
+        r = requests.get(url)
+        assert r.status_code == 401
+
+        s = requests.session()
+        s.auth = auth
+        r = s.get(url)
+        assert r.status_code == 401

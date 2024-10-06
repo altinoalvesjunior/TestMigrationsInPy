@@ -42,17 +42,12 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_session_pickling(self):
+        r = requests.Request('GET', httpbin('get'))
+        s = requests.Session()
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
+        s = pickle.loads(pickle.dumps(s))
+        s.proxies = getproxies()
 
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        r = s.send(r.prepare())
+        self.assertEqual(r.status_code, 200)

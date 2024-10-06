@@ -42,17 +42,14 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
-
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+    def test_mixed_case_scheme_acceptable(self):
+        s = requests.Session()
+        s.proxies = getproxies()
+        parts = urlparse(httpbin('get'))
+        schemes = ['http://', 'HTTP://', 'hTTp://', 'HttP://',
+                   'https://', 'HTTPS://', 'hTTps://', 'HttPs://']
+        for scheme in schemes:
+            url = scheme + parts.netloc + parts.path
+            r = requests.Request('GET', url)
+            r = s.send(r.prepare())
+            assert r.status_code == 200, 'failed for scheme {0}'.format(scheme)

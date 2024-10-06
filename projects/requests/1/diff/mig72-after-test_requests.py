@@ -30,29 +30,12 @@ def httpbin(*suffix):
     return urljoin(HTTPBIN, '/'.join(suffix))
 
 
-class RequestsTestCase(unittest.TestCase):
-
-    _multiprocess_can_split_ = True
-
-    def setUp(self):
-        """Create simple data set with headers."""
-        pass
-
-    def tearDown(self):
-        """Teardown."""
-        pass
-    
-    def test_entry_points(self):
-
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+class TestCaseInsensitiveDict(unittest.TestCase):
+    def test_lower_items(self):
+        cid = CaseInsensitiveDict({
+            'Accept': 'application/json',
+            'user-Agent': 'requests',
+        })
+        keyset = frozenset(lowerkey for lowerkey, v in cid.lower_items())
+        lowerkeyset = frozenset(['accept', 'user-agent'])
+        assert keyset == lowerkeyset

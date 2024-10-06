@@ -42,17 +42,10 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_can_send_nonstring_objects_with_files(self):
+        data = {'a': 0.0}
+        files = {'b': 'foo'}
+        r = requests.Request('POST', httpbin('post'), data=data, files=files)
+        p = r.prepare()
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        assert 'multipart/form-data' in p.headers['Content-Type']

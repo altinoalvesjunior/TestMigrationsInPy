@@ -42,17 +42,10 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_HTTP_200_OK_GET_WITH_PARAMS(self):
+        heads = {'User-agent': 'Mozilla/5.0'}
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
+        r = requests.get(httpbin('user-agent'), headers=heads)
 
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        assert heads['User-agent'] in r.text
+        assert r.status_code == 200

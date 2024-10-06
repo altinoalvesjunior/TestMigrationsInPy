@@ -42,17 +42,30 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_basicauth_with_netrc(self):
+        auth = ('user', 'pass')
+        wrong_auth = ('wronguser', 'wrongpass')
+        url = httpbin('basic-auth', 'user', 'pass')
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
+        def get_netrc_auth_mock(url):
+            return auth
+        requests.sessions.get_netrc_auth = get_netrc_auth_mock
 
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        # Should use netrc and work.
+        r = requests.get(url)
+        assert r.status_code == 200
+
+        # Given auth should override and fail.
+        r = requests.get(url, auth=wrong_auth)
+        assert r.status_code == 401
+
+        s = requests.session()
+
+        # Should use netrc and work.
+        r = s.get(url)
+        assert r.status_code == 200
+
+        # Given auth should override and fail.
+        s.auth = wrong_auth
+        r = s.get(url)
+        assert r.status_code == 401

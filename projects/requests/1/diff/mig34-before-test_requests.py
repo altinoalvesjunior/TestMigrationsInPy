@@ -42,17 +42,16 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_prepared_request_hook(self):
+        def hook(resp, **kwargs):
+            resp.hook_working = True
+            return resp
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
+        req = requests.Request('GET', HTTPBIN, hooks={'response': hook})
+        prep = req.prepare()
 
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        s = requests.Session()
+        s.proxies = getproxies()
+        resp = s.send(prep)
+
+        self.assertTrue(hasattr(resp, 'hook_working'))

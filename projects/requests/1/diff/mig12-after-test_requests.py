@@ -42,17 +42,15 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
-
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+    def test_cookie_removed_on_expire(self):
+        s = requests.session()
+        s.get(httpbin('cookies/set?foo=bar'))
+        assert s.cookies['foo'] == 'bar'
+        s.get(
+            httpbin('response-headers'),
+            params={
+                'Set-Cookie':
+                    'foo=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT'
+            }
+        )
+        assert 'foo' not in s.cookies

@@ -42,17 +42,21 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_cookie_parameters(self):
+        key = 'some_cookie'
+        value = 'some_value'
+        secure = True
+        domain = 'test.com'
+        rest = {'HttpOnly': True}
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
+        jar = requests.cookies.RequestsCookieJar()
+        jar.set(key, value, secure=secure, domain=domain, rest=rest)
 
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        assert len(jar) == 1
+        assert 'some_cookie' in jar
+
+        cookie = list(jar)[0]
+        assert cookie.secure == secure
+        assert cookie.domain == domain
+        assert cookie._rest['HttpOnly'] == rest['HttpOnly']
+    

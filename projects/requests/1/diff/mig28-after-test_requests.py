@@ -42,17 +42,10 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_status_raising(self):
+        r = requests.get(httpbin('status', '404'))
+        with pytest.raises(requests.exceptions.HTTPError):
+            r.raise_for_status()
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        r = requests.get(httpbin('status', '500'))
+        assert not r.ok

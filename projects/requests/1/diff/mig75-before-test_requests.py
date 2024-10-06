@@ -30,29 +30,23 @@ def httpbin(*suffix):
     return urljoin(HTTPBIN, '/'.join(suffix))
 
 
-class RequestsTestCase(unittest.TestCase):
+class UtilsTestCase(unittest.TestCase):
 
-    _multiprocess_can_split_ = True
+    def test_super_len_io_streams(self):
+        """ Ensures that we properly deal with different kinds of IO streams. """
+        # uses StringIO or io.StringIO (see import above)
+        from io import BytesIO
+        from requests.utils import super_len
 
-    def setUp(self):
-        """Create simple data set with headers."""
-        pass
+        self.assertEqual(super_len(StringIO.StringIO()), 0)
+        self.assertEqual(super_len(StringIO.StringIO('with so much drama in the LBC')), 29)
 
-    def tearDown(self):
-        """Teardown."""
-        pass
-    
-    def test_entry_points(self):
+        self.assertEqual(super_len(BytesIO()), 0)
+        self.assertEqual(super_len(BytesIO(b"it's kinda hard bein' snoop d-o-double-g")), 40)
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        try:
+            import cStringIO
+        except ImportError:
+            pass
+        else:
+            self.assertEqual(super_len(cStringIO.StringIO('but some how, some way...')), 25)

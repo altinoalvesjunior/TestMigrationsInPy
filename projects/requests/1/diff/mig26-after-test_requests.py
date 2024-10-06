@@ -42,17 +42,20 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_POSTBIN_GET_POST_FILES_WITH_DATA(self):
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
+        url = httpbin('post')
+        post1 = requests.post(url).raise_for_status()
 
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        post1 = requests.post(url, data={'some': 'data'})
+        assert post1.status_code == 200
+
+        with open('requirements.txt') as f:
+            post2 = requests.post(url, data={'some': 'data'}, files={'some': f})
+        assert post2.status_code == 200
+
+        post4 = requests.post(url, data='[{"some": "json"}]')
+        assert post4.status_code == 200
+
+        with pytest.raises(ValueError):
+            requests.post(url, files = ['bad file data'])

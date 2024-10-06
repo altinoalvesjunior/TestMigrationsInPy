@@ -42,17 +42,8 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
-
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+    def test_no_content_length(self):
+        get_req = requests.Request('GET', httpbin('get')).prepare()
+        self.assertTrue('Content-Length' not in get_req.headers)
+        head_req = requests.Request('HEAD', httpbin('head')).prepare()
+        self.assertTrue('Content-Length' not in head_req.headers)

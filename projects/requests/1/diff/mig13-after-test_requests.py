@@ -42,17 +42,7 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
-
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+    def test_cookie_quote_wrapped(self):
+        s = requests.session()
+        s.get(httpbin('cookies/set?foo="bar:baz"'))
+        assert s.cookies['foo'] == '"bar:baz"'

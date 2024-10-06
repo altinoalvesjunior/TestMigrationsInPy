@@ -42,17 +42,9 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
-
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+    def test_time_elapsed_blank(self):
+        r = requests.get(httpbin('get'))
+        td = r.elapsed
+        total_seconds = ((td.microseconds + (td.seconds + td.days * 24 * 3600)
+                         * 10**6) / 10**6)
+        self.assertTrue(total_seconds > 0.0)

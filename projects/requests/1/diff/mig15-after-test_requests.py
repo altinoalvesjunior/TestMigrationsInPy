@@ -42,17 +42,8 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
-
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+    def test_requests_in_history_are_not_overridden(self):
+        resp = requests.get(httpbin('redirect/3'))
+        urls = [r.url for r in resp.history]
+        req_urls = [r.request.url for r in resp.history]
+        assert urls == req_urls

@@ -42,17 +42,13 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_DIGEST_STREAM(self):
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
+        auth = HTTPDigestAuth('user', 'pass')
+        url = httpbin('digest-auth', 'auth', 'user', 'pass')
 
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        r = requests.get(url, auth=auth, stream=True)
+        self.assertNotEqual(r.raw.read(), b'')
+
+        r = requests.get(url, auth=auth, stream=False)
+        self.assertEqual(r.raw.read(), b'')

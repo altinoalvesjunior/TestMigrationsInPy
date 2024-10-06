@@ -42,17 +42,8 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_urlencoded_get_query_multivalued_param(self):
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
-
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        r = requests.get(httpbin('get'), params=dict(test=['foo', 'baz']))
+        self.assertEqual(r.status_code, 200)
+        self.assertEqual(r.url, httpbin('get?test=foo&test=baz'))

@@ -42,17 +42,19 @@ class RequestsTestCase(unittest.TestCase):
         """Teardown."""
         pass
     
-    def test_entry_points(self):
+    def test_prepared_from_session(self):
+        class DummyAuth(requests.auth.AuthBase):
+            def __call__(self, r):
+                r.headers['Dummy-Auth-Test'] = 'dummy-auth-test-ok'
+                return r
 
-        requests.session
-        requests.session().get
-        requests.session().head
-        requests.get
-        requests.head
-        requests.put
-        requests.patch
-        requests.post
+        req = requests.Request('GET', httpbin('headers'))
+        assert not req.auth
 
-    def test_invalid_url(self):
-        self.assertRaises(MissingSchema, requests.get, 'hiwpefhipowhefopw')
-        self.assertRaises(InvalidURL, requests.get, 'http://')
+        s = requests.Session()
+        s.auth = DummyAuth()
+
+        prep = s.prepare_request(req)
+        resp = s.send(prep)
+
+        assert resp.json()['headers']['Dummy-Auth-Test'] == 'dummy-auth-test-ok'

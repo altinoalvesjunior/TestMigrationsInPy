@@ -1,7 +1,0 @@
-"commit_hash": "fb4b6d0e91b245708e58b3ac2ac5f83dce5e4605",
-"commit_link": "https://github.com/kivy/kivy/commit/fb4b6d0e91b245708e58b3ac2ac5f83dce5e4605",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["kivy/tests/test_urlrequest.py"],
-"type": ["assert", "import", "testcase"],
-"numberOfMigration": 
