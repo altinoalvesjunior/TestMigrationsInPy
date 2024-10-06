@@ -1,7 +1,7 @@
 "commit_hash": "6f789e15cdd91cc02af2005405026355e6fae69e",
 "commit_link": "https://github.com/pandas-dev/pandas/commit/6f789e15cdd91cc02af2005405026355e6fae69e",
 "testFilesChanged": 3,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["pandas/tests/frame/test_replace.py", "pandas/tests/series/test_replace.py", "pandas/tests/types/test_cast.py"],
+"testFilesChangedWithMigrations": 1,
+"filesWithMigration": ["pandas/tests/types/test_cast.py"],
 "type": ["assert", "add Param"],
-"numberOfMigration": 
+"numberOfMigration": 1

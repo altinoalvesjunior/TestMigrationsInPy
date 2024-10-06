@@ -1,7 +1,0 @@
-"commit_hash": "ebc0c0986fc01dfc937d493786d6fdbcd1c7eddd",
-"commit_link": "https://github.com/pandas-dev/pandas/commit/ebc0c0986fc01dfc937d493786d6fdbcd1c7eddd",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": 1,
-"filesWithMigration": ["pandas/tests/series/test_dtypes.py"],
-"type": ["assert", "add Param"],
-"numberOfMigration": 9
