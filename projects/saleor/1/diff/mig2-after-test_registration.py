@@ -26,14 +26,14 @@ class SessionMock(Mock):
 
     def __setitem__(self, key, value):
         pass
-
-def test_facebook_login_url():
-    facebook_client = FacebookClient(local_host='localhost')
-    facebook_login_url = URL(facebook_client.get_login_uri())
-    query = facebook_login_url.query_params()
-    callback_url = URL(query['redirect_uri'][0])
+    
+def test_google_login_url():
+    google_client = GoogleClient(local_host='local_host')
+    google_login_url = URL(google_client.get_login_uri())
+    params = google_login_url.query_params()
+    callback_url = URL(params['redirect_uri'][0])
     func, _args, kwargs = resolve(callback_url.path())
     assert func is oauth_callback
-    assert kwargs['service'] == FACEBOOK
-    assert query['scope'][0] == FacebookClient.scope
-    assert query['client_id'][0] == str(FacebookClient.client_id)
+    assert kwargs['service'] == GOOGLE
+    assert params['scope'][0] == GoogleClient.scope
+    assert params['client_id'][0] == str(GoogleClient.client_id)

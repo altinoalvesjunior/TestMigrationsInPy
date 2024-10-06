@@ -27,13 +27,9 @@ class SessionMock(Mock):
     def __setitem__(self, key, value):
         pass
 
-def test_facebook_login_url():
-    facebook_client = FacebookClient(local_host='localhost')
-    facebook_login_url = URL(facebook_client.get_login_uri())
-    query = facebook_login_url.query_params()
-    callback_url = URL(query['redirect_uri'][0])
-    func, _args, kwargs = resolve(callback_url.path())
-    assert func is oauth_callback
-    assert kwargs['service'] == FACEBOOK
-    assert query['scope'][0] == FacebookClient.scope
-    assert query['client_id'][0] == str(FacebookClient.client_id)
+def test_parse_json():
+    response = MagicMock()
+    response.headers = {'Content-Type': JSON_MIME_TYPE}
+    response.json.return_value = sentinel.json_content
+    content = parse_response(response)
+    assert content == sentinel.json_content

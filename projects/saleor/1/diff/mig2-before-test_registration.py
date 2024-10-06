@@ -30,14 +30,14 @@ class SessionMock(Mock):
 class LoginUrlsTestCase(TestCase):
     """Tests login url generation."""
     
-    def test_facebook_login_url(self):
-        """Facebook login url is properly generated"""
-        facebook_client = FacebookClient(local_host='localhost')
-        facebook_login_url = URL(facebook_client.get_login_uri())
-        query = facebook_login_url.query_params()
-        callback_url = URL(query['redirect_uri'][0])
+    def test_google_login_url(self):
+        """Google login url is properly generated"""
+        google_client = GoogleClient(local_host='local_host')
+        google_login_url = URL(google_client.get_login_uri())
+        params = google_login_url.query_params()
+        callback_url = URL(params['redirect_uri'][0])
         func, _args, kwargs = resolve(callback_url.path())
         self.assertEquals(func, oauth_callback)
-        self.assertEquals(kwargs['service'], FACEBOOK)
-        self.assertEqual(query['scope'][0], FacebookClient.scope)
-        self.assertEqual(query['client_id'][0], str(FacebookClient.client_id))
+        self.assertEquals(kwargs['service'], GOOGLE)
+        self.assertTrue(params['scope'][0] in GoogleClient.scope)
+        self.assertEqual(params['client_id'][0], str(GoogleClient.client_id))
