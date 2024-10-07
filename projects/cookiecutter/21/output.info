@@ -1,7 +1,7 @@
-"commit_hash": "659832ff0b181dab3c8dac7defde170a7218aa35",
-"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/659832ff0b181dab3c8dac7defde170a7218aa35",
+"commit_hash": "4d97beb05d169d33ddf364b0eae0dc56a8897e51",
+"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/4d97beb05d169d33ddf364b0eae0dc56a8897e51",
 "testFilesChanged": 2,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/test_cookiecutter_local_no_input.py", "tests/test_main.py"],
+"testFilesChangedWithMigrations": 2,
+"filesWithMigration": ["tests/test_config.py", "tests/test_get_user_config.py"],
 "type": ["assert"],
-"numberOfMigration": 
+"numberOfMigration": 1
