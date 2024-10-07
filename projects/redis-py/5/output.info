@@ -1,7 +1,7 @@
-"commit_hash": "6a69aa50797f95b8fd426651ac0b27d7718036d9",
-"commit_link": "https://github.com/andymccurdy/redis-py/commit/6a69aa50797f95b8fd426651ac0b27d7718036d9",
+"commit_hash": "533bc4a0b37598b1e25a35892659e5f61ce54d29",
+"commit_link": "https://github.com/andymccurdy/redis-py/commit/533bc4a0b37598b1e25a35892659e5f61ce54d29",
 "testFilesChanged": 3,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/conftest.py", "tests/encoding.py", "tests/test_encoding.py"],
-"type": ["assert", "fixture", "import", "testcase"],
-"numberOfMigration": 
+"testFilesChangedWithMigrations": 2,
+"filesWithMigration": ["tests/pubsub.py", "tests/test_pubsub.py"],
+"type": ["assert", "import", "testcase"],
+"numberOfMigration": 3

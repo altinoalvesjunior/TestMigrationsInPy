@@ -1,7 +1,0 @@
-"commit_hash": "7871027c9daa534517821509dfa0501b6df4dbc2",
-"commit_link": "https://github.com/ansible/ansible/commit/7871027c9daa534517821509dfa0501b6df4dbc2",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["test/integration/targets/vars_prompt/test-vars_prompt.py", "test/units/plugins/lookup/test_password.py", "test/units/utils/test_encrypt.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": 

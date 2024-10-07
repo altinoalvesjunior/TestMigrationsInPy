@@ -1,7 +1,0 @@
-"commit_hash": "b832b5d44a6a8d48d5e86d07de6b3cfd9b1b62b4",
-"commit_link": "https://github.com/getsentry/sentry/commit/b832b5d44a6a8d48d5e86d07de6b3cfd9b1b62b4",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/sentry/coreapi/tests.py", "tests/sentry/interfaces/test_csp.py"],
-"type": ["assert"],
-"numberOfMigration": 

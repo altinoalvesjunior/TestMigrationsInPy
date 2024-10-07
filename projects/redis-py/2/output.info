@@ -4,4 +4,4 @@
 "testFilesChangedWithMigrations": ,
 "filesWithMigration": ["tests/test_connection_pool.py"],
 "type": ["assert", "import", "testcase"],
-"numberOfMigration": 
+"numberOfMigration": 7
