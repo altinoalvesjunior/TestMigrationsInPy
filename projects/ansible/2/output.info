@@ -1,0 +1,7 @@
+"commit_hash": "c1118389cf6f07b45721d7a3287a65d5bc42717e",
+"commit_link": "https://github.com/ansible/ansible/commit/c1118389cf6f07b45721d7a3287a65d5bc42717e",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": 1,
+"filesWithMigration": ["test/units/modules/network/f5/test_bigip_appsvcs_extension.py"],
+"type": ["skip"],
+"numberOfMigration": 1

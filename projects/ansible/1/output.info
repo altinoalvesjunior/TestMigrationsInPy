@@ -1,0 +1,7 @@
+"commit_hash": "d877c146ab750c0f1505b4180e4170163d854fb5",
+"commit_link": "https://github.com/ansible/ansible/commit/d877c146ab750c0f1505b4180e4170163d854fb5",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": 1,
+"filesWithMigration": ["test/units/module_utils/network/common/test_utils.py"],
+"type": ["assert", "import", "testcase"],
+"numberOfMigration": 6
