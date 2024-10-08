@@ -1,7 +1,0 @@
-"commit_hash": "4d727e4cdfe2e6fbc2fff823654fcb411a9fe219",
-"commit_link": "https://github.com/ray-project/ray/commit/4d727e4cdfe2e6fbc2fff823654fcb411a9fe219",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["python/ray/tune/tests/test_convergence_gaussian_process.py", "python/ray/tune/tests/test_function_api.py"],
-"type": ["assert"],
-"numberOfMigration": 

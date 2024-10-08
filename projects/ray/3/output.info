@@ -1,0 +1,7 @@
+"commit_hash": "3590a86db0369ce8a8f9c3965cddc9e4c817c2b8",
+"commit_link": "https://github.com/ray-project/ray/commit/3590a86db0369ce8a8f9c3965cddc9e4c817c2b8",
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": 1,
+"filesWithMigration": ["python/ray/tune/tests/test_utils.py"],
+"type": ["assert", "import", "testcase", "add Param"],
+"numberOfMigration": 1

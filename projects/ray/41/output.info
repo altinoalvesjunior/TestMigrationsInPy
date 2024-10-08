@@ -1,7 +1,0 @@
-"commit_hash": "96b44adf67cd0971703ea8873a8b88750d33d78b",
-"commit_link": "https://github.com/ray-project/ray/commit/96b44adf67cd0971703ea8873a8b88750d33d78b",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["python/ray/tune/tests/test_cluster.py", "python/ray/tune/tests/test_trial_scheduler.py", "python/ray/tune/tests/test_trial_scheduler_pbt.py"],
-"type": ["assert", "add Param"],
-"numberOfMigration": 
