@@ -1,7 +1,0 @@
-"commit_hash": "6439627ce49f5c47ac61ed76900bd69225613a22",
-"commit_link": "https://github.com/ansible/ansible/commit/6439627ce49f5c47ac61ed76900bd69225613a22",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": 1,
-"filesWithMigration": ["test/units/modules/test_apt.py"],
-"type": ["assert", "import", "testcase", "add Param"],
-"numberOfMigration": 1
