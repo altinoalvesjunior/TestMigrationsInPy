@@ -1,7 +1,0 @@
-"commit_hash": "44bd8fc0a858ffefb26fb111bf8f24425066ec13",
-"commit_link": "https://github.com/ansible/ansible/commit/44bd8fc0a858ffefb26fb111bf8f24425066ec13",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["test/units/config/test_manager.py"],
-"type": ["assert", "import", "testcase", "add Param"],
-"numberOfMigration": 
