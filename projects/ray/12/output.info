@@ -1,7 +1,0 @@
-"commit_hash": "52e5c9b22d93ec5b73567f1ac88b9b0152eb5fbf",
-"commit_link": "https://github.com/ray-project/ray/commit/52e5c9b22d93ec5b73567f1ac88b9b0152eb5fbf",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["python/ray/tune/tests/test_cluster.py", "python/ray/tune/tests/test_ray_trial_executor.py", "python/ray/tune/tests/test_trial_runner.py"],
-"type": ["assert"],
-"numberOfMigration": 

@@ -1,7 +1,0 @@
-"commit_hash": "ecea15c508f0e081525be036cf76bbb56dbcdd9d",
-"commit_link": "https://github.com/ansible/ansible/commit/ecea15c508f0e081525be036cf76bbb56dbcdd9d",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["test/integration/targets/ansible-galaxy-collection/tasks/download.yml", "test/integration/targets/ansible-galaxy-collection/tasks/install.yml", "test/units/cli/test_galaxy.py", "test/units/galaxy/test_collection.py"],
-"type": ["assert", "add Param"],
-"numberOfMigration": 

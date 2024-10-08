@@ -1,0 +1,7 @@
+"commit_hash": "0cd49130e669b296e3222c2d3eec8162ab34837f",
+"commit_link": "https://github.com/ray-project/ray/commit/0cd49130e669b296e3222c2d3eec8162ab34837f",
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": 3,
+"filesWithMigration": ["release/ray_release/tests/test_alerts.py", "release/ray_release/tests/test_run_script.py", "release/ray_release/tests/test_wheels.py"],
+"type": ["assert", "import", "testcase"],
+"numberOfMigration": 18

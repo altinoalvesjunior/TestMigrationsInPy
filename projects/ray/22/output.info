@@ -1,7 +1,0 @@
-"commit_hash": "d192ef06119f3eccf569a844b30976db99cfa0f6",
-"commit_link": "https://github.com/ray-project/ray/commit/d192ef06119f3eccf569a844b30976db99cfa0f6",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["ci/jenkins_tests/run_tune_tests.sh", "python/ray/util/sgd/tests/test_torch.py", "python/ray/util/sgd/tests/test_torch_runner.py"],
-"type": ["assert", "add Param"],
-"numberOfMigration": 

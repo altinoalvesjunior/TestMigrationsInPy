@@ -1,7 +1,7 @@
-"commit_hash": "be2544a5b32cc393004f73cfe4909f9ce0c18034",
-"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/be2544a5b32cc393004f73cfe4909f9ce0c18034",
+"commit_hash": "dcdddb987b16781fb0da9212646980eb7b06aaca",
+"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/dcdddb987b16781fb0da9212646980eb7b06aaca",
 "testFilesChanged": 2,
-"testFilesChangedWithMigrations": ,
+"testFilesChangedWithMigrations": 2,
 "filesWithMigration": ["tests/test_generate.py", "tests/test_generate_hooks.py"],
-"type": ["assert"],
-"numberOfMigration": 
+"type": ["assert", "fixture"],
+"numberOfMigration": 2

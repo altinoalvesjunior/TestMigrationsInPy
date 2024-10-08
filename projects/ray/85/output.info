@@ -1,7 +1,0 @@
-"commit_hash": "336cb9dae37f0718bfda2cdfeb341cf8e4b9ea99",
-"commit_link": "https://github.com/ray-project/ray/commit/336cb9dae37f0718bfda2cdfeb341cf8e4b9ea99",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["python/ray/tests/test_minimal_install.py"],
-"type": ["import", "add Param"],
-"numberOfMigration": 
