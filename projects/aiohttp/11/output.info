@@ -1,7 +1,0 @@
-"commit_hash": "07e284a9c888f32492e93f91cc8a2960c2a1ad75",
-"commit_link": "https://github.com/aio-libs/aiohttp/commit/07e284a9c888f32492e93f91cc8a2960c2a1ad75",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/test_web_request.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": 
