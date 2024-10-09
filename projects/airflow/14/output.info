@@ -1,7 +1,7 @@
-"commit_hash": "833087f4f9e86ee063d6a754593d80e9e5cd4100",
-"commit_link": "https://github.com/apache/airflow/commit/833087f4f9e86ee063d6a754593d80e9e5cd4100",
+"commit_hash": "81b5f50ae99eeadbaac093caa4cb41f1a51ca735",
+"commit_link": "https://github.com/apache/airflow/commit/81b5f50ae99eeadbaac093caa4cb41f1a51ca735",
 "testFilesChanged": 1,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/providers/google/cloud/hooks/test_bigquery.py"],
-"type": ["assert", "testcase", "add Param"],
-"numberOfMigration": 
+"testFilesChangedWithMigrations": 1,
+"filesWithMigration": ["tests/providers/asana/hooks/test_asana.py"],
+"type": ["assert", "import", "testcase", "add Param"],
+"numberOfMigration": 15
