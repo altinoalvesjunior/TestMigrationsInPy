@@ -1,7 +1,7 @@
-"commit_hash": "27dac00e125b87626a0b87074d61e6d38031bf47",
-"commit_link": "https://github.com/apache/airflow/commit/27dac00e125b87626a0b87074d61e6d38031bf47",
-"testFilesChanged": 4,
+"commit_hash": "e6810d1ee295889a1324b1af3c8191b40261ed51",
+"commit_link": "https://github.com/apache/airflow/commit/e6810d1ee295889a1324b1af3c8191b40261ed51",
+"testFilesChanged": 1,
 "testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/providers/google/cloud/operators/test_cloud_storage_transfer_service_system.py", "tests/providers/google/cloud/operators/test_cloud_storage_transfer_service_system_helper.py", "tests/test_utils/gcp_system_helpers.py", "tests/test_utils/system_tests_class.py"],
-"type": ["fixture"],
+"filesWithMigration": ["tests/providers/amazon/aws/transfers/test_dynamodb_to_s3.py"],
+"type": ["assert", "add Param"],
 "numberOfMigration": 

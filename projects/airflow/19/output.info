@@ -1,7 +1,0 @@
-"commit_hash": "5061077dc31c967d2c1c6bcded626096f5b6e940",
-"commit_link": "https://github.com/apache/airflow/commit/5061077dc31c967d2c1c6bcded626096f5b6e940",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["chart/tests/test_flower.py"],
-"type": ["import", "testcase", "add Param"],
-"numberOfMigration": 

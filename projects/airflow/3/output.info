@@ -1,0 +1,7 @@
+"commit_hash": "bdb76be7470621891b8382454477eca076831e65",
+"commit_link": "https://github.com/apache/airflow/commit/bdb76be7470621891b8382454477eca076831e65",
+"testFilesChanged": 3,
+"testFilesChangedWithMigrations": 1,
+"filesWithMigration": ["chart/tests/test_pod_template_file.py"],
+"type": ["fixture"],
+"numberOfMigration": 1

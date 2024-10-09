@@ -1,7 +1,0 @@
-"commit_hash": "eb12bb2f0418120be31cbcd8e8722528af9eb344",
-"commit_link": "https://github.com/apache/airflow/commit/eb12bb2f0418120be31cbcd8e8722528af9eb344",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/executors/test_kubernetes_executor.py"],
-"type": ["skip", "testcase", "add Param"],
-"numberOfMigration": 

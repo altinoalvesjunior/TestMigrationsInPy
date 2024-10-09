@@ -1,7 +1,0 @@
-"commit_hash": "1efb17b7aa404013cd490ba3dad4f7d2a70d4cb2",
-"commit_link": "https://github.com/apache/airflow/commit/1efb17b7aa404013cd490ba3dad4f7d2a70d4cb2",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/api/auth/backend/test_basic_auth.py", "tests/api_connexion/conftest.py", "tests/api_connexion/test_basic_auth.py", "tests/test_utils/test_remote_user_api_auth_backend.py"],
-"type": ["import", "testcase"],
-"numberOfMigration": 

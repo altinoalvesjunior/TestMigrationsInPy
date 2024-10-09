@@ -1,7 +1,0 @@
-"commit_hash": "2f44f0b023eb8d322fef9b53b609e390e57c7d45",
-"commit_link": "https://github.com/apache/airflow/commit/2f44f0b023eb8d322fef9b53b609e390e57c7d45",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["chart/tests/test_airflow_common.py", "chart/tests/test_annotations.py"],
-"type": ["assert", "import", "testcase", "add Param"],
-"numberOfMigration": 
