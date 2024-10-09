@@ -1,7 +1,0 @@
-"commit_hash": "675bb6c0e88c380e39d242e04543e11950ea1141",
-"commit_link": "https://github.com/apache/airflow/commit/675bb6c0e88c380e39d242e04543e11950ea1141",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/providers/slack/hooks/test_slack.py", "tests/providers/slack/operators/test.csv", "tests/providers/slack/operators/test_slack.py"],
-"type": ["fixture", "import", "testcase", "add Param"],
-"numberOfMigration": 
