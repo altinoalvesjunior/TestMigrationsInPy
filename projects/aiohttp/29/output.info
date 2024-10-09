@@ -1,7 +1,7 @@
-"commit_hash": "552a4bc38d26a643b3cada44458d70d47efb4cbc",
-"commit_link": "https://github.com/aio-libs/aiohttp/commit/552a4bc38d26a643b3cada44458d70d47efb4cbc",
+"commit_hash": "0e6c48155ebd749b8564768f69c7ba3cacb8c215",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/0e6c48155ebd749b8564768f69c7ba3cacb8c215",
 "testFilesChanged": 1,
 "testFilesChangedWithMigrations": 1,
-"filesWithMigration": ["tests/test_protocol.py"],
+"filesWithMigration": ["tests/test_web_websocket.py"],
 "type": ["assert"],
-"numberOfMigration": 9
+"numberOfMigration": 13
