@@ -1,7 +1,0 @@
-"commit_hash": "be7efb1d30929a7f742f5b7735a3d6fbadadd352",
-"commit_link": "https://github.com/apache/airflow/commit/be7efb1d30929a7f742f5b7735a3d6fbadadd352",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/serialization/test_dag_serialization.py", "tests/test_utils/timetables.py"],
-"type": ["assert", "fixture", "testcase", "add Param"],
-"numberOfMigration": 

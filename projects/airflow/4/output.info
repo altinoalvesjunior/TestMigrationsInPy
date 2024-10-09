@@ -1,7 +1,7 @@
-"commit_hash": "58c3542ed25061320ce61dbe0adf451a44c738dd",
-"commit_link": "https://github.com/apache/airflow/commit/58c3542ed25061320ce61dbe0adf451a44c738dd",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/hooks/test_s3_hook.py", "tests/providers/amazon/aws/hooks/conftest.py", "tests/providers/amazon/aws/hooks/test_s3.py", "tests/test_project_structure.py"],
-"type": ["assert", "fixture", "import", "skip", "testcase"],
-"numberOfMigration": 
+"commit_hash": "126788a25ac8852f2dd148fde38b5ab9f4ce8545",
+"commit_link": "https://github.com/apache/airflow/commit/126788a25ac8852f2dd148fde38b5ab9f4ce8545",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": 1,
+"filesWithMigration": ["tests/jobs/test_scheduler_job.py"],
+"type": ["assert", "fixture", "testcase"],
+"numberOfMigration": 4

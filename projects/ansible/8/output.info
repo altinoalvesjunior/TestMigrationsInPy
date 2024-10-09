@@ -1,7 +1,0 @@
-"commit_hash": "e7a3715a90e843416f43d2250cb9292737021830",
-"commit_link": "https://github.com/ansible/ansible/commit/e7a3715a90e843416f43d2250cb9292737021830",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": 1,
-"filesWithMigration": ["test/units/module_utils/common/test_dict_transformations.py"],
-"type": ["assert", "import", "testcase", "add Param"],
-"numberOfMigration": 8

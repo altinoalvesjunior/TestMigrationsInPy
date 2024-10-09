@@ -1,7 +1,0 @@
-"commit_hash": "badd890675d3cb3dfc088bff6a1d73dfdc275f31",
-"commit_link": "https://github.com/apache/airflow/commit/badd890675d3cb3dfc088bff6a1d73dfdc275f31",
-"testFilesChanged": 3,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/providers/http/operators/test_http.py", "tests/sensors/test_external_task_sensor.py", "tests/utils/test_operator_helpers.py"],
-"type": ["assert", "add Param"],
-"numberOfMigration": 

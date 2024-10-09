@@ -1,7 +1,0 @@
-"commit_hash": "4a3a42965801823c39baaccfa96c5e4cffae4012",
-"commit_link": "https://github.com/apache/airflow/commit/4a3a42965801823c39baaccfa96c5e4cffae4012",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/providers/amazon/aws/hooks/test_batch_client.py", "tests/providers/google/cloud/hooks/test_pubsub.py"],
-"type": ["assert", "testcase", "add Param"],
-"numberOfMigration": 

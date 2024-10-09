@@ -1,0 +1,7 @@
+"commit_hash": "210de42bbf10ad592da4d5bb4395c557af9b5503",
+"commit_link": "https://github.com/apache/airflow/commit/210de42bbf10ad592da4d5bb4395c557af9b5503",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": 1,
+"filesWithMigration": ["tests/cli/commands/test_webserver_command.py"],
+"type": ["fixture", "testcase"],
+"numberOfMigration": 2

@@ -1,7 +1,0 @@
-"commit_hash": "e81527c5d39840b37180060a0865467c37d698ee",
-"commit_link": "https://github.com/apache/airflow/commit/e81527c5d39840b37180060a0865467c37d698ee",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/cli/commands/test_connection_command.py"],
-"type": ["fixture", "testcase", "add Param"],
-"numberOfMigration": 

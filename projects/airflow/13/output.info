@@ -1,0 +1,7 @@
+"commit_hash": "dd06797c1016c48d8681ff218186a30e99c7c5c4",
+"commit_link": "https://github.com/apache/airflow/commit/dd06797c1016c48d8681ff218186a30e99c7c5c4",
+"testFilesChanged": 5,
+"testFilesChangedWithMigrations": 2,
+"filesWithMigration": ["tests/providers/apache/hive/transfers/test_s3_to_hive.py", "tests/utils/test_compression.py"],
+"type": ["assert", "fixture", "skip", "testcase"],
+"numberOfMigration": 3

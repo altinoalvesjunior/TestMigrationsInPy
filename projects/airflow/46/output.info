@@ -1,7 +1,0 @@
-"commit_hash": "923f5a5912785649be7e61c8ea32a0bd6dc426d8",
-"commit_link": "https://github.com/apache/airflow/commit/923f5a5912785649be7e61c8ea32a0bd6dc426d8",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/providers/pagerduty/hooks/test_pagerduty.py", "tests/providers/pagerduty/hooks/test_pagerduty_events.py"],
-"type": ["fixture", "import", "testcase"],
-"numberOfMigration": 

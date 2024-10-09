@@ -1,7 +1,0 @@
-"commit_hash": "6f26af95022799cd463d30405b3ac1058f0689da",
-"commit_link": "https://github.com/apache/airflow/commit/6f26af95022799cd463d30405b3ac1058f0689da",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/providers/snowflake/hooks/test_snowflake.py"],
-"type": ["fixture", "testcase", "add Param"],
-"numberOfMigration": 

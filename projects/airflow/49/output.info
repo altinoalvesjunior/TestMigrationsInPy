@@ -1,7 +1,0 @@
-"commit_hash": "33a4502f68be6b25fbccb96ed1832c5b527bb02a",
-"commit_link": "https://github.com/apache/airflow/commit/33a4502f68be6b25fbccb96ed1832c5b527bb02a",
-"testFilesChanged": 4,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/test_utils/api_connexion_utils.py", "tests/www/test_security.py", "tests/www/views/conftest.py", "tests/www/views/test_views_base.py"],
-"type": ["assert", "fixture", "testcase", "add Param"],
-"numberOfMigration": 
