@@ -1,0 +1,16 @@
+import pytest
+from aiohttp import parsers
+
+def test_unset_parser_eof_exc(loop):
+    def p(out, buf):
+        try:
+            while True:
+                yield  # read chunk
+        except parsers.EofStream:
+            raise ValueError()
+    stream = parsers.StreamParser(loop=loop)
+    s = stream.set_parser(p)
+    stream.feed_data(b'line1')
+    stream.unset_parser()
+    assert isinstance(s.exception(), ValueError)
+    assert stream._parser is None

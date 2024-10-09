@@ -1,7 +1,7 @@
 "commit_hash": "d5546faf00eb869dbea220e7f33c9830f322b633",
 "commit_link": "https://github.com/aio-libs/aiohttp/commit/d5546faf00eb869dbea220e7f33c9830f322b633",
 "testFilesChanged": 2,
-"testFilesChangedWithMigrations": ,
+"testFilesChangedWithMigrations": 2,
 "filesWithMigration": ["tests/test_parser_buffer.py", "tests/test_parsers.py"],
 "type": ["assert", "fixture", "testcase"],
-"numberOfMigration": 
+"numberOfMigration": 20
