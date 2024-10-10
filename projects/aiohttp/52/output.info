@@ -1,0 +1,7 @@
+"commit_hash": "c174a03b8359a8ee03596e55f170b770131023ac",
+"commit_link": "https://github.com/aio-libs/aiohttp/commit/c174a03b8359a8ee03596e55f170b770131023ac",
+"testFilesChanged": 1,
+"testFilesChangedWithMigrations": 1,
+"filesWithMigration": ["tests/test_client_ws.py"],
+"type": ["assert", "fixture", "testcase"],
+"numberOfMigration": 16
