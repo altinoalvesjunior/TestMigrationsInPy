@@ -1,7 +1,0 @@
-"commit_hash": "9a43164286a8530b530bf5c83359de92e5d0d662",
-"commit_link": "https://github.com/aio-libs/aiohttp/commit/9a43164286a8530b530bf5c83359de92e5d0d662",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/test_multipart.py", "tests/test_multipart_helpers.py"],
-"type": ["assert", "import", "skip", "testcase", "add Param"],
-"numberOfMigration": 
