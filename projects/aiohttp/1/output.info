@@ -4,4 +4,4 @@
 "testFilesChangedWithMigrations": 1,
 "filesWithMigration": ["tests/test_signals.py"],
 "type": ["assert", "fixture", "import", "testcase"],
-"numberOfMigration": 2
+"numberOfMigration": 1

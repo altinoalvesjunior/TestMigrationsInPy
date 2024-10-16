@@ -13,8 +13,8 @@ import pytest
 def app(loop):
     return Application(loop=loop)
 
-
-def make_request(app, method, path, headers=CIMultiDict()):
-    message = RawRequestMessage(method, path, HttpVersion11, headers,
-                                False, False)
-    return request_from_message(message, app)
+def test_add_signal_handler_not_a_callable(loop, app):
+    callback = True
+    app.on_response_prepare.append(callback)
+    with pytest.raises(TypeError):
+        app.on_response_prepare(None, None)
