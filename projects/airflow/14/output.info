@@ -1,7 +1,0 @@
-"commit_hash": "81b5f50ae99eeadbaac093caa4cb41f1a51ca735",
-"commit_link": "https://github.com/apache/airflow/commit/81b5f50ae99eeadbaac093caa4cb41f1a51ca735",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": 1,
-"filesWithMigration": ["tests/providers/asana/hooks/test_asana.py"],
-"type": ["assert", "import", "testcase", "add Param"],
-"numberOfMigration": 15

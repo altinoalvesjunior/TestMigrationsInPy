@@ -9,19 +9,9 @@ import time
 import unittest
 from contextlib import contextmanager
 
-from beetsplug import bpd
-
 class BPDPlaybackTest(BPDTestHelper):
-    def test_cmd_crossfade(self):
+    def test_cmd_mixrampdb(self):
             with self.run_bpd() as client:
-                responses = client.send_commands(
-                    ("status",),
-                    ("crossfade", "123"),
-                    ("status",),
-                    ("crossfade", "-2"),
-                )
-                response = client.send_command("crossfade", "0.5")
-            self._assert_failed(responses, bpd.ERROR_ARG, pos=3)
-            self._assert_failed(response, bpd.ERROR_ARG)
-            assert "xfade" not in responses[0].data
-            self.assertAlmostEqual(123, int(responses[2].data["xfade"]))
+                responses = client.send_commands(("mixrampdb", "-17"), ("status",))
+            self._assert_ok(*responses)
+            self.assertAlmostEqual(-17, float(responses[1].data["mixrampdb"]))

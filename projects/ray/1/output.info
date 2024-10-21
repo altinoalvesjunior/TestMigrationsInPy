@@ -4,4 +4,4 @@
 "testFilesChangedWithMigrations": 1,
 "filesWithMigration": ["test/monitor_test.py"],
 "type": ["import", "skip", "testcase"],
-"numberOfMigration": 2
+"numberOfMigration": 1

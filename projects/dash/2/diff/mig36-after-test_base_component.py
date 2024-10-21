@@ -23,7 +23,7 @@ Component._type = 'TestComponent'
 Component._namespace = 'test_namespace'
 Component._valid_wildcard_attributes = ['data-', 'aria-']
 
-class TestGenerateClass:
+class TestMetaDataConversions:
     @pytest.fixture(autouse=True)
     def setup_function(self):
         path = os.path.join(_dir, 'metadata_test.json')
@@ -34,33 +34,77 @@ class TestGenerateClass:
                 .decode(json_string)
             self.data = data
 
-        self.ComponentClass = generate_class(
-            typename='Table',
-            props=data['props'],
-            description=data['description'],
-            namespace='TableComponents'
-        )
+        self.expected_arg_strings = OrderedDict([
+            ['children',
+             'a list of or a singular dash component, string or number'],
 
-        path = os.path.join(_dir, 'metadata_required_test.json')
-        with open(path) as data_file:
-            json_string = data_file.read()
-            required_data = json\
-                .JSONDecoder(object_pairs_hook=OrderedDict)\
-                .decode(json_string)
-            self.required_data = required_data
+            ['optionalArray', 'list'],
 
-        self.ComponentClassRequired = generate_class(
-            typename='TableRequired',
-            props=required_data['props'],
-            description=required_data['description'],
-            namespace='TableComponents'
-        )
-        
-        def test_required_props(self):
-            with pytest.raises(Exception):
-                self.ComponentClassRequired()
-            self.ComponentClassRequired(id='test')
-            with pytest.raises(Exception):
-                self.ComponentClassRequired(id='test', lahlah='test')
-            with pytest.raises(Exception):
-                self.ComponentClassRequired(children='test')
+            ['optionalBool', 'boolean'],
+
+            ['optionalFunc', ''],
+
+            ['optionalNumber', 'number'],
+
+            ['optionalObject', 'dict'],
+
+            ['optionalString', 'string'],
+
+            ['optionalSymbol', ''],
+
+            ['optionalElement', 'dash component'],
+
+            ['optionalNode',
+             'a list of or a singular dash component, string or number'],
+
+            ['optionalMessage', ''],
+
+            ['optionalEnum', 'a value equal to: \'News\', \'Photos\''],
+
+            ['optionalUnion', 'string | number'],
+
+            ['optionalArrayOf', 'list of numbers'],
+
+            ['optionalObjectOf',
+             'dict with strings as keys and values of type number'],
+
+            ['optionalObjectWithExactAndNestedDescription', '\n'.join([
+
+                "dict containing keys 'color', 'fontSize', 'figure'.",
+                "Those keys have the following types:",
+                "  - color (string; optional)",
+                "  - fontSize (number; optional)",
+                "  - figure (optional): Figure is a plotly graph object. figure has the following type: dict containing keys 'data', 'layout'.",  # noqa: E501
+                "Those keys have the following types:",
+                "  - data (list of dicts; optional): data is a collection of traces",  # noqa: E501
+                "  - layout (dict; optional): layout describes the rest of the figure"  # noqa: E501
+
+            ])],
+
+            ['optionalObjectWithShapeAndNestedDescription', '\n'.join([
+
+                "dict containing keys 'color', 'fontSize', 'figure'.",
+                "Those keys have the following types:",
+                "  - color (string; optional)",
+                "  - fontSize (number; optional)",
+                "  - figure (optional): Figure is a plotly graph object. figure has the following type: dict containing keys 'data', 'layout'.",  # noqa: E501
+                "Those keys have the following types:",
+                "  - data (list of dicts; optional): data is a collection of traces",  # noqa: E501
+                "  - layout (dict; optional): layout describes the rest of the figure"  # noqa: E501
+
+            ])],
+
+            ['optionalAny', 'boolean | number | string | dict | list'],
+
+            ['customProp', ''],
+
+            ['customArrayProp', 'list'],
+
+            ['data-*', 'string'],
+
+            ['aria-*', 'string'],
+
+            ['in', 'string'],
+
+            ['id', 'string']
+        ])

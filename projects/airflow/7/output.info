@@ -1,7 +1,7 @@
-"commit_hash": "0f6f29b65a5abcf86ca5427170bbd1683e9719de",
-"commit_link": "https://github.com/apache/airflow/commit/0f6f29b65a5abcf86ca5427170bbd1683e9719de",
+"commit_hash": "960da8a9074a4fb58881ea79f7dc9bc8fd58a5c4",
+"commit_link": "https://github.com/apache/airflow/commit/960da8a9074a4fb58881ea79f7dc9bc8fd58a5c4",
 "testFilesChanged": 1,
 "testFilesChangedWithMigrations": 1,
-"filesWithMigration": ["tests/www/views/test_views_custom_user_views.py"],
-"type": ["import", "testcase", "add Param"],
-"numberOfMigration": 2
+"filesWithMigration": ["tests/jobs/test_backfill_job.py"],
+"type": ["fixture", "testcase", "add Param"],
+"numberOfMigration": 1

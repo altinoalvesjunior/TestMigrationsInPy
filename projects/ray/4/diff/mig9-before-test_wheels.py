@@ -22,17 +22,23 @@ from ray_release.wheels import (
 )
 
 
-class WheelsFinderTest(unittest.TestCase):              
-    def testGetRayVersion(self):
-        init_file = os.path.join(
-            os.path.dirname(__file__), "..", "..", "..", "python", "ray", "__init__.py"
-        )
-        with open(init_file, "rt") as fp:
-            content = [line.encode() for line in fp.readlines()]
-        with patch("urllib.request.urlopen", lambda _: content):
-            version = get_ray_version(DEFAULT_REPO, commit="fake")
-            self.assertTrue(version)
-        with patch("urllib.request.urlopen", lambda _: []), self.assertRaises(
-            RayWheelsNotFoundError
-        ):
-            get_ray_version(DEFAULT_REPO, commit="fake")
+class WheelsFinderTest(unittest.TestCase):
+    @patch("ray_release.wheels.get_ray_version", lambda *a, **kw: "3.0.0.dev0")
+    def testFindRayWheelsBuildkite(self):
+        repo = DEFAULT_REPO
+        branch = "master"
+        commit = "1234" * 10
+        version = "3.0.0.dev0"
+
+        os.environ["BUILDKITE_COMMIT"] = commit
+
+        url = find_ray_wheels_url()
+
+        self.assertEqual(url, get_ray_wheels_url(repo, branch, commit, version))
+
+        branch = "branched"
+        os.environ["BUILDKITE_BRANCH"] = branch
+
+        url = find_ray_wheels_url()
+
+        self.assertEqual(url, get_ray_wheels_url(repo, branch, commit, version))

@@ -109,10 +109,79 @@ class TestMetaDataConversions:
             ['id', 'string']
         ])
         
-        def test_docgen_to_python_args(self):
-            props = self.data['props']
+        def assert_docstring(docstring):
+            for i, line in enumerate(docstring.split('\n')):
+                assert (line == ([
+                    "A Table component.",
+                    "This is a description of the component.",
+                    "It's multiple lines long.",
+                    '',
+                    "Keyword arguments:",
+                    "- children (a list of or a singular dash component, string or number; optional)",  # noqa: E501
+                    "- optionalArray (list; optional): Description of optionalArray",
+                    "- optionalBool (boolean; optional)",
+                    "- optionalNumber (number; optional)",
+                    "- optionalObject (dict; optional)",
+                    "- optionalString (string; optional)",
 
-            for prop_name, prop in list(props.items()):
-                assert (js_to_py_type(prop['type']) ==
-                        self.expected_arg_strings[prop_name]
+                    "- optionalNode (a list of or a singular dash component, "
+                    "string or number; optional)",
+
+                    "- optionalElement (dash component; optional)",
+                    "- optionalEnum (a value equal to: 'News', 'Photos'; optional)",
+                    "- optionalUnion (string | number; optional)",
+                    "- optionalArrayOf (list of numbers; optional)",
+
+                    "- optionalObjectOf (dict with strings as keys and values "
+                    "of type number; optional)",
+
+                    "- optionalObjectWithExactAndNestedDescription (optional): . "
+                    "optionalObjectWithExactAndNestedDescription has the "
+                    "following type: dict containing keys "
+                    "'color', 'fontSize', 'figure'.",
+
+                    "Those keys have the following types:",
+                    "  - color (string; optional)",
+                    "  - fontSize (number; optional)",
+
+                    "  - figure (optional): Figure is a plotly graph object. "
+                    "figure has the following type: dict containing "
+                    "keys 'data', 'layout'.",
+
+                    "Those keys have the following types:",
+                    "  - data (list of dicts; optional): data is a collection of traces",  # noqa: E501
+
+                    "  - layout (dict; optional): layout describes "
+                    "the rest of the figure",
+
+                    "- optionalObjectWithShapeAndNestedDescription (optional): . "
+                    "optionalObjectWithShapeAndNestedDescription has the "
+                    "following type: dict containing keys "
+                    "'color', 'fontSize', 'figure'.",
+
+                    "Those keys have the following types:",
+                    "  - color (string; optional)",
+                    "  - fontSize (number; optional)",
+
+                    "  - figure (optional): Figure is a plotly graph object. "
+                    "figure has the following type: dict containing "
+                    "keys 'data', 'layout'.",
+
+                    "Those keys have the following types:",
+                    "  - data (list of dicts; optional): data is a collection of traces",  # noqa: E501
+
+                    "  - layout (dict; optional): layout describes "
+                    "the rest of the figure",
+
+                    "- optionalAny (boolean | number | string | dict | "
+                    "list; optional)",
+
+                    "- customProp (optional)",
+                    "- customArrayProp (list; optional)",
+                    '- data-* (string; optional)',
+                    '- aria-* (string; optional)',
+                    '- in (string; optional)',
+                    '- id (string; optional)',
+                    '        '
+                    ])[i]
                         )

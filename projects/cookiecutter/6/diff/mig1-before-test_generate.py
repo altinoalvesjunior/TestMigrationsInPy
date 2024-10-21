@@ -17,12 +17,23 @@ from tests import CookiecutterCleanSystemTestCase
 
 logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.DEBUG)
 
-class TestGenerateContext(CookiecutterCleanSystemTestCase):
+class TestHooks(CookiecutterCleanSystemTestCase):
 
-    def test_generate_context_with_extra(self):
-        """ Call `generate_context()` with extra_context. """
-        context = generate.generate_context(
-            context_file='tests/test-generate-context/test.json',
-            extra_context={'1': 4},
+    def tearDown(self):
+        if os.path.exists('tests/test-pyhooks/inputpyhooks'):
+            utils.rmtree('tests/test-pyhooks/inputpyhooks')
+        if os.path.exists('inputpyhooks'):
+            utils.rmtree('inputpyhooks')
+        if os.path.exists('tests/test-shellhooks'):
+            utils.rmtree('tests/test-shellhooks')
+        super(TestHooks, self).tearDown()
+
+    def test_run_python_hooks_cwd(self):
+        generate.generate_files(
+            context={
+                'cookiecutter': {'pyhooks': 'pyhooks'}
+            },
+            repo_dir='tests/test-pyhooks/'
         )
-        self.assertEqual(context, {'test': {'1': 4, 'some_key': 'some_val'}})
+        self.assertTrue(os.path.exists('inputpyhooks/python_pre.txt'))
+        self.assertTrue(os.path.exists('inputpyhooks/python_post.txt'))

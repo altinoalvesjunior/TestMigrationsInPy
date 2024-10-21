@@ -4,4 +4,4 @@
 "testFilesChangedWithMigrations": 1,
 "filesWithMigration": ["python/ray/tests/test_runtime_env.py"],
 "type": ["skip"],
-"numberOfMigration": 18
+"numberOfMigration": 2

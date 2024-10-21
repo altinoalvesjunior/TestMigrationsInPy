@@ -1,7 +1,0 @@
-"commit_hash": "b52ecfdbcb728f84d0d5d766bc3198f455d009f2",
-"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/b52ecfdbcb728f84d0d5d766bc3198f455d009f2",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": 2,
-"filesWithMigration": ["tests/test_abbreviation_expansion.py", "tests/test_main.py"],
-"type": ["assert", "add Param"],
-"numberOfMigration": 1

@@ -17,11 +17,24 @@ from tests import CookiecutterCleanSystemTestCase
 
 logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.DEBUG)
 
-class TestGenerateContext(CookiecutterCleanSystemTestCase):
+class TestHooks(CookiecutterCleanSystemTestCase):
 
-    def test_generate_context_with_default(self):
-        context = generate.generate_context(
-            context_file='tests/test-generate-context/test.json',
-            default_context={"1": 3}
+    def tearDown(self):
+        if os.path.exists('tests/test-pyhooks/inputpyhooks'):
+            utils.rmtree('tests/test-pyhooks/inputpyhooks')
+        if os.path.exists('inputpyhooks'):
+            utils.rmtree('inputpyhooks')
+        if os.path.exists('tests/test-shellhooks'):
+            utils.rmtree('tests/test-shellhooks')
+        super(TestHooks, self).tearDown()
+
+    def test_run_python_hooks(self):
+        generate.generate_files(
+            context={
+                'cookiecutter': {'pyhooks': 'pyhooks'}
+            },
+            repo_dir='tests/test-pyhooks/'.replace("/", os.sep),
+            output_dir='tests/test-pyhooks/'.replace("/", os.sep)
         )
-        self.assertEqual(context, {"test": {"1": 3, "some_key": "some_val"}})
+        self.assertTrue(os.path.exists('tests/test-pyhooks/inputpyhooks/python_pre.txt'))
+        self.assertTrue(os.path.exists('tests/test-pyhooks/inputpyhooks/python_post.txt'))

@@ -117,12 +117,62 @@ class TestFlowMetaDataConversions(unittest.TestCase):
             ])],
         ])
         
-        def test_docgen_to_python_args(self):
+    def assert_flow_docstring(assertEqual, docstring):
+        for i, line in enumerate(docstring.split('\n')):
+            assertEqual(line, ([
+                "A Flow_component component.",
+                "This is a test description of the component.",
+                "It's multiple lines long.",
+                "",
+                "Keyword arguments:",
+                "- requiredString (string; required): A required string",
+                "- optionalString (string; optional): A string that isn't required.",
+                "- optionalBoolean (boolean; optional): A boolean test",
 
-            props = self.data['props']
+                "- optionalNode (a list of or a singular dash component, string or number; optional): "
+                "A node test",
 
-            for prop_name, prop in list(props.items()):
-                self.assertEqual(
-                    js_to_py_type(prop['flowType'], is_flow_type=True),
-                    self.expected_arg_strings[prop_name]
-                )
+                "- optionalArray (list; optional): An array test with a particularly ",
+                "long description that covers several lines. It includes the newline character ",
+                "and should span 3 lines in total.",
+
+                "- requiredUnion (string | number; required)",
+
+                "- optionalSignature(shape) (optional): This is a test of an object's shape. "
+                "optionalSignature(shape) has the following type: dict containing keys 'checked', "
+                "'children', 'customData', 'disabled', 'label', 'primaryText', 'secondaryText', "
+                "'style', 'value'.",
+
+                "  Those keys have the following types:",
+                "  - checked (boolean; optional)",
+                "  - children (a list of or a singular dash component, string or number; optional)",
+                "  - customData (bool | number | str | dict | list; required): A test description",
+                "  - disabled (boolean; optional)",
+                "  - label (string; optional)",
+                "  - primaryText (string; required): Another test description",
+                "  - secondaryText (string; optional)",
+                "  - style (dict; optional)",
+                "  - value (bool | number | str | dict | list; required)",
+
+                "- requiredNested (required): . requiredNested has the following type: dict containing "
+                "keys 'customData', 'value'.",
+
+                "  Those keys have the following types:",
+
+                "  - customData (required): . customData has the following type: dict containing "
+                "keys 'checked', 'children', 'customData', 'disabled', 'label', 'primaryText', "
+                "'secondaryText', 'style', 'value'.",
+
+                "    Those keys have the following types:",
+                "    - checked (boolean; optional)",
+                "    - children (a list of or a singular dash component, string or number; optional)",
+                "    - customData (bool | number | str | dict | list; required)",
+                "    - disabled (boolean; optional)",
+                "    - label (string; optional)",
+                "    - primaryText (string; required)",
+                "    - secondaryText (string; optional)",
+                "    - style (dict; optional)",
+                "    - value (bool | number | str | dict | list; required)",
+                "  - value (bool | number | str | dict | list; required)",
+            ])[i]
+                    )

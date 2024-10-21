@@ -7,16 +7,18 @@ import pytest
 
 from ray_release.result import ExitCode
 
-def _run_script(test_script, state_file, *exits):
-    assert len(exits) == 3
-    if os.path.exists(state_file):
-        os.unlink(state_file)
-    try:
-        return subprocess.check_call(
-            f"{test_script} "
-            f"{state_file} "
-            f"{' '.join(str(e.value) for e in exits)}",
-            shell=True,
-        )
-    except subprocess.CalledProcessError as e:
-        return e.returncode
+def test_parameters(setup):
+    state_file, test_script = setup
+    os.environ["RAY_TEST_SCRIPT"] = "ray_release/tests/_test_catch_args.py"
+    argv_file = tempfile.mktemp()
+    subprocess.check_call(
+        f"{test_script} " f"{argv_file} " f"--smoke-test",
+        shell=True,
+    )
+
+    with open(argv_file, "rt") as fp:
+        data = json.load(fp)
+
+    os.unlink(argv_file)
+
+    assert "--smoke-test" in data

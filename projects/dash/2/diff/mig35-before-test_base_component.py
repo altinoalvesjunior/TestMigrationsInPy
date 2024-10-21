@@ -87,10 +87,13 @@ class TestGenerateClass(unittest.TestCase):
             namespace='TableComponents'
         )
         
-        def test_no_events(self):
-            self.assertEqual(
-                hasattr(self.ComponentClass(), 'available_events'),
-                False
-            )
+        def test_required_props(self):
+            with self.assertRaises(Exception):
+                self.ComponentClassRequired()
+            self.ComponentClassRequired(id='test')
+            with self.assertRaises(Exception):
+                self.ComponentClassRequired(id='test', lahlah='test')
+            with self.assertRaises(Exception):
+                self.ComponentClassRequired(children='test')
         
         

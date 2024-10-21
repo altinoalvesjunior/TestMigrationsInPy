@@ -1,7 +1,7 @@
-"commit_hash": "715dfa241553c7b82a01c34f37efd41eae1be8ce",
-"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/715dfa241553c7b82a01c34f37efd41eae1be8ce",
+"commit_hash": "51adfe2d755595ab15c09e65db43f8c767ebaef8",
+"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/51adfe2d755595ab15c09e65db43f8c767ebaef8",
 "testFilesChanged": 2,
 "testFilesChangedWithMigrations": 2,
-"filesWithMigration": ["tests/test_examples.py", "tests/test_jquery.py"],
+"filesWithMigration": ["tests/test_cookiecutter_local_with_input.py", "tests/test_main.py"],
 "type": ["assert", "fixture"],
 "numberOfMigration": 2

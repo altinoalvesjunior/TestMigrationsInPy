@@ -56,5 +56,11 @@ class TestGenerateClass:
             namespace='TableComponents'
         )
         
-        def test_no_events(self):
-            assert not hasattr(self.ComponentClass(), 'available_events')
+        def test_required_props(self):
+            with pytest.raises(Exception):
+                self.ComponentClassRequired()
+            self.ComponentClassRequired(id='test')
+            with pytest.raises(Exception):
+                self.ComponentClassRequired(id='test', lahlah='test')
+            with pytest.raises(Exception):
+                self.ComponentClassRequired(children='test')

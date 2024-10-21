@@ -56,5 +56,5 @@ class TestGenerateClass:
             namespace='TableComponents'
         )
         
-        def test_docstring(self):
-            assert_docstring(self.ComponentClass.__doc__)
+        def test_no_events(self):
+            assert not hasattr(self.ComponentClass(), 'available_events')

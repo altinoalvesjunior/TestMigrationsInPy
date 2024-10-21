@@ -21,18 +21,19 @@ from ray_release.wheels import (
     maybe_rewrite_wheels_url,
 )
 
-def test_get_ray_version(remove_buildkite_env):
-    init_file = os.path.join(
-        os.path.dirname(__file__), "..", "..", "..", "python", "ray", "__init__.py"
-    )
-    with open(init_file, "rt") as fp:
-        content = [line.encode() for line in fp.readlines()]
+@patch("ray_release.wheels.get_ray_version", lambda *a, **kw: "3.0.0.dev0")
+def test_find_ray_wheels_buildkite(remove_buildkite_env):
+    repo = DEFAULT_REPO
+    branch = "master"
+    commit = "1234" * 10
+    version = "3.0.0.dev0"
 
-    with patch("urllib.request.urlopen", lambda _: content):
-        version = get_ray_version(DEFAULT_REPO, commit="fake")
-        assert version
+    os.environ["BUILDKITE_COMMIT"] = commit
 
-    with patch("urllib.request.urlopen", lambda _: []), pytest.raises(
-        RayWheelsNotFoundError
-    ):
-        get_ray_version(DEFAULT_REPO, commit="fake")
+    url = find_ray_wheels_url()
+
+    assert url == get_ray_wheels_url(repo, branch, commit, version)
+    branch = "branched"
+    os.environ["BUILDKITE_BRANCH"] = branch
+    url = find_ray_wheels_url()
+    assert url == get_ray_wheels_url(repo, branch, commit, version)

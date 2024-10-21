@@ -14,13 +14,21 @@ from tests.test_utils.config import conf_vars
 
 class MockJob(BaseJob):
     class TestBaseJob:
-        def test_state_failed(self):
-            def abort():
-                raise RuntimeError("fail")
+        def test_is_alive(self):
+            job = MockJob(None, heartrate=10, state=State.RUNNING)
+            assert job.is_alive() is True
 
-            job = MockJob(abort)
-            with raises(RuntimeError):
-                job.run()
+            job.latest_heartbeat = timezone.utcnow() - datetime.timedelta(seconds=20)
+            assert job.is_alive() is True
 
-            assert job.state == State.FAILED
-            assert job.end_date is not None
+            job.latest_heartbeat = timezone.utcnow() - datetime.timedelta(seconds=21)
+            assert job.is_alive() is False
+
+            # test because .seconds was used before instead of total_seconds
+            # internal repr of datetime is (days, seconds)
+            job.latest_heartbeat = timezone.utcnow() - datetime.timedelta(days=1)
+            assert job.is_alive() is False
+
+            job.state = State.SUCCESS
+            job.latest_heartbeat = timezone.utcnow() - datetime.timedelta(seconds=10)
+            assert job.is_alive() is False, "Completed jobs even with recent heartbeat should not be alive"

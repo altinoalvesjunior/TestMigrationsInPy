@@ -1,7 +1,0 @@
-"commit_hash": "302efad167a54f05642ff163c1319b40d2196970",
-"commit_link": "https://github.com/apache/airflow/commit/302efad167a54f05642ff163c1319b40d2196970",
-"testFilesChanged": 2,
-"testFilesChangedWithMigrations": 1,
-"filesWithMigration": ["tests/utils/test_task_handler_with_custom_formatter.py"],
-"type": ["fixture", "import", "testcase"],
-"numberOfMigration": 1
