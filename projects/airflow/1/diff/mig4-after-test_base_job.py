@@ -14,15 +14,18 @@ from tests.test_utils.config import conf_vars
 
 class MockJob(BaseJob):
     class TestBaseJob:
-        def test_most_recent_job(self):
+        @patch('airflow.jobs.base_job.create_session')
+        def test_heartbeat_failed(self, mock_create_session):
+            when = timezone.utcnow() - datetime.timedelta(seconds=60)
             with create_session() as session:
-                old_job = MockJob(None, heartrate=10)
-                old_job.latest_heartbeat = old_job.latest_heartbeat - datetime.timedelta(seconds=20)
-                job = MockJob(None, heartrate=10)
-                session.add(job)
-                session.add(old_job)
-                session.flush()
+                mock_session = Mock(spec_set=session, name="MockSession")
+                mock_create_session.return_value.__enter__.return_value = mock_session
 
-                assert MockJob.most_recent_job(session=session) == job
+                job = MockJob(None, heartrate=10, state=State.RUNNING)
+                job.latest_heartbeat = when
 
-                session.rollback()
+                mock_session.commit.side_effect = OperationalError("Force fail", {}, None)
+
+                job.heartbeat()
+
+                assert job.latest_heartbeat == when, "attribute not updated when heartbeat fails"

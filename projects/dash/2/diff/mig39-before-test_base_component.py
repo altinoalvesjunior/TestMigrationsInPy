@@ -54,10 +54,9 @@ def nested_tree():
     c = Component(id='0', children=[c5, c4])
     return c, c1, c2, c3, c4, c5
 
-
-class TestMetaDataConversions(unittest.TestCase):
+class TestFlowMetaDataConversions(unittest.TestCase):
     def setUp(self):
-        path = os.path.join(_dir, 'metadata_test.json')
+        path = os.path.join(_dir, 'flow_metadata_test.json')
         with open(path) as data_file:
             json_string = data_file.read()
             data = json\
@@ -66,153 +65,54 @@ class TestMetaDataConversions(unittest.TestCase):
             self.data = data
 
         self.expected_arg_strings = OrderedDict([
-            ['children',
-             'a list of or a singular dash component, string or number'],
+            ['children', 'a list of or a singular dash component, string or number'],
 
-            ['optionalArray', 'list'],
-
-            ['optionalBool', 'boolean'],
-
-            ['optionalFunc', ''],
-
-            ['optionalNumber', 'number'],
-
-            ['optionalObject', 'dict'],
+            ['requiredString', 'string'],
 
             ['optionalString', 'string'],
 
-            ['optionalSymbol', ''],
+            ['optionalBoolean', 'boolean'],
 
-            ['optionalElement', 'dash component'],
+            ['optionalFunc', ''],
 
-            ['optionalNode',
-             'a list of or a singular dash component, string or number'],
+            ['optionalNode', 'a list of or a singular dash component, string or number'],
 
-            ['optionalMessage', ''],
+            ['optionalArray', 'list'],
 
-            ['optionalEnum', 'a value equal to: \'News\', \'Photos\''],
+            ['requiredUnion', 'string | number'],
 
-            ['optionalUnion', 'string | number'],
+            ['optionalSignature(shape)', '\n'.join([
 
-            ['optionalArrayOf', 'list of numbers'],
-
-            ['optionalObjectOf',
-             'dict with strings as keys and values of type number'],
-
-            ['optionalObjectWithExactAndNestedDescription', '\n'.join([
-
-                "dict containing keys 'color', 'fontSize', 'figure'.",
+                "dict containing keys 'checked', 'children', 'customData', 'disabled', 'label', 'primaryText', 'secondaryText', 'style', 'value'.",
                 "Those keys have the following types:",
-                "  - color (string; optional)",
-                "  - fontSize (number; optional)",
-                "  - figure (optional): Figure is a plotly graph object. figure has the following type: dict containing keys 'data', 'layout'.",  # noqa: E501
-                "Those keys have the following types:",
-                "  - data (list of dicts; optional): data is a collection of traces",
-                "  - layout (dict; optional): layout describes the rest of the figure"  # noqa: E501
+                "- checked (boolean; optional)",
+                "- children (a list of or a singular dash component, string or number; optional)",
+                "- customData (bool | number | str | dict | list; required): A test description",
+                "- disabled (boolean; optional)",
+                "- label (string; optional)",
+                "- primaryText (string; required): Another test description",
+                "- secondaryText (string; optional)",
+                "- style (dict; optional)",
+                "- value (bool | number | str | dict | list; required)"
 
             ])],
 
-            ['optionalObjectWithShapeAndNestedDescription', '\n'.join([
+            ['requiredNested', '\n'.join([
 
-                "dict containing keys 'color', 'fontSize', 'figure'.",
+                "dict containing keys 'customData', 'value'.",
                 "Those keys have the following types:",
-                "  - color (string; optional)",
-                "  - fontSize (number; optional)",
-                "  - figure (optional): Figure is a plotly graph object. figure has the following type: dict containing keys 'data', 'layout'.",  # noqa: E501
-                "Those keys have the following types:",
-                "  - data (list of dicts; optional): data is a collection of traces",
-                "  - layout (dict; optional): layout describes the rest of the figure"  # noqa: E501
+                "- customData (required): . customData has the following type: dict containing keys 'checked', 'children', 'customData', 'disabled', 'label', 'primaryText', 'secondaryText', 'style', 'value'.",
+                "  Those keys have the following types:",
+                "  - checked (boolean; optional)",
+                "  - children (a list of or a singular dash component, string or number; optional)",
+                "  - customData (bool | number | str | dict | list; required)",
+                "  - disabled (boolean; optional)",
+                "  - label (string; optional)",
+                "  - primaryText (string; required)",
+                "  - secondaryText (string; optional)",
+                "  - style (dict; optional)",
+                "  - value (bool | number | str | dict | list; required)",
+                "- value (bool | number | str | dict | list; required)",
 
             ])],
-
-            ['optionalAny', 'boolean | number | string | dict | list'],
-
-            ['customProp', ''],
-
-            ['customArrayProp', 'list'],
-
-            ['data-*', 'string'],
-
-            ['aria-*', 'string'],
-
-            ['in', 'string'],
-
-            ['id', 'string']
         ])
-        
-        def assert_docstring(assertEqual, docstring):
-            for i, line in enumerate(docstring.split('\n')):
-                assertEqual(line, ([
-                    "A Table component.",
-                    "This is a description of the component.",
-                    "It's multiple lines long.",
-                    '',
-                    "Keyword arguments:",
-                    "- children (a list of or a singular dash component, string or number; optional)",  # noqa: E501
-                    "- optionalArray (list; optional): Description of optionalArray",
-                    "- optionalBool (boolean; optional)",
-                    "- optionalNumber (number; optional)",
-                    "- optionalObject (dict; optional)",
-                    "- optionalString (string; optional)",
-
-                    "- optionalNode (a list of or a singular dash component, "
-                    "string or number; optional)",
-
-                    "- optionalElement (dash component; optional)",
-                    "- optionalEnum (a value equal to: 'News', 'Photos'; optional)",
-                    "- optionalUnion (string | number; optional)",
-                    "- optionalArrayOf (list of numbers; optional)",
-
-                    "- optionalObjectOf (dict with strings as keys and values "
-                    "of type number; optional)",
-
-                    "- optionalObjectWithExactAndNestedDescription (optional): . "
-                    "optionalObjectWithExactAndNestedDescription has the "
-                    "following type: dict containing keys "
-                    "'color', 'fontSize', 'figure'.",
-
-                    "Those keys have the following types:",
-                    "  - color (string; optional)",
-                    "  - fontSize (number; optional)",
-
-                    "  - figure (optional): Figure is a plotly graph object. "
-                    "figure has the following type: dict containing "
-                    "keys 'data', 'layout'.",
-
-                    "Those keys have the following types:",
-                    "  - data (list of dicts; optional): data is a collection of traces",
-
-                    "  - layout (dict; optional): layout describes "
-                    "the rest of the figure",
-
-                    "- optionalObjectWithShapeAndNestedDescription (optional): . "
-                    "optionalObjectWithShapeAndNestedDescription has the "
-                    "following type: dict containing keys "
-                    "'color', 'fontSize', 'figure'.",
-
-                    "Those keys have the following types:",
-                    "  - color (string; optional)",
-                    "  - fontSize (number; optional)",
-
-                    "  - figure (optional): Figure is a plotly graph object. "
-                    "figure has the following type: dict containing "
-                    "keys 'data', 'layout'.",
-
-                    "Those keys have the following types:",
-                    "  - data (list of dicts; optional): data is a collection of traces",
-
-                    "  - layout (dict; optional): layout describes "
-                    "the rest of the figure",
-
-                    "- optionalAny (boolean | number | string | dict | "
-                    "list; optional)",
-
-                    "- customProp (optional)",
-                    "- customArrayProp (list; optional)",
-                    '- data-* (string; optional)',
-                    '- aria-* (string; optional)',
-                    '- in (string; optional)',
-                    '- id (string; optional)',
-                    '        '
-                    ])[i]
-                        )

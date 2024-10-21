@@ -12,15 +12,12 @@ from contextlib import contextmanager
 from beetsplug import bpd
 
 class BPDPlaybackTest(BPDTestHelper):
-    def test_cmd_mixrampdelay(self):
+        def test_cmd_replay_gain(self):
             with self.run_bpd() as client:
                 responses = client.send_commands(
-                    ("mixrampdelay", "2"),
-                    ("status",),
-                    ("mixrampdelay", "nan"),
-                    ("status",),
-                    ("mixrampdelay", "-2"),
+                    ("replay_gain_mode", "track"),
+                    ("replay_gain_status",),
+                    ("replay_gain_mode", "notanoption"),
                 )
-            self._assert_failed(responses, bpd.ERROR_ARG, pos=4)
-            self.assertAlmostEqual(2, float(responses[1].data["mixrampdelay"]))
-            assert "mixrampdelay" not in responses[3].data
+            self._assert_failed(responses, bpd.ERROR_ARG, pos=2)
+            self.assertAlmostEqual("track", responses[1].data["replay_gain_mode"])

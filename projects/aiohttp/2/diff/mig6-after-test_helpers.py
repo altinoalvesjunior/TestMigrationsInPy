@@ -1,17 +1,9 @@
 import pytest
-from aiohttp import helpers, MultiDict
+from aiohttp import helpers
 
-def test_get_non_existing():
-    atoms = helpers.SafeAtoms(
-        {}, MultiDict(), MultiDict())
-    assert atoms['unknown'] == '-'
-
-def test_get_lower():
-    i_headers = MultiDict([('test', '123')])
-    o_headers = MultiDict([('TEST', '123')])
-    atoms = helpers.SafeAtoms({}, i_headers, o_headers)
-    assert atoms['{test}i'] == '123'
-    assert atoms['{test}o'] == '-'
-    assert atoms['{TEST}o'] == '123'
-    assert atoms['{UNKNOWN}o'] == '-'
-    assert atoms['{UNKNOWN}'] == '-'
+def test_invalid_formdata_filename():
+    form = helpers.FormData()
+    invalid_vals = [0, 0.1, {}, [], b'foo']
+    for invalid_val in invalid_vals:
+        with pytest.raises(TypeError):
+            form.add_field('foo', 'bar', filename=invalid_val)

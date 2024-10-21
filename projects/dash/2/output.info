@@ -4,4 +4,4 @@
 "testFilesChangedWithMigrations": 1,
 "filesWithMigration": ["tests/unit/development/test_base_component.py"],
 "type": ["assert", "fixture", "import", "testcase"],
-"numberOfMigration": 42
+"numberOfMigration": 41

@@ -23,15 +23,21 @@ from ray_release.wheels import (
 
 
 class WheelsFinderTest(unittest.TestCase):
-     def testGetRayWheelsURL(self):
-        url = get_ray_wheels_url(
-            repo_url="https://github.com/ray-project/ray.git",
-            branch="master",
-            commit="1234",
-            ray_version="3.0.0.dev0",
-        )
-        self.assertEqual(
-            url,
-            "https://s3-us-west-2.amazonaws.com/ray-wheels/"
-            "master/1234/ray-3.0.0.dev0-cp37-cp37m-manylinux2014_x86_64.whl",
-        )
+    def _testFindRayWheelsCheckout(
+        self, repo: str, branch: str, commit: str, version: str, search_str: str
+    ):
+        with patch(
+            "ray_release.wheels.get_latest_commits", lambda *a, **kw: [commit]
+        ), patch(
+            "ray_release.wheels.url_exists", lambda *a, **kw: False
+        ), self.assertRaises(
+            RayWheelsNotFoundError
+        ):
+            # Fails because URL does not exist
+            find_ray_wheels_url(search_str)
+        with patch(
+            "ray_release.wheels.get_latest_commits", lambda *a, **kw: [commit]
+        ), patch("ray_release.wheels.url_exists", lambda *a, **kw: True):
+            # Succeeds
+            url = find_ray_wheels_url(search_str)
+            self.assertEqual(url, get_ray_wheels_url(repo, branch, commit, version))

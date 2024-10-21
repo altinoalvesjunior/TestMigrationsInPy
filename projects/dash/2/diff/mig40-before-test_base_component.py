@@ -116,3 +116,13 @@ class TestFlowMetaDataConversions(unittest.TestCase):
 
             ])],
         ])
+        
+        def test_docgen_to_python_args(self):
+
+            props = self.data['props']
+
+            for prop_name, prop in list(props.items()):
+                self.assertEqual(
+                    js_to_py_type(prop['flowType'], is_flow_type=True),
+                    self.expected_arg_strings[prop_name]
+                )

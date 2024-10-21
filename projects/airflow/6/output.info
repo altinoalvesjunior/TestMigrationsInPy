@@ -1,7 +1,7 @@
-"commit_hash": "e6810d1ee295889a1324b1af3c8191b40261ed51",
-"commit_link": "https://github.com/apache/airflow/commit/e6810d1ee295889a1324b1af3c8191b40261ed51",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": ,
-"filesWithMigration": ["tests/providers/amazon/aws/transfers/test_dynamodb_to_s3.py"],
-"type": ["assert", "add Param"],
-"numberOfMigration": 
+"commit_hash": "863ec46e25ea49d6d5b006d8fd3a83f50aa9db79",
+"commit_link": "https://github.com/apache/airflow/commit/863ec46e25ea49d6d5b006d8fd3a83f50aa9db79",
+"testFilesChanged": 4,
+"testFilesChangedWithMigrations": 1,
+"filesWithMigration": ["kubernetes_tests/test_base.py"],
+"type": ["fixture", "import", "testcase"],
+"numberOfMigration": 1

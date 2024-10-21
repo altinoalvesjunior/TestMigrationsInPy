@@ -75,18 +75,32 @@ sleep(10)
 """
 
 @unittest.skipIf(sys.platform == "win32", "Fail to create temp dir.")
-@pytest.mark.parametrize("client_mode", [True, False])
-def test_empty_working_dir(ray_start_cluster_head, client_mode):
-    cluster = ray_start_cluster_head
-    (address, env, PKG_DIR) = start_client_server(cluster, client_mode)
-    env["EXIT_AFTER_INIT"] = "1"
-    with tempfile.TemporaryDirectory() as working_dir:
-        runtime_env = f"""{{
-    "working_dir": r"{working_dir}",
-    "py_modules": [r"{working_dir}"]
-}}"""
-        # Execute the following cmd in driver with runtime_env
-        execute_statement = "sys.exit(0)"
-        script = driver_script.format(**locals())
+def test_util_without_job_config(shutdown_only):
+    from ray.cluster_utils import Cluster
+
+    with tempfile.TemporaryDirectory() as tmp_dir:
+        with (Path(tmp_dir) / "lib.py").open("w") as f:
+            f.write("""
+def one():
+    return 1
+                    """)
+        old_dir = os.getcwd()
+        os.chdir(tmp_dir)
+        cluster = Cluster()
+        cluster.add_node(num_cpus=1)
+        ray.init(address=cluster.address)
+        (address, env, PKG_DIR) = start_client_server(cluster, True)
+        script = f"""
+import ray
+import ray.util
+import os
+ray.util.connect("{address}", job_config=None)
+@ray.remote
+def run():
+    from lib import one
+    return one()
+print(ray.get([run.remote()])[0])
+"""
         out = run_string_as_driver(script, env)
-        assert out != "ERROR"
+        print(out)
+        os.chdir(old_dir)

@@ -12,15 +12,12 @@ from contextlib import contextmanager
 import pytest
 
 class BPDPlaybackTest(BPDTestHelper):
-    def test_cmd_mixrampdelay(self):
+        def test_cmd_replay_gain(self):
             with self.run_bpd() as client:
                 responses = client.send_commands(
-                    ("mixrampdelay", "2"),
-                    ("status",),
-                    ("mixrampdelay", "nan"),
-                    ("status",),
-                    ("mixrampdelay", "-2"),
+                    ("replay_gain_mode", "track"),
+                    ("replay_gain_status",),
+                    ("replay_gain_mode", "notanoption"),
                 )
-            self._assert_failed(responses, bpd.ERROR_ARG, pos=4)
-            assert 2 == pytest.approx(float(responses[1].data["mixrampdelay"]))
-            assert "mixrampdelay" not in responses[3].data
+            self._assert_failed(responses, bpd.ERROR_ARG, pos=2)
+            assert "track" == responses[1].data["replay_gain_mode"]

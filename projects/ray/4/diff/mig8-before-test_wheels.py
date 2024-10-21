@@ -23,7 +23,15 @@ from ray_release.wheels import (
 
 
 class WheelsFinderTest(unittest.TestCase):
-    def setUp(self) -> None:
-        for key in os.environ:
-            if key.startswith("BUILDKITE"):
-                os.environ.pop(key)
+     def testGetRayWheelsURL(self):
+        url = get_ray_wheels_url(
+            repo_url="https://github.com/ray-project/ray.git",
+            branch="master",
+            commit="1234",
+            ray_version="3.0.0.dev0",
+        )
+        self.assertEqual(
+            url,
+            "https://s3-us-west-2.amazonaws.com/ray-wheels/"
+            "master/1234/ray-3.0.0.dev0-cp37-cp37m-manylinux2014_x86_64.whl",
+        )

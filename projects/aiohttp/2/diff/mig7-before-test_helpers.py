@@ -1,15 +1,13 @@
 import unittest
 from aiohttp import helpers
 
-class TestRequoting(unittest.TestCase):
+class TestHelpers(unittest.TestCase):
 
-    def test_requote_uri_with_unquoted_percents(self):
-        # Ensure we handle unquoted percent signs in redirects.
-        bad_uri = 'http://example.com/fiz?buz=%ppicture'
-        quoted = 'http://example.com/fiz?buz=%25ppicture'
-        self.assertEqual(quoted, helpers.requote_uri(bad_uri))
-
-    def test_requote_uri_properly_requotes(self):
-        # Ensure requoting doesn't break expectations.
-        quoted = 'http://example.com/fiz?buz=%25ppicture'
-        self.assertEqual(quoted, helpers.requote_uri(quoted))
+    def test_invalid_formdata_content_transfer_encoding(self):
+        form = helpers.FormData()
+        invalid_vals = [0, 0.1, {}, [], b'foo']
+        for invalid_val in invalid_vals:
+            with self.assertRaises(TypeError):
+                form.add_field('foo',
+                               'bar',
+                               content_transfer_encoding=invalid_val)

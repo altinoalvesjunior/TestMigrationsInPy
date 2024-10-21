@@ -4,4 +4,4 @@
 "testFilesChangedWithMigrations": 3,
 "filesWithMigration": ["release/ray_release/tests/test_alerts.py", "release/ray_release/tests/test_run_script.py", "release/ray_release/tests/test_wheels.py"],
 "type": ["assert", "import", "testcase"],
-"numberOfMigration": 18
+"numberOfMigration": 11

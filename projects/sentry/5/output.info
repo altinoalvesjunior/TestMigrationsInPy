@@ -1,7 +1,0 @@
-"commit_hash": "94c8abb498d59f75052933bfd1adacb005264f3d",
-"commit_link": "https://github.com/getsentry/sentry/commit/94c8abb498d59f75052933bfd1adacb005264f3d",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": 1,
-"filesWithMigration": ["tests/sentry/integrations/slack/test_tasks.py"],
-"type": ["fixture"],
-"numberOfMigration": 1
