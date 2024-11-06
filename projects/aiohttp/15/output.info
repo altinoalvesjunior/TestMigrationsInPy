@@ -4,4 +4,4 @@
 "testFilesChangedWithMigrations": ,
 "filesWithMigration": ["tests/test_web.py", "tests/test_web_request_handler.py"],
 "type": ["assert", "import", "testcase"],
-"numberOfMigration": 
+"numberOfMigration": 4
