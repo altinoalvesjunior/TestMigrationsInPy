@@ -4,4 +4,4 @@
 "testFilesChangedWithMigrations": ,
 "filesWithMigration": ["tests/test_client_functional.py", "tests/test_client_functional_oldstyle.py", "tests/test_client_request.py"],
 "type": ["assert"],
-"numberOfMigration": 
+"numberOfMigration": 1
