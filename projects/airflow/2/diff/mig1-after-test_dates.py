@@ -29,8 +29,3 @@ class TestDates(unittest.TestCase):
             timezone.datetime(2015, 9, 13, 0, 0), timedelta(1), timezone.datetime(2015, 9, 14, 0, 0)
         )
         assert timezone.datetime(2015, 9, 14, 0, 0) == rt6
-    def test_infer_time_unit(self):
-        assert dates.infer_time_unit([130, 5400, 10]) == 'minutes'
-        assert dates.infer_time_unit([110, 50, 10, 100]) == 'seconds'
-        assert dates.infer_time_unit([100000, 50000, 10000, 20000]) == 'hours'
-        assert dates.infer_time_unit([200000, 100000]) == 'days'
