@@ -4,4 +4,4 @@
 "testFilesChangedWithMigrations": 1,
 "filesWithMigration": ["tests/jobs/test_base_job.py"],
 "type": ["assert", "testcase"],
-"numberOfMigration": 7
+"numberOfMigration": 5
