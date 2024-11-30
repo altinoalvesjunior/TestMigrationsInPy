@@ -4,4 +4,4 @@
 "testFilesChangedWithMigrations": 2,
 "filesWithMigration": ["tests/server_commands.py", "tests/test_commands.py"],
 "type": ["assert", "import", "testcase"],
-"numberOfMigration": 163
+"numberOfMigration": 101

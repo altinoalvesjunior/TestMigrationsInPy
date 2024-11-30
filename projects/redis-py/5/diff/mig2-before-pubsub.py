@@ -4,14 +4,6 @@ from redis.exceptions import ConnectionError
 import redis
 
 class PubSubTestCase(unittest.TestCase):
-    def setUp(self):
-        self.connection_pool = redis.ConnectionPool()
-        self.client = redis.Redis(connection_pool=self.connection_pool)
-        self.pubsub = self.client.pubsub()
-        
-    def tearDown(self):
-        self.connection_pool.disconnect()
-            
     def test_pattern_subscribe(self):
         # psubscribe doesn't return anything
         self.assertEquals(

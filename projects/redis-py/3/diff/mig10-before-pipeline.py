@@ -5,13 +5,6 @@ import redis
 from redis._compat import b
 
 class PipelineTestCase(unittest.TestCase):
-    def setUp(self):
-        self.client = redis.Redis(host='localhost', port=6379, db=9)
-        self.client.flushdb()
-        
-    def tearDown(self):
-        self.client.flushdb()
-        
     def test_watch_failure(self):
         self.client.set('a', 1)
         self.client.set('b', 2)

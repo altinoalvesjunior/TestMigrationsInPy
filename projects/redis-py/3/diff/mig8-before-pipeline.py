@@ -5,13 +5,6 @@ import redis
 from redis._compat import b
 
 class PipelineTestCase(unittest.TestCase):
-    def setUp(self):
-        self.client = redis.Redis(host='localhost', port=6379, db=9)
-        self.client.flushdb()
-        
-    def tearDown(self):
-        self.client.flushdb()
-    
     def test_parse_error_raised(self):
         with self.client.pipeline() as pipe:
             # the zrem is invalid because we don't pass any keys to it
