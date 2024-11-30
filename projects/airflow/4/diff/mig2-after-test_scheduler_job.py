@@ -15,26 +15,6 @@ from sqlalchemy import func
 
 import airflow.example_dags
 import airflow.smart_sensor_dags
-from airflow import settings
-from airflow.dag_processing.manager import DagFileProcessorAgent
-from airflow.exceptions import AirflowException
-from airflow.executors.base_executor import BaseExecutor
-from airflow.jobs.backfill_job import BackfillJob
-from airflow.jobs.scheduler_job import SchedulerJob
-from airflow.models import DAG, DagBag, DagModel, Pool, TaskInstance, errors
-from airflow.models.dagrun import DagRun
-from airflow.models.serialized_dag import SerializedDagModel
-from airflow.models.taskinstance import TaskInstanceKey
-from airflow.operators.bash import BashOperator
-from airflow.operators.dummy import DummyOperator
-from airflow.serialization.serialized_objects import SerializedDAG
-from airflow.utils import timezone
-from airflow.utils.callback_requests import DagCallbackRequest
-from airflow.utils.file import list_py_file_paths
-from airflow.utils.session import create_session, provide_session
-from airflow.utils.state import State
-from airflow.utils.types import DagRunType
-from tests.test_utils.asserts import assert_queries_count
 from tests.test_utils.config import conf_vars, env_vars
 from tests.test_utils.db import (
     clear_db_dags,

@@ -4,12 +4,7 @@ import unittest
 from shutil import copyfile, copytree
 from tempfile import TemporaryDirectory
 
-import jmespath
 import pytest
-from parameterized import parameterized
-
-from tests.helm_template_generator import render_chart
-
 
 class PodTemplateFileTest(unittest.TestCase):
     @classmethod

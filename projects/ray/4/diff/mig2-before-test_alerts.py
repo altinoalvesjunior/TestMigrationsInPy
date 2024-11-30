@@ -14,10 +14,7 @@ from ray_release.exception import ReleaseTestConfigError, ResultsAlert
 from ray_release.result import Result
 
 
-class AlertsTest(unittest.TestCase):
-    def setUp(self) -> None:
-        self.test = Test(name="unit_alert_test", alert="default")
-        
+class AlertsTest(unittest.TestCase):  
     def testDefaultAlert(self):
         self.assertTrue(default.handle_result(self.test, Result(status="timeout")))
         self.assertFalse(default.handle_result(self.test, Result(status="finished")))

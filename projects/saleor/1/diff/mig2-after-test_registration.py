@@ -16,16 +16,6 @@ from .utils import (
     OAuth2Client,
     parse_response)
 from .views import oauth_callback, change_email
-
-
-JSON_MIME_TYPE = 'application/json; charset=UTF-8'
-URLENCODED_MIME_TYPE = 'application/x-www-form-urlencoded; charset=UTF-8'
-
-
-class SessionMock(Mock):
-
-    def __setitem__(self, key, value):
-        pass
     
 def test_google_login_url():
     google_client = GoogleClient(local_host='local_host')

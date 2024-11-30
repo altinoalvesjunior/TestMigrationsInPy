@@ -19,13 +19,6 @@ from .views import oauth_callback, change_email
 
 
 JSON_MIME_TYPE = 'application/json; charset=UTF-8'
-URLENCODED_MIME_TYPE = 'application/x-www-form-urlencoded; charset=UTF-8'
-
-
-class SessionMock(Mock):
-
-    def __setitem__(self, key, value):
-        pass
 
 def test_parse_json():
     response = MagicMock()

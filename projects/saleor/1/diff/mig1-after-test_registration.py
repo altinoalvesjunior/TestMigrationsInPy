@@ -17,16 +17,6 @@ from .utils import (
     parse_response)
 from .views import oauth_callback, change_email
 
-
-JSON_MIME_TYPE = 'application/json; charset=UTF-8'
-URLENCODED_MIME_TYPE = 'application/x-www-form-urlencoded; charset=UTF-8'
-
-
-class SessionMock(Mock):
-
-    def __setitem__(self, key, value):
-        pass
-
 def test_facebook_login_url():
     facebook_client = FacebookClient(local_host='localhost')
     facebook_login_url = URL(facebook_client.get_login_uri())

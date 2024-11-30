@@ -13,12 +13,9 @@ except KeyError:
 # Log debug and above to console
 logging.basicConfig(format='%(levelname)s: %(message)s', level=logging.DEBUG)
 
-
-class TestCookiecutterLocalNoInput(CookiecutterCleanSystemTestCase):
+class TestCookiecutterLocalWithInput(CookiecutterCleanSystemTestCase):
     def tearDown(self):
         if os.path.isdir('fake-project'):
             utils.rmtree('fake-project')
-        if os.path.isdir('fake-project-extra'):
-            utils.rmtree('fake-project-extra')
-        if os.path.isdir('fake-project-templated'):
-            utils.rmtree('fake-project-templated')
+        if os.path.isdir('fake-project-input-extra'):
+            utils.rmtree('fake-project-input-extra')

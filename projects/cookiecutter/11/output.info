@@ -1,0 +1,7 @@
+"commit_hash": "d4a186100eadff83057ffd6f799ebcba77c9e99c",
+"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/d4a186100eadff83057ffd6f799ebcba77c9e99c",
+"testFilesChanged": 2,
+"testFilesChangedWithMigrations": 2,
+"filesWithMigration": ["tests/test_examples.py", "tests/test_examples_repo_arg.py"],
+"type": ["assert", "fixture", "import"],
+"numberOfMigration": 1

@@ -1,7 +1,0 @@
-"commit_hash": "68d73e4e7cd3bf9dbcf8cc705aa3f4c7c358fef6",
-"commit_link": "https://github.com/cookiecutter/cookiecutter/commit/68d73e4e7cd3bf9dbcf8cc705aa3f4c7c358fef6",
-"testFilesChanged": 1,
-"testFilesChangedWithMigrations": 1,
-"filesWithMigration": ["tests/test_vcs.py"],
-"type": ["assert", "testcase"],
-"numberOfMigration": 5

@@ -15,9 +15,6 @@ from ray_release.result import Result
 
 
 class AlertsTest(unittest.TestCase):
-    def setUp(self) -> None:
-        self.test = Test(name="unit_alert_test", alert="default")
-        
     def testHandleAlert(self):
         # Unknown test suite
         with self.assertRaises(ReleaseTestConfigError):
