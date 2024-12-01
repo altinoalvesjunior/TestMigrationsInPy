@@ -3,7 +3,6 @@ import pytest
 from flask import Flask
 from dash import Dash, exceptions as _exc
 
-# noinspection PyProtectedMember
 from dash._configs import (
     pathname_configs,
     DASH_ENV_VARS,
