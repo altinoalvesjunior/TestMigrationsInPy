@@ -12,7 +12,6 @@ from multidict import MultiDict
 
 import aiohttp
 from aiohttp import ServerFingerprintMismatch, hdrs, web
-from aiohttp.abc import AbstractResolver
 
 async def test_request_conn_closed(test_client):
     async def handler(request):

@@ -3,7 +3,6 @@ import binascii
 import cgi
 import contextlib
 import email.parser
-@@ -20,14 +19,10 @@
 import unittest
 import urllib.parse
 from http.cookies import SimpleCookie
