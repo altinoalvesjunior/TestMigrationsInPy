@@ -2,28 +2,34 @@
 
 🖖 Welcome to **TestMigrationsInPy**!
 
-This repository provides a curated dataset focused on supporting research related to migrating Python test suites from the **unittest** framework to **pytest**. It draws upon a selection of 100 top Python projects, carefully chosen to exclude non-software projects like tutorials, examples, and samples.
+This repository provides a curated dataset focused on supporting research related to migrating Python test suites from the **unittest** framework to **pytest**. It draws upon a selection of 100 top Python projects, carefully chosen to exclude non-software projects like tutorials, examples, and samples. 
 
-## Repository Structure: How to Navigate
+## How-to navigate?
 
-To facilitate your exploration of the dataset, here is an overview of the repository structure and how to navigate through it:
+To facilitate your exploration of the dataset, here is an overview of the repository structure and how to navigate through:
+```plaintext
+projects/
+└── projectName/
+    ├── diff/
+    │   ├── migN-before-testFileName.py
+    │   └── migN-after-testFileName.py
+    └── output.info
+```
 
-### `projects/` Directory
+### 📁 `projects/`
 
-Within the `projects` directory, you will find the repositories of some of the top 100 Python projects on GitHub that include migrations from the _unittest_ to _pytest_. Each project is contained in its own folder named after the repository.
+Within the `projects` directory, you will find repositories from some of the top 100 Python projects on GitHub that include migrations from `unittest` to `pytest`. Each project is organized into its own folder, named after the repository. Examples of projects available in this dataset include `airflow`, `pandas`, `requests`, and `redis`.
 
-### Project Folder Contents
+### 📂 `projectName/` - Project Folder Contents
 
-Within each project folder, you will encounter folders numbered sequentially. These folders correspond to specific commits of the project that involve migration activities.
+Inside each project folder, you will find a well-structured organization that facilitates easy navigation and understanding of the migration process. The contents are as follows:
 
-### Commit Folder Structure
+* **Sequentially Numbered Folders:** These folders are numbered sequentially and correspond to specific commits in the project's history that involve migration activities from `unittest` to `pytest`. Each of these folders contains:
+  * `output.info` - file: This file provides detailed information about the commit and the associated migration, offering valuable context for researchers analyzing the dataset.
+  * `diff/` - directory This subdirectory contains the migration files, which are split into before-and-after versions to clearly illustrate the changes made during the migration.
+    * **migN-before-fileName.py:** Represents the state of the test file before the migration.
+    * **migN-after-fileName.py:** Represents the state of the test file after the migration.
 
-Inside each commit folder, you will find:
-
-- **`metadata` file**: This file contains detailed information about the commit and the associated migration.
-- **`diff/` directory**: This directory includes the migration files, structured as follows:
-  - `migN-before/after-namedoftestfilewithmigration.py`: These files represent the state of the test file before and after the migration.
-  
-Each migration is individual and pertains to a specific point of migration, making it easy to track and analyze the changes.
+**NOTE:** It is important to notice that a migration commit may have one or more migrations from unittest to pytest. We focused on detecting isolated migrations, that is, migrations that simply replace unittest with pytest, and no other unrelated changes are involved.
 
 By following this structure, you can efficiently navigate through the dataset and access the information you need for your research on Python test suite migrations.
