@@ -4,7 +4,7 @@
 
 This repository provides a curated dataset focused on supporting research related to migrating Python test suites from the **unittest** framework to **pytest**. It draws upon a selection of 100 top Python projects, carefully chosen to exclude non-software projects like tutorials, examples, and samples. 
 
-## How-to navigate?
+## How to Navigate
 
 To facilitate your exploration of the dataset, here is an overview of the repository structure and how to navigate through:
 ```plaintext
@@ -25,11 +25,11 @@ Within the `projects` directory, you will find repositories from some of the top
 Inside each project folder, you will find a well-structured organization that facilitates easy navigation and understanding of the migration process. The contents are as follows:
 
 * **Sequentially Numbered Folders:** These folders are numbered sequentially and correspond to specific commits in the project's history that involve migration activities from `unittest` to `pytest`. Each of these folders contains:
-  * `output.info` - file: This file provides detailed information about the commit and the associated migration, offering valuable context for researchers analyzing the dataset.
-  * `diff/` - directory This subdirectory contains the migration files, which are split into before-and-after versions to clearly illustrate the changes made during the migration.
-    * **migN-before-fileName.py:** Represents the state of the test file before the migration.
-    * **migN-after-fileName.py:** Represents the state of the test file after the migration.
+  * `output.info`: This file provides detailed information about the commit and the associated migration, offering valuable context for researchers analyzing the dataset.
+  * `diff/`: This subdirectory contains the migration files, which are split into before-and-after versions to clearly illustrate the changes made during the migration.
+    * **migN-before-fileName.py:** Represents the state of the test file using the unittest framework before the migration to pytest.
+    * **migN-after-fileName.py:** Represents the state of the test file after it has been migrated to pytest.
 
-**NOTE:** It is important to notice that a migration commit may have one or more migrations from unittest to pytest. We focused on detecting isolated migrations, that is, migrations that simply replace unittest with pytest, and no other unrelated changes are involved.
+**NOTE:** It is important to notice that a migration commit may have one or more migrations. We focused on detecting isolated migrations, that is, migrations that simply replace unittest with pytest, and no other unrelated changes are involved.
 
 By following this structure, you can efficiently navigate through the dataset and access the information you need for your research on Python test suite migrations.
