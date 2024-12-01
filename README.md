@@ -32,4 +32,4 @@ Inside each project folder, you will find a well-structured organization that fa
 
 **NOTE:** It is important to notice that a migration commit may have one or more migrations. We focused on detecting isolated migrations, that is, migrations that simply replace unittest with pytest, and no other unrelated changes are involved.
 
-By following this structure, you can efficiently navigate through the dataset and access the information you need for your research on Python test suite migrations. Happy researching! 🚀
+Happy researching! 🚀
