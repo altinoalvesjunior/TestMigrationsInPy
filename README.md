@@ -32,4 +32,4 @@ Inside each project folder, you will find a well-structured organization that fa
 
 **NOTE:** It is important to notice that a migration commit may have one or more migrations. We focused on detecting isolated migrations, that is, migrations that simply replace unittest with pytest, and no other unrelated changes are involved.
 
-Happy researching! 🚀
+Happy navigating and researching! 🚀
