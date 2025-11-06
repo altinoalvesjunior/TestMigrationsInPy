@@ -1,6 +1,6 @@
-# TestMigrationsInPy
+# AnonymousMigrations
 
-🖖 Welcome to **TestMigrationsInPy**!
+🖖 Welcome to **AnonymousMigrations**!
 
 This repository provides a curated dataset focused on supporting research related to migrating Python test suites from the **unittest** to **pytest** frameworks. It draws upon a selection of 100 top Python projects, carefully chosen to exclude non-software projects like tutorials, examples, and samples. 
 
